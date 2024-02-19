@@ -1,0 +1,97 @@
+Team,Next Opponent,Rushing Yards Average,Next Opponent Rushing Yards Allowed,Expected Rush Yards,Rushing Yards Result,Week Number
+Atlanta Falcons,New Orleans Saints,130,114,122,228,12
+Arizona Cardinals,Los Angeles Rams,126,117,122,73,12
+Baltimore Ravens,Los Angeles Chargers,155,102,129,197,12
+Buffalo Bills,Philadelphia Eagles,118,77,97,173,12
+Carolina Panthers,Tennessee Titans,92,112,102,96,12
+Chicago Bears,Minnesota Vikings,139,94,117,118,12
+Cincinnati Bengals,Pittsburgh Steelers,81,128,104,25,12
+Cleveland Browns,Denver Broncos,143,160,151,107,12
+Dallas Cowboys,Washington Commanders,117,114,116,100,12
+Denver Broncos,Cleveland Browns,110,100,105,169,12
+Detroit Lions,Green Bay Packers,137,135,136,140,12
+Green Bay Packers,Detroit Lions,102,90,96,109,12
+Houston Texans,Jacksonville Jaguars,100,87,93,91,12
+Indianapolis Colts,Tampa Bay Buccaneers,118,90,104,155,12
+Jacksonville Jaguars,Houston Texans,109,97,103,81,12
+Kansas City Chiefs,Las Vegas Raiders,110,132,121,69,12
+Las Vegas Raiders,Kansas City Chiefs,79,112,96,123,12
+Los Angeles Chargers,Baltimore Ravens,106,104,105,86,12
+Los Angeles Rams,Arizona Cardinals,103,132,117,228,12
+Miami Dolphins,New York Jets,143,138,140,167,12
+Minnesota Vikings,Chicago Bears,94,80,87,73,12
+New England Patriots,New York Giants,95,135,115,147,12
+New Orleans Saints,Atlanta Falcons,100,108,104,148,12
+New York Giants,New England Patriots,112,98,105,58,12
+New York Jets,Miami Dolphins,100,99,100,29,12
+Philadelphia Eagles,Buffalo Bills,128,110,119,185,12
+Pittsburgh Steelers,Cincinnati Bengals,110,138,124,153,12
+San Francisco 49ers,Seattle Seahawks,133,113,123,169,12
+Seattle Seahawks,San Francisco 49ers,97,81,89,88,12
+Tampa Bay Buccaneers,Indianapolis Colts,77,130,103,125,12
+Tennessee Titans,Carolina Panthers,105,129,117,80,12
+Washington Commanders,Dallas Cowboys,96,109,102,108,12
+Atlanta Falcons,New York Jets,139,140,140,90,13
+Arizona Cardinals,Pittsburgh Steelers,122,118,120,150,13
+Baltimore Ravens,Bye,,,,,13
+Buffalo Bills,Bye,,,,,13
+Carolina Panthers,Tampa Bay Buccaneers,93,96,94,133,13
+Chicago Bears,Bye,,,,,13
+Cincinnati Bengals,Jacksonville Jaguars,76,87,82,156,13
+Cleveland Browns,Los Angeles Rams,139,113,126,87,13
+Dallas Cowboys,Seattle Seahawks,115,118,117,136,13
+Denver Broncos,Houston Texans,116,95,105,118,13
+Detroit Lions,New Orleans Saints,137,124,130,142,13
+Green Bay Packers,Kansas City Chiefs,103,113,108,129,13
+Houston Texans,Denver Broncos,99,155,127,89,13
+Indianapolis Colts,Tennessee Titans,121,111,116,55,13
+Jacksonville Jaguars,Cincinnati Bengals,106,140,123,71,13
+Kansas City Chiefs,Green Bay Packers,106,135,121,148,13
+Las Vegas Raiders,Bye,,,,,13
+Los Angeles Chargers,New England Patriots,104,94,99,29,13
+Los Angeles Rams,Cleveland Browns,114,106,110,120,13
+Miami Dolphins,Washington Commanders,145,113,129,123,13
+Minnesota Vikings,Bye,,,,,13
+New England Patriots,Los Angeles Chargers,100,111,105,148,13
+New Orleans Saints,Detroit Lions,104,91,98,113,13
+New York Giants,Bye,,,,,13
+New York Jets,Atlanta Falcons,93,112,103,62,13
+Philadelphia Eagles,San Francisco 49ers,133,82,108,46,13
+Pittsburgh Steelers,Arizona Cardinals,114,140,127,130,13
+San Francisco 49ers,Philadelphia Eagles,136,85,111,146,13
+Seattle Seahawks,Dallas Cowboys,96,109,102,72,13
+Tampa Bay Buccaneers,Carolina Panthers,81,125,103,128,13
+Tennessee Titans,Indianapolis Colts,103,129,116,177,13
+Washington Commanders,Miami Dolphins,97,93,95,138,13
+Atlanta Falcons,New Orleans Saints,130,123,126,N/A,18
+Arizona Cardinals,Seattle Seahawks,135,134,135,N/A,18
+Baltimore Ravens,Pittsburgh Steelers,160,116,138,N/A,18
+Buffalo Bills,Miami Dolphins,130,95,113,N/A,18
+Carolina Panthers,Tampa Bay Buccaneers,102,93,98,N/A,18
+Chicago Bears,Green Bay Packers,145,132,138,N/A,18
+Cincinnati Bengals,Cleveland Browns,84,101,92,N/A,18
+Cleveland Browns,Cincinnati Bengals,120,128,124,N/A,18
+Dallas Cowboys,Washington Commanders,112,127,119,N/A,18
+Denver Broncos,Las Vegas Raiders,110,123,117,N/A,18
+Detroit Lions,Minnesota Vikings,140,101,120,N/A,18
+Green Bay Packers,Chicago Bears,111,84,98,N/A,18
+Houston Texans,Indianapolis Colts,99,128,114,N/A,18
+Indianapolis Colts,Houston Texans,115,89,102,N/A,18
+Jacksonville Jaguars,Tennessee Titans,98,109,104,N/A,18
+Kansas City Chiefs,Los Angeles Chargers,104,113,108,N/A,18
+Las Vegas Raiders,Denver Broncos,88,138,113,N/A,18
+Los Angeles Chargers,Kansas City Chiefs,95,113,104,N/A,18
+Los Angeles Rams,San Francisco 49ers,121,89,105,N/A,18
+Miami Dolphins,Buffalo Bills,138,111,124,N/A,18
+Minnesota Vikings,Detroit Lions,92,89,90,N/A,18
+New England Patriots,New York Jets,96,126,111,N/A,18
+New Orleans Saints,Atlanta Falcons,99,116,108,N/A,18
+New York Giants,Philadelphia Eagles,110,103,107,N/A,18
+New York Jets,New England Patriots,91,87,89,N/A,18
+Philadelphia Eagles,New York Giants,129,132,130,N/A,18
+Pittsburgh Steelers,Baltimore Ravens,116,107,111,N/A,18
+San Francisco 49ers,Los Angeles Rams,142,106,124,N/A,18
+Seattle Seahawks,Arizona Cardinals,90,144,117,N/A,18
+Tampa Bay Buccaneers,Carolina Panthers,87,123,105,N/A,18
+Tennessee Titans,Jacksonville Jaguars,104,99,102,N/A,18
+Washington Commanders,Dallas Cowboys,96,116,106,N/A,18

@@ -1,0 +1,578 @@
+Player,Team
+Jared Goff,Detroit
+Patrick Mahomes,Kansas City
+Baker Mayfield,Tampa Bay
+Kirk Cousins,Minnesota
+Ryan Tannehill,Tennessee
+Derek Carr,New Orleans
+Bryce Young,Carolina
+Desmond Ridder,Atlanta
+C.J. Stroud,Houston
+Lamar Jackson,Baltimore
+Brock Purdy,San Francisco
+Kenny Pickett,Pittsburgh
+Joshua Dobbs,Arizona
+Sam Howell,Washington
+Joe Burrow,Cincinnati
+Jake Browning,Cincinnati
+Deshaun Watson,Cleveland
+Trevor Lawrence,Jacksonville
+Anthony Richardson,Indianapolis
+Gardner Minshew,Indianapolis
+Tua Tagovailoa,Miami
+Justin Herbert,LA Chargers
+Matthew Stafford,LA Rams
+Geno Smith,Seattle
+Jimmy Garoppolo,Las Vegas
+Russell Wilson,Denver
+Jordan Love,Green Bay
+Justin Fields,Chicago
+Jalen Hurts,Philadelphia
+Mac Jones,New England
+Dak Prescott,Dallas
+Cooper Rush,Dallas
+Daniel Jones,NY Giants
+Tyrod Taylor,NY Giants
+Josh Allen,Buffalo
+Zach Wilson,NY Jets
+Aaron Rodgers,NY Jets
+Christian Kirk,Jacksonville
+Taysom Hill,New Orleans
+Jameis Winston,New Orleans
+Keenan Allen,LA Chargers
+Mike White,Miami
+C.J. Beathard,Jacksonville
+Andy Dalton,Carolina
+Blaine Gabbert,Kansas City
+Derrick Henry,Tennessee
+Chris Godwin,Tampa Bay
+Mitchell Trubisky,Pittsburgh
+Devin Singletary,Houston
+Dorian Thompson-Robinson,Cleveland
+Aidan O'Connell,Las Vegas
+Bailey Zappe,New England
+Bryan Anger,Dallas
+Drew Lock,Seattle
+Parris Campbell,NY Giants
+Drake London,Atlanta
+Sam Darnold,San Francisco
+Josh Jacobs,Las Vegas
+Kadarius Toney,Kansas City
+Malik Willis,Tennessee
+Tyson Bagent,Chicago
+Phillip Walker,Cleveland
+Johnny Hekker,Carolina
+Malik Cunningham,New England
+Brian Hoyer,Las Vegas
+Logan Cooke,Jacksonville
+Nathan Peterman,Chicago
+Tyler Huntley,Baltimore
+Clayton Tune,Arizona
+Dontayvion Wicks,Green Bay
+Cedrick Wilson,Miami
+Brett Rypien,LA Rams
+Chatarius Atwell,LA Rams
+Jaren Hall,Minnesota
+Taylor Heinicke,Atlanta
+Jonnu Smith,Atlanta
+Will Levis,Tennessee
+Tommy DeVito,NY Giants
+Amon-Ra St. Brown,Detroit
+Cam Akers,Minnesota
+Daniel Bellinger,NY Giants
+Kyler Murray,Arizona
+Garrett Wilson,NY Jets
+Davis Mills,Houston
+Nathaniel Dell,Houston
+Tim Boyle,NY Jets
+Thomas Morstead,NY Jets
+Romeo Doubs,Green Bay
+Deebo Samuel,San Francisco
+Kyle Trask,Tampa Bay
+Jakobi Meyers,Las Vegas
+DeeJay Dallas,Seattle
+Trevor Siemian,NY Jets
+Joe Flacco,Cleveland
+Marcus Mariota,Philadelphia
+Tyler Boyd,Cincinnati
+Ja'Marr Chase,Cincinnati
+Connor Heyward,Pittsburgh
+A.J. McCarron,Cincinnati
+Nick Mullens,Minnesota
+Easton Stick,LA Chargers
+Braden Mann,Philadelphia
+Justin Jefferson,Minnesota
+Tanner Hudson,Cincinnati
+Mason Rudolph,Pittsburgh
+Case Keenum,Houston
+Jerick McKinnon,Kansas City
+Jacoby Brissett,Washington
+Tommy Townsend,Kansas City
+Jalen Reeves-Maybin,Detroit
+Kenny Gainwell,Philadelphia
+Jarrett Stidham,Denver
+Sean Clifford,Green Bay
+David Montgomery,Detroit
+Jahmyr Gibbs,Detroit
+Isiah Pacheco,Kansas City
+Clyde Edwards-Helaire,Kansas City
+Skyy Moore,Kansas City
+Rashee Rice,Kansas City
+Rachaad White,Tampa Bay
+Sean Tucker,Tampa Bay
+Chase Edmonds,Tampa Bay
+Rakim Jarrett,Tampa Bay
+Alexander Mattison,Minnesota
+Ty Chandler,Minnesota
+Tyjae Spears,Tennessee
+Treylon Burks,Tennessee
+Jamaal Williams,New Orleans
+Rashid Shaheed,New Orleans
+Tony Jones,New Orleans
+Miles Sanders,Carolina
+Chuba Hubbard,Carolina
+Laviska Shenault,Carolina
+Tyler Allgeier,Atlanta
+Bijan Robinson,Atlanta
+Dameon Pierce,Houston
+Noah Brown,Houston
+Gus Edwards,Baltimore
+J.K. Dobbins,Baltimore
+Zay Flowers,Baltimore
+Justice Hill,Baltimore
+Christian McCaffrey,San Francisco
+Elijah Mitchell,San Francisco
+Najee Harris,Pittsburgh
+Jaylen Warren,Pittsburgh
+James Conner,Arizona
+Marquise Brown,Arizona
+Rondale Moore,Arizona
+Keaontay Ingram,Arizona
+Brian Robinson,Washington
+Antonio Gibson,Washington
+Christopher Rodriguez,Washington
+Curtis Samuel,Washington
+Joe Mixon,Cincinnati
+Chris Evans,Cincinnati
+Trayveon Williams,Cincinnati
+Nick Chubb,Cleveland
+Jerome Ford,Cleveland
+Elijah Moore,Cleveland
+Travis Etienne,Jacksonville
+Cartavious Bigsby,Jacksonville
+Jamal Agnew,Jacksonville
+D'Ernest Johnson,Jacksonville
+Deon Jackson,Indianapolis
+Jake Funk,Indianapolis
+Evan Hull,Indianapolis
+Raheem Mostert,Miami
+Erik Ezukanma,Miami
+Salvon Ahmed,Miami
+Austin Ekeler,LA Chargers
+Joshua Kelley,LA Chargers
+Gerald Everett,LA Chargers
+Kyren Williams,LA Rams
+Kenneth Walker,Seattle
+Zach Charbonnet,Seattle
+Zamir White,Las Vegas
+Javonte Williams,Denver
+Samaje Perine,Denver
+Aaron Jones,Green Bay
+Patrick Taylor,Green Bay
+AJ Dillon,Green Bay
+Jayden Reed,Green Bay
+Khalil Herbert,Chicago
+Roschon Johnson,Chicago
+D'Onta Foreman,Chicago
+Cole Kmet,Chicago
+Boston Scott,Philadelphia
+D'Andre Swift,Philadelphia
+Ezekiel Elliott,New England
+Rhamondre Stevenson,New England
+Ty Montgomery,New England
+Tony Pollard,Dallas
+Rico Dowdle,Dallas
+KaVontae Turpin,Dallas
+Deuce Vaughn,Dallas
+Saquon Barkley,NY Giants
+Matt Breida,NY Giants
+Gary Brightwell,NY Giants
+James Cook,Buffalo
+Latavius Murray,Buffalo
+Deonte Harty,Buffalo
+Damien Harris,Buffalo
+Breece Hall,NY Jets
+Dalvin Cook,NY Jets
+Michael Carter,NY Jets
+Rashaad Penny,Philadelphia
+Zack Moss,Indianapolis
+Dare Ogunbowale,Houston
+Andrew Beck,Houston
+Derius Davis,LA Chargers
+Elijah Dotson,LA Chargers
+Isaiah Spiller,LA Chargers
+Mike Williams,LA Chargers
+Kalif Raymond,Detroit
+Craig Reynolds,Detroit
+Emanuel Wilson,Green Bay
+Tre Tucker,Las Vegas
+Kyle Allen,Buffalo
+Devin Duvernay,Baltimore
+Chase Brown,Cincinnati
+Velus Jones,Chicago
+Deven Thompkins,Tampa Bay
+Emari Demercado,Arizona
+Bennett Skowronek,LA Rams
+Puka Nacua,LA Rams
+Marvin Mims,Denver
+Jaleel McLaughlin,Denver
+Michael Burton,Denver
+Ashtyn Davis,NY Jets
+Peyton Hendershot,Dallas
+De'Von Achane,Miami
+Jaylen Waddle,Miami
+Pierre Strong,Cleveland
+Calvin Austin,Pittsburgh
+Jordan Mason,San Francisco
+Kyle Juszczyk,San Francisco
+Kendre Miller,New Orleans
+Keisean Nixon,Green Bay
+Demario Douglas,New England
+Nick Bawden,NY Jets
+Christopher Brooks,Miami
+Alec Ingold,Miami
+Trey Sermon,Indianapolis
+Melvin Gordon,Baltimore
+Kenyan Drake,Baltimore
+Kyle Pitts,Atlanta
+Zonovan Knight,Detroit
+Jason Cabinda,Detroit
+Gabriel Davis,Buffalo
+Kareem Hunt,Cleveland
+Harrison Bryant,Cleveland
+Marquise Goodwin,Cleveland
+CeeDee Lamb,Dallas
+Hunter Luepke,Dallas
+Van Jefferson,LA Rams
+Tyler Scott,Chicago
+Ke'Shawn Vaughn,Tampa Bay
+Alvin Kamara,New Orleans
+Adam Prentice,New Orleans
+Mike Boone,Houston
+Logan Thomas,Washington
+Adam Thielen,Carolina
+Tyreek Hill,Miami
+Braxton Berrios,Miami
+Ronnie Rivers,LA Rams
+Ezekiel Turner,Arizona
+Xavier Gipson,NY Jets
+Wan'Dale Robinson,NY Giants
+Khari Blasingame,Chicago
+Calvin Ridley,Jacksonville
+George Pickens,Pittsburgh
+Khadarel Hodge,Atlanta
+Teddy Bridgewater,Detroit
+Jonathan Taylor,Indianapolis
+Isaiah McKenzie,Indianapolis
+Eric Gray,NY Giants
+Brandon Powell,Minnesota
+Brandin Cooks,Dallas
+Tyrion Davis-Price,San Francisco
+Christian Watson,Green Bay
+Ameer Abdullah,Las Vegas
+DeAndre Carter,Las Vegas
+Noah Gray,Kansas City
+Mark Andrews,Baltimore
+Darrynton Evans,Chicago
+Xavier Hutchinson,Houston
+Ray Ray McCloud,San Francisco
+Cordarrelle Patterson,Atlanta
+Raheem Blackshear,Carolina
+Kendrick Bourne,New England
+Devine Ozigbo,Detroit
+Damien Williams,Arizona
+Zach Evans,LA Rams
+Darnell Mooney,Chicago
+Royce Freeman,LA Rams
+Darrell Henderson,LA Rams
+George Kittle,San Francisco
+Jordan Addison,Minnesota
+Chigoziem Okonkwo,Tennessee
+Amani Hooker,Tennessee
+Jeffery Wilson,Miami
+Dyami Brown,Washington
+Jake Bobo,Seattle
+D'Wayne Eskridge,Seattle
+Rashod Bateman,Baltimore
+Mecole Hardman,Kansas City
+Trent Taylor,Chicago
+DeAndre Hopkins,Tennessee
+Lamical Perine,Kansas City
+Keaton Mitchell,Baltimore
+Quentin Johnston,LA Chargers
+D.J. Moore,Chicago
+Kene Nwangwu,Minnesota
+Jashaun Corbin,NY Giants
+Riley Dixon,Denver
+Ty Johnson,Buffalo
+Derrick Gore,Washington
+Chris Moore,Tennessee
+Cedric Tillman,Cleveland
+Trey Palmer,Tampa Bay
+Israel Abanikanda,NY Jets
+Lynn Bowden,New Orleans
+Tyquan Thornton,New England
+Blake Gillikin,Arizona
+Kylen Granson,Indianapolis
+Ryan Stonehouse,Tennessee
+Jameson Williams,Detroit
+James Robinson,Green Bay
+Ihmir Smith-Marsette,Carolina
+Sam LaPorta,Detroit
+C.J. Ham,Minnesota
+Brandon Bolden,Las Vegas
+Tyler Goodson,Indianapolis
+Steven Sims,Houston
+Kevin Harris,New England
+Tress Way,Washington
+Jonathan Williams,Washington
+Demarcus Robinson,LA Rams
+Greg Dortch,Arizona
+Dallas Goedert,Philadelphia
+Cooper Kupp,LA Rams
+Leonard Fournette,Buffalo
+Robert Woods,Houston
+Tyler Conklin,NY Jets
+Bo Melton,Green Bay
+A.J. Cole,Las Vegas
+Jonathan Ward,Tennessee
+Nico Collins,Houston
+John Metchie,Houston
+Matt Barkley,Jacksonville
+Khalil Shakir,Buffalo
+Stefon Diggs,Buffalo
+Nick Niemann,LA Chargers
+Josh Reynolds,Detroit
+Brock Wright,Detroit
+Marvin Jones,Detroit
+Blake Bell,Kansas City
+Marquez Valdes-Scantling,Kansas City
+Justin Watson,Kansas City
+Richie James,Kansas City
+Justyn Ross,Kansas City
+Mike Evans,Tampa Bay
+Cade Otton,Tampa Bay
+Ko Kieft,Tampa Bay
+T.J. Hockenson,Minnesota
+Josh Oliver,Minnesota
+K.J. Osborn,Minnesota
+Nick Westbrook,Tennessee
+Chris Olave,New Orleans
+Michael Thomas,New Orleans
+Juwan Johnson,New Orleans
+Keith Kirkwood,New Orleans
+Hayden Hurst,Carolina
+Terrace Marshall,Carolina
+Jonathan Mingo,Carolina
+Giovanni Ricci,Carolina
+Mack Hollins,Atlanta
+Dalton Schultz,Houston
+Teagan Quitoriano,Houston
+Odell Beckham Jr.,Baltimore
+Isaiah Likely,Baltimore
+Charlie Kolar,Baltimore
+Brandon Aiyuk,San Francisco
+Jauan Jennings,San Francisco
+Allen Robinson,Pittsburgh
+Diontae Johnson,Pittsburgh
+Anthony McFarland,Pittsburgh
+Pat Freiermuth,Pittsburgh
+Zach Ertz,Arizona
+Trey McBride,Arizona
+Michael Wilson,Arizona
+Zach Pascal,Arizona
+Jahan Dotson,Washington
+Terry McLaurin,Washington
+Cole Turner,Washington
+Irv Smith,Cincinnati
+Tee Higgins,Cincinnati
+Amari Cooper,Cleveland
+David Njoku,Cleveland
+Jordan Akins,Cleveland
+Donovan Peoples-Jones,Cleveland
+David Bell,Cleveland
+Evan Engram,Jacksonville
+Zay Jones,Jacksonville
+Michael Pittman,Indianapolis
+Josh Downs,Indianapolis
+Andrew Ogletree,Indianapolis
+Alec Pierce,Indianapolis
+Mo Alie-Cox,Indianapolis
+River Cracraft,Miami
+Durham Smythe,Miami
+Donald Parham,LA Chargers
+Josh Palmer,LA Chargers
+Tyler Higbee,LA Rams
+Brycen Hopkins,LA Rams
+D.K. Metcalf,Seattle
+Jaxon Smith-Njigba,Seattle
+Will Dissly,Seattle
+Tyler Lockett,Seattle
+Colby Parkinson,Seattle
+Davante Adams,Las Vegas
+Austin Hooper,Las Vegas
+Adam Trautman,Denver
+Courtland Sutton,Denver
+Brandon Johnson,Denver
+Lil'Jordan Humphrey,Denver
+Greg Dulcich,Denver
+Phillip Dorsett,Denver
+Luke Musgrave,Green Bay
+Samori Toure,Green Bay
+Malik Heath,Green Bay
+Chase Claypool,Chicago
+A.J. Brown,Philadelphia
+DeVonta Smith,Philadelphia
+Quez Watkins,Philadelphia
+Hunter Henry,New England
+JuJu Smith-Schuster,New England
+Mike Gesicki,New England
+Kayshon Boutte,New England
+Jake Ferguson,Dallas
+Michael Gallup,Dallas
+Jalen Tolbert,Dallas
+Darren Waller,NY Giants
+Darius Slayton,NY Giants
+Lawrence Cager,NY Giants
+Isaiah Hodgins,NY Giants
+Jalin Hyatt,NY Giants
+Sterling Shepard,NY Giants
+Dalton Kincaid,Buffalo
+Dawson Knox,Buffalo
+Allen Lazard,NY Jets
+Randall Cobb,NY Jets
+Will Mallory,Indianapolis
+Brevin Jordan,Houston
+Stone Smartt,LA Chargers
+Trey Pipkins,LA Chargers
+Trevon Wesco,Tennessee
+Noah Fant,Seattle
+Antoine Green,Detroit
+Josiah Deguara,Green Bay
+Michael Mayer,Las Vegas
+Hunter Renfrow,Las Vegas
+Reggie Gilliam,Buffalo
+Nelson Agholor,Baltimore
+Travis Kelce,Kansas City
+Donovan Smith,Kansas City
+Robert Tonyan,Chicago
+David Wells,Tampa Bay
+John Bates,Washington
+Byron Pringle,Washington
+Jerry Jeudy,Denver
+Luke Schoonmaker,Dallas
+Devon Achane,Miami
+DeVante Parker,New England
+Cole Strange,New England
+Foster Moreau,New Orleans
+D.J. Chark,Carolina
+Gunner Olszewski,Pittsburgh
+Miles Boykin,Pittsburgh
+Ronnie Bell,San Francisco
+Jimmy Graham,New Orleans
+Pharaoh Brown,New England
+C.J. Uzomah,NY Jets
+Nate Adkins,Denver
+Chris Manhertz,Denver
+Robby Anderson,Miami
+Julian Hill,Miami
+MyCole Pruitt,Atlanta
+Trent Sherfield,Buffalo
+Tim Jones,Jacksonville
+Brenton Strange,Jacksonville
+Luke Farrell,Jacksonville
+Tommy Tremble,Carolina
+Ian Thomas,Carolina
+Olamide Zaccheaus,Philadelphia
+Jack Stoll,Philadelphia
+Mitchell Wilcox,Cincinnati
+Charlie Jones,Cincinnati
+Drew Sample,Cincinnati
+Tucker Kraft,Green Bay
+JaMycal Hasty,Jacksonville
+Trenton Irwin,Cincinnati
+Josh Whyle,Tennessee
+Colton Dowell,Tennessee
+Marcedes Lewis,Chicago
+Equanimeous St. Brown,Chicago
+Darnell Washington,Pittsburgh
+Patrick Ricard,Baltimore
+Robbie Chosen,Miami
+Jakob Johnson,Las Vegas
+Geoff Swaim,Arizona
+Willie Snead,San Francisco
+Chauncey Golston,Dallas
+Jeremy Ruckert,NY Jets
+Cody Thompson,Seattle
+Ben Bredeson,NY Giants
+Jamison Crowder,Washington
+Scott Miller,Atlanta
+Keith Smith,Atlanta
+Kyle Philips,Tennessee
+Andrei Iosivas,Cincinnati
+Kwamie Lassiter,Cincinnati
+John Mundt,Minnesota
+Ben Sims,Green Bay
+Amari Rodgers,Indianapolis
+Ross Dwelley,San Francisco
+Payne Durham,Tampa Bay
+Quintin Morris,Buffalo
+Sean McKeon,Dallas
+Jesper Horsted,Las Vegas
+Travis Homer,Chicago
+Jalen Reagor,New England
+Elijah Higgins,Arizona
+Julio Jones,Philadelphia
+Trishton Jackson,Minnesota
+Juwann Winfree,Indianapolis
+Rodney Williams,Pittsburgh
+Alex Armah,Washington
+Stephen Sullivan,Carolina
+Simi Fehoko,LA Chargers
+Robert Hainsey,Tampa Bay
+Austin Trammell,LA Rams
+Damiere Byrd,Atlanta
+Jalen Guyton,LA Chargers
+Malik Taylor,NY Jets
+Mike Strachan,Carolina
+A.T. Perry,New Orleans
+Jalen Nailor,Minnesota
+James Proche,Cleveland
+Jalen Brooks,Dallas
+Lucas Krull,Denver
+Shedrick Jackson,Cincinnati
+Alex Erickson,LA Chargers
+Jeffery Simmons,Tennessee
+Brandin Echols,NY Jets
+Malcolm Rodriguez,Detroit
+Charlie Woerner,San Francisco
+Jason Brownlee,NY Jets
+David Moore,Tampa Bay
+Davis Allen,LA Rams
+Eric Saubert,Houston
+Albert Okwuegbunam,Philadelphia
+Parker Washington,Jacksonville
+Greg Van Roten,Las Vegas
+D.J. Montgomery,Indianapolis
+Tucker Fisk,Atlanta
+Elijah Cooks,Jacksonville
+Mason Kinsey,Tennessee
+Kenny Yeboah,NY Jets
+Cole Fotheringham,Las Vegas
+Grant Calcaterra,Philadelphia
+Britain Covey,Philadelphia
+Khalil Dorsey,Detroit
+James Mitchell,Detroit
+Collin Johnson,Chicago
+Kevin Rader,Tennessee
+Keelan Doss,LA Chargers

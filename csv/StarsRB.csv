@@ -1,0 +1,845 @@
+Week Number,Player,Team Final,Opponent Final,Home or Away,SUM of Att,SUM of Yds,SUM of Avg,SUM of Lg,SUM of TD,SUM of % of Attempt Total,SUM of % of Total Rush Yards in Game
+17,Aaron Jones,Green Bay Packers,Minnesota Vikings,Away,20,120,6.0,25,0,51%,68%
+17,AJ Dillon,Green Bay Packers,Minnesota Vikings,Away,7,27,3.9,11,0,18%,15%
+17,Alvin Kamara,New Orleans Saints,Tampa Bay Buccaneers,Away,10,45,4.5,13,0,29%,42%
+17,Austin Ekeler,Los Angeles Chargers,Denver Broncos,Away,13,46,3.5,6,0,54%,53%
+17,Bailey Zappe,New England Patriots,Buffalo Bills,Away,5,37,7.4,18,1,21%,36%
+17,Bijan Robinson,Atlanta Falcons,Chicago Bears,Away,15,75,5.0,21,0,63%,56%
+17,Breece Hall,New York Jets,Cleveland Browns,Away,13,84,6.5,25,0,62%,79%
+17,Brian Robinson,Washington Commanders,San Francisco 49ers,Home,9,44,4.9,12,0,64%,71%
+17,Cartavious Bigsby,Jacksonville Jaguars,Carolina Panthers,Home,10,32,3.2,12,0,29%,21%
+17,Christian McCaffrey,San Francisco 49ers,Washington Commanders,Away,14,64,4.6,13,0,36%,35%
+17,Chuba Hubbard,Carolina Panthers,Jacksonville Jaguars,Away,11,45,4.1,7,0,73%,79%
+17,D'Andre Swift,Philadelphia Eagles,Arizona Cardinals,Home,13,61,4.7,16,0,57%,67%
+17,David Montgomery,Detroit Lions,Dallas Cowboys,Away,14,65,4.6,22,1,45%,52%
+17,De'Von Achane,Miami Dolphins,Baltimore Ravens,Away,14,107,7.6,45,0,56%,69%
+17,Deebo Samuel,San Francisco 49ers,Washington Commanders,Away,3,35,11.7,17,0,8%,19%
+17,Derrick Henry,Tennessee Titans,Houston Texans,Away,12,42,3.5,16,0,57%,79%
+17,Devin Singletary,Houston Texans,Tennessee Titans,Home,16,80,5.0,24,0,57%,72%
+17,Easton Stick,Los Angeles Chargers,Denver Broncos,Away,5,31,6.2,9,0,21%,36%
+17,Elijah Mitchell,San Francisco 49ers,Washington Commanders,Away,17,80,4.7,15,1,44%,43%
+17,Ezekiel Elliott,New England Patriots,Buffalo Bills,Away,14,39,2.8,9,1,58%,38%
+17,Geno Smith,Seattle Seahawks,Pittsburgh Steelers,Home,3,33,11.0,25,0,20%,38%
+17,Gus Edwards,Baltimore Ravens,Miami Dolphins,Home,16,68,4.3,12,1,50%,43%
+17,Isiah Pacheco,Kansas City Chiefs,Cincinnati Bengals,Home,18,130,7.2,37,0,82%,98%
+17,Jahmyr Gibbs,Detroit Lions,Dallas Cowboys,Away,15,43,2.9,17,0,48%,34%
+17,Jake Browning,Cincinnati Bengals,Kansas City Chiefs,Away,7,32,4.6,8,1,22%,31%
+17,Jaleel McLaughlin,Denver Broncos,Los Angeles Chargers,Home,8,44,5.5,11,0,24%,44%
+17,Jalen Hurts,Philadelphia Eagles,Arizona Cardinals,Home,8,25,3.1,13,0,35%,27%
+17,Jamaal Williams,New Orleans Saints,Tampa Bay Buccaneers,Away,19,58,3.1,17,0,54%,54%
+17,James Conner,Arizona Cardinals,Philadelphia Eagles,Away,26,128,4.9,22,1,65%,58%
+17,James Cook,Buffalo Bills,New England Patriots,Home,16,48,3.0,8,0,43%,38%
+17,Javonte Williams,Denver Broncos,Los Angeles Chargers,Home,15,41,2.7,16,0,45%,41%
+17,Jaylen Warren,Pittsburgh Steelers,Seattle Seahawks,Away,13,75,5.8,23,1,28%,37%
+17,Jerome Ford,Cleveland Browns,New York Jets,Home,12,64,5.3,16,0,43%,50%
+17,Joe Mixon,Cincinnati Bengals,Kansas City Chiefs,Away,21,65,3.1,14,0,66%,63%
+17,Jonathan Taylor,Indianapolis Colts,Las Vegas Raiders,Home,21,96,4.6,15,1,72%,72%
+17,Josh Allen,Buffalo Bills,New England Patriots,Home,11,44,4.0,19,2,30%,35%
+17,Justice Hill,Baltimore Ravens,Miami Dolphins,Home,3,48,16.0,41,0,9%,30%
+17,Justin Fields,Chicago Bears,Atlanta Falcons,Home,11,45,4.1,13,1,30%,23%
+17,Kareem Hunt,Cleveland Browns,New York Jets,Home,10,31,3.1,8,1,36%,24%
+17,Kenneth Walker,Seattle Seahawks,Pittsburgh Steelers,Home,10,53,5.3,13,1,67%,60%
+17,Khalil Herbert,Chicago Bears,Atlanta Falcons,Home,18,124,6.9,38,1,49%,65%
+17,Kyren Williams,Los Angeles Rams,New York Giants,Away,20,87,4.4,28,3,87%,83%
+17,Lamar Jackson,Baltimore Ravens,Miami Dolphins,Home,6,35,5.8,18,0,19%,22%
+17,Michael Carter,Arizona Cardinals,Philadelphia Eagles,Away,7,61,8.7,21,0,18%,28%
+17,Najee Harris,Pittsburgh Steelers,Seattle Seahawks,Away,27,122,4.5,23,2,59%,60%
+17,Patrick Taylor,Green Bay Packers,Minnesota Vikings,Away,8,30,3.8,10,0,21%,17%
+17,Pierre Strong,Cleveland Browns,New York Jets,Home,4,29,7.3,15,0,14%,23%
+17,Rachaad White,Tampa Bay Buccaneers,New Orleans Saints,Home,11,42,3.8,16,0,73%,74%
+17,Saquon Barkley,New York Giants,Los Angeles Rams,Home,12,39,3.3,13,0,60%,37%
+17,Taylor Heinicke,Atlanta Falcons,Chicago Bears,Away,4,46,11.5,24,1,17%,34%
+17,Tony Pollard,Dallas Cowboys,Detroit Lions,Home,16,49,3.1,18,0,76%,80%
+17,Travis Etienne,Jacksonville Jaguars,Carolina Panthers,Home,16,102,6.4,62,2,46%,66%
+17,Trey Sermon,Indianapolis Colts,Las Vegas Raiders,Home,5,32,6.4,27,0,17%,24%
+17,Ty Chandler,Minnesota Vikings,Green Bay Packers,Home,10,40,4.0,9,0,63%,60%
+17,Tyrod Taylor,New York Giants,Los Angeles Rams,Home,6,40,6.7,31,0,30%,38%
+17,Zamir White,Las Vegas Raiders,Indianapolis Colts,Away,20,71,3.6,9,0,80%,85%
+16,Aaron Jones,Green Bay Packers,Carolina Panthers,Away,21,127,6.1,39,0,62%,78%
+16,Antonio Gibson,Washington Commanders,New York Jets,Away,9,30,3.3,11,1,41%,29%
+16,Austin Ekeler,Los Angeles Chargers,Buffalo Bills,Home,15,65,4.3,10,0,56%,66%
+16,Bijan Robinson,Atlanta Falcons,Indianapolis Colts,Home,12,72,6.0,32,0,40%,41%
+16,Breece Hall,New York Jets,Washington Commanders,Home,20,95,4.8,36,2,56%,58%
+16,Chase Edmonds,Tampa Bay Buccaneers,Jacksonville Jaguars,Home,10,25,2.5,6,0,28%,36%
+16,Christian McCaffrey,San Francisco 49ers,Baltimore Ravens,Home,14,103,7.4,39,1,78%,85%
+16,Christopher Rodriguez,Washington Commanders,New York Jets,Away,10,58,5.8,16,2,45%,57%
+16,Chuba Hubbard,Carolina Panthers,Green Bay Packers,Home,16,43,2.7,13,1,64%,45%
+16,Cordarrelle Patterson,Atlanta Falcons,Indianapolis Colts,Home,7,26,3.7,11,0,23%,15%
+16,D'Andre Swift,Philadelphia Eagles,New York Giants,Home,20,92,4.6,17,1,57%,54%
+16,Dak Prescott,Dallas Cowboys,Miami Dolphins,Away,5,25,5.0,22,0,20%,26%
+16,David Montgomery,Detroit Lions,Minnesota Vikings,Away,17,55,3.2,11,1,47%,38%
+16,Derrick Henry,Tennessee Titans,Seattle Seahawks,Home,19,88,4.6,12,1,61%,54%
+16,Devin Singletary,Houston Texans,Cleveland Browns,Home,9,44,4.9,17,0,56%,61%
+16,Easton Stick,Los Angeles Chargers,Buffalo Bills,Home,7,25,3.6,21,1,26%,26%
+16,Ezekiel Elliott,New England Patriots,Denver Broncos,Away,12,27,2.3,6,0,57%,46%
+16,Gardner Minshew,Indianapolis Colts,Atlanta Falcons,Away,4,31,7.8,23,0,16%,34%
+16,Gus Edwards,Baltimore Ravens,San Francisco 49ers,Away,9,31,3.4,13,1,35%,30%
+16,Ihmir Smith-Marsette,Carolina Panthers,Green Bay Packers,Home,2,33,16.5,20,1,8%,34%
+16,Isiah Pacheco,Kansas City Chiefs,Las Vegas Raiders,Home,11,26,2.4,12,1,44%,31%
+16,Israel Abanikanda,New York Jets,Washington Commanders,Home,9,43,4.8,12,0,25%,26%
+16,Jahmyr Gibbs,Detroit Lions,Minnesota Vikings,Away,15,80,5.3,18,2,42%,56%
+16,Jaleel McLaughlin,Denver Broncos,New England Patriots,Home,6,37,6.2,12,0,26%,45%
+16,Jalen Hurts,Philadelphia Eagles,New York Giants,Home,8,34,4.3,16,1,23%,20%
+16,James Conner,Arizona Cardinals,Chicago Bears,Away,12,45,3.8,16,0,60%,48%
+16,James Cook,Buffalo Bills,Los Angeles Chargers,Away,20,70,3.5,10,0,67%,67%
+16,Jerome Ford,Cleveland Browns,Houston Texans,Away,15,25,1.7,10,1,50%,46%
+16,Joe Mixon,Cincinnati Bengals,Pittsburgh Steelers,Away,11,43,3.9,13,0,69%,73%
+16,Jonathan Taylor,Indianapolis Colts,Atlanta Falcons,Away,18,43,2.4,13,1,72%,47%
+16,Justice Hill,Baltimore Ravens,San Francisco 49ers,Away,10,26,2.6,6,0,38%,25%
+16,Justin Fields,Chicago Bears,Arizona Cardinals,Home,9,97,10.8,39,1,23%,39%
+16,Kenneth Walker,Seattle Seahawks,Tennessee Titans,Away,16,54,3.4,24,0,80%,93%
+16,Kenny Gainwell,Philadelphia Eagles,New York Giants,Home,6,41,6.8,22,0,17%,24%
+16,Khalil Herbert,Chicago Bears,Arizona Cardinals,Home,20,112,5.6,15,1,51%,45%
+16,Kyler Murray,Arizona Cardinals,Chicago Bears,Away,5,32,6.4,12,0,25%,34%
+16,Kyren Williams,Los Angeles Rams,New Orleans Saints,Home,22,104,4.7,10,1,69%,78%
+16,Lamar Jackson,Baltimore Ravens,San Francisco 49ers,Away,7,45,6.4,30,0,27%,44%
+16,Najee Harris,Pittsburgh Steelers,Cincinnati Bengals,Home,19,78,4.1,13,1,63%,69%
+16,Patrick Mahomes,Kansas City Chiefs,Las Vegas Raiders,Home,10,53,5.3,13,0,40%,62%
+16,Rachaad White,Tampa Bay Buccaneers,Jacksonville Jaguars,Home,20,39,2.0,11,1,56%,56%
+16,Raheem Mostert,Miami Dolphins,Dallas Cowboys,Home,11,46,4.2,15,0,42%,51%
+16,Roschon Johnson,Chicago Bears,Arizona Cardinals,Home,9,37,4.1,10,0,23%,15%
+16,Ryan Tannehill,Tennessee Titans,Seattle Seahawks,Home,2,37,18.5,23,0,6%,23%
+16,Saquon Barkley,New York Giants,Philadelphia Eagles,Away,23,80,3.5,12,1,88%,75%
+16,Tony Pollard,Dallas Cowboys,Miami Dolphins,Away,12,38,3.2,7,0,48%,39%
+16,Trevor Lawrence,Jacksonville Jaguars,Tampa Bay Buccaneers,Away,4,29,7.3,15,0,31%,78%
+16,Tyjae Spears,Tennessee Titans,Seattle Seahawks,Home,9,40,4.4,11,0,29%,25%
+16,Tyler Allgeier,Atlanta Falcons,Indianapolis Colts,Home,9,69,7.7,31,1,30%,39%
+16,Zamir White,Las Vegas Raiders,Kansas City Chiefs,Away,22,145,6.6,43,0,76%,92%
+15,Aaron Jones,Green Bay Packers,Tampa Bay Buccaneers,Home,13,53,4.1,20,0,76%,88%
+15,Alvin Kamara,New Orleans Saints,New York Giants,Home,16,66,4.1,15,0,57%,76%
+15,Ameer Abdullah,Las Vegas Raiders,Los Angeles Chargers,Home,6,32,5.3,9,0,23%,26%
+15,Brandon Bolden,Las Vegas Raiders,Los Angeles Chargers,Home,2,25,12.5,26,1,8%,20%
+15,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,Away,18,115,6.4,26,1,69%,80%
+15,Christopher Rodriguez,Washington Commanders,Los Angeles Rams,Away,10,35,3.5,11,0,48%,44%
+15,Chuba Hubbard,Carolina Panthers,Atlanta Falcons,Home,22,87,4.0,22,0,61%,67%
+15,Clyde Edwards-Helaire,Kansas City Chiefs,New England Patriots,Away,13,37,2.9,20,0,65%,86%
+15,D'Andre Swift,Philadelphia Eagles,Seattle Seahawks,Away,18,74,4.1,11,0,47%,42%
+15,Dak Prescott,Dallas Cowboys,Buffalo Bills,Away,4,27,6.8,13,0,20%,30%
+15,David Montgomery,Detroit Lions,Denver Broncos,Home,17,85,5.0,13,0,61%,46%
+15,De'Von Achane,Miami Dolphins,New York Jets,Home,9,32,3.6,10,0,32%,42%
+15,Devin Singletary,Houston Texans,Tennessee Titans,Away,26,121,4.7,19,0,81%,82%
+15,Emari Demercado,Arizona Cardinals,San Francisco 49ers,Home,4,64,16.0,49,1,13%,27%
+15,Ezekiel Elliott,New England Patriots,Kansas City Chiefs,Home,11,25,2.3,5,0,69%,48%
+15,Gus Edwards,Baltimore Ravens,Jacksonville Jaguars,Away,16,58,3.6,20,1,38%,23%
+15,Ihmir Smith-Marsette,Carolina Panthers,Atlanta Falcons,Home,4,31,7.8,15,0,11%,24%
+15,Isaiah Spiller,Los Angeles Chargers,Las Vegas Raiders,Away,16,50,3.1,8,0,57%,54%
+15,Jahmyr Gibbs,Detroit Lions,Denver Broncos,Home,11,100,9.1,34,1,39%,54%
+15,Jalen Hurts,Philadelphia Eagles,Seattle Seahawks,Away,13,82,6.3,20,2,34%,46%
+15,James Conner,Arizona Cardinals,San Francisco 49ers,Home,14,86,6.1,44,1,47%,37%
+15,James Cook,Buffalo Bills,Dallas Cowboys,Home,25,179,7.2,24,1,51%,67%
+15,Javonte Williams,Denver Broncos,Detroit Lions,Away,12,27,2.3,8,0,43%,33%
+15,Jaylen Warren,Pittsburgh Steelers,Indianapolis Colts,Away,10,40,4.0,11,0,42%,54%
+15,Joe Mixon,Cincinnati Bengals,Minnesota Vikings,Home,10,47,4.7,10,1,45%,59%
+15,Justin Fields,Chicago Bears,Cleveland Browns,Away,7,30,4.3,15,0,26%,34%
+15,Keaton Mitchell,Baltimore Ravens,Jacksonville Jaguars,Away,9,73,8.1,24,0,21%,29%
+15,Kenneth Walker,Seattle Seahawks,Philadelphia Eagles,Home,19,86,4.5,23,1,79%,86%
+15,Kevin Harris,New England Patriots,Kansas City Chiefs,Home,4,25,6.3,18,1,25%,48%
+15,Kyler Murray,Arizona Cardinals,San Francisco 49ers,Home,6,49,8.2,15,0,20%,21%
+15,Kyren Williams,Los Angeles Rams,Washington Commanders,Home,27,152,5.6,27,1,73%,78%
+15,Lamar Jackson,Baltimore Ravens,Jacksonville Jaguars,Away,12,97,8.1,21,0,29%,39%
+15,Michael Carter,Arizona Cardinals,San Francisco 49ers,Home,3,27,9.0,19,0,10%,12%
+15,Najee Harris,Pittsburgh Steelers,Indianapolis Colts,Away,12,33,2.8,15,0,50%,45%
+15,Rachaad White,Tampa Bay Buccaneers,Green Bay Packers,Away,21,89,4.2,22,0,78%,90%
+15,Raheem Mostert,Miami Dolphins,New York Jets,Home,15,42,2.8,18,2,54%,55%
+15,Roschon Johnson,Chicago Bears,Cleveland Browns,Away,5,36,7.2,22,0,19%,41%
+15,Samaje Perine,Denver Broncos,Detroit Lions,Away,6,37,6.2,12,0,21%,45%
+15,Tommy DeVito,New York Giants,New Orleans Saints,Away,4,36,9.0,14,0,25%,60%
+15,Tony Pollard,Dallas Cowboys,Buffalo Bills,Away,11,52,4.7,11,0,55%,58%
+15,Travis Etienne,Jacksonville Jaguars,Baltimore Ravens,Home,10,31,3.1,7,0,59%,41%
+15,Trevor Lawrence,Jacksonville Jaguars,Baltimore Ravens,Home,4,41,10.3,13,0,24%,55%
+15,Trey Sermon,Indianapolis Colts,Pittsburgh Steelers,Home,17,88,5.2,19,0,50%,52%
+15,Ty Chandler,Minnesota Vikings,Cincinnati Bengals,Away,23,132,5.7,30,1,77%,92%
+15,Ty Johnson,Buffalo Bills,Dallas Cowboys,Home,9,54,6.0,11,0,18%,20%
+15,Tyjae Spears,Tennessee Titans,Houston Texans,Home,9,30,3.3,9,0,30%,45%
+15,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,Away,14,45,3.2,8,0,45%,87%
+15,Tyler Goodson,Indianapolis Colts,Pittsburgh Steelers,Home,11,69,6.3,31,0,32%,41%
+15,Will Levis,Tennessee Titans,Houston Texans,Home,4,25,6.3,11,1,13%,38%
+15,Zamir White,Las Vegas Raiders,Los Angeles Chargers,Home,17,69,4.1,15,1,65%,56%
+14,AJ Dillon,Green Bay Packers,New York Giants,Away,15,53,3.5,8,0,60%,43%
+14,Alexander Mattison,Minnesota Vikings,Las Vegas Raiders,Away,10,66,6.6,16,0,33%,50%
+14,Alvin Kamara,New Orleans Saints,Carolina Panthers,Home,12,56,4.7,9,1,48%,58%
+14,Austin Ekeler,Los Angeles Chargers,Denver Broncos,Home,10,51,5.1,9,1,53%,67%
+14,Bijan Robinson,Atlanta Falcons,Tampa Bay Buccaneers,Home,10,34,3.4,8,1,38%,35%
+14,Breece Hall,New York Jets,Houston Texans,Home,10,40,4.0,15,0,38%,51%
+14,Bryce Young,Carolina Panthers,New Orleans Saints,Away,3,40,13.3,21,0,8%,20%
+14,Chase Brown,Cincinnati Bengals,Indianapolis Colts,Home,8,25,3.1,10,0,25%,23%
+14,Chase Edmonds,Tampa Bay Buccaneers,Atlanta Falcons,Away,8,40,5.0,15,0,22%,27%
+14,Christian McCaffrey,San Francisco 49ers,Seattle Seahawks,Home,16,145,9.1,72,0,70%,84%
+14,Chuba Hubbard,Carolina Panthers,New Orleans Saints,Away,23,87,3.8,13,0,59%,43%
+14,Clyde Edwards-Helaire,Kansas City Chiefs,Buffalo Bills,Home,11,39,3.6,7,0,61%,48%
+14,D'Andre Swift,Philadelphia Eagles,Dallas Cowboys,Away,11,39,3.6,7,0,48%,37%
+14,D'Onta Foreman,Chicago Bears,Detroit Lions,Home,11,50,4.6,13,0,37%,35%
+14,David Montgomery,Detroit Lions,Chicago Bears,Away,10,66,6.6,13,0,42%,47%
+14,De'Von Achane,Miami Dolphins,Tennessee Titans,Home,7,47,6.7,15,0,23%,30%
+14,Derrick Henry,Tennessee Titans,Miami Dolphins,Away,17,34,2.0,6,2,59%,41%
+14,Devin Singletary,Houston Texans,New York Jets,Away,13,65,5.0,17,1,68%,80%
+14,Ezekiel Elliott,New England Patriots,Pittsburgh Steelers,Away,22,68,3.1,12,0,88%,84%
+14,Jahmyr Gibbs,Detroit Lions,Chicago Bears,Away,11,66,6.0,36,1,46%,47%
+14,Jaleel McLaughlin,Denver Broncos,Los Angeles Chargers,Away,5,25,5.0,9,0,16%,24%
+14,Jalen Hurts,Philadelphia Eagles,Dallas Cowboys,Away,5,30,6.0,11,0,22%,28%
+14,Jamaal Williams,New Orleans Saints,Carolina Panthers,Home,11,43,3.9,12,0,44%,44%
+14,James Cook,Buffalo Bills,Kansas City Chiefs,Away,10,58,5.8,15,0,36%,49%
+14,Javonte Williams,Denver Broncos,Los Angeles Chargers,Away,17,66,3.9,20,1,55%,62%
+14,Jayden Reed,Green Bay Packers,New York Giants,Away,4,38,9.5,20,1,16%,31%
+14,Jerome Ford,Cleveland Browns,Jacksonville Jaguars,Home,12,51,4.3,26,0,43%,62%
+14,Joe Mixon,Cincinnati Bengals,Indianapolis Colts,Home,21,79,3.8,18,1,66%,71%
+14,Josh Allen,Buffalo Bills,Kansas City Chiefs,Away,10,32,3.2,8,1,36%,27%
+14,Josh Jacobs,Las Vegas Raiders,Minnesota Vikings,Home,13,34,2.6,6,0,76%,61%
+14,Justin Fields,Chicago Bears,Detroit Lions,Home,12,58,4.8,19,1,40%,41%
+14,Kareem Hunt,Cleveland Browns,Jacksonville Jaguars,Home,10,27,2.7,9,1,36%,33%
+14,Keaton Mitchell,Baltimore Ravens,Los Angeles Rams,Home,9,54,6.0,27,0,35%,39%
+14,Kenny Gainwell,Philadelphia Eagles,Dallas Cowboys,Away,4,28,7.0,11,0,17%,26%
+14,Kyren Williams,Los Angeles Rams,Baltimore Ravens,Away,25,114,4.6,14,0,83%,89%
+14,Lamar Jackson,Baltimore Ravens,Los Angeles Rams,Home,11,70,6.4,16,0,42%,50%
+14,Miles Sanders,Carolina Panthers,New Orleans Saints,Away,10,74,7.4,48,0,26%,36%
+14,Mitchell Trubisky,Pittsburgh Steelers,New England Patriots,Home,8,30,3.8,15,1,29%,37%
+14,Najee Harris,Pittsburgh Steelers,New England Patriots,Home,12,29,2.4,7,0,43%,35%
+14,Patrick Taylor,Green Bay Packers,New York Giants,Away,4,30,7.5,14,0,16%,24%
+14,Rachaad White,Tampa Bay Buccaneers,Atlanta Falcons,Away,25,102,4.1,12,0,68%,69%
+14,Raheem Mostert,Miami Dolphins,Tennessee Titans,Home,21,96,4.6,15,2,68%,61%
+14,Rico Dowdle,Dallas Cowboys,Philadelphia Eagles,Home,12,46,3.8,9,1,38%,33%
+14,Saquon Barkley,New York Giants,Green Bay Packers,Home,20,86,4.3,34,2,59%,41%
+14,Tommy DeVito,New York Giants,Green Bay Packers,Home,10,71,7.1,26,0,29%,34%
+14,Tony Pollard,Dallas Cowboys,Philadelphia Eagles,Home,16,59,3.7,11,0,50%,43%
+14,Travis Etienne,Jacksonville Jaguars,Cleveland Browns,Away,14,35,2.5,16,1,70%,60%
+14,Ty Chandler,Minnesota Vikings,Las Vegas Raiders,Away,12,35,2.9,7,0,40%,27%
+14,Tyjae Spears,Tennessee Titans,Miami Dolphins,Away,7,29,4.1,8,0,24%,35%
+14,Tyler Allgeier,Atlanta Falcons,Tampa Bay Buccaneers,Home,9,40,4.4,9,0,35%,42%
+14,Wan'Dale Robinson,New York Giants,Green Bay Packers,Home,2,36,18.0,32,0,6%,17%
+14,Zach Charbonnet,Seattle Seahawks,San Francisco 49ers,Away,9,44,4.9,23,0,45%,63%
+14,Zack Moss,Indianapolis Colts,Cincinnati Bengals,Away,13,28,2.2,12,0,72%,61%
+13,AJ Dillon,Green Bay Packers,Kansas City Chiefs,Home,18,73,4.1,10,0,72%,57%
+13,Alvin Kamara,New Orleans Saints,Detroit Lions,Home,14,51,3.6,16,2,39%,45%
+13,Antonio Gibson,Washington Commanders,Miami Dolphins,Home,10,35,3.5,9,0,36%,25%
+13,Bijan Robinson,Atlanta Falcons,New York Jets,Away,18,53,2.9,12,0,53%,59%
+13,Brian Robinson,Washington Commanders,Miami Dolphins,Home,7,53,7.6,29,0,25%,38%
+13,CeeDee Lamb,Dallas Cowboys,Seattle Seahawks,Home,2,30,15.0,24,0,6%,22%
+13,Chase Brown,Cincinnati Bengals,Jacksonville Jaguars,Away,9,61,6.8,31,0,29%,39%
+13,Christian McCaffrey,San Francisco 49ers,Philadelphia Eagles,Away,17,93,5.5,16,1,61%,64%
+13,Christopher Rodriguez,Washington Commanders,Miami Dolphins,Home,7,29,4.1,15,0,25%,21%
+13,Chuba Hubbard,Carolina Panthers,Tampa Bay Buccaneers,Away,25,104,4.2,17,2,74%,78%
+13,Dalvin Cook,New York Jets,Atlanta Falcons,Home,9,35,3.9,14,0,36%,56%
+13,Dameon Pierce,Houston Texans,Denver Broncos,Home,15,41,2.7,22,1,50%,46%
+13,David Montgomery,Detroit Lions,New Orleans Saints,Away,18,56,3.1,13,1,60%,39%
+13,De'Von Achane,Miami Dolphins,Washington Commanders,Away,17,73,4.3,15,2,50%,59%
+13,Derrick Henry,Tennessee Titans,Indianapolis Colts,Home,21,102,4.9,22,2,50%,58%
+13,Devin Singletary,Houston Texans,Denver Broncos,Home,8,36,4.5,14,0,27%,40%
+13,Ezekiel Elliott,New England Patriots,Los Angeles Chargers,Home,17,52,3.1,8,0,53%,35%
+13,Isiah Pacheco,Kansas City Chiefs,Green Bay Packers,Away,18,110,6.1,26,1,72%,74%
+13,Jahmyr Gibbs,Detroit Lions,New Orleans Saints,Away,8,60,7.5,36,0,27%,42%
+13,James Conner,Arizona Cardinals,Pittsburgh Steelers,Away,25,105,4.2,29,2,66%,70%
+13,Javonte Williams,Denver Broncos,Houston Texans,Away,13,46,3.5,16,0,43%,39%
+13,Jaylen Warren,Pittsburgh Steelers,Arizona Cardinals,Home,9,59,6.6,18,0,29%,45%
+13,Joe Mixon,Cincinnati Bengals,Jacksonville Jaguars,Away,19,68,3.6,18,2,61%,44%
+13,Kareem Hunt,Cleveland Browns,Los Angeles Rams,Away,12,48,4.0,7,0,52%,55%
+13,Kyren Williams,Los Angeles Rams,Cleveland Browns,Home,21,88,4.2,18,1,84%,73%
+13,Michael Carter,Arizona Cardinals,Pittsburgh Steelers,Away,4,25,6.3,19,0,11%,17%
+13,Najee Harris,Pittsburgh Steelers,Arizona Cardinals,Home,16,63,3.9,11,0,52%,48%
+13,Patrick Mahomes,Kansas City Chiefs,Green Bay Packers,Away,4,26,6.5,10,0,16%,18%
+13,Patrick Taylor,Green Bay Packers,Kansas City Chiefs,Home,2,29,14.5,24,0,8%,22%
+13,Puka Nacua,Los Angeles Rams,Cleveland Browns,Home,2,34,17.0,31,0,8%,28%
+13,Rachaad White,Tampa Bay Buccaneers,Carolina Panthers,Home,20,84,4.2,30,1,71%,66%
+13,Raheem Mostert,Miami Dolphins,Washington Commanders,Away,11,43,3.9,12,1,32%,35%
+13,Rhamondre Stevenson,New England Patriots,Los Angeles Chargers,Home,9,39,4.3,9,0,28%,26%
+13,Russell Wilson,Denver Broncos,Houston Texans,Away,10,44,4.4,11,1,33%,37%
+13,Taysom Hill,New Orleans Saints,Detroit Lions,Home,13,59,4.5,21,1,36%,52%
+13,Tony Pollard,Dallas Cowboys,Seattle Seahawks,Home,20,68,3.4,16,1,59%,50%
+13,Travis Etienne,Jacksonville Jaguars,Cincinnati Bengals,Home,11,45,4.1,13,1,44%,63%
+13,Tyjae Spears,Tennessee Titans,Indianapolis Colts,Home,16,75,4.7,19,0,38%,42%
+13,Tyler Allgeier,Atlanta Falcons,New York Jets,Away,8,26,3.3,6,0,24%,29%
+13,Tyquan Thornton,New England Patriots,Los Angeles Chargers,Home,1,39,39.0,39,0,3%,26%
+13,Zach Charbonnet,Seattle Seahawks,Dallas Cowboys,Away,19,60,3.2,14,1,86%,83%
+13,Zack Moss,Indianapolis Colts,Tennessee Titans,Away,19,51,2.7,5,0,83%,93%
+12,AJ Dillon,Green Bay Packers,Detroit Lions,Away,14,43,3.1,17,0,64%,39%
+12,Alexander Mattison,Minnesota Vikings,Chicago Bears,Home,10,52,5.2,21,0,59%,71%
+12,Alvin Kamara,New Orleans Saints,Atlanta Falcons,Away,15,69,4.6,16,0,54%,47%
+12,Austin Ekeler,Los Angeles Chargers,Baltimore Ravens,Home,10,32,3.2,6,0,53%,37%
+12,Bijan Robinson,Atlanta Falcons,New Orleans Saints,Home,16,91,5.7,17,1,39%,40%
+12,Breece Hall,New York Jets,Miami Dolphins,Home,7,25,3.6,11,0,70%,86%
+12,Brian Robinson,Washington Commanders,Dallas Cowboys,Away,15,53,3.5,14,0,56%,49%
+12,C.J. Stroud,Houston Texans,Jacksonville Jaguars,Home,6,47,7.8,16,1,33%,52%
+12,Christian McCaffrey,San Francisco 49ers,Seattle Seahawks,Away,19,114,6.0,27,2,58%,67%
+12,Chuba Hubbard,Carolina Panthers,Tennessee Titans,Away,14,45,3.2,15,1,44%,47%
+12,Cordarrelle Patterson,Atlanta Falcons,New Orleans Saints,Home,8,43,5.4,12,0,20%,19%
+12,D'Andre Swift,Philadelphia Eagles,Buffalo Bills,Home,14,80,5.7,36,0,44%,43%
+12,David Montgomery,Detroit Lions,Green Bay Packers,Home,15,71,4.7,15,1,48%,51%
+12,Derrick Henry,Tennessee Titans,Carolina Panthers,Home,18,76,4.2,18,2,75%,95%
+12,Desmond Ridder,Atlanta Falcons,New Orleans Saints,Home,7,30,4.3,16,0,17%,13%
+12,Elijah Mitchell,San Francisco 49ers,Seattle Seahawks,Away,7,39,5.6,13,0,21%,23%
+12,Ezekiel Elliott,New England Patriots,New York Giants,Away,9,46,5.1,13,0,29%,31%
+12,Gus Edwards,Baltimore Ravens,Los Angeles Chargers,Away,8,26,3.3,5,0,23%,13%
+12,Isiah Pacheco,Kansas City Chiefs,Las Vegas Raiders,Away,15,55,3.7,8,2,65%,80%
+12,Jahmyr Gibbs,Detroit Lions,Green Bay Packers,Home,11,54,4.9,23,0,35%,39%
+12,Jalen Hurts,Philadelphia Eagles,Buffalo Bills,Home,14,65,4.6,16,2,44%,35%
+12,James Conner,Arizona Cardinals,Los Angeles Rams,Home,6,27,4.5,14,0,40%,37%
+12,James Cook,Buffalo Bills,Philadelphia Eagles,Away,16,43,2.7,11,0,40%,25%
+12,Javonte Williams,Denver Broncos,Cleveland Browns,Home,18,65,3.6,15,0,46%,38%
+12,Jaylen Warren,Pittsburgh Steelers,Cincinnati Bengals,Away,13,49,3.8,9,0,39%,32%
+12,Jeffery Wilson,Miami Dolphins,New York Jets,Away,11,56,5.1,14,0,30%,34%
+12,Jerome Ford,Cleveland Browns,Denver Broncos,Away,9,65,7.2,19,0,38%,61%
+12,Jonathan Taylor,Indianapolis Colts,Tampa Bay Buccaneers,Home,15,91,6.1,17,2,56%,59%
+12,Jordan Love,Green Bay Packers,Detroit Lions,Away,3,39,13.0,37,0,14%,36%
+12,Josh Allen,Buffalo Bills,Philadelphia Eagles,Away,9,81,9.0,19,2,23%,47%
+12,Josh Jacobs,Las Vegas Raiders,Kansas City Chiefs,Home,20,110,5.5,63,1,87%,89%
+12,Justice Hill,Baltimore Ravens,Los Angeles Chargers,Away,5,31,6.2,18,0,14%,16%
+12,Justin Fields,Chicago Bears,Minnesota Vikings,Away,12,59,4.9,14,0,43%,50%
+12,Justin Herbert,Los Angeles Chargers,Baltimore Ravens,Home,4,47,11.8,35,0,21%,55%
+12,Keaton Mitchell,Baltimore Ravens,Los Angeles Chargers,Away,9,64,7.1,29,0,26%,32%
+12,Kenny Gainwell,Philadelphia Eagles,Buffalo Bills,Home,2,26,13.0,23,0,6%,14%
+12,Kyren Williams,Los Angeles Rams,Arizona Cardinals,Away,16,143,8.9,56,0,48%,63%
+12,Lamar Jackson,Baltimore Ravens,Los Angeles Chargers,Away,11,39,3.6,8,0,31%,20%
+12,Latavius Murray,Buffalo Bills,Philadelphia Eagles,Away,9,30,3.3,13,0,23%,17%
+12,Lynn Bowden,New Orleans Saints,Atlanta Falcons,Away,2,40,20.0,29,0,7%,27%
+12,Miles Sanders,Carolina Panthers,Tennessee Titans,Away,15,28,1.9,15,0,47%,29%
+12,Najee Harris,Pittsburgh Steelers,Cincinnati Bengals,Away,15,99,6.6,22,1,45%,65%
+12,Rachaad White,Tampa Bay Buccaneers,Indianapolis Colts,Away,15,100,6.7,38,0,79%,80%
+12,Raheem Mostert,Miami Dolphins,New York Jets,Away,20,94,4.7,34,2,54%,56%
+12,Rhamondre Stevenson,New England Patriots,New York Giants,Away,21,98,4.7,15,1,68%,67%
+12,Roschon Johnson,Chicago Bears,Minnesota Vikings,Away,10,35,3.5,7,0,36%,30%
+12,Royce Freeman,Los Angeles Rams,Arizona Cardinals,Away,13,77,5.9,23,1,39%,34%
+12,Russell Wilson,Denver Broncos,Cleveland Browns,Home,11,34,3.1,19,1,28%,20%
+12,Samaje Perine,Denver Broncos,Cleveland Browns,Home,7,55,7.9,24,1,18%,33%
+12,Saquon Barkley,New York Giants,New England Patriots,Home,12,46,3.8,19,0,63%,79%
+12,Taysom Hill,New Orleans Saints,Atlanta Falcons,Away,7,26,3.7,10,0,25%,18%
+12,Tony Pollard,Dallas Cowboys,Washington Commanders,Home,13,79,6.1,27,1,72%,79%
+12,Travis Etienne,Jacksonville Jaguars,Houston Texans,Away,20,56,2.8,20,0,67%,69%
+12,Tyler Allgeier,Atlanta Falcons,New Orleans Saints,Home,10,64,6.4,14,0,24%,28%
+12,Zach Charbonnet,Seattle Seahawks,San Francisco 49ers,Home,14,47,3.4,10,0,67%,53%
+12,Zack Moss,Indianapolis Colts,Tampa Bay Buccaneers,Home,8,55,6.9,16,0,30%,35%
+12,Zay Flowers,Baltimore Ravens,Los Angeles Chargers,Away,1,37,37.0,37,1,3%,19%
+11,AJ Dillon,Green Bay Packers,Los Angeles Chargers,Home,14,29,2.1,6,0,50%,28%
+11,Alexander Mattison,Minnesota Vikings,Denver Broncos,Away,18,81,4.5,15,0,50%,46%
+11,Austin Ekeler,Los Angeles Chargers,Green Bay Packers,Away,10,64,6.4,37,0,42%,43%
+11,Brian Robinson,Washington Commanders,New York Giants,Home,17,73,4.3,18,0,61%,42%
+11,Chris Moore,Tennessee Titans,Jacksonville Jaguars,Away,1,38,38.0,38,0,5%,41%
+11,Christian McCaffrey,San Francisco 49ers,Tampa Bay Buccaneers,Home,21,78,3.7,12,0,70%,68%
+11,Christopher Rodriguez,Washington Commanders,New York Giants,Home,6,43,7.2,16,0,21%,25%
+11,Chuba Hubbard,Carolina Panthers,Dallas Cowboys,Home,10,57,5.7,14,0,43%,52%
+11,D'Andre Swift,Philadelphia Eagles,Kansas City Chiefs,Away,12,76,6.3,35,1,44%,67%
+11,David Montgomery,Detroit Lions,Chicago Bears,Home,12,76,6.3,20,1,55%,66%
+11,Derrick Henry,Tennessee Titans,Jacksonville Jaguars,Away,10,38,3.8,16,0,53%,41%
+11,Devin Singletary,Houston Texans,Arizona Cardinals,Home,22,112,5.1,21,1,88%,101%
+11,Gus Edwards,Baltimore Ravens,Cincinnati Bengals,Home,12,62,5.2,26,2,39%,39%
+11,Isiah Pacheco,Kansas City Chiefs,Philadelphia Eagles,Home,19,89,4.7,24,0,63%,53%
+11,Jahmyr Gibbs,Detroit Lions,Chicago Bears,Home,8,36,4.5,14,1,36%,31%
+11,Jake Browning,Cincinnati Bengals,Baltimore Ravens,Away,4,40,10.0,19,0,17%,29%
+11,Jalen Hurts,Philadelphia Eagles,Kansas City Chiefs,Away,12,29,2.4,10,2,44%,25%
+11,James Conner,Arizona Cardinals,Houston Texans,Away,14,62,4.4,14,0,56%,50%
+11,James Cook,Buffalo Bills,New York Jets,Home,17,73,4.3,12,0,45%,56%
+11,Javonte Williams,Denver Broncos,Minnesota Vikings,Home,11,37,3.4,15,0,73%,80%
+11,Jayden Reed,Green Bay Packers,Los Angeles Chargers,Home,3,46,15.3,32,1,11%,45%
+11,Jaylen Warren,Pittsburgh Steelers,Cleveland Browns,Away,9,129,14.3,74,1,35%,75%
+11,Jerome Ford,Cleveland Browns,Pittsburgh Steelers,Home,12,31,2.6,13,1,41%,32%
+11,Joe Mixon,Cincinnati Bengals,Baltimore Ravens,Away,16,69,4.3,14,0,70%,51%
+11,Josh Jacobs,Las Vegas Raiders,Miami Dolphins,Away,14,39,2.8,9,0,88%,108%
+11,Justin Fields,Chicago Bears,Detroit Lions,Away,18,104,5.8,29,0,39%,57%
+11,Justin Herbert,Los Angeles Chargers,Green Bay Packers,Away,8,73,9.1,28,0,33%,49%
+11,Kareem Hunt,Cleveland Browns,Pittsburgh Steelers,Home,12,36,3.0,16,0,41%,38%
+11,Keaton Mitchell,Baltimore Ravens,Cincinnati Bengals,Home,8,33,4.1,21,0,26%,21%
+11,Khalil Herbert,Chicago Bears,Detroit Lions,Away,16,35,2.2,9,0,35%,19%
+11,Kyler Murray,Arizona Cardinals,Houston Texans,Away,7,51,7.3,22,1,28%,41%
+11,Lamar Jackson,Baltimore Ravens,Cincinnati Bengals,Home,9,54,6.0,8,0,29%,34%
+11,Latavius Murray,Buffalo Bills,New York Jets,Home,10,35,3.5,7,0,26%,27%
+11,Miles Sanders,Carolina Panthers,Dallas Cowboys,Home,11,50,4.6,15,0,48%,45%
+11,Najee Harris,Pittsburgh Steelers,Cleveland Browns,Away,12,35,2.9,17,0,46%,20%
+11,Patrick Mahomes,Kansas City Chiefs,Philadelphia Eagles,Home,6,38,6.3,14,0,20%,23%
+11,Rachaad White,Tampa Bay Buccaneers,San Francisco 49ers,Away,9,30,3.3,7,1,50%,45%
+11,Raheem Mostert,Miami Dolphins,Las Vegas Raiders,Home,22,86,3.9,10,0,79%,87%
+11,Roschon Johnson,Chicago Bears,Detroit Lions,Away,6,30,5.0,14,0,13%,16%
+11,Royce Freeman,Los Angeles Rams,Seattle Seahawks,Home,17,73,4.3,15,0,63%,89%
+11,Sam Howell,Washington Commanders,New York Giants,Home,3,35,11.7,20,1,11%,20%
+11,Saquon Barkley,New York Giants,Washington Commanders,Away,14,83,5.9,36,0,74%,91%
+11,Tony Pollard,Dallas Cowboys,Carolina Panthers,Away,12,61,5.1,22,1,44%,57%
+11,Travis Etienne,Jacksonville Jaguars,Tennessee Titans,Home,14,52,3.7,11,0,39%,41%
+11,Ty Chandler,Minnesota Vikings,Denver Broncos,Away,10,73,7.3,31,0,28%,42%
+11,Zach Charbonnet,Seattle Seahawks,Los Angeles Rams,Away,15,47,3.1,11,0,71%,69%
+10,Aaron Jones,Green Bay Packers,Pittsburgh Steelers,Away,13,35,2.7,9,0,54%,30%
+10,AJ Dillon,Green Bay Packers,Pittsburgh Steelers,Away,9,70,7.8,40,0,38%,60%
+10,Alexander Mattison,Minnesota Vikings,New Orleans Saints,Home,8,27,3.4,9,0,24%,22%
+10,Alvin Kamara,New Orleans Saints,Minnesota Vikings,Away,9,42,4.7,9,0,60%,65%
+10,Austin Ekeler,Los Angeles Chargers,Detroit Lions,Home,19,67,3.5,17,1,68%,68%
+10,Bijan Robinson,Atlanta Falcons,Arizona Cardinals,Away,22,95,4.3,17,1,54%,52%
+10,Breece Hall,New York Jets,Las Vegas Raiders,Away,13,28,2.2,7,0,62%,26%
+10,Brian Robinson,Washington Commanders,Seattle Seahawks,Away,8,38,4.8,15,0,57%,56%
+10,Christian McCaffrey,San Francisco 49ers,Jacksonville Jaguars,Away,16,95,5.9,19,0,53%,66%
+10,D'Onta Foreman,Chicago Bears,Carolina Panthers,Home,21,80,3.8,11,1,57%,60%
+10,Dalvin Cook,New York Jets,Las Vegas Raiders,Away,4,26,6.5,10,0,19%,24%
+10,David Montgomery,Detroit Lions,Los Angeles Chargers,Away,12,116,9.7,75,1,39%,58%
+10,Deebo Samuel,San Francisco 49ers,Jacksonville Jaguars,Away,3,29,9.7,23,1,10%,20%
+10,Deshaun Watson,Cleveland Browns,Baltimore Ravens,Away,8,37,4.6,16,0,22%,21%
+10,Devin Singletary,Houston Texans,Cincinnati Bengals,Away,30,150,5.0,22,1,88%,80%
+10,Ezekiel Elliott,New England Patriots,Indianapolis Colts,Home,13,54,4.2,9,0,36%,32%
+10,Jahmyr Gibbs,Detroit Lions,Los Angeles Chargers,Away,14,77,5.5,35,2,45%,39%
+10,James Conner,Arizona Cardinals,Atlanta Falcons,Home,16,73,4.6,11,0,62%,60%
+10,James Cook,Buffalo Bills,Denver Broncos,Home,12,109,9.1,42,0,46%,57%
+10,Javonte Williams,Denver Broncos,Buffalo Bills,Away,21,79,3.8,11,0,55%,65%
+10,Jaylen Warren,Pittsburgh Steelers,Green Bay Packers,Home,15,101,6.7,20,1,42%,49%
+10,Jerome Ford,Cleveland Browns,Baltimore Ravens,Away,17,107,6.3,28,0,47%,60%
+10,Joe Mixon,Cincinnati Bengals,Houston Texans,Home,11,46,4.2,15,1,69%,70%
+10,Jonathan Taylor,Indianapolis Colts,New England Patriots,Away,23,69,3.0,10,1,88%,99%
+10,Josh Jacobs,Las Vegas Raiders,New York Jets,Home,27,116,4.3,40,0,84%,78%
+10,Joshua Dobbs,Minnesota Vikings,New Orleans Saints,Home,8,44,5.5,11,1,24%,35%
+10,Kareem Hunt,Cleveland Browns,Baltimore Ravens,Away,10,32,3.2,13,1,28%,18%
+10,Keaton Mitchell,Baltimore Ravens,Cleveland Browns,Home,3,34,11.3,39,1,13%,32%
+10,Kenneth Walker,Seattle Seahawks,Washington Commanders,Home,19,63,3.3,13,0,73%,53%
+10,Kyler Murray,Arizona Cardinals,Atlanta Falcons,Home,6,33,5.5,13,1,23%,27%
+10,Lamar Jackson,Baltimore Ravens,Cleveland Browns,Home,8,41,5.1,9,0,33%,39%
+10,Latavius Murray,Buffalo Bills,Denver Broncos,Home,9,68,7.6,21,1,35%,35%
+10,Mac Jones,New England Patriots,Indianapolis Colts,Home,3,25,8.3,15,0,8%,15%
+10,Najee Harris,Pittsburgh Steelers,Green Bay Packers,Home,16,82,5.1,24,1,44%,40%
+10,Rachaad White,Tampa Bay Buccaneers,Tennessee Titans,Home,20,51,2.6,11,0,69%,66%
+10,Rhamondre Stevenson,New England Patriots,Indianapolis Colts,Home,20,88,4.4,10,0,56%,53%
+10,Rico Dowdle,Dallas Cowboys,New York Giants,Home,12,79,6.6,21,1,36%,47%
+10,Russell Wilson,Denver Broncos,Buffalo Bills,Away,9,30,3.3,10,0,24%,25%
+10,Saquon Barkley,New York Giants,Dallas Cowboys,Away,13,66,5.1,21,0,57%,59%
+10,Taylor Heinicke,Atlanta Falcons,Arizona Cardinals,Away,4,34,8.5,16,0,10%,18%
+10,Tommy DeVito,New York Giants,Dallas Cowboys,Away,7,41,5.9,19,0,30%,37%
+10,Tony Pollard,Dallas Cowboys,New York Giants,Home,15,55,3.7,15,0,45%,33%
+10,Travis Etienne,Jacksonville Jaguars,San Francisco 49ers,Home,9,35,3.9,16,0,53%,59%
+10,Ty Chandler,Minnesota Vikings,New Orleans Saints,Home,15,45,3.0,13,1,45%,36%
+10,Tyler Allgeier,Atlanta Falcons,Arizona Cardinals,Away,9,31,3.4,8,0,22%,17%
+10,Zach Charbonnet,Seattle Seahawks,Washington Commanders,Home,6,44,7.3,12,0,23%,37%
+10,Zach Wilson,New York Jets,Las Vegas Raiders,Away,4,54,13.5,20,0,19%,50%
+9,Aaron Jones,Green Bay Packers,Los Angeles Rams,Home,20,73,3.7,9,1,53%,40%
+9,AJ Dillon,Green Bay Packers,Los Angeles Rams,Home,9,40,4.4,12,0,24%,22%
+9,Alexander Mattison,Minnesota Vikings,Atlanta Falcons,Away,16,44,2.8,8,0,48%,30%
+9,Alvin Kamara,New Orleans Saints,Chicago Bears,Home,9,26,2.9,13,0,33%,30%
+9,Antonio Gibson,Washington Commanders,New England Patriots,Away,6,34,5.7,12,0,21%,27%
+9,Austin Ekeler,Los Angeles Chargers,New York Jets,Away,14,47,3.4,20,2,67%,56%
+9,Bijan Robinson,Atlanta Falcons,Minnesota Vikings,Home,11,51,4.6,14,0,39%,46%
+9,Breece Hall,New York Jets,Los Angeles Chargers,Home,16,50,3.1,10,0,80%,78%
+9,Brian Robinson,Washington Commanders,New England Patriots,Away,18,63,3.5,9,1,62%,51%
+9,Bryce Young,Carolina Panthers,Indianapolis Colts,Home,5,41,8.2,13,0,18%,30%
+9,Cam Akers,Minnesota Vikings,Atlanta Falcons,Away,8,25,3.1,19,0,24%,17%
+9,Chuba Hubbard,Carolina Panthers,Indianapolis Colts,Home,16,58,3.6,20,0,57%,42%
+9,Clayton Tune,Arizona Cardinals,Cleveland Browns,Away,5,28,5.6,11,0,24%,68%
+9,D'Andre Swift,Philadelphia Eagles,Dallas Cowboys,Home,18,43,2.4,8,0,55%,39%
+9,D'Onta Foreman,Chicago Bears,New Orleans Saints,Away,20,83,4.2,22,0,63%,53%
+9,Derrick Henry,Tennessee Titans,Pittsburgh Steelers,Away,17,75,4.4,15,1,68%,71%
+9,Devin Singletary,Houston Texans,Tampa Bay Buccaneers,Home,13,26,2.0,9,0,76%,49%
+9,Emanuel Wilson,Green Bay Packers,Los Angeles Rams,Home,4,43,10.8,31,0,11%,23%
+9,Gus Edwards,Baltimore Ravens,Seattle Seahawks,Home,5,52,10.4,42,2,12%,17%
+9,Isiah Pacheco,Kansas City Chiefs,Miami Dolphins,Home,16,66,4.1,9,0,67%,71%
+9,Jalen Hurts,Philadelphia Eagles,Dallas Cowboys,Home,10,36,3.6,6,1,30%,33%
+9,Jaylen Warren,Pittsburgh Steelers,Tennessee Titans,Home,11,88,8.0,22,0,37%,53%
+9,Jerome Ford,Cleveland Browns,Arizona Cardinals,Home,20,44,2.2,9,0,50%,39%
+9,Joe Mixon,Cincinnati Bengals,Buffalo Bills,Home,14,37,2.6,12,1,64%,69%
+9,Jonathan Taylor,Indianapolis Colts,Carolina Panthers,Away,18,47,2.6,13,0,60%,60%
+9,Josh Allen,Buffalo Bills,Cincinnati Bengals,Away,8,44,5.5,11,1,50%,65%
+9,Josh Jacobs,Las Vegas Raiders,New York Giants,Home,26,98,3.8,15,2,76%,78%
+9,Joshua Dobbs,Minnesota Vikings,Atlanta Falcons,Away,7,66,9.4,22,1,21%,45%
+9,Justice Hill,Baltimore Ravens,Seattle Seahawks,Home,13,40,3.1,9,0,32%,13%
+9,Kareem Hunt,Cleveland Browns,Arizona Cardinals,Home,14,38,2.7,10,1,35%,34%
+9,Keaton Mitchell,Baltimore Ravens,Seattle Seahawks,Home,9,138,15.3,60,1,22%,46%
+9,Lamar Jackson,Baltimore Ravens,Seattle Seahawks,Home,10,60,6.0,23,0,24%,20%
+9,Miles Sanders,Carolina Panthers,Indianapolis Colts,Home,6,39,6.5,11,0,21%,28%
+9,Najee Harris,Pittsburgh Steelers,Tennessee Titans,Home,16,69,4.3,25,1,53%,42%
+9,Rachaad White,Tampa Bay Buccaneers,Houston Texans,Away,20,73,3.7,16,2,65%,90%
+9,Raheem Mostert,Miami Dolphins,Kansas City Chiefs,Away,12,85,7.1,25,1,57%,73%
+9,Rhamondre Stevenson,New England Patriots,Washington Commanders,Home,9,87,9.7,64,1,47%,81%
+9,Royce Freeman,Los Angeles Rams,Green Bay Packers,Away,12,32,2.7,7,0,46%,47%
+9,Sam Howell,Washington Commanders,New England Patriots,Away,5,27,5.4,24,0,17%,22%
+9,Saquon Barkley,New York Giants,Las Vegas Raiders,Away,16,90,5.6,26,0,64%,73%
+9,Taysom Hill,New Orleans Saints,Chicago Bears,Home,11,52,4.7,14,0,41%,60%
+9,Tony Pollard,Dallas Cowboys,Philadelphia Eagles,Away,12,51,4.3,15,0,57%,70%
+9,Tyler Allgeier,Atlanta Falcons,Minnesota Vikings,Home,12,39,3.3,13,1,43%,35%
+9,Tyson Bagent,Chicago Bears,New Orleans Saints,Away,8,70,8.8,20,0,25%,45%
+9,Zack Moss,Indianapolis Colts,Carolina Panthers,Away,7,26,3.7,8,0,23%,33%
+8,Aaron Jones,Green Bay Packers,Minnesota Vikings,Home,7,29,4.1,7,0,41%,39%
+8,Alexander Mattison,Minnesota Vikings,Green Bay Packers,Away,16,31,1.9,10,0,52%,50%
+8,Alvin Kamara,New Orleans Saints,Indianapolis Colts,Away,17,59,3.5,16,1,47%,37%
+8,Austin Ekeler,Los Angeles Chargers,Chicago Bears,Home,15,29,1.9,7,0,60%,54%
+8,Bijan Robinson,Atlanta Falcons,Tennessee Titans,Away,11,62,5.6,25,1,42%,44%
+8,Brian Robinson,Washington Commanders,Philadelphia Eagles,Home,10,59,5.9,29,0,63%,70%
+8,Brock Purdy,San Francisco 49ers,Cincinnati Bengals,Home,6,57,9.5,16,0,26%,50%
+8,Christian McCaffrey,San Francisco 49ers,Cincinnati Bengals,Home,12,54,4.5,16,1,52%,48%
+8,Chuba Hubbard,Carolina Panthers,Houston Texans,Home,15,28,1.9,8,0,63%,64%
+8,Craig Reynolds,Detroit Lions,Las Vegas Raiders,Home,14,74,5.3,13,0,33%,33%
+8,D'Andre Swift,Philadelphia Eagles,Washington Commanders,Away,16,57,3.6,9,1,73%,97%
+8,D'Onta Foreman,Chicago Bears,Los Angeles Chargers,Away,9,34,3.8,12,0,36%,47%
+8,Dameon Pierce,Houston Texans,Carolina Panthers,Away,12,46,3.8,16,0,40%,42%
+8,Darrell Henderson,Los Angeles Rams,Dallas Cowboys,Away,12,31,2.6,7,0,50%,34%
+8,Derrick Henry,Tennessee Titans,Atlanta Falcons,Home,22,101,4.6,14,0,61%,68%
+8,Desmond Ridder,Atlanta Falcons,Tennessee Titans,Away,3,26,8.7,23,0,12%,19%
+8,Devin Singletary,Houston Texans,Carolina Panthers,Away,10,30,3.0,9,0,33%,27%
+8,Emari Demercado,Arizona Cardinals,Baltimore Ravens,Home,20,78,3.9,13,0,63%,60%
+8,Ezekiel Elliott,New England Patriots,Miami Dolphins,Away,7,36,5.1,17,0,37%,47%
+8,Gus Edwards,Baltimore Ravens,Arizona Cardinals,Away,19,80,4.2,10,3,66%,62%
+8,Isiah Pacheco,Kansas City Chiefs,Denver Broncos,Away,8,40,5.0,19,0,50%,65%
+8,Jahmyr Gibbs,Detroit Lions,Las Vegas Raiders,Home,26,152,5.9,27,1,60%,68%
+8,Jaleel McLaughlin,Denver Broncos,Kansas City Chiefs,Home,4,33,8.3,13,0,10%,22%
+8,Jamaal Williams,New Orleans Saints,Indianapolis Colts,Away,6,30,5.0,10,0,17%,19%
+8,James Cook,Buffalo Bills,Tampa Bay Buccaneers,Home,14,67,4.8,18,0,54%,58%
+8,Javonte Williams,Denver Broncos,Kansas City Chiefs,Home,27,85,3.2,15,0,68%,56%
+8,Jerome Ford,Cleveland Browns,Seattle Seahawks,Away,9,37,4.1,12,0,23%,24%
+8,Joe Burrow,Cincinnati Bengals,San Francisco 49ers,Away,6,43,7.2,20,0,22%,32%
+8,Joe Mixon,Cincinnati Bengals,San Francisco 49ers,Away,16,87,5.4,20,1,59%,65%
+8,Jonathan Taylor,Indianapolis Colts,New Orleans Saints,Home,12,95,7.9,42,0,50%,58%
+8,Jordan Love,Green Bay Packers,Minnesota Vikings,Home,4,34,8.5,15,0,24%,46%
+8,Josh Allen,Buffalo Bills,Tampa Bay Buccaneers,Home,7,41,5.9,13,1,27%,36%
+8,Josh Jacobs,Las Vegas Raiders,Detroit Lions,Away,15,61,4.1,9,1,83%,76%
+8,Joshua Dobbs,Arizona Cardinals,Baltimore Ravens,Home,6,26,4.3,13,1,19%,20%
+8,Kareem Hunt,Cleveland Browns,Seattle Seahawks,Away,14,55,3.9,9,1,35%,35%
+8,Kenneth Walker,Seattle Seahawks,Cleveland Browns,Home,8,66,8.3,45,0,47%,58%
+8,Phillip Walker,Cleveland Browns,Seattle Seahawks,Away,6,27,4.5,9,0,15%,17%
+8,Pierre Strong,Cleveland Browns,Seattle Seahawks,Away,10,41,4.1,12,0,25%,26%
+8,Rachaad White,Tampa Bay Buccaneers,Buffalo Bills,Away,9,39,4.3,15,0,53%,50%
+8,Raheem Mostert,Miami Dolphins,New England Patriots,Home,13,46,3.5,10,1,50%,59%
+8,Rhamondre Stevenson,New England Patriots,Miami Dolphins,Away,10,39,3.9,11,0,53%,51%
+8,Royce Freeman,Los Angeles Rams,Dallas Cowboys,Away,9,44,4.9,10,1,38%,48%
+8,Russell Wilson,Denver Broncos,Kansas City Chiefs,Home,8,30,3.8,8,0,20%,20%
+8,Saquon Barkley,New York Giants,New York Jets,Home,36,128,3.6,34,0,69%,63%
+8,Taysom Hill,New Orleans Saints,Indianapolis Colts,Away,9,63,7.0,20,2,25%,39%
+8,Tony Pollard,Dallas Cowboys,Los Angeles Rams,Home,12,53,4.4,13,0,46%,52%
+8,Travis Etienne,Jacksonville Jaguars,Pittsburgh Steelers,Away,24,79,3.3,13,0,80%,75%
+8,Tyjae Spears,Tennessee Titans,Atlanta Falcons,Home,3,27,9.0,23,0,8%,18%
+8,Tyler Allgeier,Atlanta Falcons,Tennessee Titans,Away,8,31,3.9,9,0,31%,22%
+8,Tyrod Taylor,New York Giants,New York Jets,Home,5,33,6.6,17,0,10%,16%
+8,Zach Charbonnet,Seattle Seahawks,Cleveland Browns,Home,5,53,10.6,21,0,29%,46%
+8,Zach Wilson,New York Jets,New York Giants,Away,4,25,6.3,17,0,18%,43%
+8,Zack Moss,Indianapolis Colts,New Orleans Saints,Home,11,66,6.0,41,1,46%,40%
+7,Aaron Jones,Green Bay Packers,Denver Broncos,Away,8,35,4.4,11,0,28%,26%
+7,AJ Dillon,Green Bay Packers,Denver Broncos,Away,15,61,4.1,15,0,52%,45%
+7,Alexander Mattison,Minnesota Vikings,San Francisco 49ers,Home,8,39,4.9,19,0,38%,53%
+7,Alvin Kamara,New Orleans Saints,Jacksonville Jaguars,Home,17,62,3.7,17,0,55%,55%
+7,Austin Ekeler,Los Angeles Chargers,Kansas City Chiefs,Away,14,45,3.2,6,0,54%,32%
+7,Baker Mayfield,Tampa Bay Buccaneers,Atlanta Falcons,Home,3,32,10.7,31,0,15%,44%
+7,Cam Akers,Minnesota Vikings,San Francisco 49ers,Home,10,31,3.1,13,0,48%,42%
+7,Christian McCaffrey,San Francisco 49ers,Minnesota Vikings,Away,15,45,3.0,9,1,68%,69%
+7,Christopher Rodriguez,Washington Commanders,New York Giants,Away,7,31,4.4,9,0,37%,41%
+7,Cordarrelle Patterson,Atlanta Falcons,Tampa Bay Buccaneers,Away,10,56,5.6,18,0,26%,36%
+7,D'Andre Swift,Philadelphia Eagles,Miami Dolphins,Home,15,62,4.1,22,0,44%,63%
+7,D'Onta Foreman,Chicago Bears,Las Vegas Raiders,Home,16,89,5.6,14,2,42%,51%
+7,Darrell Henderson,Los Angeles Rams,Pittsburgh Steelers,Home,18,61,3.4,16,1,58%,45%
+7,Darrynton Evans,Chicago Bears,Las Vegas Raiders,Home,14,48,3.4,11,0,37%,28%
+7,Desmond Ridder,Atlanta Falcons,Tampa Bay Buccaneers,Away,6,38,6.3,19,1,16%,24%
+7,Emari Demercado,Arizona Cardinals,Seattle Seahawks,Away,13,58,4.5,18,0,52%,46%
+7,Ezekiel Elliott,New England Patriots,Buffalo Bills,Home,11,31,2.8,10,1,46%,32%
+7,Gardner Minshew,Indianapolis Colts,Cleveland Browns,Home,3,29,9.7,17,2,8%,17%
+7,Gus Edwards,Baltimore Ravens,Detroit Lions,Home,14,64,4.6,20,1,52%,44%
+7,Isiah Pacheco,Kansas City Chiefs,Los Angeles Chargers,Home,13,32,2.5,6,0,62%,47%
+7,Jahmyr Gibbs,Detroit Lions,Baltimore Ravens,Away,11,68,6.2,21,1,79%,81%
+7,Jaleel McLaughlin,Denver Broncos,Green Bay Packers,Home,5,45,9.0,23,0,20%,31%
+7,James Cook,Buffalo Bills,New England Patriots,Away,13,56,4.3,20,0,54%,69%
+7,Javonte Williams,Denver Broncos,Green Bay Packers,Home,15,82,5.5,21,0,60%,57%
+7,Jaylen Warren,Pittsburgh Steelers,Los Angeles Rams,Away,6,32,5.3,13,1,21%,37%
+7,Jerome Ford,Cleveland Browns,Indianapolis Colts,Away,11,74,6.7,69,1,33%,49%
+7,Jonathan Taylor,Indianapolis Colts,Cleveland Browns,Home,18,75,4.2,24,1,45%,45%
+7,Josh Jacobs,Las Vegas Raiders,Chicago Bears,Away,11,35,3.2,11,0,79%,90%
+7,Joshua Dobbs,Arizona Cardinals,Seattle Seahawks,Away,7,43,6.1,25,1,28%,34%
+7,Joshua Kelley,Los Angeles Chargers,Kansas City Chiefs,Away,7,75,10.7,49,1,27%,54%
+7,Justice Hill,Baltimore Ravens,Detroit Lions,Home,4,46,11.5,27,0,15%,32%
+7,Kareem Hunt,Cleveland Browns,Indianapolis Colts,Away,10,31,3.1,11,2,30%,21%
+7,Kenneth Walker,Seattle Seahawks,Arizona Cardinals,Home,26,105,4.0,25,0,81%,91%
+7,Lamar Jackson,Baltimore Ravens,Detroit Lions,Home,9,36,4.0,10,1,33%,25%
+7,Najee Harris,Pittsburgh Steelers,Los Angeles Rams,Away,14,53,3.8,10,1,48%,62%
+7,Patrick Mahomes,Kansas City Chiefs,Los Angeles Chargers,Home,4,29,7.3,23,0,19%,43%
+7,Pierre Strong,Cleveland Browns,Indianapolis Colts,Away,8,25,3.1,13,0,24%,17%
+7,Rachaad White,Tampa Bay Buccaneers,Atlanta Falcons,Home,13,34,2.6,13,0,65%,47%
+7,Raheem Mostert,Miami Dolphins,Philadelphia Eagles,Away,9,45,5.0,21,0,75%,100%
+7,Rhamondre Stevenson,New England Patriots,Buffalo Bills,Home,9,34,3.8,14,0,38%,35%
+7,Royce Freeman,Los Angeles Rams,Pittsburgh Steelers,Home,12,66,5.5,15,0,39%,49%
+7,Saquon Barkley,New York Giants,Washington Commanders,Home,21,77,3.7,12,0,66%,73%
+7,Travis Etienne,Jacksonville Jaguars,New Orleans Saints,Away,14,53,3.8,17,2,54%,47%
+7,Trevor Lawrence,Jacksonville Jaguars,New Orleans Saints,Away,8,59,7.4,26,0,31%,52%
+7,Tyler Allgeier,Atlanta Falcons,Tampa Bay Buccaneers,Away,21,59,2.8,12,0,55%,38%
+7,Tyrod Taylor,New York Giants,Washington Commanders,Home,8,25,3.1,20,0,25%,24%
+7,Zack Moss,Indianapolis Colts,Cleveland Browns,Home,18,57,3.2,21,0,45%,34%
+6,Alexander Mattison,Minnesota Vikings,Chicago Bears,Away,18,44,2.4,8,0,82%,96%
+6,Alvin Kamara,New Orleans Saints,Houston Texans,Away,19,68,3.6,13,0,76%,76%
+6,Austin Ekeler,Los Angeles Chargers,Dallas Cowboys,Home,14,27,1.9,6,0,61%,51%
+6,Bijan Robinson,Atlanta Falcons,Washington Commanders,Home,13,37,2.9,9,0,45%,35%
+6,Breece Hall,New York Jets,Philadelphia Eagles,Home,12,39,3.3,9,1,57%,44%
+6,Brian Robinson,Washington Commanders,Atlanta Falcons,Away,10,31,3.1,9,0,45%,43%
+6,Christian McCaffrey,San Francisco 49ers,Cleveland Browns,Away,11,43,3.9,27,0,44%,40%
+6,Christopher Brooks,Miami Dolphins,Carolina Panthers,Home,6,28,4.7,28,0,18%,17%
+6,Chuba Hubbard,Carolina Panthers,Miami Dolphins,Away,19,88,4.6,19,1,76%,81%
+6,D'Onta Foreman,Chicago Bears,Minnesota Vikings,Home,15,65,4.3,10,0,42%,40%
+6,Dak Prescott,Dallas Cowboys,Los Angeles Chargers,Away,7,40,5.7,18,1,27%,42%
+6,Dameon Pierce,Houston Texans,New Orleans Saints,Home,13,34,2.6,8,0,42%,28%
+6,Damien Williams,Arizona Cardinals,Los Angeles Rams,Away,8,36,4.5,9,0,27%,28%
+6,Darrynton Evans,Chicago Bears,Minnesota Vikings,Home,9,32,3.6,12,0,25%,20%
+6,Derrick Henry,Tennessee Titans,Baltimore Ravens,Home,12,97,8.1,63,1,63%,75%
+6,Devin Singletary,Houston Texans,New Orleans Saints,Home,12,58,4.8,17,0,39%,48%
+6,Ezekiel Elliott,New England Patriots,Las Vegas Raiders,Away,7,34,4.9,8,1,37%,41%
+6,Gus Edwards,Baltimore Ravens,Tennessee Titans,Away,16,41,2.6,8,0,41%,29%
+6,Isiah Pacheco,Kansas City Chiefs,Denver Broncos,Home,16,62,3.9,15,0,59%,65%
+6,Jaleel McLaughlin,Denver Broncos,Kansas City Chiefs,Away,7,30,4.3,9,0,30%,26%
+6,Jalen Hurts,Philadelphia Eagles,New York Jets,Away,8,47,5.9,11,1,36%,59%
+6,James Cook,Buffalo Bills,New York Giants,Home,14,71,5.1,14,0,48%,55%
+6,Javonte Williams,Denver Broncos,Kansas City Chiefs,Away,10,52,5.2,18,0,43%,45%
+6,Jerome Ford,Cleveland Browns,San Francisco 49ers,Home,17,84,4.9,22,0,50%,53%
+6,Joe Mixon,Cincinnati Bengals,Seattle Seahawks,Home,12,38,3.2,5,0,80%,83%
+6,Jordan Mason,San Francisco 49ers,Cleveland Browns,Away,5,27,5.4,10,1,20%,25%
+6,Josh Jacobs,Las Vegas Raiders,New England Patriots,Home,25,77,3.1,18,0,76%,92%
+6,Joshua Dobbs,Arizona Cardinals,Los Angeles Rams,Away,7,47,6.7,24,0,23%,36%
+6,Justice Hill,Baltimore Ravens,Tennessee Titans,Away,8,35,4.4,10,0,21%,25%
+6,Justin Fields,Chicago Bears,Minnesota Vikings,Home,8,46,5.8,13,0,22%,28%
+6,Kareem Hunt,Cleveland Browns,San Francisco 49ers,Home,12,47,3.9,16,1,35%,29%
+6,Keaontay Ingram,Arizona Cardinals,Los Angeles Rams,Away,10,40,4.0,12,0,33%,31%
+6,Kenneth Walker,Seattle Seahawks,Cincinnati Bengals,Away,19,62,3.3,21,1,76%,71%
+6,Kyren Williams,Los Angeles Rams,Arizona Cardinals,Home,20,158,7.9,31,1,71%,88%
+6,Lamar Jackson,Baltimore Ravens,Tennessee Titans,Away,13,62,4.8,12,0,33%,45%
+6,Latavius Murray,Buffalo Bills,New York Giants,Home,12,45,3.8,12,0,41%,35%
+6,Patrick Mahomes,Kansas City Chiefs,Denver Broncos,Home,6,31,5.2,15,0,22%,32%
+6,Rachaad White,Tampa Bay Buccaneers,Detroit Lions,Home,7,26,3.7,8,0,44%,57%
+6,Raheem Mostert,Miami Dolphins,Carolina Panthers,Home,17,115,6.8,49,2,52%,71%
+6,Rhamondre Stevenson,New England Patriots,Las Vegas Raiders,Away,10,46,4.6,15,1,53%,55%
+6,Russell Wilson,Denver Broncos,Kansas City Chiefs,Away,4,31,7.8,12,0,17%,27%
+6,Saquon Barkley,New York Giants,Buffalo Bills,Away,24,93,3.9,34,0,71%,70%
+6,Tony Pollard,Dallas Cowboys,Los Angeles Chargers,Away,15,30,2.0,7,0,58%,31%
+6,Travis Etienne,Jacksonville Jaguars,Indianapolis Colts,Home,18,55,3.1,22,2,62%,65%
+6,Tyler Allgeier,Atlanta Falcons,Washington Commanders,Home,13,51,3.9,11,0,45%,48%
+5,AJ Dillon,Green Bay Packers,Las Vegas Raiders,Away,20,76,3.8,11,1,80%,69%
+5,Alexander Mattison,Minnesota Vikings,Kansas City Chiefs,Home,8,26,3.3,7,0,44%,37%
+5,Alvin Kamara,New Orleans Saints,New England Patriots,Away,22,80,3.6,10,1,52%,59%
+5,Bijan Robinson,Atlanta Falcons,Houston Texans,Home,14,46,3.3,13,0,39%,48%
+5,Breece Hall,New York Jets,Denver Broncos,Away,22,177,8.1,72,1,69%,76%
+5,Christian McCaffrey,San Francisco 49ers,Dallas Cowboys,Home,19,51,2.7,8,1,46%,30%
+5,Chuba Hubbard,Carolina Panthers,Detroit Lions,Away,9,35,3.9,6,0,39%,35%
+5,Craig Reynolds,Detroit Lions,Carolina Panthers,Home,7,52,7.4,19,1,23%,33%
+5,D'Andre Swift,Philadelphia Eagles,Los Angeles Rams,Away,17,70,4.1,17,0,44%,44%
+5,Dameon Pierce,Houston Texans,Atlanta Falcons,Away,20,66,3.3,15,0,87%,103%
+5,David Montgomery,Detroit Lions,Carolina Panthers,Home,19,109,5.7,42,1,63%,69%
+5,De'Von Achane,Miami Dolphins,New York Giants,Home,11,151,13.7,76,1,48%,68%
+5,Deebo Samuel,San Francisco 49ers,Dallas Cowboys,Home,5,30,6.0,11,0,12%,18%
+5,Derrick Henry,Tennessee Titans,Indianapolis Colts,Away,13,43,3.3,8,0,59%,48%
+5,Emari Demercado,Arizona Cardinals,Cincinnati Bengals,Home,10,45,4.5,11,1,45%,32%
+5,Eric Gray,New York Giants,Miami Dolphins,Away,12,25,2.1,8,0,41%,29%
+5,Gus Edwards,Baltimore Ravens,Pittsburgh Steelers,Away,12,48,4.0,11,0,48%,38%
+5,Isiah Pacheco,Kansas City Chiefs,Minnesota Vikings,Away,16,55,3.4,11,1,76%,82%
+5,Jaleel McLaughlin,Denver Broncos,New York Jets,Home,9,68,7.6,38,0,41%,49%
+5,Jalen Hurts,Philadelphia Eagles,Los Angeles Rams,Away,15,72,4.8,17,1,38%,45%
+5,James Conner,Arizona Cardinals,Cincinnati Bengals,Home,6,46,7.7,35,0,27%,32%
+5,Jaylen Warren,Pittsburgh Steelers,Baltimore Ravens,Home,9,40,4.4,16,0,30%,46%
+5,Joe Mixon,Cincinnati Bengals,Arizona Cardinals,Away,25,81,3.2,10,0,83%,87%
+5,Jordan Love,Green Bay Packers,Las Vegas Raiders,Away,2,37,18.5,26,0,8%,34%
+5,Jordan Mason,San Francisco 49ers,Dallas Cowboys,Home,10,69,6.9,26,1,24%,41%
+5,Josh Jacobs,Las Vegas Raiders,Green Bay Packers,Home,20,69,3.5,24,1,69%,72%
+5,Justice Hill,Baltimore Ravens,Pittsburgh Steelers,Away,7,32,4.6,14,1,28%,26%
+5,Justin Fields,Chicago Bears,Washington Commanders,Away,11,57,5.2,14,0,34%,32%
+5,Kendre Miller,New Orleans Saints,New England Patriots,Away,12,37,3.1,8,0,29%,27%
+5,Khalil Herbert,Chicago Bears,Washington Commanders,Away,10,76,7.6,34,0,31%,43%
+5,Khari Blasingame,Chicago Bears,Washington Commanders,Away,8,26,3.3,6,0,25%,15%
+5,Kyren Williams,Los Angeles Rams,Philadelphia Eagles,Home,13,53,4.1,11,0,93%,98%
+5,Lamar Jackson,Baltimore Ravens,Pittsburgh Steelers,Away,6,45,7.5,26,0,24%,36%
+5,Laviska Shenault,Carolina Panthers,Detroit Lions,Away,5,27,5.4,11,0,22%,27%
+5,Miles Sanders,Carolina Panthers,Detroit Lions,Away,7,32,4.6,9,0,30%,32%
+5,Najee Harris,Pittsburgh Steelers,Baltimore Ravens,Home,14,37,2.6,8,0,47%,43%
+5,Raheem Mostert,Miami Dolphins,New York Giants,Home,10,65,6.5,23,1,43%,29%
+5,Rondale Moore,Arizona Cardinals,Cincinnati Bengals,Home,3,50,16.7,41,0,14%,35%
+5,Russell Wilson,Denver Broncos,New York Jets,Home,7,49,7.0,21,0,32%,35%
+5,Tony Pollard,Dallas Cowboys,San Francisco 49ers,Away,8,29,3.6,10,0,42%,51%
+5,Travis Etienne,Jacksonville Jaguars,Buffalo Bills,Away,26,136,5.2,35,2,65%,69%
+5,Trevor Lawrence,Jacksonville Jaguars,Buffalo Bills,Away,7,31,4.4,11,0,18%,16%
+5,Tyjae Spears,Tennessee Titans,Indianapolis Colts,Away,7,34,4.9,19,1,32%,38%
+5,Tyler Allgeier,Atlanta Falcons,Houston Texans,Home,17,40,2.4,12,0,47%,42%
+5,Zach Wilson,New York Jets,Denver Broncos,Away,3,26,8.7,9,0,9%,11%
+5,Zack Moss,Indianapolis Colts,Tennessee Titans,Home,23,165,7.2,56,2,68%,85%
+4,Alexander Mattison,Minnesota Vikings,Carolina Panthers,Away,17,95,5.6,17,0,74%,70%
+4,Alvin Kamara,New Orleans Saints,Tampa Bay Buccaneers,Home,11,51,4.6,13,0,58%,73%
+4,Anthony Richardson,Indianapolis Colts,Los Angeles Rams,Home,10,56,5.6,23,1,32%,42%
+4,Baker Mayfield,Tampa Bay Buccaneers,New Orleans Saints,Away,8,31,3.9,10,0,24%,27%
+4,Bijan Robinson,Atlanta Falcons,Jacksonville Jaguars,Away,14,105,7.5,38,0,64%,83%
+4,Breece Hall,New York Jets,Kansas City Chiefs,Home,6,56,9.3,43,0,38%,52%
+4,Brian Robinson,Washington Commanders,Philadelphia Eagles,Away,14,45,3.2,15,1,50%,42%
+4,Cam Akers,Minnesota Vikings,Carolina Panthers,Away,5,40,8.0,10,0,22%,30%
+4,Christian McCaffrey,San Francisco 49ers,Arizona Cardinals,Home,20,106,5.3,18,3,65%,85%
+4,Chuba Hubbard,Carolina Panthers,Minnesota Vikings,Home,14,41,2.9,7,0,45%,49%
+4,D'Andre Swift,Philadelphia Eagles,Washington Commanders,Home,14,56,4.0,8,1,52%,54%
+4,Dameon Pierce,Houston Texans,Pittsburgh Steelers,Home,24,81,3.4,13,0,63%,58%
+4,Damien Harris,Buffalo Bills,Miami Dolphins,Home,6,29,4.8,8,0,21%,28%
+4,Daniel Jones,New York Giants,Seattle Seahawks,Home,10,66,6.6,17,0,34%,59%
+4,David Montgomery,Detroit Lions,Green Bay Packers,Away,32,121,3.8,16,3,74%,57%
+4,De'Von Achane,Miami Dolphins,Buffalo Bills,Away,8,101,12.6,55,2,42%,71%
+4,Derius Davis,Los Angeles Chargers,Las Vegas Raiders,Home,3,51,17.0,51,0,8%,33%
+4,Derrick Henry,Tennessee Titans,Cincinnati Bengals,Home,22,122,5.6,29,1,67%,71%
+4,Devin Singletary,Houston Texans,Pittsburgh Steelers,Home,7,25,3.6,9,0,18%,18%
+4,Gus Edwards,Baltimore Ravens,Cleveland Browns,Away,15,48,3.2,16,0,45%,37%
+4,Isiah Pacheco,Kansas City Chiefs,New York Jets,Away,20,115,5.8,48,1,57%,56%
+4,Jahmyr Gibbs,Detroit Lions,Green Bay Packers,Away,8,40,5.0,9,0,19%,19%
+4,Jaleel McLaughlin,Denver Broncos,Chicago Bears,Away,7,72,10.3,31,0,37%,74%
+4,Jalen Hurts,Philadelphia Eagles,Washington Commanders,Home,9,34,3.8,24,0,33%,33%
+4,James Conner,Arizona Cardinals,San Francisco 49ers,Away,11,52,4.7,11,0,44%,50%
+4,James Cook,Buffalo Bills,Miami Dolphins,Home,12,29,2.4,8,1,41%,28%
+4,Jaylen Warren,Pittsburgh Steelers,Houston Texans,Away,8,29,3.6,18,0,32%,25%
+4,Jerome Ford,Cleveland Browns,Baltimore Ravens,Home,9,26,2.9,10,0,36%,28%
+4,Joe Mixon,Cincinnati Bengals,Tennessee Titans,Away,14,67,4.8,13,0,78%,93%
+4,Josh Jacobs,Las Vegas Raiders,Los Angeles Chargers,Away,17,58,3.4,9,1,74%,76%
+4,Joshua Dobbs,Arizona Cardinals,San Francisco 49ers,Away,12,48,4.0,12,0,48%,46%
+4,Joshua Kelley,Los Angeles Chargers,Las Vegas Raiders,Home,17,65,3.8,22,0,46%,42%
+4,Justice Hill,Baltimore Ravens,Cleveland Browns,Away,3,33,11.0,15,0,9%,25%
+4,Justin Fields,Chicago Bears,Denver Broncos,Home,4,25,6.3,20,0,13%,15%
+4,Justin Herbert,Los Angeles Chargers,Las Vegas Raiders,Home,12,27,2.3,15,2,32%,17%
+4,Kalif Raymond,Detroit Lions,Green Bay Packers,Away,1,40,40.0,40,0,2%,19%
+4,KaVontae Turpin,Dallas Cowboys,New England Patriots,Home,1,46,46.0,46,0,3%,37%
+4,Kenneth Walker,Seattle Seahawks,New York Giants,Away,17,79,4.7,31,1,74%,65%
+4,Khalil Herbert,Chicago Bears,Denver Broncos,Home,18,103,5.7,24,0,58%,60%
+4,Kyren Williams,Los Angeles Rams,Indianapolis Colts,Away,25,103,4.1,20,2,69%,63%
+4,Lamar Jackson,Baltimore Ravens,Cleveland Browns,Away,9,27,3.0,10,2,27%,21%
+4,Latavius Murray,Buffalo Bills,Miami Dolphins,Home,4,32,8.0,29,0,14%,31%
+4,Matt Breida,New York Giants,Seattle Seahawks,Home,14,30,2.1,5,0,48%,27%
+4,Najee Harris,Pittsburgh Steelers,Houston Texans,Away,14,71,5.1,23,0,56%,62%
+4,Patrick Mahomes,Kansas City Chiefs,New York Jets,Away,7,51,7.3,25,0,20%,25%
+4,Pierre Strong,Cleveland Browns,Baltimore Ravens,Home,5,49,9.8,40,0,20%,53%
+4,Rachaad White,Tampa Bay Buccaneers,New Orleans Saints,Away,15,56,3.7,11,0,45%,49%
+4,Rhamondre Stevenson,New England Patriots,Dallas Cowboys,Away,14,30,2.1,8,0,61%,57%
+4,Ronnie Rivers,Los Angeles Rams,Indianapolis Colts,Away,9,47,5.2,9,0,25%,29%
+4,Sam Howell,Washington Commanders,Philadelphia Eagles,Away,6,40,6.7,20,0,21%,37%
+4,Tony Pollard,Dallas Cowboys,New England Patriots,Home,11,47,4.3,16,0,37%,38%
+4,Travis Etienne,Jacksonville Jaguars,Atlanta Falcons,Home,20,55,2.8,7,0,63%,52%
+4,Trevor Lawrence,Jacksonville Jaguars,Atlanta Falcons,Home,8,42,5.3,22,0,25%,40%
+4,Tyjae Spears,Tennessee Titans,Cincinnati Bengals,Home,5,40,8.0,22,0,15%,23%
+4,Zach Charbonnet,Seattle Seahawks,New York Giants,Away,5,31,6.2,15,0,22%,26%
+4,Zack Moss,Indianapolis Colts,Los Angeles Rams,Home,18,70,3.9,20,0,58%,53%
+3,AJ Dillon,Green Bay Packers,New Orleans Saints,Home,11,33,3.0,14,0,42%,35%
+3,Alexander Mattison,Minnesota Vikings,Los Angeles Chargers,Home,20,93,4.7,15,0,83%,72%
+3,Bijan Robinson,Atlanta Falcons,Detroit Lions,Away,10,33,3.3,11,0,50%,75%
+3,Brian Robinson,Washington Commanders,Buffalo Bills,Home,10,70,7.0,23,0,77%,67%
+3,Christian McCaffrey,San Francisco 49ers,New York Giants,Home,18,85,4.7,12,1,46%,60%
+3,Christopher Brooks,Miami Dolphins,Denver Broncos,Home,9,66,7.3,52,0,21%,19%
+3,Clyde Edwards-Helaire,Kansas City Chiefs,Chicago Bears,Home,15,55,3.7,16,1,41%,36%
+3,D'Andre Swift,Philadelphia Eagles,Tampa Bay Buccaneers,Away,16,130,8.1,29,0,40%,65%
+3,Dameon Pierce,Houston Texans,Jacksonville Jaguars,Away,14,31,2.2,10,1,54%,36%
+3,De'Von Achane,Miami Dolphins,Denver Broncos,Home,18,203,11.3,67,2,42%,58%
+3,Devin Singletary,Houston Texans,Jacksonville Jaguars,Away,9,41,4.6,14,0,35%,48%
+3,Elijah Mitchell,San Francisco 49ers,New York Giants,Home,11,42,3.8,18,0,28%,30%
+3,Ezekiel Elliott,New England Patriots,New York Jets,Away,16,80,5.0,14,0,40%,51%
+3,Gus Edwards,Baltimore Ravens,Indianapolis Colts,Home,11,51,4.6,14,0,30%,27%
+3,Isiah Pacheco,Kansas City Chiefs,Chicago Bears,Home,15,62,4.1,18,1,41%,41%
+3,Jahmyr Gibbs,Detroit Lions,Atlanta Falcons,Home,17,80,4.7,21,0,55%,70%
+3,Jalen Hurts,Philadelphia Eagles,Tampa Bay Buccaneers,Away,10,28,2.8,8,1,25%,14%
+3,James Conner,Arizona Cardinals,Dallas Cowboys,Home,14,98,7.0,26,1,47%,44%
+3,James Cook,Buffalo Bills,Washington Commanders,Away,15,98,6.5,34,0,45%,58%
+3,Javonte Williams,Denver Broncos,Miami Dolphins,Away,11,42,3.8,16,0,55%,61%
+3,Jaylen Warren,Pittsburgh Steelers,Las Vegas Raiders,Away,8,29,3.6,11,0,26%,28%
+3,Joe Mixon,Cincinnati Bengals,Los Angeles Rams,Home,19,65,3.4,14,1,83%,97%
+3,Jordan Love,Green Bay Packers,New Orleans Saints,Home,9,39,4.3,24,1,35%,41%
+3,Josh Allen,Buffalo Bills,Washington Commanders,Away,3,46,15.3,23,1,9%,27%
+3,Josh Jacobs,Las Vegas Raiders,Pittsburgh Steelers,Home,17,62,3.7,10,0,89%,90%
+3,Joshua Dobbs,Arizona Cardinals,Dallas Cowboys,Home,6,55,9.2,44,0,20%,25%
+3,Justin Fields,Chicago Bears,Kansas City Chiefs,Away,11,47,4.3,17,0,42%,41%
+3,Kendre Miller,New Orleans Saints,Green Bay Packers,Away,9,34,3.8,10,0,41%,44%
+3,Kenneth Walker,Seattle Seahawks,Carolina Panthers,Home,18,97,5.4,36,2,55%,66%
+3,Kenny Gainwell,Philadelphia Eagles,Tampa Bay Buccaneers,Away,14,43,3.1,8,0,35%,21%
+3,Khalil Herbert,Chicago Bears,Kansas City Chiefs,Away,7,31,4.4,11,0,27%,27%
+3,Kyren Williams,Los Angeles Rams,Cincinnati Bengals,Away,10,38,3.8,9,0,77%,54%
+3,Lamar Jackson,Baltimore Ravens,Indianapolis Colts,Home,14,101,7.2,16,2,38%,54%
+3,Melvin Gordon,Baltimore Ravens,Indianapolis Colts,Home,10,32,3.2,15,0,27%,17%
+3,Najee Harris,Pittsburgh Steelers,Las Vegas Raiders,Away,19,65,3.4,17,0,61%,62%
+3,Patrick Mahomes,Kansas City Chiefs,Chicago Bears,Home,3,28,9.3,15,0,8%,18%
+3,Pierre Strong,Cleveland Browns,Tennessee Titans,Home,6,27,4.5,9,0,19%,35%
+3,Rachaad White,Tampa Bay Buccaneers,Philadelphia Eagles,Home,14,38,2.7,12,0,82%,93%
+3,Raheem Mostert,Miami Dolphins,Denver Broncos,Home,13,82,6.3,20,3,30%,23%
+3,Rhamondre Stevenson,New England Patriots,New York Jets,Away,19,59,3.1,10,0,48%,38%
+3,Rondale Moore,Arizona Cardinals,Dallas Cowboys,Home,3,54,18.0,45,1,10%,24%
+3,Roschon Johnson,Chicago Bears,Kansas City Chiefs,Away,8,38,4.8,11,0,31%,33%
+3,Tony Jones,New Orleans Saints,Green Bay Packers,Away,8,31,3.9,19,0,36%,40%
+3,Tony Pollard,Dallas Cowboys,Arizona Cardinals,Away,23,122,5.3,31,0,70%,66%
+3,Travis Etienne,Jacksonville Jaguars,Houston Texans,Home,19,88,4.6,16,0,70%,76%
+3,Ty Chandler,Minnesota Vikings,Los Angeles Chargers,Home,3,27,9.0,12,0,13%,21%
+3,Zach Charbonnet,Seattle Seahawks,Carolina Panthers,Home,9,46,5.1,12,0,27%,32%
+3,Zack Moss,Indianapolis Colts,Baltimore Ravens,Away,30,122,4.1,24,0,86%,88%
+2,AJ Dillon,Green Bay Packers,Atlanta Falcons,Away,15,55,3.7,8,0,71%,65%
+2,Alexander Mattison,Minnesota Vikings,Philadelphia Eagles,Away,8,28,3.5,7,0,89%,100%
+2,Anthony Richardson,Indianapolis Colts,Houston Texans,Away,3,35,11.7,18,2,13%,28%
+2,Bijan Robinson,Atlanta Falcons,Green Bay Packers,Home,19,124,6.5,19,0,42%,59%
+2,Boston Scott,Philadelphia Eagles,Minnesota Vikings,Home,5,40,8.0,18,0,10%,15%
+2,Brian Robinson,Washington Commanders,Denver Broncos,Away,18,87,4.8,27,2,78%,71%
+2,Bryce Young,Carolina Panthers,New Orleans Saints,Home,2,34,17.0,26,0,11%,34%
+2,Christian McCaffrey,San Francisco 49ers,Los Angeles Rams,Away,20,116,5.8,51,1,71%,73%
+2,D'Andre Swift,Philadelphia Eagles,Minnesota Vikings,Home,28,175,6.3,43,1,58%,68%
+2,Dameon Pierce,Houston Texans,Indianapolis Colts,Home,15,31,2.1,10,0,58%,60%
+2,Damien Harris,Buffalo Bills,Las Vegas Raiders,Home,7,33,4.7,11,1,20%,18%
+2,Daniel Jones,New York Giants,Arizona Cardinals,Away,9,59,6.6,15,1,33%,46%
+2,David Montgomery,Detroit Lions,Seattle Seahawks,Home,16,67,4.2,16,1,59%,66%
+2,Deebo Samuel,San Francisco 49ers,Los Angeles Rams,Away,5,38,7.6,17,1,18%,24%
+2,Derrick Henry,Tennessee Titans,Los Angeles Chargers,Home,25,80,3.2,23,1,74%,57%
+2,Desmond Ridder,Atlanta Falcons,Green Bay Packers,Home,10,39,3.9,9,1,22%,18%
+2,Gus Edwards,Baltimore Ravens,Cincinnati Bengals,Away,10,62,6.2,20,1,27%,35%
+2,Isiah Pacheco,Kansas City Chiefs,Jacksonville Jaguars,Away,12,70,5.8,31,0,55%,69%
+2,Jalen Hurts,Philadelphia Eagles,Minnesota Vikings,Home,12,35,2.9,8,2,25%,14%
+2,Jamaal Williams,New Orleans Saints,Carolina Panthers,Away,9,29,3.2,7,0,27%,22%
+2,James Conner,Arizona Cardinals,New York Giants,Home,23,106,4.6,22,1,79%,70%
+2,James Cook,Buffalo Bills,Las Vegas Raiders,Home,17,123,7.2,36,0,49%,67%
+2,Javonte Williams,Denver Broncos,Washington Commanders,Home,12,44,3.7,15,0,52%,36%
+2,Jerome Ford,Cleveland Browns,Pittsburgh Steelers,Away,16,106,6.6,69,0,46%,54%
+2,Joe Mixon,Cincinnati Bengals,Baltimore Ravens,Home,13,59,4.5,14,0,87%,89%
+2,Joshua Dobbs,Arizona Cardinals,New York Giants,Home,3,41,13.7,23,1,10%,27%
+2,Joshua Kelley,Los Angeles Chargers,Tennessee Titans,Away,13,39,3.0,15,0,62%,64%
+2,Justice Hill,Baltimore Ravens,Cincinnati Bengals,Away,11,41,3.7,11,0,30%,23%
+2,Kenneth Walker,Seattle Seahawks,Detroit Lions,Away,17,43,2.5,14,2,68%,52%
+2,Khalil Herbert,Chicago Bears,Tampa Bay Buccaneers,Away,7,35,5.0,8,0,44%,52%
+2,Kyren Williams,Los Angeles Rams,San Francisco 49ers,Home,14,52,3.7,8,1,64%,58%
+2,Lamar Jackson,Baltimore Ravens,Cincinnati Bengals,Away,12,54,4.5,12,0,32%,30%
+2,Mac Jones,New England Patriots,Miami Dolphins,Home,5,25,5.0,18,0,20%,28%
+2,Miles Sanders,Carolina Panthers,New Orleans Saints,Home,14,43,3.1,13,0,74%,43%
+2,Najee Harris,Pittsburgh Steelers,Cleveland Browns,Home,10,43,4.3,21,0,48%,78%
+2,Nick Chubb,Cleveland Browns,Pittsburgh Steelers,Away,10,64,6.4,20,0,29%,32%
+2,Patrick Mahomes,Kansas City Chiefs,Jacksonville Jaguars,Away,7,30,4.3,14,0,32%,30%
+2,Rachaad White,Tampa Bay Buccaneers,Chicago Bears,Home,17,73,4.3,13,1,50%,61%
+2,Raheem Mostert,Miami Dolphins,New England Patriots,Away,18,121,6.7,43,2,60%,83%
+2,Rhamondre Stevenson,New England Patriots,Miami Dolphins,Home,15,50,3.3,12,1,60%,57%
+2,Rico Dowdle,Dallas Cowboys,New York Jets,Home,7,26,3.7,9,0,16%,19%
+2,Roschon Johnson,Chicago Bears,Tampa Bay Buccaneers,Away,4,32,8.0,29,0,25%,48%
+2,Russell Wilson,Denver Broncos,Washington Commanders,Home,6,56,9.3,15,0,26%,46%
+2,Saquon Barkley,New York Giants,Arizona Cardinals,Away,17,63,3.7,16,1,63%,50%
+2,Taysom Hill,New Orleans Saints,Carolina Panthers,Away,9,75,8.3,19,0,27%,56%
+2,Tony Jones,New Orleans Saints,Carolina Panthers,Away,12,34,2.8,6,2,36%,25%
+2,Tony Pollard,Dallas Cowboys,New York Jets,Home,25,72,2.9,23,0,57%,54%
+2,Travis Etienne,Jacksonville Jaguars,Kansas City Chiefs,Home,12,40,3.3,9,0,67%,54%
+2,Tre Tucker,Las Vegas Raiders,Buffalo Bills,Away,1,34,34.0,34,0,7%,62%
+2,Trevor Lawrence,Jacksonville Jaguars,Kansas City Chiefs,Home,5,26,5.2,18,0,28%,35%
+2,Tyjae Spears,Tennessee Titans,Los Angeles Chargers,Home,8,49,6.1,14,0,24%,35%
+2,Tyler Allgeier,Atlanta Falcons,Green Bay Packers,Home,16,48,3.0,10,0,36%,23%
+2,Zach Wilson,New York Jets,Dallas Cowboys,Away,5,36,7.2,16,0,31%,56%
+2,Zack Moss,Indianapolis Colts,Houston Texans,Away,18,88,4.9,11,1,78%,70%
+1,Aaron Jones,Green Bay Packers,Chicago Bears,Away,9,41,4.6,9,1,28%,45%
+1,Alexander Mattison,Minnesota Vikings,Tampa Bay Buccaneers,Home,11,34,3.1,9,0,65%,83%
+1,Anthony Richardson,Indianapolis Colts,Jacksonville Jaguars,Home,10,40,4.0,12,1,38%,62%
+1,Austin Ekeler,Los Angeles Chargers,Miami Dolphins,Home,16,117,7.3,55,1,40%,50%
+1,Bijan Robinson,Atlanta Falcons,Carolina Panthers,Home,10,56,5.6,21,0,38%,43%
+1,Breece Hall,New York Jets,Buffalo Bills,Home,10,127,12.7,83,0,36%,74%
+1,Brian Robinson,Washington Commanders,Arizona Cardinals,Home,19,59,3.1,7,0,68%,64%
+1,Cam Akers,Los Angeles Rams,Seattle Seahawks,Away,22,29,1.3,12,1,55%,32%
+1,Christian McCaffrey,San Francisco 49ers,Pittsburgh Steelers,Away,22,152,6.9,65,1,65%,81%
+1,Chuba Hubbard,Carolina Panthers,Atlanta Falcons,Away,9,60,6.7,21,0,28%,39%
+1,Dalvin Cook,New York Jets,Buffalo Bills,Home,13,33,2.5,10,0,46%,19%
+1,Dameon Pierce,Houston Texans,Baltimore Ravens,Away,11,38,3.5,7,0,48%,53%
+1,Daniel Jones,New York Giants,Dallas Cowboys,Home,13,43,3.3,11,0,46%,40%
+1,David Montgomery,Detroit Lions,Kansas City Chiefs,Away,21,74,3.5,8,1,62%,63%
+1,Derrick Henry,Tennessee Titans,New Orleans Saints,Away,15,63,4.2,18,0,68%,61%
+1,Deshaun Watson,Cleveland Browns,Cincinnati Bengals,Home,5,45,9.0,13,1,13%,22%
+1,Ezekiel Elliott,New England Patriots,Philadelphia Eagles,Home,7,29,4.1,11,0,32%,38%
+1,Gus Edwards,Baltimore Ravens,Houston Texans,Home,8,32,4.0,13,0,25%,29%
+1,Jahmyr Gibbs,Detroit Lions,Kansas City Chiefs,Away,7,42,6.0,18,0,21%,36%
+1,Jalen Hurts,Philadelphia Eagles,New England Patriots,Away,9,37,4.1,14,0,36%,38%
+1,Jamaal Williams,New Orleans Saints,Tennessee Titans,Home,18,45,2.5,11,0,67%,65%
+1,James Conner,Arizona Cardinals,Washington Commanders,Away,14,62,4.4,12,0,56%,65%
+1,James Cook,Buffalo Bills,New York Jets,Away,12,46,3.8,13,0,55%,47%
+1,Javonte Williams,Denver Broncos,Las Vegas Raiders,Home,13,52,4.0,11,0,59%,55%
+1,Jerome Ford,Cleveland Browns,Cincinnati Bengals,Home,15,36,2.4,17,0,38%,17%
+1,Joe Mixon,Cincinnati Bengals,Cleveland Browns,Away,13,56,4.3,22,0,65%,75%
+1,Josh Allen,Buffalo Bills,New York Jets,Away,6,36,6.0,14,0,27%,37%
+1,Josh Jacobs,Las Vegas Raiders,Denver Broncos,Away,19,48,2.5,7,0,66%,79%
+1,Joshua Kelley,Los Angeles Chargers,Miami Dolphins,Home,16,91,5.7,14,1,40%,39%
+1,Justin Fields,Chicago Bears,Green Bay Packers,Home,9,59,6.6,10,0,31%,48%
+1,Kenneth Walker,Seattle Seahawks,Los Angeles Rams,Home,12,64,5.3,15,0,67%,75%
+1,Kenny Gainwell,Philadelphia Eagles,New England Patriots,Away,14,54,3.9,16,0,56%,56%
+1,Khalil Herbert,Chicago Bears,Green Bay Packers,Home,9,27,3.0,12,0,31%,22%
+1,Kyren Williams,Los Angeles Rams,Seattle Seahawks,Away,15,52,3.5,9,2,38%,57%
+1,Lamar Jackson,Baltimore Ravens,Houston Texans,Home,6,38,6.3,14,0,19%,35%
+1,Marquise Brown,Arizona Cardinals,Washington Commanders,Away,1,29,29.0,29,0,4%,30%
+1,Miles Sanders,Carolina Panthers,Atlanta Falcons,Away,18,72,4.0,10,0,56%,47%
+1,Najee Harris,Pittsburgh Steelers,San Francisco 49ers,Home,6,31,5.2,24,0,60%,76%
+1,Nick Chubb,Cleveland Browns,Cincinnati Bengals,Home,18,106,5.9,17,0,45%,51%
+1,Patrick Mahomes,Kansas City Chiefs,Detroit Lions,Home,6,45,7.5,16,0,26%,50%
+1,Rachaad White,Tampa Bay Buccaneers,Minnesota Vikings,Away,17,39,2.3,6,0,52%,53%
+1,Raheem Mostert,Miami Dolphins,Los Angeles Chargers,Away,10,37,3.7,12,1,50%,53%
+1,Rhamondre Stevenson,New England Patriots,Philadelphia Eagles,Home,12,25,2.1,5,0,55%,33%
+1,Samaje Perine,Denver Broncos,Las Vegas Raiders,Home,8,41,5.1,12,0,36%,44%
+1,Saquon Barkley,New York Giants,Dallas Cowboys,Home,12,51,4.3,18,0,43%,47%
+1,Tony Pollard,Dallas Cowboys,New York Giants,Away,14,70,5.0,25,2,47%,57%
+1,Travis Etienne,Jacksonville Jaguars,Indianapolis Colts,Away,18,77,4.3,26,1,51%,73%
+1,Tyjae Spears,Tennessee Titans,New Orleans Saints,Away,3,27,9.0,17,0,14%,26%
+1,Tyler Allgeier,Atlanta Falcons,Carolina Panthers,Home,15,75,5.0,22,2,58%,58%

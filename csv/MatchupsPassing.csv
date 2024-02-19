@@ -1,0 +1,33 @@
+Team,Next Opponent,Home or Away,Passing Yards Average,Passing Yards Average Ranking,Next Opponent Passing Yards Allowed,Next Opponent Passing Yards Allowed Ranking,Average Pass Yards at This Week's Location,Average Pass Yards at This Week's Location Ranking,Next Opponent Average Passing Yards Allowed at Location,Next Opponent Average Passing Yards Allowed at Location Ranking,Expected Pass Yards,Expected Pass Yards Ranking,Expected Pass Yards at This Week's Location,Expected Pass Yards at This Week's Location Ranking,Next Opponent Average Interceptions Caught,Next Opponent Average Interceptions Caught at This Week's Location
+Atlanta Falcons,New Orleans Saints,Away,201,22,201,9,156,31,184,3,201,26,170,32,1.0,1.0
+Arizona Cardinals,Seattle Seahawks,Home,180,29,231,19,199,23,222,18,206,22,210,21,0.7,0.6
+Baltimore Ravens,Pittsburgh Steelers,Home,220,21,234,22,250,6,238,24,227,14,244,6,1.0,1.1
+Buffalo Bills,Miami Dolphins,Away,238,10,213,12,245,9,214,12,226,15,229,13,0.8,0.6
+Carolina Panthers,Tampa Bay Buccaneers,Home,167,31,260,32,162,30,294,32,214,20,228,15,0.8,1.0
+Chicago Bears,Green Bay Packers,Away,186,27,212,11,183,27,222,18,199,29,202,24,0.4,0.4
+Cincinnati Bengals,Cleveland Browns,Home,234,11,166,1,257,5,217,15,200,27,237,9,1.1,1.0
+Cleveland Browns,Cincinnati Bengals,Away,222,19,255,29,224,13,267,28,239,6,245,5,0.9,0.8
+Dallas Cowboys,Washington Commanders,Away,256,4,259,31,206,22,233,23,257,1,219,18,0.4,0.7
+Denver Broncos,Las Vegas Raiders,Away,189,26,211,10,193,24,202,9,200,28,197,26,0.8,0.5
+Detroit Lions,Minnesota Vikings,Home,256,3,230,18,264,4,198,6,243,5,231,11,0.7,0.5
+Green Bay Packers,Chicago Bears,Home,229,17,233,21,237,11,279,31,231,12,258,2,1.4,1.1
+Houston Texans,Indianapolis Colts,Away,245,7,225,17,207,21,240,25,235,7,223,17,0.9,0.9
+Indianapolis Colts,Houston Texans,Home,221,20,240,25,225,12,242,26,231,13,233,10,0.9,1.0
+Jacksonville Jaguars,Tennessee Titans,Away,240,9,224,16,267,3,214,13,232,9,241,8,0.3,0.3
+Kansas City Chiefs,Los Angeles Chargers,Away,253,5,256,30,248,7,258,27,255,2,253,3,0.5,0.3
+Las Vegas Raiders,Denver Broncos,Home,197,23,234,23,214,19,269,29,215,18,241,7,0.7,0.7
+Los Angeles Chargers,Kansas City Chiefs,Home,233,13,173,2,221,16,202,10,203,25,211,20,0.5,0.8
+Los Angeles Rams,San Francisco 49ers,Away,245,8,218,15,245,8,214,14,231,10,230,12,1.3,1.6
+Miami Dolphins,Buffalo Bills,Home,272,1,198,7,285,2,212,11,235,8,249,4,1.0,1.0
+Minnesota Vikings,Detroit Lions,Away,250,6,240,25,218,18,199,7,245,4,208,22,0.9,1.2
+New England Patriots,New York Jets,Home,190,24,177,4,193,25,187,4,183,32,190,30,0.9,1.3
+New Orleans Saints,Atlanta Falcons,Home,234,12,200,8,212,20,218,16,217,17,215,19,0.5,0.5
+New York Giants,Philadelphia Eagles,Home,161,32,249,28,149,32,225,20,205,23,187,31,0.5,0.5
+New York Jets,New England Patriots,Away,178,30,217,14,171,29,228,21,198,30,199,25,0.6,0.5
+Philadelphia Eagles,New York Giants,Away,229,16,233,20,224,14,188,5,231,11,206,23,1.0,1.0
+Pittsburgh Steelers,Baltimore Ravens,Away,189,25,196,6,187,26,199,8,192,31,193,27,1.1,1.6
+San Francisco 49ers,Los Angeles Rams,Home,263,2,235,24,305,1,230,22,249,3,267,1,0.6,0.8
+Seattle Seahawks,Arizona Cardinals,Away,232,14,214,13,239,10,218,17,223,16,229,14,0.7,0.8
+Tampa Bay Buccaneers,Carolina Panthers,Away,231,15,175,3,222,15,163,1,203,24,192,29,0.5,0.4
+Tennessee Titans,Jacksonville Jaguars,Home,182,28,245,27,176,28,270,30,214,19,223,16,0.9,1.0
+Washington Commanders,Dallas Cowboys,Home,225,18,191,5,218,17,168,2,208,21,193,28,0.9,

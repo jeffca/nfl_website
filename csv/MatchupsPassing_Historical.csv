@@ -1,0 +1,97 @@
+Team,Next Opponent,Home or Away,Passing Yards Average,Next Opponent Passing Yards Allowed,Expected Pass Yards,Next Opponent Average Interceptions Caught,Passing Yards Result,Interceptions Thrown Result,Week
+Atlanta Falcons,New Orleans Saints,Away,201,201,201,1.0,N/A,N/A,18
+Arizona Cardinals,Seattle Seahawks,Home,180,231,206,0.7,N/A,N/A,18
+Baltimore Ravens,Pittsburgh Steelers,Home,220,234,227,1.0,N/A,N/A,18
+Buffalo Bills,Miami Dolphins,Away,238,213,226,0.8,N/A,N/A,18
+Carolina Panthers,Tampa Bay Buccaneers,Home,167,260,214,0.8,N/A,N/A,18
+Chicago Bears,Green Bay Packers,Away,186,212,199,0.4,N/A,N/A,18
+Cincinnati Bengals,Cleveland Browns,Home,234,166,200,1.1,N/A,N/A,18
+Cleveland Browns,Cincinnati Bengals,Away,222,255,239,0.9,N/A,N/A,18
+Dallas Cowboys,Washington Commanders,Away,256,259,257,0.4,N/A,N/A,18
+Denver Broncos,Las Vegas Raiders,Away,189,211,200,0.8,N/A,N/A,18
+Detroit Lions,Minnesota Vikings,Home,256,230,243,0.7,N/A,N/A,18
+Green Bay Packers,Chicago Bears,Home,229,233,231,1.4,N/A,N/A,18
+Houston Texans,Indianapolis Colts,Away,245,225,235,0.9,N/A,N/A,18
+Indianapolis Colts,Houston Texans,Home,221,240,231,0.9,N/A,N/A,18
+Jacksonville Jaguars,Tennessee Titans,Away,240,224,232,0.3,N/A,N/A,18
+Kansas City Chiefs,Los Angeles Chargers,Away,253,256,255,0.5,N/A,N/A,18
+Las Vegas Raiders,Denver Broncos,Home,197,234,215,0.7,N/A,N/A,18
+Los Angeles Chargers,Kansas City Chiefs,Home,233,173,203,0.5,N/A,N/A,18
+Los Angeles Rams,San Francisco 49ers,Away,245,218,231,1.3,N/A,N/A,18
+Miami Dolphins,Buffalo Bills,Home,272,198,235,1.0,N/A,N/A,18
+Minnesota Vikings,Detroit Lions,Away,250,240,245,0.9,N/A,N/A,18
+New England Patriots,New York Jets,Home,190,177,183,0.9,N/A,N/A,18
+New Orleans Saints,Atlanta Falcons,Home,234,200,217,0.5,N/A,N/A,18
+New York Giants,Philadelphia Eagles,Home,161,249,205,0.5,N/A,N/A,18
+New York Jets,New England Patriots,Away,178,217,198,0.6,N/A,N/A,18
+Philadelphia Eagles,New York Giants,Away,229,233,231,1.0,N/A,N/A,18
+Pittsburgh Steelers,Baltimore Ravens,Away,189,196,192,1.1,N/A,N/A,18
+San Francisco 49ers,Los Angeles Rams,Home,263,235,249,0.6,N/A,N/A,18
+Seattle Seahawks,Arizona Cardinals,Away,232,214,223,0.7,N/A,N/A,18
+Tampa Bay Buccaneers,Carolina Panthers,Away,231,175,203,0.5,N/A,N/A,18
+Tennessee Titans,Jacksonville Jaguars,Home,182,245,214,0.9,N/A,N/A,18
+Washington Commanders,Dallas Cowboys,Home,225,191,208,0.9,N/A,N/A,18
+Atlanta Falcons,New Orleans Saints,,205,199,202,1.2,168,2,12
+Arizona Cardinals,Los Angeles Rams,,172,218,195,0.5,219,0,12
+Baltimore Ravens,Los Angeles Chargers,,211,292,252,0.6,164,0,12
+Buffalo Bills,Philadelphia Eagles,,254,248,251,0.5,332,1,12
+Carolina Panthers,Tennessee Titans,,174,231,203,0.3,162,0,12
+Chicago Bears,Minnesota Vikings,,184,227,206,0.8,199,0,12
+Cincinnati Bengals,Pittsburgh Steelers,,218,240,229,1.1,197,1,12
+Cleveland Browns,Denver Broncos,,183,240,212,1,162,0,12
+Dallas Cowboys,Washington Commanders,,256,259,257,0.5,331,0,12
+Denver Broncos,Cleveland Browns,,191,144,167,0.9,125,0,12
+Detroit Lions,Green Bay Packers,,263,193,228,0.5,324,0,12
+Green Bay Packers,Detroit Lions,,218,224,221,0.8,268,0,12
+Houston Texans,Jacksonville Jaguars,,278,254,266,1.1,261,0,12
+Indianapolis Colts,Tampa Bay Buccaneers,,218,271,244,0.8,239,1,12
+Jacksonville Jaguars,Houston Texans,,225,241,233,0.7,364,1,12
+Kansas City Chiefs,Las Vegas Raiders,,255,210,233,0.9,291,0,12
+Las Vegas Raiders,Kansas City Chiefs,,198,171,185,0.6,235,0,12
+Los Angeles Chargers,Baltimore Ravens,,249,170,209,0.9,193,1,12
+Los Angeles Rams,Arizona Cardinals,,226,217,222,0.7,229,1,12
+Miami Dolphins,New York Jets,,291,179,235,1,228,2,12
+Minnesota Vikings,Chicago Bears,,267,246,256,0.8,169,4,12
+New England Patriots,New York Giants,,200,237,218,0.8,136,3,12
+New Orleans Saints,Atlanta Falcons,,237,200,219,0.5,296,1,12
+New York Giants,New England Patriots,,151,229,190,0.6,162,0,12
+New York Jets,Miami Dolphins,,171,221,196,0.7,130,2,12
+Philadelphia Eagles,Buffalo Bills,,235,204,219,0.9,193,1,12
+Pittsburgh Steelers,Cincinnati Bengals,,170,248,209,1.2,268,0,12
+San Francisco 49ers,Seattle Seahawks,,254,233,244,0.7,208,1,12
+Seattle Seahawks,San Francisco 49ers,,231,221,226,1.4,132,1,12
+Tampa Bay Buccaneers,Indianapolis Colts,,228,229,228,1.1,173,1,12
+Tennessee Titans,Carolina Panthers,,181,179,180,0.5,184,0,12
+Washington Commanders,Dallas Cowboys,,245,157,201,1.1,268,1,12
+Atlanta Falcons,New York Jets,,202,183,192,1.1,104,0,13
+Arizona Cardinals,Pittsburgh Steelers,,176,236,206,1.1,132,0,13
+Baltimore Ravens,Bye,,,,,,,,13
+Buffalo Bills,Bye,,,,,,,,13
+Carolina Panthers,Tampa Bay Buccaneers,,173,268,221,0.8,149,1,13
+Chicago Bears,Bye,,,,,,,,13
+Cincinnati Bengals,Jacksonville Jaguars,,216,255,235,1,335,1,13
+Cleveland Browns,Los Angeles Rams,,181,218,200,0.5,240,1,13
+Dallas Cowboys,Seattle Seahawks,,262,231,247,0.7,275,0,13
+Denver Broncos,Houston Texans,,185,253,219,0.7,164,3,13
+Detroit Lions,New Orleans Saints,,269,196,232,1.3,205,0,13
+Green Bay Packers,Kansas City Chiefs,,222,177,199,0.5,253,0,13
+Houston Texans,Denver Broncos,,276,233,255,0.9,264,0,13
+Indianapolis Colts,Tennessee Titans,,220,225,222,0.3,300,0,13
+Jacksonville Jaguars,Cincinnati Bengals,,238,249,244,1.1,305,0,13
+Kansas City Chiefs,Green Bay Packers,,259,205,232,0.5,189,1,13
+Las Vegas Raiders,Bye,,,,,,,,13
+Los Angeles Chargers,New England Patriots,,243,223,233,0.5,212,0,13
+Los Angeles Rams,Cleveland Browns,,227,142,184,0.8,279,0,13
+Miami Dolphins,Washington Commanders,,285,265,275,0.5,283,0,13
+Minnesota Vikings,Bye,,,,,,,,13
+New England Patriots,Los Angeles Chargers,,194,280,237,0.5,109,0,13
+New Orleans Saints,Detroit Lions,,243,228,235,0.7,249,1,13
+New York Giants,Bye,,,,,,,,13
+New York Jets,Atlanta Falcons,,167,209,188,0.5,197,1,13
+Philadelphia Eagles,San Francisco 49ers,,231,213,222,1.4,287,0,13
+Pittsburgh Steelers,Arizona Cardinals,,179,218,199,0.8,187,0,13
+San Francisco 49ers,Philadelphia Eagles,,250,256,253,0.5,310,0,13
+Seattle Seahawks,Dallas Cowboys,,222,167,194,1.1,334,1,13
+Tampa Bay Buccaneers,Carolina Panthers,,223,180,201,0.5,194,1,13
+Tennessee Titans,Indianapolis Colts,,181,224,203,1.1,204,0,13
+Washington Commanders,Miami Dolphins,,247,212,230,0.8,107,1,13

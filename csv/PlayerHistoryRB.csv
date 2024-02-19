@@ -1,0 +1,2155 @@
+Player,Team Final,Week Number,Opponent Abbreviation,Home or Away,COUNTUNIQUE of Game ID,SUM of Att,SUM of Yds,SUM of Yards Per Attempt,SUM of Lg,SUM of TD,SUM of % of Attempt Total,SUM of % of Total Rush Yards in Game
+A.J. Cole,Las Vegas Raiders,16,KC,Away,1,0,0,#DIV/0!,0,0,0%,0.0%
+Aaron Jones,Green Bay Packers,1,CHI,Away,1,9,41,4.6,9,1,28%,44.6%
+Aaron Jones,Green Bay Packers,4,DET,Home,1,5,18,3.6,9,0,42%,66.7%
+Aaron Jones,Green Bay Packers,7,DEN,Away,1,8,35,4.4,11,0,28%,25.5%
+Aaron Jones,Green Bay Packers,8,MIN,Home,1,7,29,4.1,7,0,41%,39.2%
+Aaron Jones,Green Bay Packers,9,LAR,Home,1,20,73,3.7,9,1,53%,39.7%
+Aaron Jones,Green Bay Packers,10,PIT,Away,1,13,35,2.7,9,0,54%,30.2%
+Aaron Jones,Green Bay Packers,11,LAC,Home,1,4,14,3.5,9,0,14%,13.7%
+Aaron Jones,Green Bay Packers,15,TB,Home,1,13,53,4.1,20,0,76%,88.3%
+Aaron Jones,Green Bay Packers,16,CAR,Away,1,21,127,6.0,39,0,62%,78.4%
+Aaron Jones,Green Bay Packers,17,MIN,Away,1,20,120,6.0,25,0,51%,67.8%
+Adam Prentice,New Orleans Saints,4,TB,Home,1,1,5,5.0,5,0,5%,7.1%
+Adam Prentice,New Orleans Saints,17,TB,Away,1,1,7,7.0,7,0,3%,6.5%
+Adam Thielen,Carolina Panthers,4,MIN,Home,1,1,6,6.0,6,0,3%,7.2%
+Aidan O'Connell,Las Vegas Raiders,4,LAC,Away,1,3,3,1.0,2,1,13%,3.9%
+Aidan O'Connell,Las Vegas Raiders,10,NYJ,Home,1,2,3,1.5,3,0,6%,2.0%
+Aidan O'Connell,Las Vegas Raiders,11,MIA,Away,1,1,3,3.0,3,0,6%,8.3%
+Aidan O'Connell,Las Vegas Raiders,14,MIN,Home,1,1,2,2.0,2,0,6%,3.6%
+Aidan O'Connell,Las Vegas Raiders,16,KC,Away,1,4,-4,-1.0,-1,0,14%,-2.5%
+Aidan O'Connell,Las Vegas Raiders,17,IND,Away,1,2,3,1.5,3,0,8%,3.6%
+AJ Dillon,Green Bay Packers,1,CHI,Away,1,13,19,1.5,7,0,41%,20.7%
+AJ Dillon,Green Bay Packers,2,ATL,Away,1,15,55,3.7,8,0,71%,65.5%
+AJ Dillon,Green Bay Packers,3,NO,Home,1,11,33,3.0,14,0,42%,34.7%
+AJ Dillon,Green Bay Packers,4,DET,Home,1,5,11,2.2,6,0,42%,40.7%
+AJ Dillon,Green Bay Packers,5,LV,Away,1,20,76,3.8,11,1,80%,69.1%
+AJ Dillon,Green Bay Packers,7,DEN,Away,1,15,61,4.1,15,0,52%,44.5%
+AJ Dillon,Green Bay Packers,8,MIN,Home,1,6,11,1.8,7,0,35%,14.9%
+AJ Dillon,Green Bay Packers,9,LAR,Home,1,9,40,4.4,12,0,24%,21.7%
+AJ Dillon,Green Bay Packers,10,PIT,Away,1,9,70,7.8,40,0,38%,60.3%
+AJ Dillon,Green Bay Packers,11,LAC,Home,1,14,29,2.1,6,0,50%,28.4%
+AJ Dillon,Green Bay Packers,12,DET,Away,1,14,43,3.1,17,0,64%,39.4%
+AJ Dillon,Green Bay Packers,13,KC,Home,1,18,73,4.1,10,0,72%,56.6%
+AJ Dillon,Green Bay Packers,14,NYG,Away,1,15,53,3.5,8,0,60%,43.1%
+AJ Dillon,Green Bay Packers,16,CAR,Away,1,7,12,1.7,3,1,21%,7.4%
+AJ Dillon,Green Bay Packers,17,MIN,Away,1,7,27,3.9,11,0,18%,15.3%
+Alec Ingold,Miami Dolphins,3,DEN,Home,1,2,0,0.0,0,0,5%,0.0%
+Alexander Mattison,Minnesota Vikings,1,TB,Home,1,11,34,3.1,9,0,65%,82.9%
+Alexander Mattison,Minnesota Vikings,2,PHI,Away,1,8,28,3.5,7,0,89%,100.0%
+Alexander Mattison,Minnesota Vikings,3,LAC,Home,1,20,93,4.7,15,0,83%,71.5%
+Alexander Mattison,Minnesota Vikings,4,CAR,Away,1,17,95,5.6,17,0,74%,70.4%
+Alexander Mattison,Minnesota Vikings,5,KC,Home,1,8,26,3.3,7,0,44%,37.1%
+Alexander Mattison,Minnesota Vikings,6,CHI,Away,1,18,44,2.4,8,0,82%,95.7%
+Alexander Mattison,Minnesota Vikings,7,SF,Home,1,8,39,4.9,19,0,38%,52.7%
+Alexander Mattison,Minnesota Vikings,8,GB,Away,1,16,31,1.9,10,0,52%,50.0%
+Alexander Mattison,Minnesota Vikings,9,ATL,Away,1,16,44,2.8,8,0,48%,30.1%
+Alexander Mattison,Minnesota Vikings,10,NO,Home,1,8,27,3.4,9,0,24%,21.6%
+Alexander Mattison,Minnesota Vikings,11,DEN,Away,1,18,81,4.5,15,0,50%,46.3%
+Alexander Mattison,Minnesota Vikings,12,CHI,Home,1,10,52,5.2,21,0,59%,71.2%
+Alexander Mattison,Minnesota Vikings,14,LV,Away,1,10,66,6.6,16,0,33%,50.0%
+Alexander Mattison,Minnesota Vikings,16,DET,Home,1,2,-1,-0.5,1,0,18%,-5.9%
+Alexander Mattison,Minnesota Vikings,17,GB,Home,1,3,17,5.7,9,0,19%,25.4%
+Alvin Kamara,New Orleans Saints,4,TB,Home,1,11,51,4.6,13,0,58%,72.9%
+Alvin Kamara,New Orleans Saints,5,NE,Away,1,22,80,3.6,10,1,52%,58.8%
+Alvin Kamara,New Orleans Saints,6,HOU,Away,1,19,68,3.6,13,0,76%,76.4%
+Alvin Kamara,New Orleans Saints,7,JAX,Home,1,17,62,3.6,17,0,55%,55.4%
+Alvin Kamara,New Orleans Saints,8,IND,Away,1,17,59,3.5,16,1,47%,36.6%
+Alvin Kamara,New Orleans Saints,9,CHI,Home,1,9,26,2.9,13,0,33%,29.9%
+Alvin Kamara,New Orleans Saints,10,MIN,Away,1,9,42,4.7,9,0,60%,64.6%
+Alvin Kamara,New Orleans Saints,12,ATL,Away,1,15,69,4.6,16,0,54%,46.6%
+Alvin Kamara,New Orleans Saints,13,DET,Home,1,14,51,3.6,16,2,39%,45.1%
+Alvin Kamara,New Orleans Saints,14,CAR,Home,1,12,56,4.7,9,1,48%,57.7%
+Alvin Kamara,New Orleans Saints,15,NYG,Home,1,16,66,4.1,15,0,57%,75.9%
+Alvin Kamara,New Orleans Saints,16,LAR,Away,1,9,19,2.1,5,0,56%,54.3%
+Alvin Kamara,New Orleans Saints,17,TB,Away,1,10,45,4.5,13,0,29%,41.7%
+Amani Hooker,Tennessee Titans,8,ATL,Home,1,1,2,2.0,2,0,3%,1.3%
+Ameer Abdullah,Las Vegas Raiders,5,GB,Home,1,1,4,4.0,4,0,3%,4.2%
+Ameer Abdullah,Las Vegas Raiders,8,DET,Away,1,1,7,7.0,7,0,6%,8.8%
+Ameer Abdullah,Las Vegas Raiders,9,NYG,Home,1,2,8,4.0,5,0,6%,6.4%
+Ameer Abdullah,Las Vegas Raiders,12,KC,Home,1,1,11,11.0,11,0,4%,8.9%
+Ameer Abdullah,Las Vegas Raiders,14,MIN,Home,1,1,12,12.0,12,0,6%,21.4%
+Ameer Abdullah,Las Vegas Raiders,15,LAC,Home,1,6,32,5.3,9,0,23%,25.8%
+Ameer Abdullah,Las Vegas Raiders,16,KC,Away,1,2,11,5.5,7,0,7%,7.0%
+Ameer Abdullah,Las Vegas Raiders,17,IND,Away,1,1,4,4.0,4,0,4%,4.8%
+Amon-Ra St. Brown,Detroit Lions,3,ATL,Home,1,1,4,4.0,4,0,3%,3.5%
+Amon-Ra St. Brown,Detroit Lions,10,LAC,Away,1,2,9,4.5,6,0,6%,4.5%
+Amon-Ra St. Brown,Detroit Lions,17,DAL,Away,1,1,11,11.0,11,0,3%,8.8%
+Andrew Beck,Houston Texans,2,IND,Home,1,2,2,1.0,2,0,8%,3.8%
+Andrew Beck,Houston Texans,8,CAR,Away,1,2,1,0.5,1,1,7%,0.9%
+Andrew Beck,Houston Texans,11,ARI,Home,1,1,0,0.0,0,0,4%,0.0%
+Andy Dalton,Carolina Panthers,3,SEA,Away,1,2,11,5.5,10,0,14%,25.0%
+Andy Dalton,Carolina Panthers,5,DET,Away,1,1,1,1.0,1,0,4%,1.0%
+Anthony Richardson,Indianapolis Colts,1,JAX,Home,1,10,40,4.0,12,1,38%,61.5%
+Anthony Richardson,Indianapolis Colts,2,HOU,Away,1,3,35,11.7,18,2,13%,27.8%
+Anthony Richardson,Indianapolis Colts,4,LAR,Home,1,10,56,5.6,23,1,32%,42.1%
+Anthony Richardson,Indianapolis Colts,5,TEN,Home,1,2,5,2.5,4,0,6%,2.6%
+Antonio Gibson,Washington Commanders,1,ARI,Home,1,3,9,3.0,3,0,11%,9.8%
+Antonio Gibson,Washington Commanders,2,DEN,Away,1,2,9,4.5,7,0,9%,7.4%
+Antonio Gibson,Washington Commanders,3,BUF,Home,1,2,17,8.5,13,0,15%,16.2%
+Antonio Gibson,Washington Commanders,4,PHI,Away,1,6,19,3.2,10,0,21%,17.8%
+Antonio Gibson,Washington Commanders,6,ATL,Away,1,3,15,5.0,9,0,14%,20.8%
+Antonio Gibson,Washington Commanders,7,NYG,Away,1,2,7,3.5,6,0,11%,9.2%
+Antonio Gibson,Washington Commanders,8,PHI,Home,1,2,14,7.0,8,0,13%,16.7%
+Antonio Gibson,Washington Commanders,9,NE,Away,1,6,34,5.7,12,0,21%,27.4%
+Antonio Gibson,Washington Commanders,10,SEA,Away,1,4,13,3.3,6,0,29%,19.1%
+Antonio Gibson,Washington Commanders,12,DAL,Away,1,6,21,3.5,6,0,22%,19.4%
+Antonio Gibson,Washington Commanders,13,MIA,Home,1,10,35,3.5,9,0,36%,25.4%
+Antonio Gibson,Washington Commanders,15,LAR,Away,1,4,15,3.8,8,0,19%,19.0%
+Antonio Gibson,Washington Commanders,16,NYJ,Away,1,9,30,3.3,11,1,41%,29.4%
+Antonio Gibson,Washington Commanders,17,SF,Home,1,4,19,4.8,16,0,29%,30.6%
+Ashtyn Davis,New York Jets,2,DAL,Away,1,1,4,4.0,4,0,6%,6.3%
+Ashtyn Davis,New York Jets,15,MIA,Away,1,1,-1,-1.0,-1,0,8%,-4.3%
+Austin Ekeler,Los Angeles Chargers,1,MIA,Home,1,16,117,7.3,55,1,40%,50.0%
+Austin Ekeler,Los Angeles Chargers,6,DAL,Home,1,14,27,1.9,6,0,61%,50.9%
+Austin Ekeler,Los Angeles Chargers,7,KC,Away,1,14,45,3.2,6,0,54%,32.4%
+Austin Ekeler,Los Angeles Chargers,8,CHI,Home,1,15,29,1.9,7,0,60%,53.7%
+Austin Ekeler,Los Angeles Chargers,9,NYJ,Away,1,14,47,3.4,20,2,67%,56.0%
+Austin Ekeler,Los Angeles Chargers,10,DET,Home,1,19,67,3.5,17,1,68%,68.4%
+Austin Ekeler,Los Angeles Chargers,11,GB,Away,1,10,64,6.4,37,0,42%,42.7%
+Austin Ekeler,Los Angeles Chargers,12,BAL,Home,1,10,32,3.2,6,0,53%,37.2%
+Austin Ekeler,Los Angeles Chargers,13,NE,Away,1,14,18,1.3,4,0,58%,62.1%
+Austin Ekeler,Los Angeles Chargers,14,DEN,Home,1,10,51,5.1,9,1,53%,67.1%
+Austin Ekeler,Los Angeles Chargers,15,LV,Away,1,5,9,1.8,6,0,18%,9.8%
+Austin Ekeler,Los Angeles Chargers,16,BUF,Home,1,15,65,4.3,10,0,56%,66.3%
+Austin Ekeler,Los Angeles Chargers,17,DEN,Away,1,13,46,3.5,6,0,54%,53.5%
+Bailey Zappe,New England Patriots,13,LAC,Home,1,4,16,4.0,5,0,13%,10.8%
+Bailey Zappe,New England Patriots,14,PIT,Away,1,3,13,4.3,11,0,12%,16.0%
+Bailey Zappe,New England Patriots,15,KC,Home,1,1,2,2.0,2,0,6%,3.8%
+Bailey Zappe,New England Patriots,16,DEN,Away,1,1,2,2.0,2,0,5%,3.4%
+Bailey Zappe,New England Patriots,17,BUF,Away,1,5,37,7.4,18,1,21%,35.9%
+Baker Mayfield,Tampa Bay Buccaneers,1,MIN,Away,1,8,11,1.4,5,0,24%,15.1%
+Baker Mayfield,Tampa Bay Buccaneers,2,CHI,Home,1,6,17,2.8,9,0,18%,14.2%
+Baker Mayfield,Tampa Bay Buccaneers,3,PHI,Home,1,1,2,2.0,2,0,6%,4.9%
+Baker Mayfield,Tampa Bay Buccaneers,4,NO,Away,1,8,31,3.9,10,0,24%,27.2%
+Baker Mayfield,Tampa Bay Buccaneers,6,DET,Home,1,2,6,3.0,3,0,13%,13.0%
+Baker Mayfield,Tampa Bay Buccaneers,7,ATL,Home,1,3,32,10.7,31,0,15%,43.8%
+Baker Mayfield,Tampa Bay Buccaneers,8,BUF,Away,1,3,19,6.3,11,0,18%,24.4%
+Baker Mayfield,Tampa Bay Buccaneers,9,HOU,Away,1,4,4,1.0,5,0,13%,4.9%
+Baker Mayfield,Tampa Bay Buccaneers,10,TEN,Home,1,3,12,4.0,9,0,10%,15.6%
+Baker Mayfield,Tampa Bay Buccaneers,11,SF,Away,1,3,5,1.7,3,0,17%,7.6%
+Baker Mayfield,Tampa Bay Buccaneers,12,IND,Away,1,3,14,4.7,14,0,16%,11.2%
+Baker Mayfield,Tampa Bay Buccaneers,13,CAR,Home,1,2,-2,-1.0,-1,0,7%,-1.6%
+Baker Mayfield,Tampa Bay Buccaneers,14,ATL,Away,1,3,3,1.0,2,1,8%,2.0%
+Baker Mayfield,Tampa Bay Buccaneers,15,GB,Away,1,2,-2,-1.0,-1,0,7%,-2.0%
+Baker Mayfield,Tampa Bay Buccaneers,16,JAX,Home,1,5,5,1.0,7,0,14%,7.1%
+Baker Mayfield,Tampa Bay Buccaneers,17,NO,Home,1,1,-1,-1.0,-1,0,7%,-1.8%
+Bennett Skowronek,Los Angeles Rams,2,SF,Home,1,1,11,11.0,11,0,5%,12.4%
+Bennett Skowronek,Los Angeles Rams,9,GB,Away,1,1,-2,-2.0,-2,0,4%,-2.9%
+Bijan Robinson,Atlanta Falcons,1,CAR,Home,1,10,56,5.6,21,0,38%,43.1%
+Bijan Robinson,Atlanta Falcons,2,GB,Home,1,19,124,6.5,19,0,42%,58.8%
+Bijan Robinson,Atlanta Falcons,3,DET,Away,1,10,33,3.3,11,0,50%,75.0%
+Bijan Robinson,Atlanta Falcons,4,JAX,Away,1,14,105,7.5,38,0,64%,82.7%
+Bijan Robinson,Atlanta Falcons,5,HOU,Home,1,14,46,3.3,13,0,39%,47.9%
+Bijan Robinson,Atlanta Falcons,6,WAS,Home,1,13,37,2.8,9,0,45%,34.9%
+Bijan Robinson,Atlanta Falcons,7,TB,Away,1,1,3,3.0,3,0,3%,1.9%
+Bijan Robinson,Atlanta Falcons,8,TEN,Away,1,11,62,5.6,25,1,42%,44.3%
+Bijan Robinson,Atlanta Falcons,9,MIN,Home,1,11,51,4.6,14,0,39%,46.4%
+Bijan Robinson,Atlanta Falcons,10,ARI,Away,1,22,95,4.3,17,1,54%,51.6%
+Bijan Robinson,Atlanta Falcons,12,NO,Home,1,16,91,5.7,17,1,39%,39.9%
+Bijan Robinson,Atlanta Falcons,13,NYJ,Away,1,18,53,2.9,12,0,53%,58.9%
+Bijan Robinson,Atlanta Falcons,14,TB,Home,1,10,34,3.4,8,1,38%,35.4%
+Bijan Robinson,Atlanta Falcons,15,CAR,Away,1,7,11,1.6,9,0,23%,21.2%
+Bijan Robinson,Atlanta Falcons,16,IND,Home,1,12,72,6.0,32,0,40%,40.7%
+Bijan Robinson,Atlanta Falcons,17,CHI,Away,1,15,75,5.0,21,0,63%,56.0%
+Blaine Gabbert,Kansas City Chiefs,3,CHI,Home,1,2,-1,-0.5,0,0,5%,-0.7%
+Blake Gillikin,Arizona Cardinals,12,LAR,Home,1,1,10,10.0,10,0,7%,13.7%
+Bo Melton,Green Bay Packers,16,CAR,Away,1,1,7,7.0,7,0,3%,4.3%
+Boston Scott,Philadelphia Eagles,1,NE,Away,1,1,3,3.0,3,0,4%,3.1%
+Boston Scott,Philadelphia Eagles,2,MIN,Home,1,5,40,8.0,18,0,10%,15.4%
+Boston Scott,Philadelphia Eagles,6,NYJ,Away,1,2,2,1.0,9,0,9%,2.5%
+Boston Scott,Philadelphia Eagles,11,KC,Away,1,2,8,4.0,4,0,7%,7.0%
+Boston Scott,Philadelphia Eagles,12,BUF,Home,1,2,14,7.0,10,0,6%,7.6%
+Boston Scott,Philadelphia Eagles,13,SF,Home,1,1,2,2.0,2,0,6%,4.3%
+Boston Scott,Philadelphia Eagles,14,DAL,Away,1,3,9,3.0,4,0,13%,8.5%
+Boston Scott,Philadelphia Eagles,16,NYG,Home,1,1,3,3.0,3,0,3%,1.8%
+Brandin Cooks,Dallas Cowboys,5,SF,Away,1,1,6,6.0,6,0,5%,10.5%
+Brandin Cooks,Dallas Cowboys,6,LAC,Away,1,1,14,14.0,14,0,4%,14.6%
+Brandin Cooks,Dallas Cowboys,8,LAR,Home,1,1,3,3.0,3,0,4%,2.9%
+Brandin Cooks,Dallas Cowboys,16,MIA,Away,1,1,9,9.0,9,0,4%,9.3%
+Brandon Bolden,Las Vegas Raiders,15,LAC,Home,1,2,25,12.5,26,1,8%,20.2%
+Brandon Bolden,Las Vegas Raiders,16,KC,Away,1,0,0,#DIV/0!,0,0,0%,0.0%
+Brandon Bolden,Las Vegas Raiders,17,IND,Away,1,2,6,3.0,4,0,8%,7.1%
+Brandon Powell,Minnesota Vikings,5,KC,Home,1,1,9,9.0,9,0,6%,12.9%
+Brandon Powell,Minnesota Vikings,6,CHI,Away,1,1,-1,-1.0,-1,0,5%,-2.2%
+Brandon Powell,Minnesota Vikings,7,SF,Home,1,1,5,5.0,5,0,5%,6.8%
+Brandon Powell,Minnesota Vikings,8,GB,Away,1,1,2,2.0,2,0,3%,3.2%
+Brandon Powell,Minnesota Vikings,12,CHI,Home,1,1,2,2.0,2,0,6%,2.7%
+Braxton Berrios,Miami Dolphins,4,BUF,Away,1,1,11,11.0,11,0,5%,7.7%
+Breece Hall,New York Jets,1,BUF,Home,1,10,127,12.7,83,0,36%,73.8%
+Breece Hall,New York Jets,2,DAL,Away,1,4,9,2.3,9,0,25%,14.1%
+Breece Hall,New York Jets,3,NE,Home,1,12,18,1.5,7,0,55%,47.4%
+Breece Hall,New York Jets,4,KC,Home,1,6,56,9.3,43,0,38%,51.9%
+Breece Hall,New York Jets,5,DEN,Away,1,22,177,8.0,72,1,69%,75.6%
+Breece Hall,New York Jets,6,PHI,Home,1,12,39,3.3,9,1,57%,43.8%
+Breece Hall,New York Jets,8,NYG,Away,1,12,17,1.4,5,0,55%,29.3%
+Breece Hall,New York Jets,9,LAC,Home,1,16,50,3.1,10,0,80%,78.1%
+Breece Hall,New York Jets,10,LV,Away,1,13,28,2.2,7,0,62%,25.9%
+Breece Hall,New York Jets,11,BUF,Away,1,10,23,2.3,14,0,56%,36.5%
+Breece Hall,New York Jets,12,MIA,Home,1,7,25,3.6,11,0,70%,86.2%
+Breece Hall,New York Jets,13,ATL,Home,1,13,16,1.2,9,0,52%,25.8%
+Breece Hall,New York Jets,14,HOU,Home,1,10,40,4.0,15,0,38%,50.6%
+Breece Hall,New York Jets,15,MIA,Away,1,6,12,2.0,5,0,50%,52.2%
+Breece Hall,New York Jets,16,WAS,Home,1,20,95,4.8,36,2,56%,57.9%
+Breece Hall,New York Jets,17,CLE,Away,1,13,84,6.5,25,0,62%,78.5%
+Brett Rypien,Los Angeles Rams,9,GB,Away,1,3,19,6.3,8,0,12%,27.9%
+Brian Hoyer,Las Vegas Raiders,6,NE,Home,1,3,-3,-1.0,-1,0,9%,-3.6%
+Brian Robinson,Washington Commanders,1,ARI,Home,1,19,59,3.1,7,0,68%,64.1%
+Brian Robinson,Washington Commanders,2,DEN,Away,1,18,87,4.8,27,2,78%,71.3%
+Brian Robinson,Washington Commanders,3,BUF,Home,1,10,70,7.0,23,0,77%,66.7%
+Brian Robinson,Washington Commanders,4,PHI,Away,1,14,45,3.2,15,1,50%,42.1%
+Brian Robinson,Washington Commanders,5,CHI,Home,1,6,10,1.7,5,0,60%,34.5%
+Brian Robinson,Washington Commanders,6,ATL,Away,1,10,31,3.1,9,0,45%,43.1%
+Brian Robinson,Washington Commanders,7,NYG,Away,1,8,23,2.9,6,1,42%,30.3%
+Brian Robinson,Washington Commanders,8,PHI,Home,1,10,59,5.9,29,0,63%,70.2%
+Brian Robinson,Washington Commanders,9,NE,Away,1,18,63,3.5,9,1,62%,50.8%
+Brian Robinson,Washington Commanders,10,SEA,Away,1,8,38,4.8,15,0,57%,55.9%
+Brian Robinson,Washington Commanders,11,NYG,Home,1,17,73,4.3,18,0,61%,42.0%
+Brian Robinson,Washington Commanders,12,DAL,Away,1,15,53,3.5,14,0,56%,49.1%
+Brian Robinson,Washington Commanders,13,MIA,Home,1,7,53,7.6,29,0,25%,38.4%
+Brian Robinson,Washington Commanders,17,SF,Home,1,9,44,4.9,12,0,64%,71.0%
+Brock Purdy,San Francisco 49ers,1,PIT,Away,1,3,20,6.7,17,0,9%,10.6%
+Brock Purdy,San Francisco 49ers,2,LAR,Away,1,3,5,1.7,4,1,11%,3.1%
+Brock Purdy,San Francisco 49ers,3,NYG,Home,1,4,-1,-0.3,1,0,10%,-0.7%
+Brock Purdy,San Francisco 49ers,4,ARI,Home,1,2,0,0.0,1,1,6%,0.0%
+Brock Purdy,San Francisco 49ers,6,CLE,Away,1,3,7,2.3,5,0,12%,6.5%
+Brock Purdy,San Francisco 49ers,7,MIN,Away,1,5,19,3.8,17,0,23%,29.2%
+Brock Purdy,San Francisco 49ers,8,CIN,Home,1,6,57,9.5,16,0,26%,50.4%
+Brock Purdy,San Francisco 49ers,11,TB,Home,1,4,14,3.5,13,0,13%,12.2%
+Brock Purdy,San Francisco 49ers,12,SEA,Away,1,3,1,0.3,3,0,9%,0.6%
+Brock Purdy,San Francisco 49ers,13,PHI,Away,1,2,9,4.5,6,0,7%,6.2%
+Brock Purdy,San Francisco 49ers,14,SEA,Home,1,2,7,3.5,8,0,9%,4.0%
+Brock Purdy,San Francisco 49ers,16,BAL,Home,1,1,2,2.0,2,0,6%,1.7%
+Brock Purdy,San Francisco 49ers,17,WAS,Away,1,1,4,4.0,4,0,3%,2.2%
+Bryce Young,Carolina Panthers,1,ATL,Away,1,3,17,5.7,16,0,9%,11.0%
+Bryce Young,Carolina Panthers,2,NO,Home,1,2,34,17.0,26,0,11%,34.0%
+Bryce Young,Carolina Panthers,4,MIN,Home,1,2,10,5.0,6,0,6%,12.0%
+Bryce Young,Carolina Panthers,5,DET,Away,1,1,4,4.0,4,0,4%,4.0%
+Bryce Young,Carolina Panthers,8,HOU,Home,1,4,11,2.8,7,0,17%,25.0%
+Bryce Young,Carolina Panthers,9,IND,Home,1,5,41,8.2,13,0,18%,29.7%
+Bryce Young,Carolina Panthers,10,CHI,Away,1,3,18,6.0,8,0,19%,41.9%
+Bryce Young,Carolina Panthers,11,DAL,Home,1,2,3,1.5,4,0,9%,2.7%
+Bryce Young,Carolina Panthers,12,TEN,Away,1,3,23,7.7,11,0,9%,24.0%
+Bryce Young,Carolina Panthers,13,TB,Away,1,0,0,#DIV/0!,0,0,0%,0.0%
+Bryce Young,Carolina Panthers,14,NO,Away,1,3,40,13.3,21,0,8%,19.6%
+Bryce Young,Carolina Panthers,15,ATL,Home,1,4,9,2.3,12,0,11%,7.0%
+Bryce Young,Carolina Panthers,16,GB,Home,1,4,17,4.3,9,0,16%,17.7%
+Bryce Young,Carolina Panthers,17,JAX,Away,1,1,2,2.0,2,0,7%,3.5%
+C.J. Beathard,Jacksonville Jaguars,6,IND,Home,1,3,-2,-0.7,0,0,10%,-2.4%
+C.J. Beathard,Jacksonville Jaguars,13,CIN,Home,1,1,7,7.0,7,0,4%,9.9%
+C.J. Beathard,Jacksonville Jaguars,16,TB,Away,1,1,6,6.0,6,0,8%,16.2%
+C.J. Beathard,Jacksonville Jaguars,17,CAR,Home,1,3,24,8.0,19,0,9%,15.5%
+C.J. Ham,Minnesota Vikings,14,LV,Away,1,1,7,7.0,7,0,3%,5.3%
+C.J. Stroud,Houston Texans,1,BAL,Away,1,4,20,5.0,11,0,17%,27.8%
+C.J. Stroud,Houston Texans,2,IND,Home,1,3,1,0.3,2,0,12%,1.9%
+C.J. Stroud,Houston Texans,3,JAX,Away,1,3,14,4.7,11,0,12%,16.3%
+C.J. Stroud,Houston Texans,4,PIT,Home,1,4,16,4.0,11,0,11%,11.5%
+C.J. Stroud,Houston Texans,5,ATL,Away,1,1,2,2.0,2,0,4%,3.1%
+C.J. Stroud,Houston Texans,6,NO,Home,1,3,2,0.7,2,0,10%,1.7%
+C.J. Stroud,Houston Texans,8,CAR,Away,1,2,13,6.5,12,1,7%,11.8%
+C.J. Stroud,Houston Texans,9,TB,Home,1,0,10,#DIV/0!,10,0,0%,18.9%
+C.J. Stroud,Houston Texans,10,CIN,Away,1,2,8,4.0,8,1,6%,4.3%
+C.J. Stroud,Houston Texans,11,ARI,Home,1,1,-1,-1.0,-1,0,4%,-0.9%
+C.J. Stroud,Houston Texans,12,JAX,Home,1,6,47,7.8,16,1,33%,51.6%
+C.J. Stroud,Houston Texans,13,DEN,Home,1,6,11,1.8,4,0,20%,12.4%
+C.J. Stroud,Houston Texans,17,TEN,Home,1,1,4,4.0,4,0,4%,3.6%
+Calvin Austin,Pittsburgh Steelers,2,CLE,Home,1,1,-2,-2.0,-2,0,5%,-3.6%
+Calvin Austin,Pittsburgh Steelers,4,HOU,Away,1,1,5,5.0,5,0,4%,4.4%
+Calvin Austin,Pittsburgh Steelers,7,LAR,Away,1,1,1,1.0,1,0,3%,1.2%
+Calvin Austin,Pittsburgh Steelers,8,JAX,Home,1,2,10,5.0,10,0,11%,14.3%
+Calvin Austin,Pittsburgh Steelers,9,TEN,Home,1,2,10,5.0,8,0,7%,6.0%
+Calvin Austin,Pittsburgh Steelers,10,GB,Home,1,1,6,6.0,6,0,3%,2.9%
+Calvin Austin,Pittsburgh Steelers,14,NE,Home,1,1,12,12.0,12,0,4%,14.6%
+Calvin Austin,Pittsburgh Steelers,16,CIN,Home,1,1,7,7.0,7,1,3%,6.2%
+Calvin Ridley,Jacksonville Jaguars,5,BUF,Away,1,2,14,7.0,11,0,5%,7.1%
+Calvin Ridley,Jacksonville Jaguars,6,IND,Home,1,1,-4,-4.0,-4,0,3%,-4.7%
+Calvin Ridley,Jacksonville Jaguars,7,NO,Away,1,1,0,0.0,0,0,4%,0.0%
+Calvin Ridley,Jacksonville Jaguars,11,TEN,Home,1,1,18,18.0,18,0,3%,14.1%
+Calvin Ridley,Jacksonville Jaguars,13,CIN,Home,1,3,7,2.3,10,0,12%,9.9%
+Calvin Ridley,Jacksonville Jaguars,16,TB,Away,1,1,-12,-12.0,-12,0,8%,-32.4%
+Cam Akers,Los Angeles Rams,1,SEA,Away,1,22,29,1.3,12,1,55%,31.5%
+Cam Akers,Minnesota Vikings,4,CAR,Away,1,5,40,8.0,10,0,22%,29.6%
+Cam Akers,Minnesota Vikings,5,KC,Home,1,5,15,3.0,6,0,28%,21.4%
+Cam Akers,Minnesota Vikings,6,CHI,Away,1,1,8,8.0,8,0,5%,17.4%
+Cam Akers,Minnesota Vikings,7,SF,Home,1,10,31,3.1,13,0,48%,41.9%
+Cam Akers,Minnesota Vikings,8,GB,Away,1,9,19,2.1,9,1,29%,30.6%
+Cam Akers,Minnesota Vikings,9,ATL,Away,1,8,25,3.1,19,0,24%,17.1%
+Cartavious Bigsby,Jacksonville Jaguars,1,IND,Away,1,7,13,1.9,4,1,20%,12.4%
+Cartavious Bigsby,Jacksonville Jaguars,3,HOU,Home,1,2,10,5.0,9,1,7%,8.6%
+Cartavious Bigsby,Jacksonville Jaguars,4,ATL,Home,1,3,10,3.3,6,0,9%,9.5%
+Cartavious Bigsby,Jacksonville Jaguars,5,BUF,Away,1,3,8,2.7,7,0,8%,4.1%
+Cartavious Bigsby,Jacksonville Jaguars,6,IND,Home,1,3,2,0.7,3,0,10%,2.4%
+Cartavious Bigsby,Jacksonville Jaguars,7,NO,Away,1,2,2,1.0,2,0,8%,1.8%
+Cartavious Bigsby,Jacksonville Jaguars,8,PIT,Away,1,3,9,3.0,9,0,10%,8.5%
+Cartavious Bigsby,Jacksonville Jaguars,10,SF,Home,1,3,5,1.7,3,0,18%,8.5%
+Cartavious Bigsby,Jacksonville Jaguars,11,TEN,Home,1,9,21,2.3,6,0,25%,16.4%
+Cartavious Bigsby,Jacksonville Jaguars,12,HOU,Away,1,1,6,6.0,6,0,3%,7.4%
+Cartavious Bigsby,Jacksonville Jaguars,15,BAL,Home,1,1,-2,-2.0,-2,0,6%,-2.7%
+Cartavious Bigsby,Jacksonville Jaguars,17,CAR,Home,1,10,32,3.2,12,0,29%,20.6%
+Case Keenum,Houston Texans,15,TEN,Away,1,2,1,0.5,1,0,6%,0.7%
+Cedric Tillman,Cleveland Browns,11,PIT,Home,1,1,8,8.0,8,0,3%,8.3%
+CeeDee Lamb,Dallas Cowboys,3,ARI,Away,1,2,9,4.5,9,0,6%,4.9%
+CeeDee Lamb,Dallas Cowboys,4,NE,Home,1,1,12,12.0,12,0,3%,9.7%
+CeeDee Lamb,Dallas Cowboys,8,LAR,Home,1,1,12,12.0,12,0,4%,11.8%
+CeeDee Lamb,Dallas Cowboys,10,NYG,Home,1,1,14,14.0,14,1,3%,8.3%
+CeeDee Lamb,Dallas Cowboys,11,CAR,Away,1,1,7,7.0,7,0,4%,6.5%
+CeeDee Lamb,Dallas Cowboys,12,WAS,Home,1,1,0,0.0,0,0,6%,0.0%
+CeeDee Lamb,Dallas Cowboys,13,SEA,Home,1,2,30,15.0,24,0,6%,22.1%
+CeeDee Lamb,Dallas Cowboys,15,BUF,Away,1,1,3,3.0,3,1,5%,3.4%
+CeeDee Lamb,Dallas Cowboys,16,MIA,Away,1,2,14,7.0,9,0,8%,14.4%
+CeeDee Lamb,Dallas Cowboys,17,DET,Home,1,1,5,5.0,5,0,5%,8.2%
+Chase Brown,Cincinnati Bengals,2,BAL,Home,1,1,2,2.0,2,0,7%,3.0%
+Chase Brown,Cincinnati Bengals,6,SEA,Home,1,1,4,4.0,4,0,7%,8.7%
+Chase Brown,Cincinnati Bengals,13,JAX,Away,1,9,61,6.8,31,0,29%,39.1%
+Chase Brown,Cincinnati Bengals,14,IND,Home,1,8,25,3.1,10,0,25%,22.5%
+Chase Brown,Cincinnati Bengals,15,MIN,Home,1,7,23,3.3,6,0,32%,28.8%
+Chase Brown,Cincinnati Bengals,16,PIT,Away,1,4,16,4.0,5,0,25%,27.1%
+Chase Brown,Cincinnati Bengals,17,KC,Away,1,3,5,1.7,3,0,9%,4.8%
+Chase Edmonds,Tampa Bay Buccaneers,1,MIN,Away,1,2,8,4.0,5,0,6%,11.0%
+Chase Edmonds,Tampa Bay Buccaneers,2,CHI,Home,1,2,12,6.0,14,0,6%,10.0%
+Chase Edmonds,Tampa Bay Buccaneers,8,BUF,Away,1,3,5,1.7,2,0,18%,6.4%
+Chase Edmonds,Tampa Bay Buccaneers,9,HOU,Away,1,3,-5,-1.7,2,0,10%,-6.2%
+Chase Edmonds,Tampa Bay Buccaneers,10,TEN,Home,1,4,9,2.3,9,0,14%,11.7%
+Chase Edmonds,Tampa Bay Buccaneers,11,SF,Away,1,4,8,2.0,3,0,22%,12.1%
+Chase Edmonds,Tampa Bay Buccaneers,12,IND,Away,1,1,11,11.0,11,0,5%,8.8%
+Chase Edmonds,Tampa Bay Buccaneers,13,CAR,Home,1,2,7,3.5,4,0,7%,5.5%
+Chase Edmonds,Tampa Bay Buccaneers,14,ATL,Away,1,8,40,5.0,15,0,22%,27.0%
+Chase Edmonds,Tampa Bay Buccaneers,15,GB,Away,1,3,13,4.3,9,0,11%,13.1%
+Chase Edmonds,Tampa Bay Buccaneers,16,JAX,Home,1,10,25,2.5,6,0,28%,35.7%
+Chase Edmonds,Tampa Bay Buccaneers,17,NO,Home,1,3,16,5.3,10,0,20%,28.1%
+Chatarius Atwell,Los Angeles Rams,2,SF,Home,1,1,5,5.0,5,0,5%,5.6%
+Chatarius Atwell,Los Angeles Rams,3,CIN,Away,1,1,22,22.0,22,0,8%,31.0%
+Chatarius Atwell,Los Angeles Rams,8,DAL,Away,1,2,8,4.0,8,0,8%,8.7%
+Chigoziem Okonkwo,Tennessee Titans,8,ATL,Home,1,1,4,4.0,4,0,3%,2.7%
+Chigoziem Okonkwo,Tennessee Titans,13,IND,Home,1,1,2,2.0,2,0,2%,1.1%
+Chris Evans,Cincinnati Bengals,1,CLE,Away,1,2,12,6.0,7,0,10%,16.0%
+Chris Godwin,Tampa Bay Buccaneers,8,BUF,Away,1,1,14,14.0,14,0,6%,17.9%
+Chris Godwin,Tampa Bay Buccaneers,13,CAR,Home,1,1,19,19.0,19,1,4%,14.8%
+Chris Godwin,Tampa Bay Buccaneers,16,JAX,Home,1,1,1,1.0,1,0,3%,1.4%
+Chris Moore,Tennessee Titans,11,JAX,Away,1,1,38,38.0,38,0,5%,41.3%
+Chris Moore,Tennessee Titans,12,CAR,Home,1,1,1,1.0,1,0,4%,1.3%
+Christian Kirk,Jacksonville Jaguars,5,BUF,Away,1,1,6,6.0,6,0,3%,3.1%
+Christian McCaffrey,San Francisco 49ers,1,PIT,Away,1,22,152,6.9,65,1,65%,80.9%
+Christian McCaffrey,San Francisco 49ers,2,LAR,Away,1,20,116,5.8,51,1,71%,73.0%
+Christian McCaffrey,San Francisco 49ers,3,NYG,Home,1,18,85,4.7,12,1,46%,60.3%
+Christian McCaffrey,San Francisco 49ers,4,ARI,Home,1,20,106,5.3,18,3,65%,85.5%
+Christian McCaffrey,San Francisco 49ers,5,DAL,Home,1,19,51,2.7,8,1,46%,30.0%
+Christian McCaffrey,San Francisco 49ers,6,CLE,Away,1,11,43,3.9,27,0,44%,39.8%
+Christian McCaffrey,San Francisco 49ers,7,MIN,Away,1,15,45,3.0,9,1,68%,69.2%
+Christian McCaffrey,San Francisco 49ers,8,CIN,Home,1,12,54,4.5,16,1,52%,47.8%
+Christian McCaffrey,San Francisco 49ers,10,JAX,Away,1,16,95,5.9,19,0,53%,66.0%
+Christian McCaffrey,San Francisco 49ers,11,TB,Home,1,21,78,3.7,12,0,70%,67.8%
+Christian McCaffrey,San Francisco 49ers,12,SEA,Away,1,19,114,6.0,27,2,58%,67.5%
+Christian McCaffrey,San Francisco 49ers,13,PHI,Away,1,17,93,5.5,16,1,61%,63.7%
+Christian McCaffrey,San Francisco 49ers,14,SEA,Home,1,16,145,9.1,72,0,70%,83.8%
+Christian McCaffrey,San Francisco 49ers,15,ARI,Away,1,18,115,6.4,26,1,69%,79.9%
+Christian McCaffrey,San Francisco 49ers,16,BAL,Home,1,14,103,7.4,39,1,78%,85.1%
+Christian McCaffrey,San Francisco 49ers,17,WAS,Away,1,14,64,4.6,13,0,36%,34.8%
+Christian Watson,Green Bay Packers,5,LV,Away,1,1,-5,-5.0,-5,0,4%,-4.5%
+Christian Watson,Green Bay Packers,11,LAC,Home,1,1,1,1.0,1,0,4%,1.0%
+Christian Watson,Green Bay Packers,13,KC,Home,1,2,15,7.5,13,0,8%,11.6%
+Christopher Brooks,Miami Dolphins,3,DEN,Home,1,9,66,7.3,52,0,21%,18.9%
+Christopher Brooks,Miami Dolphins,6,CAR,Home,1,6,28,4.7,28,0,18%,17.3%
+Christopher Brooks,Miami Dolphins,17,BAL,Away,1,4,12,3.0,7,0,16%,7.8%
+Christopher Rodriguez,Washington Commanders,1,ARI,Home,1,3,7,2.3,3,0,11%,7.6%
+Christopher Rodriguez,Washington Commanders,6,ATL,Away,1,4,23,5.8,13,0,18%,31.9%
+Christopher Rodriguez,Washington Commanders,7,NYG,Away,1,7,31,4.4,9,0,37%,40.8%
+Christopher Rodriguez,Washington Commanders,11,NYG,Home,1,6,43,7.2,16,0,21%,24.7%
+Christopher Rodriguez,Washington Commanders,12,DAL,Away,1,4,21,5.3,13,0,15%,19.4%
+Christopher Rodriguez,Washington Commanders,13,MIA,Home,1,7,29,4.1,15,0,25%,21.0%
+Christopher Rodriguez,Washington Commanders,15,LAR,Away,1,10,35,3.5,11,0,48%,44.3%
+Christopher Rodriguez,Washington Commanders,16,NYJ,Away,1,10,58,5.8,16,2,45%,56.9%
+Chuba Hubbard,Carolina Panthers,1,ATL,Away,1,9,60,6.7,21,0,28%,39.0%
+Chuba Hubbard,Carolina Panthers,2,NO,Home,1,2,16,8.0,14,0,11%,16.0%
+Chuba Hubbard,Carolina Panthers,3,SEA,Away,1,1,2,2.0,2,0,7%,4.5%
+Chuba Hubbard,Carolina Panthers,4,MIN,Home,1,14,41,2.9,7,0,45%,49.4%
+Chuba Hubbard,Carolina Panthers,5,DET,Away,1,9,35,3.9,6,0,39%,35.4%
+Chuba Hubbard,Carolina Panthers,6,MIA,Away,1,19,88,4.6,19,1,76%,81.5%
+Chuba Hubbard,Carolina Panthers,8,HOU,Home,1,15,28,1.9,8,0,63%,63.6%
+Chuba Hubbard,Carolina Panthers,9,IND,Home,1,16,58,3.6,20,0,57%,42.0%
+Chuba Hubbard,Carolina Panthers,10,CHI,Away,1,9,23,2.6,9,0,56%,53.5%
+Chuba Hubbard,Carolina Panthers,11,DAL,Home,1,10,57,5.7,14,0,43%,51.8%
+Chuba Hubbard,Carolina Panthers,12,TEN,Away,1,14,45,3.2,15,1,44%,46.9%
+Chuba Hubbard,Carolina Panthers,13,TB,Away,1,25,104,4.2,17,2,74%,78.2%
+Chuba Hubbard,Carolina Panthers,14,NO,Away,1,23,87,3.8,13,0,59%,42.6%
+Chuba Hubbard,Carolina Panthers,15,ATL,Home,1,22,87,4.0,22,0,61%,67.4%
+Chuba Hubbard,Carolina Panthers,16,GB,Home,1,16,43,2.7,13,1,64%,44.8%
+Chuba Hubbard,Carolina Panthers,17,JAX,Away,1,11,45,4.1,7,0,73%,78.9%
+Clayton Tune,Arizona Cardinals,9,CLE,Away,1,5,28,5.6,11,0,24%,68.3%
+Clayton Tune,Arizona Cardinals,10,ATL,Home,1,1,1,1.0,1,1,4%,0.8%
+Clayton Tune,Arizona Cardinals,12,LAR,Home,1,0,0,#DIV/0!,0,0,0%,0.0%
+Clayton Tune,Arizona Cardinals,15,SF,Home,1,1,0,0.0,0,0,3%,0.0%
+Clyde Edwards-Helaire,Kansas City Chiefs,1,DET,Home,1,6,22,3.7,5,0,26%,24.4%
+Clyde Edwards-Helaire,Kansas City Chiefs,2,JAX,Away,1,1,0,0.0,0,0,5%,0.0%
+Clyde Edwards-Helaire,Kansas City Chiefs,3,CHI,Home,1,15,55,3.7,16,1,41%,35.9%
+Clyde Edwards-Helaire,Kansas City Chiefs,4,NYJ,Away,1,3,12,4.0,9,0,9%,5.9%
+Clyde Edwards-Helaire,Kansas City Chiefs,5,MIN,Away,1,3,4,1.3,2,0,14%,6.0%
+Clyde Edwards-Helaire,Kansas City Chiefs,6,DEN,Home,1,2,7,3.5,7,0,7%,7.3%
+Clyde Edwards-Helaire,Kansas City Chiefs,7,LAC,Home,1,2,5,2.5,7,0,10%,7.4%
+Clyde Edwards-Helaire,Kansas City Chiefs,8,DEN,Away,1,1,4,4.0,4,0,6%,6.5%
+Clyde Edwards-Helaire,Kansas City Chiefs,11,PHI,Home,1,2,20,10.0,12,0,7%,11.9%
+Clyde Edwards-Helaire,Kansas City Chiefs,12,LV,Away,1,3,5,1.7,5,0,13%,7.2%
+Clyde Edwards-Helaire,Kansas City Chiefs,13,GB,Away,1,2,6,3.0,5,0,8%,4.1%
+Clyde Edwards-Helaire,Kansas City Chiefs,14,BUF,Home,1,11,39,3.5,7,0,61%,47.6%
+Clyde Edwards-Helaire,Kansas City Chiefs,15,NE,Away,1,13,37,2.8,20,0,65%,86.0%
+Clyde Edwards-Helaire,Kansas City Chiefs,16,LV,Home,1,4,6,1.5,4,0,16%,7.1%
+Cole Kmet,Chicago Bears,1,GB,Home,1,1,0,0.0,0,0,3%,0.0%
+Cole Kmet,Chicago Bears,4,DEN,Home,1,1,1,1.0,1,0,3%,0.6%
+Cole Kmet,Chicago Bears,10,CAR,Home,1,1,1,1.0,1,0,3%,0.8%
+Connor Heyward,Pittsburgh Steelers,3,LV,Away,1,1,0,0.0,0,0,3%,0.0%
+Cooper Kupp,Los Angeles Rams,16,NO,Home,1,1,-3,-3.0,-3,0,3%,-2.3%
+Cooper Rush,Dallas Cowboys,4,NE,Home,1,3,-2,-0.7,0,0,10%,-1.6%
+Cooper Rush,Dallas Cowboys,5,SF,Away,1,1,-2,-2.0,-2,0,5%,-3.5%
+Cooper Rush,Dallas Cowboys,8,LAR,Home,1,3,-3,-1.0,-1,0,12%,-2.9%
+Cooper Rush,Dallas Cowboys,10,NYG,Home,1,2,5,2.5,6,0,6%,3.0%
+Cooper Rush,Dallas Cowboys,11,CAR,Away,1,3,-3,-1.0,-1,0,11%,-2.8%
+Cordarrelle Patterson,Atlanta Falcons,6,WAS,Home,1,1,0,0.0,0,0,3%,0.0%
+Cordarrelle Patterson,Atlanta Falcons,7,TB,Away,1,10,56,5.6,18,0,26%,35.9%
+Cordarrelle Patterson,Atlanta Falcons,8,TEN,Away,1,2,7,3.5,4,0,8%,5.0%
+Cordarrelle Patterson,Atlanta Falcons,9,MIN,Home,1,1,0,0.0,0,0,4%,0.0%
+Cordarrelle Patterson,Atlanta Falcons,10,ARI,Away,1,3,13,4.3,6,0,7%,7.1%
+Cordarrelle Patterson,Atlanta Falcons,12,NO,Home,1,8,43,5.4,12,0,20%,18.9%
+Cordarrelle Patterson,Atlanta Falcons,13,NYJ,Away,1,5,11,2.2,7,0,15%,12.2%
+Cordarrelle Patterson,Atlanta Falcons,14,TB,Home,1,3,7,2.3,6,0,12%,7.3%
+Cordarrelle Patterson,Atlanta Falcons,15,CAR,Away,1,5,-2,-0.4,3,0,16%,-3.8%
+Cordarrelle Patterson,Atlanta Falcons,16,IND,Home,1,7,26,3.7,11,0,23%,14.7%
+Craig Reynolds,Detroit Lions,2,SEA,Home,1,3,7,2.3,5,0,11%,6.9%
+Craig Reynolds,Detroit Lions,3,ATL,Home,1,4,15,3.8,8,0,13%,13.0%
+Craig Reynolds,Detroit Lions,5,CAR,Home,1,7,52,7.4,19,1,23%,32.7%
+Craig Reynolds,Detroit Lions,6,TB,Away,1,10,15,1.5,8,0,45%,37.5%
+Craig Reynolds,Detroit Lions,7,BAL,Away,1,3,16,5.3,12,0,21%,19.0%
+Craig Reynolds,Detroit Lions,8,LV,Home,1,14,74,5.3,13,0,33%,33.3%
+Curtis Samuel,Washington Commanders,1,ARI,Home,1,1,6,6.0,6,0,4%,6.5%
+Curtis Samuel,Washington Commanders,2,DEN,Away,1,1,13,13.0,13,0,4%,10.7%
+Curtis Samuel,Washington Commanders,4,PHI,Away,1,1,1,1.0,1,1,4%,0.9%
+Curtis Samuel,Washington Commanders,6,ATL,Away,1,1,0,0.0,0,0,5%,0.0%
+Curtis Samuel,Washington Commanders,16,NYJ,Away,1,2,4,2.0,6,0,9%,3.9%
+D.J. Moore,Chicago Bears,10,CAR,Home,1,1,1,1.0,1,0,3%,0.8%
+D.J. Moore,Chicago Bears,14,DET,Home,1,3,20,6.7,16,1,10%,14.1%
+D'Andre Swift,Philadelphia Eagles,1,NE,Away,1,1,3,3.0,3,0,4%,3.1%
+D'Andre Swift,Philadelphia Eagles,2,MIN,Home,1,28,175,6.3,43,1,58%,67.6%
+D'Andre Swift,Philadelphia Eagles,3,TB,Away,1,16,130,8.1,29,0,40%,64.7%
+D'Andre Swift,Philadelphia Eagles,4,WAS,Home,1,14,56,4.0,8,1,52%,53.8%
+D'Andre Swift,Philadelphia Eagles,5,LAR,Away,1,17,70,4.1,17,0,44%,44.0%
+D'Andre Swift,Philadelphia Eagles,6,NYJ,Away,1,10,18,1.8,9,0,45%,22.5%
+D'Andre Swift,Philadelphia Eagles,7,MIA,Home,1,15,62,4.1,22,0,44%,62.6%
+D'Andre Swift,Philadelphia Eagles,8,WAS,Away,1,16,57,3.6,9,1,73%,96.6%
+D'Andre Swift,Philadelphia Eagles,9,DAL,Home,1,18,43,2.4,8,0,55%,39.4%
+D'Andre Swift,Philadelphia Eagles,11,KC,Away,1,12,76,6.3,35,1,44%,66.7%
+D'Andre Swift,Philadelphia Eagles,12,BUF,Home,1,14,80,5.7,36,0,44%,43.2%
+D'Andre Swift,Philadelphia Eagles,13,SF,Home,1,6,13,2.2,4,0,33%,28.3%
+D'Andre Swift,Philadelphia Eagles,14,DAL,Away,1,11,39,3.5,7,0,48%,36.8%
+D'Andre Swift,Philadelphia Eagles,15,SEA,Away,1,18,74,4.1,11,0,47%,41.6%
+D'Andre Swift,Philadelphia Eagles,16,NYG,Home,1,20,92,4.6,17,1,57%,54.1%
+D'Andre Swift,Philadelphia Eagles,17,ARI,Home,1,13,61,4.7,16,0,57%,67.0%
+D'Ernest Johnson,Jacksonville Jaguars,1,IND,Away,1,1,-4,-4.0,-4,0,3%,-3.8%
+D'Ernest Johnson,Jacksonville Jaguars,2,KC,Home,1,1,8,8.0,8,0,6%,10.8%
+D'Ernest Johnson,Jacksonville Jaguars,3,HOU,Home,1,3,6,2.0,3,0,11%,5.2%
+D'Ernest Johnson,Jacksonville Jaguars,4,ATL,Home,1,1,-2,-2.0,-2,0,3%,-1.9%
+D'Ernest Johnson,Jacksonville Jaguars,6,IND,Home,1,1,19,19.0,19,0,3%,22.4%
+D'Ernest Johnson,Jacksonville Jaguars,8,PIT,Away,1,2,8,4.0,4,0,7%,7.5%
+D'Ernest Johnson,Jacksonville Jaguars,10,SF,Home,1,3,12,4.0,5,0,18%,20.3%
+D'Ernest Johnson,Jacksonville Jaguars,11,TEN,Home,1,7,20,2.9,9,0,19%,15.6%
+D'Ernest Johnson,Jacksonville Jaguars,12,HOU,Away,1,7,19,2.7,7,0,23%,23.5%
+D'Ernest Johnson,Jacksonville Jaguars,13,CIN,Home,1,5,4,0.8,4,0,20%,5.6%
+D'Ernest Johnson,Jacksonville Jaguars,14,CLE,Away,1,3,12,4.0,6,0,15%,20.7%
+D'Ernest Johnson,Jacksonville Jaguars,15,BAL,Home,1,2,5,2.5,4,0,12%,6.7%
+D'Ernest Johnson,Jacksonville Jaguars,16,TB,Away,1,1,2,2.0,2,0,8%,5.4%
+D'Ernest Johnson,Jacksonville Jaguars,17,CAR,Home,1,3,0,0.0,1,0,9%,0.0%
+D'Onta Foreman,Chicago Bears,1,GB,Home,1,5,16,3.2,11,0,17%,13.1%
+D'Onta Foreman,Chicago Bears,6,MIN,Home,1,15,65,4.3,10,0,42%,40.1%
+D'Onta Foreman,Chicago Bears,7,LV,Home,1,16,89,5.6,14,2,42%,51.4%
+D'Onta Foreman,Chicago Bears,8,LAC,Away,1,9,34,3.8,12,0,36%,46.6%
+D'Onta Foreman,Chicago Bears,9,NO,Away,1,20,83,4.2,22,0,63%,53.2%
+D'Onta Foreman,Chicago Bears,10,CAR,Home,1,21,80,3.8,11,1,57%,60.2%
+D'Onta Foreman,Chicago Bears,11,DET,Away,1,6,14,2.3,13,1,13%,7.7%
+D'Onta Foreman,Chicago Bears,14,DET,Home,1,11,50,4.5,13,0,37%,35.2%
+D'Onta Foreman,Chicago Bears,15,CLE,Away,1,6,-6,-1.0,2,0,22%,-6.8%
+D'Wayne Eskridge,Seattle Seahawks,8,CLE,Home,1,1,-5,-5.0,-5,0,6%,-4.4%
+D'Wayne Eskridge,Seattle Seahawks,12,SF,Home,1,1,10,10.0,10,0,5%,11.4%
+Dak Prescott,Dallas Cowboys,1,NYG,Away,1,1,6,6.0,6,0,3%,4.9%
+Dak Prescott,Dallas Cowboys,2,NYJ,Home,1,6,14,2.3,15,0,14%,10.4%
+Dak Prescott,Dallas Cowboys,3,ARI,Away,1,3,24,8.0,13,0,9%,13.0%
+Dak Prescott,Dallas Cowboys,4,NE,Home,1,1,-1,-1.0,-1,0,3%,-0.8%
+Dak Prescott,Dallas Cowboys,5,SF,Away,1,1,2,2.0,2,0,5%,3.5%
+Dak Prescott,Dallas Cowboys,6,LAC,Away,1,7,40,5.7,18,1,27%,41.7%
+Dak Prescott,Dallas Cowboys,8,LAR,Home,1,4,19,4.8,9,0,15%,18.6%
+Dak Prescott,Dallas Cowboys,9,PHI,Away,1,6,14,2.3,6,0,29%,19.2%
+Dak Prescott,Dallas Cowboys,10,NYG,Home,1,2,17,8.5,10,1,6%,10.1%
+Dak Prescott,Dallas Cowboys,11,CAR,Away,1,2,6,3.0,3,0,7%,5.6%
+Dak Prescott,Dallas Cowboys,12,WAS,Home,1,1,10,10.0,10,0,6%,10.0%
+Dak Prescott,Dallas Cowboys,13,SEA,Home,1,7,23,3.3,8,0,21%,16.9%
+Dak Prescott,Dallas Cowboys,14,PHI,Home,1,3,11,3.7,4,0,9%,8.0%
+Dak Prescott,Dallas Cowboys,15,BUF,Away,1,4,27,6.8,13,0,20%,30.3%
+Dak Prescott,Dallas Cowboys,16,MIA,Away,1,5,25,5.0,22,0,20%,25.8%
+Dak Prescott,Dallas Cowboys,17,DET,Home,1,2,5,2.5,5,0,10%,8.2%
+Dallas Goedert,Philadelphia Eagles,15,SEA,Away,1,1,1,1.0,1,0,3%,0.6%
+Dalvin Cook,New York Jets,1,BUF,Home,1,13,33,2.5,10,0,46%,19.2%
+Dalvin Cook,New York Jets,2,DAL,Away,1,4,7,1.8,6,0,25%,10.9%
+Dalvin Cook,New York Jets,3,NE,Home,1,8,18,2.3,5,0,36%,47.4%
+Dalvin Cook,New York Jets,4,KC,Home,1,5,16,3.2,5,0,31%,14.8%
+Dalvin Cook,New York Jets,5,DEN,Away,1,6,23,3.8,9,0,19%,9.8%
+Dalvin Cook,New York Jets,6,PHI,Home,1,3,12,4.0,8,0,14%,13.5%
+Dalvin Cook,New York Jets,8,NYG,Away,1,2,5,2.5,4,0,9%,8.6%
+Dalvin Cook,New York Jets,9,LAC,Home,1,2,7,3.5,4,0,10%,10.9%
+Dalvin Cook,New York Jets,10,LV,Away,1,4,26,6.5,10,0,19%,24.1%
+Dalvin Cook,New York Jets,11,BUF,Away,1,2,13,6.5,10,0,11%,20.6%
+Dalvin Cook,New York Jets,12,MIA,Home,1,1,2,2.0,2,0,10%,6.9%
+Dalvin Cook,New York Jets,13,ATL,Home,1,9,35,3.9,14,0,36%,56.5%
+Dalvin Cook,New York Jets,14,HOU,Home,1,7,13,1.9,5,0,27%,16.5%
+Dalvin Cook,New York Jets,15,MIA,Away,1,1,4,4.0,4,0,8%,17.4%
+Dameon Pierce,Houston Texans,1,BAL,Away,1,11,38,3.5,7,0,48%,52.8%
+Dameon Pierce,Houston Texans,2,IND,Home,1,15,31,2.1,10,0,58%,59.6%
+Dameon Pierce,Houston Texans,3,JAX,Away,1,14,31,2.2,10,1,54%,36.0%
+Dameon Pierce,Houston Texans,4,PIT,Home,1,24,81,3.4,13,0,63%,58.3%
+Dameon Pierce,Houston Texans,5,ATL,Away,1,20,66,3.3,15,0,87%,103.1%
+Dameon Pierce,Houston Texans,6,NO,Home,1,13,34,2.6,8,0,42%,28.3%
+Dameon Pierce,Houston Texans,8,CAR,Away,1,12,46,3.8,16,0,40%,41.8%
+Dameon Pierce,Houston Texans,12,JAX,Home,1,5,14,2.8,4,0,28%,15.4%
+Dameon Pierce,Houston Texans,13,DEN,Home,1,15,41,2.7,22,1,50%,46.1%
+Dameon Pierce,Houston Texans,14,NYJ,Away,1,4,9,2.3,4,0,21%,11.1%
+Dameon Pierce,Houston Texans,15,TEN,Away,1,1,3,3.0,3,0,3%,2.0%
+Dameon Pierce,Houston Texans,16,CLE,Home,1,3,6,2.0,4,0,19%,8.3%
+Dameon Pierce,Houston Texans,17,TEN,Home,1,8,16,2.0,5,0,29%,14.4%
+Damien Harris,Buffalo Bills,1,NYJ,Away,1,1,3,3.0,3,0,5%,3.1%
+Damien Harris,Buffalo Bills,2,LV,Home,1,7,33,4.7,11,1,20%,18.0%
+Damien Harris,Buffalo Bills,3,WAS,Away,1,5,15,3.0,7,0,15%,8.9%
+Damien Harris,Buffalo Bills,4,MIA,Home,1,6,29,4.8,8,0,21%,27.9%
+Damien Harris,Buffalo Bills,5,JAX,Home,1,3,13,4.3,6,0,21%,44.8%
+Damien Harris,Buffalo Bills,6,NYG,Home,1,1,1,1.0,1,0,3%,0.8%
+Damien Williams,Arizona Cardinals,6,LAR,Away,1,8,36,4.5,9,0,27%,27.7%
+Damien Williams,Arizona Cardinals,7,SEA,Away,1,1,2,2.0,2,0,4%,1.6%
+Damien Williams,Arizona Cardinals,8,BAL,Home,1,2,5,2.5,7,0,6%,3.9%
+Daniel Jones,New York Giants,1,DAL,Home,1,13,43,3.3,11,0,46%,39.8%
+Daniel Jones,New York Giants,2,ARI,Away,1,9,59,6.6,15,1,33%,46.5%
+Daniel Jones,New York Giants,3,SF,Away,1,2,5,2.5,4,0,18%,17.2%
+Daniel Jones,New York Giants,4,SEA,Home,1,10,66,6.6,17,0,34%,58.9%
+Daniel Jones,New York Giants,5,MIA,Away,1,4,24,6.0,11,0,14%,28.2%
+Daniel Jones,New York Giants,9,LV,Away,1,2,9,4.5,9,0,8%,7.3%
+Dare Ogunbowale,Houston Texans,2,IND,Home,1,2,4,2.0,2,0,8%,7.7%
+Dare Ogunbowale,Houston Texans,13,DEN,Home,1,1,1,1.0,1,0,3%,1.1%
+Dare Ogunbowale,Houston Texans,14,NYJ,Away,1,2,7,3.5,4,0,11%,8.6%
+Dare Ogunbowale,Houston Texans,15,TEN,Away,1,1,17,17.0,17,0,3%,11.5%
+Dare Ogunbowale,Houston Texans,16,CLE,Home,1,1,6,6.0,6,0,6%,8.3%
+Dare Ogunbowale,Houston Texans,17,TEN,Home,1,1,0,0.0,0,0,4%,0.0%
+Darnell Mooney,Chicago Bears,7,LV,Home,1,1,2,2.0,2,0,3%,1.2%
+Darnell Mooney,Chicago Bears,8,LAC,Away,1,1,3,3.0,3,0,4%,4.1%
+Darrell Henderson,Los Angeles Rams,7,PIT,Home,1,18,61,3.4,16,1,58%,45.2%
+Darrell Henderson,Los Angeles Rams,8,DAL,Away,1,12,31,2.6,7,0,50%,33.7%
+Darrell Henderson,Los Angeles Rams,9,GB,Away,1,10,19,1.9,6,0,38%,27.9%
+Darrell Henderson,Los Angeles Rams,11,SEA,Home,1,6,1,0.2,4,1,22%,1.2%
+Darrynton Evans,Chicago Bears,6,MIN,Home,1,9,32,3.6,12,0,25%,19.8%
+Darrynton Evans,Chicago Bears,7,LV,Home,1,14,48,3.4,11,0,37%,27.7%
+Darrynton Evans,Chicago Bears,8,LAC,Away,1,4,18,4.5,11,1,16%,24.7%
+Darrynton Evans,Chicago Bears,9,NO,Away,1,1,2,2.0,2,0,3%,1.3%
+Darrynton Evans,Chicago Bears,10,CAR,Home,1,2,5,2.5,3,0,5%,3.8%
+Darrynton Evans,Miami Dolphins,12,NYJ,Away,1,2,16,8.0,13,0,5%,9.6%
+David Montgomery,Detroit Lions,1,KC,Away,1,21,74,3.5,8,1,62%,62.7%
+David Montgomery,Detroit Lions,2,SEA,Home,1,16,67,4.2,16,1,59%,65.7%
+David Montgomery,Detroit Lions,4,GB,Away,1,32,121,3.8,16,3,74%,57.3%
+David Montgomery,Detroit Lions,5,CAR,Home,1,19,109,5.7,42,1,63%,68.6%
+David Montgomery,Detroit Lions,6,TB,Away,1,6,14,2.3,6,0,27%,35.0%
+David Montgomery,Detroit Lions,10,LAC,Away,1,12,116,9.7,75,1,39%,58.0%
+David Montgomery,Detroit Lions,11,CHI,Home,1,12,76,6.3,20,1,55%,66.1%
+David Montgomery,Detroit Lions,12,GB,Home,1,15,71,4.7,15,1,48%,50.7%
+David Montgomery,Detroit Lions,13,NO,Away,1,18,56,3.1,13,1,60%,39.4%
+David Montgomery,Detroit Lions,14,CHI,Away,1,10,66,6.6,13,0,42%,47.1%
+David Montgomery,Detroit Lions,15,DEN,Home,1,17,85,5.0,13,0,61%,45.9%
+David Montgomery,Detroit Lions,16,MIN,Away,1,17,55,3.2,11,1,47%,38.5%
+David Montgomery,Detroit Lions,17,DAL,Away,1,14,65,4.6,22,1,45%,52.0%
+Davis Mills,Houston Texans,16,CLE,Home,1,2,9,4.5,9,0,13%,12.5%
+De'Von Achane,Miami Dolphins,2,NE,Away,1,1,5,5.0,5,0,3%,3.4%
+De'Von Achane,Miami Dolphins,3,DEN,Home,1,18,203,11.3,67,2,42%,58.0%
+De'Von Achane,Miami Dolphins,4,BUF,Away,1,8,101,12.6,55,2,42%,71.1%
+De'Von Achane,Miami Dolphins,5,NYG,Home,1,11,151,13.7,76,1,48%,68.0%
+De'Von Achane,Miami Dolphins,11,LV,Home,1,1,1,1.0,1,0,4%,1.0%
+De'Von Achane,Miami Dolphins,13,WAS,Away,1,17,73,4.3,15,2,50%,59.3%
+De'Von Achane,Miami Dolphins,14,TEN,Home,1,7,47,6.7,15,0,23%,29.7%
+De'Von Achane,Miami Dolphins,15,NYJ,Home,1,9,32,3.6,10,0,32%,41.6%
+De'Von Achane,Miami Dolphins,16,DAL,Home,1,7,24,3.4,9,0,27%,26.4%
+De'Von Achane,Miami Dolphins,17,BAL,Away,1,14,107,7.6,45,0,56%,69.5%
+DeAndre Carter,Las Vegas Raiders,5,GB,Home,1,2,3,1.5,3,0,7%,3.1%
+DeAndre Carter,Las Vegas Raiders,10,NYJ,Home,1,1,15,15.0,15,0,3%,10.1%
+DeAndre Hopkins,Tennessee Titans,9,PIT,Away,1,1,5,5.0,5,0,4%,4.8%
+DeAndre Hopkins,Tennessee Titans,13,IND,Home,1,1,4,4.0,4,0,2%,2.3%
+Deebo Samuel,San Francisco 49ers,1,PIT,Away,1,2,8,4.0,5,0,6%,4.3%
+Deebo Samuel,San Francisco 49ers,2,LAR,Away,1,5,38,7.6,17,1,18%,23.9%
+Deebo Samuel,San Francisco 49ers,3,NYG,Home,1,1,2,2.0,2,0,3%,1.4%
+Deebo Samuel,San Francisco 49ers,4,ARI,Home,1,3,6,2.0,5,0,10%,4.8%
+Deebo Samuel,San Francisco 49ers,5,DAL,Home,1,5,30,6.0,11,0,12%,17.6%
+Deebo Samuel,San Francisco 49ers,6,CLE,Away,1,2,11,5.5,8,0,8%,10.2%
+Deebo Samuel,San Francisco 49ers,10,JAX,Away,1,3,29,9.7,23,1,10%,20.1%
+Deebo Samuel,San Francisco 49ers,11,TB,Home,1,1,-1,-1.0,-1,0,3%,-0.9%
+Deebo Samuel,San Francisco 49ers,12,SEA,Away,1,4,15,3.8,15,1,12%,8.9%
+Deebo Samuel,San Francisco 49ers,13,PHI,Away,1,3,22,7.3,14,1,11%,15.1%
+Deebo Samuel,San Francisco 49ers,14,SEA,Home,1,1,1,1.0,1,1,4%,0.6%
+Deebo Samuel,San Francisco 49ers,15,ARI,Away,1,1,11,11.0,11,0,4%,7.6%
+Deebo Samuel,San Francisco 49ers,16,BAL,Home,1,2,7,3.5,6,0,11%,5.8%
+Deebo Samuel,San Francisco 49ers,17,WAS,Away,1,3,35,11.7,17,0,8%,19.0%
+DeeJay Dallas,Seattle Seahawks,1,LAR,Home,1,2,4,2.0,5,0,11%,4.7%
+DeeJay Dallas,Seattle Seahawks,2,DET,Away,1,1,3,3.0,3,0,4%,3.7%
+DeeJay Dallas,Seattle Seahawks,3,CAR,Home,1,2,7,3.5,8,0,6%,4.8%
+DeeJay Dallas,Seattle Seahawks,11,LAR,Away,1,1,4,4.0,4,0,5%,5.9%
+DeeJay Dallas,Seattle Seahawks,12,SF,Home,1,2,10,5.0,7,0,10%,11.4%
+DeeJay Dallas,Seattle Seahawks,13,DAL,Away,1,1,6,6.0,6,0,5%,8.3%
+DeeJay Dallas,Seattle Seahawks,16,TEN,Away,1,1,2,2.0,2,0,5%,3.4%
+Demarcus Robinson,Los Angeles Rams,15,WAS,Home,1,1,23,23.0,23,0,3%,11.7%
+Demario Douglas,New England Patriots,3,NYJ,Away,1,1,5,5.0,5,0,3%,3.2%
+Demario Douglas,New England Patriots,7,BUF,Home,1,1,20,20.0,20,0,4%,20.8%
+Demario Douglas,New England Patriots,8,MIA,Away,1,1,4,4.0,4,0,5%,5.2%
+Demario Douglas,New England Patriots,9,WAS,Home,1,1,0,0.0,0,0,5%,0.0%
+Demario Douglas,New England Patriots,17,BUF,Away,1,3,12,4.0,6,0,13%,11.7%
+Deon Jackson,Indianapolis Colts,1,JAX,Home,1,13,14,1.1,7,0,50%,21.5%
+Deon Jackson,New York Giants,9,LV,Away,1,1,2,2.0,2,0,4%,1.6%
+Deonte Harty,Buffalo Bills,1,NYJ,Away,1,1,4,4.0,4,0,5%,4.1%
+Deonte Harty,Buffalo Bills,3,WAS,Away,1,2,-2,-1.0,1,0,6%,-1.2%
+Deonte Harty,Buffalo Bills,11,NYJ,Home,1,1,-2,-2.0,-2,0,3%,-1.5%
+Derek Carr,New Orleans Saints,1,TEN,Home,1,3,4,1.3,7,0,11%,5.8%
+Derek Carr,New Orleans Saints,2,CAR,Away,1,3,-4,-1.3,-1,0,9%,-3.0%
+Derek Carr,New Orleans Saints,4,TB,Home,1,2,1,0.5,2,0,11%,1.4%
+Derek Carr,New Orleans Saints,5,NE,Away,1,2,4,2.0,5,0,5%,2.9%
+Derek Carr,New Orleans Saints,6,HOU,Away,1,1,2,2.0,2,0,4%,2.2%
+Derek Carr,New Orleans Saints,7,JAX,Home,1,3,14,4.7,10,0,10%,12.5%
+Derek Carr,New Orleans Saints,8,IND,Away,1,1,-1,-1.0,-1,0,3%,-0.6%
+Derek Carr,New Orleans Saints,9,CHI,Home,1,3,3,1.0,4,0,11%,3.4%
+Derek Carr,New Orleans Saints,10,MIN,Away,1,1,10,10.0,10,0,7%,15.4%
+Derek Carr,New Orleans Saints,12,ATL,Away,1,2,7,3.5,8,0,7%,4.7%
+Derek Carr,New Orleans Saints,13,DET,Home,1,2,-1,-0.5,0,0,6%,-0.9%
+Derek Carr,New Orleans Saints,15,NYG,Home,1,3,-4,-1.3,-1,0,11%,-4.6%
+Derek Carr,New Orleans Saints,16,LAR,Away,1,2,2,1.0,3,0,13%,5.7%
+Derek Carr,New Orleans Saints,17,TB,Away,1,3,-3,-1.0,-1,0,9%,-2.8%
+Derius Davis,Los Angeles Chargers,2,TEN,Away,1,1,10,10.0,10,0,5%,16.4%
+Derius Davis,Los Angeles Chargers,4,LV,Home,1,3,51,17.0,51,0,8%,32.9%
+Derius Davis,Los Angeles Chargers,7,KC,Away,1,3,14,4.7,11,0,12%,10.1%
+Derius Davis,Los Angeles Chargers,12,BAL,Home,1,2,-1,-0.5,1,0,11%,-1.2%
+Derius Davis,Los Angeles Chargers,16,BUF,Home,1,1,8,8.0,8,0,4%,8.2%
+Derius Davis,Los Angeles Chargers,17,DEN,Away,1,1,2,2.0,2,0,4%,2.3%
+Derrick Gore,Washington Commanders,11,NYG,Home,1,2,23,11.5,23,0,7%,13.2%
+Derrick Henry,Tennessee Titans,1,NO,Away,1,15,63,4.2,18,0,68%,60.6%
+Derrick Henry,Tennessee Titans,2,LAC,Home,1,25,80,3.2,23,1,74%,56.7%
+Derrick Henry,Tennessee Titans,3,CLE,Away,1,11,20,1.8,9,0,73%,76.9%
+Derrick Henry,Tennessee Titans,4,CIN,Home,1,22,122,5.5,29,1,67%,70.5%
+Derrick Henry,Tennessee Titans,5,IND,Away,1,13,43,3.3,8,0,59%,48.3%
+Derrick Henry,Tennessee Titans,6,BAL,Home,1,12,97,8.1,63,1,63%,75.2%
+Derrick Henry,Tennessee Titans,8,ATL,Home,1,22,101,4.6,14,0,61%,67.8%
+Derrick Henry,Tennessee Titans,9,PIT,Away,1,17,75,4.4,15,1,68%,71.4%
+Derrick Henry,Tennessee Titans,10,TB,Away,1,11,24,2.2,8,0,69%,57.1%
+Derrick Henry,Tennessee Titans,11,JAX,Away,1,10,38,3.8,16,0,53%,41.3%
+Derrick Henry,Tennessee Titans,12,CAR,Home,1,18,76,4.2,18,2,75%,95.0%
+Derrick Henry,Tennessee Titans,13,IND,Home,1,21,102,4.9,22,2,50%,57.6%
+Derrick Henry,Tennessee Titans,14,MIA,Away,1,17,34,2.0,6,2,59%,41.0%
+Derrick Henry,Tennessee Titans,15,HOU,Home,1,16,9,0.6,6,0,53%,13.6%
+Derrick Henry,Tennessee Titans,16,SEA,Home,1,19,88,4.6,12,1,61%,54.3%
+Derrick Henry,Tennessee Titans,17,HOU,Away,1,12,42,3.5,16,0,57%,79.2%
+Deshaun Watson,Cleveland Browns,1,CIN,Home,1,5,45,9.0,13,1,13%,21.8%
+Deshaun Watson,Cleveland Browns,2,PIT,Away,1,6,22,3.7,12,0,17%,11.1%
+Deshaun Watson,Cleveland Browns,3,TEN,Home,1,4,16,4.0,10,0,13%,20.5%
+Deshaun Watson,Cleveland Browns,9,ARI,Home,1,3,22,7.3,13,0,8%,19.5%
+Deshaun Watson,Cleveland Browns,10,BAL,Away,1,8,37,4.6,16,0,22%,20.8%
+Desmond Ridder,Atlanta Falcons,1,CAR,Home,1,1,-1,-1.0,-1,0,4%,-0.8%
+Desmond Ridder,Atlanta Falcons,2,GB,Home,1,10,39,3.9,9,1,22%,18.5%
+Desmond Ridder,Atlanta Falcons,3,DET,Away,1,2,3,1.5,2,0,10%,6.8%
+Desmond Ridder,Atlanta Falcons,4,JAX,Away,1,1,6,6.0,6,0,5%,4.7%
+Desmond Ridder,Atlanta Falcons,5,HOU,Home,1,4,10,2.5,7,1,11%,10.4%
+Desmond Ridder,Atlanta Falcons,6,WAS,Home,1,2,18,9.0,13,0,7%,17.0%
+Desmond Ridder,Atlanta Falcons,7,TB,Away,1,6,38,6.3,19,1,16%,24.4%
+Desmond Ridder,Atlanta Falcons,8,TEN,Away,1,3,26,8.7,23,0,12%,18.6%
+Desmond Ridder,Atlanta Falcons,10,ARI,Away,1,3,11,3.7,9,1,7%,6.0%
+Desmond Ridder,Atlanta Falcons,12,NO,Home,1,7,30,4.3,16,0,17%,13.2%
+Desmond Ridder,Atlanta Falcons,13,NYJ,Away,1,3,0,0.0,1,0,9%,0.0%
+Desmond Ridder,Atlanta Falcons,14,TB,Home,1,4,15,3.8,7,1,15%,15.6%
+Desmond Ridder,Atlanta Falcons,15,CAR,Away,1,5,-2,-0.4,1,0,16%,-3.8%
+Deuce Vaughn,Dallas Cowboys,1,NYG,Away,1,6,8,1.3,5,0,20%,6.6%
+Deuce Vaughn,Dallas Cowboys,2,NYJ,Home,1,3,16,5.3,13,0,7%,11.9%
+Deuce Vaughn,Dallas Cowboys,4,NE,Home,1,8,9,1.1,3,0,27%,7.3%
+Deuce Vaughn,Dallas Cowboys,5,SF,Away,1,3,7,2.3,4,0,16%,12.3%
+Deuce Vaughn,Dallas Cowboys,10,NYG,Home,1,1,-2,-2.0,-2,0,3%,-1.2%
+Deuce Vaughn,Dallas Cowboys,17,DET,Home,1,2,2,1.0,3,0,10%,3.3%
+Deven Thompkins,Tampa Bay Buccaneers,2,CHI,Home,1,1,11,11.0,11,0,3%,9.2%
+Deven Thompkins,Tampa Bay Buccaneers,4,NO,Away,1,1,11,11.0,11,0,3%,9.6%
+Deven Thompkins,Tampa Bay Buccaneers,6,DET,Home,1,1,5,5.0,5,0,6%,10.9%
+Deven Thompkins,Tampa Bay Buccaneers,10,TEN,Home,1,1,6,6.0,6,0,3%,7.8%
+Deven Thompkins,Tampa Bay Buccaneers,11,SF,Away,1,1,17,17.0,17,0,6%,25.8%
+Deven Thompkins,Tampa Bay Buccaneers,13,CAR,Home,1,2,7,3.5,5,0,7%,5.5%
+Deven Thompkins,Tampa Bay Buccaneers,15,GB,Away,1,1,-1,-1.0,-1,0,4%,-1.0%
+Devin Duvernay,Baltimore Ravens,2,CIN,Away,1,3,15,5.0,8,0,8%,8.4%
+Devin Duvernay,Baltimore Ravens,12,LAC,Away,1,1,0,0.0,0,0,3%,0.0%
+Devin Singletary,Houston Texans,1,BAL,Away,1,7,15,2.1,4,0,30%,20.8%
+Devin Singletary,Houston Texans,2,IND,Home,1,4,14,3.5,5,0,15%,26.9%
+Devin Singletary,Houston Texans,3,JAX,Away,1,9,41,4.6,14,0,35%,47.7%
+Devin Singletary,Houston Texans,4,PIT,Home,1,7,25,3.6,9,0,18%,18.0%
+Devin Singletary,Houston Texans,6,NO,Home,1,12,58,4.8,17,0,39%,48.3%
+Devin Singletary,Houston Texans,8,CAR,Away,1,10,30,3.0,9,0,33%,27.3%
+Devin Singletary,Houston Texans,9,TB,Home,1,13,26,2.0,9,0,76%,49.1%
+Devin Singletary,Houston Texans,10,CIN,Away,1,30,150,5.0,22,1,88%,79.8%
+Devin Singletary,Houston Texans,11,ARI,Home,1,22,112,5.1,21,1,88%,100.9%
+Devin Singletary,Houston Texans,12,JAX,Home,1,6,18,3.0,14,0,33%,19.8%
+Devin Singletary,Houston Texans,13,DEN,Home,1,8,36,4.5,14,0,27%,40.4%
+Devin Singletary,Houston Texans,14,NYJ,Away,1,13,65,5.0,17,1,68%,80.2%
+Devin Singletary,Houston Texans,15,TEN,Away,1,26,121,4.7,19,0,81%,81.8%
+Devin Singletary,Houston Texans,16,CLE,Home,1,9,44,4.9,17,0,56%,61.1%
+Devin Singletary,Houston Texans,17,TEN,Home,1,16,80,5.0,24,0,57%,72.1%
+Devine Ozigbo,Detroit Lions,6,TB,Away,1,3,5,1.7,4,0,14%,12.5%
+Dontayvion Wicks,Green Bay Packers,7,DEN,Away,1,1,1,1.0,1,0,3%,0.7%
+Dorian Thompson-Robinson,Cleveland Browns,4,BAL,Home,1,4,24,6.0,12,0,16%,25.8%
+Dorian Thompson-Robinson,Cleveland Browns,11,PIT,Home,1,3,20,6.7,9,0,10%,20.8%
+Dorian Thompson-Robinson,Cleveland Browns,12,DEN,Away,1,5,21,4.2,9,0,21%,19.6%
+Dorian Thompson-Robinson,Cleveland Browns,14,JAX,Home,1,1,5,5.0,5,0,4%,6.1%
+Dorian Thompson-Robinson,Cleveland Browns,16,HOU,Away,1,1,-5,-5.0,-5,0,3%,-9.3%
+Drew Lock,Seattle Seahawks,4,NYG,Away,1,1,11,11.0,11,0,4%,9.1%
+Drew Lock,Seattle Seahawks,14,SF,Away,1,3,5,1.7,3,0,15%,7.1%
+Drew Lock,Seattle Seahawks,15,PHI,Home,1,1,-2,-2.0,-2,0,4%,-2.0%
+Dyami Brown,Washington Commanders,8,PHI,Home,1,1,0,0.0,0,0,6%,0.0%
+Easton Stick,Los Angeles Chargers,15,LV,Away,1,2,11,5.5,9,0,7%,12.0%
+Easton Stick,Los Angeles Chargers,16,BUF,Home,1,7,25,3.6,21,1,26%,25.5%
+Easton Stick,Los Angeles Chargers,17,DEN,Away,1,5,31,6.2,9,0,21%,36.0%
+Elijah Dotson,Los Angeles Chargers,2,TEN,Away,1,4,6,1.5,2,0,19%,9.8%
+Elijah Mitchell,San Francisco 49ers,1,PIT,Away,1,5,10,2.0,4,0,15%,5.3%
+Elijah Mitchell,San Francisco 49ers,3,NYG,Home,1,11,42,3.8,18,0,28%,29.8%
+Elijah Mitchell,San Francisco 49ers,6,CLE,Away,1,2,-3,-1.5,0,0,8%,-2.8%
+Elijah Mitchell,San Francisco 49ers,7,MIN,Away,1,1,-1,-1.0,-1,0,5%,-1.5%
+Elijah Mitchell,San Francisco 49ers,8,CIN,Home,1,3,2,0.7,5,0,13%,1.8%
+Elijah Mitchell,San Francisco 49ers,10,JAX,Away,1,8,23,2.9,8,0,27%,16.0%
+Elijah Mitchell,San Francisco 49ers,11,TB,Home,1,4,24,6.0,13,0,13%,20.9%
+Elijah Mitchell,San Francisco 49ers,12,SEA,Away,1,7,39,5.6,13,0,21%,23.1%
+Elijah Mitchell,San Francisco 49ers,13,PHI,Away,1,3,13,4.3,11,0,11%,8.9%
+Elijah Mitchell,San Francisco 49ers,17,WAS,Away,1,17,80,4.7,15,1,44%,43.5%
+Elijah Moore,Cleveland Browns,1,CIN,Home,1,2,19,9.5,19,0,5%,9.2%
+Elijah Moore,Cleveland Browns,2,PIT,Away,1,1,5,5.0,5,0,3%,2.5%
+Elijah Moore,Cleveland Browns,3,TEN,Home,1,3,-1,-0.3,2,0,10%,-1.3%
+Elijah Moore,Cleveland Browns,4,BAL,Home,1,1,-20,-20.0,-20,0,4%,-21.5%
+Elijah Moore,Cleveland Browns,6,SF,Home,1,1,8,8.0,8,0,3%,5.0%
+Elijah Moore,Cleveland Browns,12,DEN,Away,1,1,0,0.0,0,0,4%,0.0%
+Emanuel Wilson,Green Bay Packers,2,ATL,Away,1,3,5,1.7,7,0,14%,6.0%
+Emanuel Wilson,Green Bay Packers,3,NO,Home,1,2,6,3.0,4,0,8%,6.3%
+Emanuel Wilson,Green Bay Packers,7,DEN,Away,1,2,19,9.5,14,0,7%,13.9%
+Emanuel Wilson,Green Bay Packers,9,LAR,Home,1,4,43,10.8,31,0,11%,23.4%
+Emanuel Wilson,Green Bay Packers,11,LAC,Home,1,3,12,4.0,5,0,11%,11.8%
+Emari Demercado,Arizona Cardinals,2,NYG,Home,1,1,-2,-2.0,-2,0,3%,-1.3%
+Emari Demercado,Arizona Cardinals,3,DAL,Home,1,2,2,1.0,2,0,7%,0.9%
+Emari Demercado,Arizona Cardinals,4,SF,Away,1,1,3,3.0,3,0,4%,2.9%
+Emari Demercado,Arizona Cardinals,5,CIN,Home,1,10,45,4.5,11,1,45%,31.7%
+Emari Demercado,Arizona Cardinals,6,LAR,Away,1,2,11,5.5,6,0,7%,8.5%
+Emari Demercado,Arizona Cardinals,7,SEA,Away,1,13,58,4.5,18,0,52%,45.7%
+Emari Demercado,Arizona Cardinals,8,BAL,Home,1,20,78,3.9,13,0,63%,60.5%
+Emari Demercado,Arizona Cardinals,12,LAR,Home,1,3,15,5.0,9,0,20%,20.5%
+Emari Demercado,Arizona Cardinals,15,SF,Home,1,4,64,16.0,49,1,13%,27.4%
+Emari Demercado,Arizona Cardinals,16,CHI,Away,1,2,10,5.0,7,0,10%,10.8%
+Eric Gray,New York Giants,5,MIA,Away,1,12,25,2.1,8,0,41%,29.4%
+Eric Gray,New York Giants,6,BUF,Away,1,1,2,2.0,2,0,3%,1.5%
+Eric Gray,New York Giants,17,LAR,Home,1,1,2,2.0,2,0,5%,1.9%
+Erik Ezukanma,Miami Dolphins,1,LAC,Away,1,2,17,8.5,12,0,10%,24.3%
+Erik Ezukanma,Miami Dolphins,2,NE,Away,1,3,5,1.7,7,0,10%,3.4%
+Evan Hull,Indianapolis Colts,1,JAX,Home,1,1,1,1.0,1,0,4%,1.5%
+Ezekiel Elliott,New England Patriots,1,PHI,Home,1,7,29,4.1,11,0,32%,38.2%
+Ezekiel Elliott,New England Patriots,2,MIA,Home,1,5,13,2.6,7,0,20%,14.8%
+Ezekiel Elliott,New England Patriots,3,NYJ,Away,1,16,80,5.0,14,0,40%,51.0%
+Ezekiel Elliott,New England Patriots,4,DAL,Away,1,6,16,2.7,9,0,26%,30.2%
+Ezekiel Elliott,New England Patriots,5,NO,Home,1,8,21,2.6,8,0,44%,46.7%
+Ezekiel Elliott,New England Patriots,6,LV,Away,1,7,34,4.9,8,1,37%,41.0%
+Ezekiel Elliott,New England Patriots,7,BUF,Home,1,11,31,2.8,10,1,46%,32.3%
+Ezekiel Elliott,New England Patriots,8,MIA,Away,1,7,36,5.1,17,0,37%,46.8%
+Ezekiel Elliott,New England Patriots,9,WAS,Home,1,6,17,2.8,8,0,32%,15.9%
+Ezekiel Elliott,New England Patriots,10,IND,Home,1,13,54,4.2,9,0,36%,32.3%
+Ezekiel Elliott,New England Patriots,12,NYG,Away,1,9,46,5.1,13,0,29%,31.3%
+Ezekiel Elliott,New England Patriots,13,LAC,Home,1,17,52,3.1,8,0,53%,35.1%
+Ezekiel Elliott,New England Patriots,14,PIT,Away,1,22,68,3.1,12,0,88%,84.0%
+Ezekiel Elliott,New England Patriots,15,KC,Home,1,11,25,2.3,5,0,69%,48.1%
+Ezekiel Elliott,New England Patriots,16,DEN,Away,1,12,27,2.3,6,0,57%,45.8%
+Ezekiel Elliott,New England Patriots,17,BUF,Away,1,14,39,2.8,9,1,58%,37.9%
+Ezekiel Turner,Arizona Cardinals,4,SF,Away,1,1,2,2.0,2,0,4%,1.9%
+Gabriel Davis,Buffalo Bills,3,WAS,Away,1,1,-2,-2.0,-2,0,3%,-1.2%
+Gardner Minshew,Indianapolis Colts,2,HOU,Away,1,2,3,1.5,2,0,9%,2.4%
+Gardner Minshew,Indianapolis Colts,5,TEN,Home,1,2,1,0.5,2,0,6%,0.5%
+Gardner Minshew,Indianapolis Colts,6,JAX,Away,1,2,4,2.0,2,0,12%,9.1%
+Gardner Minshew,Indianapolis Colts,7,CLE,Home,1,3,29,9.7,17,2,8%,17.3%
+Gardner Minshew,Indianapolis Colts,8,NO,Home,1,1,3,3.0,3,0,4%,1.8%
+Gardner Minshew,Indianapolis Colts,9,CAR,Away,1,5,5,1.0,7,0,17%,6.4%
+Gardner Minshew,Indianapolis Colts,10,NE,Away,1,2,-1,-0.5,0,0,8%,-1.4%
+Gardner Minshew,Indianapolis Colts,12,TB,Home,1,3,6,2.0,5,1,11%,3.9%
+Gardner Minshew,Indianapolis Colts,13,TEN,Away,1,3,2,0.7,4,0,13%,3.6%
+Gardner Minshew,Indianapolis Colts,14,CIN,Away,1,2,5,2.5,6,0,11%,10.9%
+Gardner Minshew,Indianapolis Colts,15,PIT,Home,1,2,0,0.0,1,0,6%,0.0%
+Gardner Minshew,Indianapolis Colts,16,ATL,Away,1,4,31,7.8,23,0,16%,33.7%
+Gardner Minshew,Indianapolis Colts,17,LV,Home,1,2,3,1.5,4,0,7%,2.2%
+Garrett Wilson,New York Jets,8,NYG,Away,1,1,6,6.0,6,0,5%,10.3%
+Garrett Wilson,New York Jets,14,HOU,Home,1,1,3,3.0,3,0,4%,3.8%
+Garrett Wilson,New York Jets,16,WAS,Home,1,1,-8,-8.0,-8,0,3%,-4.9%
+Garrett Wilson,New York Jets,17,CLE,Away,1,1,-1,-1.0,-1,0,5%,-0.9%
+Gary Brightwell,New York Giants,1,DAL,Home,1,1,5,5.0,5,0,4%,4.6%
+Gary Brightwell,New York Giants,3,SF,Away,1,4,5,1.3,2,0,36%,17.2%
+Gary Brightwell,New York Giants,4,SEA,Home,1,4,9,2.3,4,0,14%,8.0%
+Geno Smith,Seattle Seahawks,1,LAR,Home,1,1,6,6.0,6,0,6%,7.1%
+Geno Smith,Seattle Seahawks,2,DET,Away,1,3,20,6.7,15,0,12%,24.4%
+Geno Smith,Seattle Seahawks,3,CAR,Home,1,4,-4,-1.0,-1,0,12%,-2.7%
+Geno Smith,Seattle Seahawks,6,CIN,Away,1,4,20,5.0,11,0,16%,23.0%
+Geno Smith,Seattle Seahawks,7,ARI,Home,1,6,10,1.7,5,0,19%,8.7%
+Geno Smith,Seattle Seahawks,8,CLE,Home,1,2,-3,-1.5,-1,0,12%,-2.6%
+Geno Smith,Seattle Seahawks,9,BAL,Away,1,2,4,2.0,5,0,13%,14.3%
+Geno Smith,Seattle Seahawks,10,WAS,Home,1,1,13,13.0,13,0,4%,10.8%
+Geno Smith,Seattle Seahawks,11,LAR,Away,1,1,-1,-1.0,-1,0,5%,-1.5%
+Geno Smith,Seattle Seahawks,12,SF,Home,1,4,21,5.3,11,0,19%,23.9%
+Geno Smith,Seattle Seahawks,13,DAL,Away,1,2,6,3.0,5,1,9%,8.3%
+Geno Smith,Seattle Seahawks,16,TEN,Away,1,1,2,2.0,2,0,5%,3.4%
+Geno Smith,Seattle Seahawks,17,PIT,Home,1,3,33,11.0,25,0,20%,37.5%
+George Kittle,San Francisco 49ers,7,MIN,Away,1,1,2,2.0,2,0,5%,3.1%
+George Pickens,Pittsburgh Steelers,5,BAL,Home,1,1,16,16.0,16,0,3%,18.4%
+George Pickens,Pittsburgh Steelers,11,CLE,Away,1,1,-1,-1.0,-1,0,4%,-0.6%
+Gerald Everett,Los Angeles Chargers,1,MIA,Home,1,1,2,2.0,2,0,3%,0.9%
+Gerald Everett,Los Angeles Chargers,6,DAL,Home,1,1,2,2.0,2,0,4%,3.8%
+Gerald Everett,Los Angeles Chargers,17,DEN,Away,1,1,6,6.0,6,0,4%,7.0%
+Greg Dortch,Arizona Cardinals,15,SF,Home,1,1,5,5.0,5,0,3%,2.1%
+Gus Edwards,Baltimore Ravens,1,HOU,Home,1,8,32,4.0,13,0,25%,29.1%
+Gus Edwards,Baltimore Ravens,2,CIN,Away,1,10,62,6.2,20,1,27%,34.8%
+Gus Edwards,Baltimore Ravens,3,IND,Home,1,11,51,4.6,14,0,30%,27.4%
+Gus Edwards,Baltimore Ravens,4,CLE,Away,1,15,48,3.2,16,0,45%,36.6%
+Gus Edwards,Baltimore Ravens,5,PIT,Away,1,12,48,4.0,11,0,48%,38.4%
+Gus Edwards,Baltimore Ravens,6,TEN,Away,1,16,41,2.6,8,0,41%,29.5%
+Gus Edwards,Baltimore Ravens,7,DET,Home,1,14,64,4.6,20,1,52%,43.8%
+Gus Edwards,Baltimore Ravens,8,ARI,Away,1,19,80,4.2,10,3,66%,61.5%
+Gus Edwards,Baltimore Ravens,9,SEA,Home,1,5,52,10.4,42,2,12%,17.4%
+Gus Edwards,Baltimore Ravens,10,CLE,Home,1,11,24,2.2,6,1,46%,22.6%
+Gus Edwards,Baltimore Ravens,11,CIN,Home,1,12,62,5.2,26,2,39%,39.5%
+Gus Edwards,Baltimore Ravens,12,LAC,Away,1,8,26,3.3,5,0,23%,13.2%
+Gus Edwards,Baltimore Ravens,14,LAR,Home,1,6,15,2.5,5,0,23%,10.8%
+Gus Edwards,Baltimore Ravens,15,JAX,Away,1,16,58,3.6,20,1,38%,23.1%
+Gus Edwards,Baltimore Ravens,16,SF,Away,1,9,31,3.4,13,1,35%,30.4%
+Gus Edwards,Baltimore Ravens,17,MIA,Home,1,16,68,4.3,12,1,50%,42.5%
+Harrison Bryant,Cleveland Browns,3,TEN,Home,1,2,4,2.0,2,0,6%,5.1%
+Harrison Bryant,Cleveland Browns,4,BAL,Home,1,1,2,2.0,2,0,4%,2.2%
+Harrison Bryant,Cleveland Browns,10,BAL,Away,1,1,2,2.0,2,0,3%,1.1%
+Harrison Bryant,Cleveland Browns,12,DEN,Away,1,1,0,0.0,0,0,4%,0.0%
+Hunter Luepke,Dallas Cowboys,3,ARI,Away,1,1,9,9.0,9,0,3%,4.9%
+Hunter Luepke,Dallas Cowboys,4,NE,Home,1,2,4,2.0,3,1,7%,3.2%
+Hunter Luepke,Dallas Cowboys,15,BUF,Away,1,1,3,3.0,3,0,5%,3.4%
+Hunter Luepke,Dallas Cowboys,16,MIA,Away,1,2,3,1.5,2,0,8%,3.1%
+Ihmir Smith-Marsette,Carolina Panthers,14,NO,Away,1,1,10,10.0,10,0,3%,4.9%
+Ihmir Smith-Marsette,Carolina Panthers,15,ATL,Home,1,4,31,7.8,15,0,11%,24.0%
+Ihmir Smith-Marsette,Carolina Panthers,16,GB,Home,1,2,33,16.5,20,1,8%,34.4%
+Ihmir Smith-Marsette,Carolina Panthers,17,JAX,Away,1,1,0,0.0,0,0,7%,0.0%
+Isaiah McKenzie,Indianapolis Colts,5,TEN,Home,1,1,4,4.0,4,0,3%,2.1%
+Isaiah McKenzie,Indianapolis Colts,7,CLE,Home,1,1,7,7.0,7,0,3%,4.2%
+Isaiah McKenzie,Indianapolis Colts,12,TB,Home,1,1,3,3.0,3,0,4%,1.9%
+Isaiah Spiller,Los Angeles Chargers,2,TEN,Away,1,1,3,3.0,3,0,5%,4.9%
+Isaiah Spiller,Los Angeles Chargers,3,MIN,Away,1,2,7,3.5,6,0,13%,23.3%
+Isaiah Spiller,Los Angeles Chargers,4,LV,Home,1,5,12,2.4,4,0,14%,7.7%
+Isaiah Spiller,Los Angeles Chargers,6,DAL,Home,1,1,2,2.0,2,0,4%,3.8%
+Isaiah Spiller,Los Angeles Chargers,8,CHI,Home,1,3,3,1.0,2,0,12%,5.6%
+Isaiah Spiller,Los Angeles Chargers,14,DEN,Home,1,6,19,3.2,6,0,32%,25.0%
+Isaiah Spiller,Los Angeles Chargers,15,LV,Away,1,16,50,3.1,8,0,57%,54.3%
+Isaiah Spiller,Los Angeles Chargers,16,BUF,Home,1,2,1,0.5,1,0,7%,1.0%
+Isaiah Spiller,Los Angeles Chargers,17,DEN,Away,1,1,-1,-1.0,-1,0,4%,-1.2%
+Isiah Pacheco,Kansas City Chiefs,1,DET,Home,1,8,23,2.9,7,0,35%,25.6%
+Isiah Pacheco,Kansas City Chiefs,2,JAX,Away,1,12,70,5.8,31,0,55%,69.3%
+Isiah Pacheco,Kansas City Chiefs,3,CHI,Home,1,15,62,4.1,18,1,41%,40.5%
+Isiah Pacheco,Kansas City Chiefs,4,NYJ,Away,1,20,115,5.8,48,1,57%,56.4%
+Isiah Pacheco,Kansas City Chiefs,5,MIN,Away,1,16,55,3.4,11,1,76%,82.1%
+Isiah Pacheco,Kansas City Chiefs,6,DEN,Home,1,16,62,3.9,15,0,59%,64.6%
+Isiah Pacheco,Kansas City Chiefs,7,LAC,Home,1,13,32,2.5,6,0,62%,47.1%
+Isiah Pacheco,Kansas City Chiefs,8,DEN,Away,1,8,40,5.0,19,0,50%,64.5%
+Isiah Pacheco,Kansas City Chiefs,9,MIA,Home,1,16,66,4.1,9,0,67%,71.0%
+Isiah Pacheco,Kansas City Chiefs,11,PHI,Home,1,19,89,4.7,24,0,63%,53.0%
+Isiah Pacheco,Kansas City Chiefs,12,LV,Away,1,15,55,3.7,8,2,65%,79.7%
+Isiah Pacheco,Kansas City Chiefs,13,GB,Away,1,18,110,6.1,26,1,72%,74.3%
+Isiah Pacheco,Kansas City Chiefs,16,LV,Home,1,11,26,2.4,12,1,44%,30.6%
+Isiah Pacheco,Kansas City Chiefs,17,CIN,Home,1,18,130,7.2,37,0,82%,98.5%
+Israel Abanikanda,New York Jets,11,BUF,Away,1,1,11,11.0,11,0,6%,17.5%
+Israel Abanikanda,New York Jets,14,HOU,Home,1,3,-1,-0.3,3,0,12%,-1.3%
+Israel Abanikanda,New York Jets,15,MIA,Away,1,4,8,2.0,6,0,33%,34.8%
+Israel Abanikanda,New York Jets,16,WAS,Home,1,9,43,4.8,12,0,25%,26.2%
+Israel Abanikanda,New York Jets,17,CLE,Away,1,2,3,1.5,3,0,10%,2.8%
+J.K. Dobbins,Baltimore Ravens,1,HOU,Home,1,8,22,2.8,4,1,25%,20.0%
+Ja'Marr Chase,Cincinnati Bengals,1,CLE,Away,1,1,2,2.0,2,0,5%,2.7%
+Ja'Marr Chase,Cincinnati Bengals,8,SF,Away,1,2,-8,-4.0,0,0,7%,-6.0%
+Jacoby Brissett,Washington Commanders,15,LAR,Away,1,2,9,4.5,9,0,10%,11.4%
+Jacoby Brissett,Washington Commanders,16,NYJ,Away,1,1,10,10.0,10,0,5%,9.8%
+Jahmyr Gibbs,Detroit Lions,1,KC,Away,1,7,42,6.0,18,0,21%,35.6%
+Jahmyr Gibbs,Detroit Lions,2,SEA,Home,1,7,17,2.4,8,0,26%,16.7%
+Jahmyr Gibbs,Detroit Lions,3,ATL,Home,1,17,80,4.7,21,0,55%,69.6%
+Jahmyr Gibbs,Detroit Lions,4,GB,Away,1,8,40,5.0,9,0,19%,19.0%
+Jahmyr Gibbs,Detroit Lions,7,BAL,Away,1,11,68,6.2,21,1,79%,81.0%
+Jahmyr Gibbs,Detroit Lions,8,LV,Home,1,26,152,5.8,27,1,60%,68.5%
+Jahmyr Gibbs,Detroit Lions,10,LAC,Away,1,14,77,5.5,35,2,45%,38.5%
+Jahmyr Gibbs,Detroit Lions,11,CHI,Home,1,8,36,4.5,14,1,36%,31.3%
+Jahmyr Gibbs,Detroit Lions,12,GB,Home,1,11,54,4.9,23,0,35%,38.6%
+Jahmyr Gibbs,Detroit Lions,13,NO,Away,1,8,60,7.5,36,0,27%,42.3%
+Jahmyr Gibbs,Detroit Lions,14,CHI,Away,1,11,66,6.0,36,1,46%,47.1%
+Jahmyr Gibbs,Detroit Lions,15,DEN,Home,1,11,100,9.1,34,1,39%,54.1%
+Jahmyr Gibbs,Detroit Lions,16,MIN,Away,1,15,80,5.3,18,2,42%,55.9%
+Jahmyr Gibbs,Detroit Lions,17,DAL,Away,1,15,43,2.9,17,0,48%,34.4%
+Jake Bobo,Seattle Seahawks,8,CLE,Home,1,1,3,3.0,3,1,6%,2.6%
+Jake Browning,Cincinnati Bengals,1,CLE,Away,1,1,-1,-1.0,-1,0,5%,-1.3%
+Jake Browning,Cincinnati Bengals,11,BAL,Away,1,4,40,10.0,19,0,17%,29.4%
+Jake Browning,Cincinnati Bengals,12,PIT,Home,1,3,9,3.0,6,0,27%,36.0%
+Jake Browning,Cincinnati Bengals,13,JAX,Away,1,2,22,11.0,21,1,6%,14.1%
+Jake Browning,Cincinnati Bengals,14,IND,Home,1,3,7,2.3,4,1,9%,6.3%
+Jake Browning,Cincinnati Bengals,15,MIN,Home,1,4,0,0.0,3,0,18%,0.0%
+Jake Browning,Cincinnati Bengals,16,PIT,Away,1,1,0,0.0,0,0,6%,0.0%
+Jake Browning,Cincinnati Bengals,17,KC,Away,1,7,32,4.6,8,1,22%,30.8%
+Jake Funk,Indianapolis Colts,1,JAX,Home,1,2,10,5.0,7,0,8%,15.4%
+Jakobi Meyers,Las Vegas Raiders,5,GB,Home,1,1,0,0.0,0,0,3%,0.0%
+Jakobi Meyers,Las Vegas Raiders,9,NYG,Home,1,1,17,17.0,17,1,3%,13.6%
+Jakobi Meyers,Las Vegas Raiders,12,KC,Home,1,1,2,2.0,2,0,4%,1.6%
+Jaleel McLaughlin,Denver Broncos,2,WAS,Home,1,1,5,5.0,5,1,4%,4.1%
+Jaleel McLaughlin,Denver Broncos,3,MIA,Away,1,5,15,3.0,7,0,25%,21.7%
+Jaleel McLaughlin,Denver Broncos,4,CHI,Away,1,7,72,10.3,31,0,37%,74.2%
+Jaleel McLaughlin,Denver Broncos,5,NYJ,Home,1,9,68,7.6,38,0,41%,48.9%
+Jaleel McLaughlin,Denver Broncos,6,KC,Away,1,7,30,4.3,9,0,30%,26.1%
+Jaleel McLaughlin,Denver Broncos,7,GB,Home,1,5,45,9.0,23,0,20%,31.0%
+Jaleel McLaughlin,Denver Broncos,8,KC,Home,1,4,33,8.3,13,0,10%,21.6%
+Jaleel McLaughlin,Denver Broncos,10,BUF,Away,1,6,8,1.3,5,0,16%,6.6%
+Jaleel McLaughlin,Denver Broncos,11,MIN,Home,1,1,1,1.0,1,0,7%,2.2%
+Jaleel McLaughlin,Denver Broncos,12,CLE,Home,1,2,4,2.0,6,0,5%,2.4%
+Jaleel McLaughlin,Denver Broncos,13,HOU,Away,1,4,15,3.8,8,0,13%,12.7%
+Jaleel McLaughlin,Denver Broncos,14,LAC,Away,1,5,25,5.0,9,0,16%,23.6%
+Jaleel McLaughlin,Denver Broncos,15,DET,Away,1,2,2,1.0,1,0,7%,2.4%
+Jaleel McLaughlin,Denver Broncos,16,NE,Home,1,6,37,6.2,12,0,26%,44.6%
+Jaleel McLaughlin,Denver Broncos,17,LAC,Home,1,8,44,5.5,11,0,24%,43.6%
+Jalen Hurts,Philadelphia Eagles,1,NE,Away,1,9,37,4.1,14,0,36%,38.1%
+Jalen Hurts,Philadelphia Eagles,2,MIN,Home,1,12,35,2.9,8,2,25%,13.5%
+Jalen Hurts,Philadelphia Eagles,3,TB,Away,1,10,28,2.8,8,1,25%,13.9%
+Jalen Hurts,Philadelphia Eagles,4,WAS,Home,1,9,34,3.8,24,0,33%,32.7%
+Jalen Hurts,Philadelphia Eagles,5,LAR,Away,1,15,72,4.8,17,1,38%,45.3%
+Jalen Hurts,Philadelphia Eagles,6,NYJ,Away,1,8,47,5.9,11,1,36%,58.8%
+Jalen Hurts,Philadelphia Eagles,7,MIA,Home,1,11,21,1.9,12,1,32%,21.2%
+Jalen Hurts,Philadelphia Eagles,8,WAS,Away,1,4,6,1.5,7,0,18%,10.2%
+Jalen Hurts,Philadelphia Eagles,9,DAL,Home,1,10,36,3.6,6,1,30%,33.0%
+Jalen Hurts,Philadelphia Eagles,11,KC,Away,1,12,29,2.4,10,2,44%,25.4%
+Jalen Hurts,Philadelphia Eagles,12,BUF,Home,1,14,65,4.6,16,2,44%,35.1%
+Jalen Hurts,Philadelphia Eagles,13,SF,Home,1,7,20,2.9,7,1,39%,43.5%
+Jalen Hurts,Philadelphia Eagles,14,DAL,Away,1,5,30,6.0,11,0,22%,28.3%
+Jalen Hurts,Philadelphia Eagles,15,SEA,Away,1,13,82,6.3,20,2,34%,46.1%
+Jalen Hurts,Philadelphia Eagles,16,NYG,Home,1,8,34,4.3,16,1,23%,20.0%
+Jalen Hurts,Philadelphia Eagles,17,ARI,Home,1,8,25,3.1,13,0,35%,27.5%
+Jalen Reeves-Maybin,Detroit Lions,1,KC,Away,1,1,3,3.0,3,0,3%,2.5%
+Jalen Reeves-Maybin,Detroit Lions,12,GB,Home,1,1,0,0.0,0,0,3%,0.0%
+Jamaal Williams,New Orleans Saints,1,TEN,Home,1,18,45,2.5,11,0,67%,65.2%
+Jamaal Williams,New Orleans Saints,2,CAR,Away,1,9,29,3.2,7,0,27%,21.6%
+Jamaal Williams,New Orleans Saints,7,JAX,Home,1,5,14,2.8,4,0,16%,12.5%
+Jamaal Williams,New Orleans Saints,8,IND,Away,1,6,30,5.0,10,0,17%,18.6%
+Jamaal Williams,New Orleans Saints,9,CHI,Home,1,3,6,2.0,3,0,11%,6.9%
+Jamaal Williams,New Orleans Saints,10,MIN,Away,1,4,7,1.8,3,0,27%,10.8%
+Jamaal Williams,New Orleans Saints,12,ATL,Away,1,2,6,3.0,3,0,7%,4.1%
+Jamaal Williams,New Orleans Saints,13,DET,Home,1,5,10,2.0,4,0,14%,8.8%
+Jamaal Williams,New Orleans Saints,14,CAR,Home,1,11,43,3.9,12,0,44%,44.3%
+Jamaal Williams,New Orleans Saints,15,NYG,Home,1,8,24,3.0,8,0,29%,27.6%
+Jamaal Williams,New Orleans Saints,16,LAR,Away,1,2,8,4.0,4,0,13%,22.9%
+Jamaal Williams,New Orleans Saints,17,TB,Away,1,19,58,3.1,17,0,54%,53.7%
+Jamal Agnew,Jacksonville Jaguars,1,IND,Away,1,2,-2,-1.0,0,0,6%,-1.9%
+Jamal Agnew,Jacksonville Jaguars,5,BUF,Away,1,1,1,1.0,1,0,3%,0.5%
+Jamal Agnew,Jacksonville Jaguars,7,NO,Away,1,1,-1,-1.0,-1,0,4%,-0.9%
+Jameis Winston,New Orleans Saints,5,NE,Away,1,3,-4,-1.3,-1,0,7%,-2.9%
+Jameis Winston,New Orleans Saints,14,CAR,Home,1,2,-2,-1.0,-1,0,8%,-2.1%
+James Conner,Arizona Cardinals,1,WAS,Away,1,14,62,4.4,12,0,56%,64.6%
+James Conner,Arizona Cardinals,2,NYG,Home,1,23,106,4.6,22,1,79%,70.2%
+James Conner,Arizona Cardinals,3,DAL,Home,1,14,98,7.0,26,1,47%,44.1%
+James Conner,Arizona Cardinals,4,SF,Away,1,11,52,4.7,11,0,44%,49.5%
+James Conner,Arizona Cardinals,5,CIN,Home,1,6,46,7.7,35,0,27%,32.4%
+James Conner,Arizona Cardinals,10,ATL,Home,1,16,73,4.6,11,0,62%,59.8%
+James Conner,Arizona Cardinals,11,HOU,Away,1,14,62,4.4,14,0,56%,50.4%
+James Conner,Arizona Cardinals,12,LAR,Home,1,6,27,4.5,14,0,40%,37.0%
+James Conner,Arizona Cardinals,13,PIT,Away,1,25,105,4.2,29,2,66%,70.0%
+James Conner,Arizona Cardinals,15,SF,Home,1,14,86,6.1,44,1,47%,36.8%
+James Conner,Arizona Cardinals,16,CHI,Away,1,12,45,3.8,16,0,60%,48.4%
+James Conner,Arizona Cardinals,17,PHI,Away,1,26,128,4.9,22,1,65%,57.9%
+James Cook,Buffalo Bills,1,NYJ,Away,1,12,46,3.8,13,0,55%,47.4%
+James Cook,Buffalo Bills,2,LV,Home,1,17,123,7.2,36,0,49%,67.2%
+James Cook,Buffalo Bills,3,WAS,Away,1,15,98,6.5,34,0,45%,58.3%
+James Cook,Buffalo Bills,4,MIA,Home,1,12,29,2.4,8,1,41%,27.9%
+James Cook,Buffalo Bills,5,JAX,Home,1,5,-4,-0.8,5,0,36%,-13.8%
+James Cook,Buffalo Bills,6,NYG,Home,1,14,71,5.1,14,0,48%,55.5%
+James Cook,Buffalo Bills,7,NE,Away,1,13,56,4.3,20,0,54%,69.1%
+James Cook,Buffalo Bills,8,TB,Home,1,14,67,4.8,18,0,54%,58.3%
+James Cook,Buffalo Bills,9,CIN,Away,1,6,20,3.3,8,0,38%,29.4%
+James Cook,Buffalo Bills,10,DEN,Home,1,12,109,9.1,42,0,46%,56.8%
+James Cook,Buffalo Bills,11,NYJ,Home,1,17,73,4.3,12,0,45%,56.2%
+James Cook,Buffalo Bills,12,PHI,Away,1,16,43,2.7,11,0,40%,24.9%
+James Cook,Buffalo Bills,14,KC,Away,1,10,58,5.8,15,0,36%,49.2%
+James Cook,Buffalo Bills,15,DAL,Home,1,25,179,7.2,24,1,51%,67.3%
+James Cook,Buffalo Bills,16,LAC,Away,1,20,70,3.5,10,0,67%,66.7%
+James Cook,Buffalo Bills,17,NE,Home,1,16,48,3.0,8,0,43%,37.8%
+James Robinson,Green Bay Packers,13,KC,Home,1,1,2,2.0,2,0,4%,1.6%
+Jameson Williams,Detroit Lions,13,NO,Away,1,1,19,19.0,19,1,3%,13.4%
+Jameson Williams,Detroit Lions,14,CHI,Away,1,1,4,4.0,4,0,4%,2.9%
+Jameson Williams,Detroit Lions,17,DAL,Away,1,1,6,6.0,6,0,3%,4.8%
+Jared Goff,Detroit Lions,1,KC,Away,1,5,-1,-0.2,2,0,15%,-0.8%
+Jared Goff,Detroit Lions,3,ATL,Home,1,5,3,0.6,3,1,16%,2.6%
+Jared Goff,Detroit Lions,4,GB,Away,1,2,10,5.0,11,0,5%,4.7%
+Jared Goff,Detroit Lions,5,CAR,Home,1,2,0,0.0,1,1,7%,0.0%
+Jared Goff,Detroit Lions,6,TB,Away,1,2,3,1.5,4,0,9%,7.5%
+Jared Goff,Detroit Lions,8,LV,Home,1,2,-2,-1.0,-1,0,5%,-0.9%
+Jared Goff,Detroit Lions,10,LAC,Away,1,3,-2,-0.7,0,0,10%,-1.0%
+Jared Goff,Detroit Lions,11,CHI,Home,1,2,3,1.5,4,0,9%,2.6%
+Jared Goff,Detroit Lions,12,GB,Home,1,3,9,3.0,4,0,10%,6.4%
+Jared Goff,Detroit Lions,13,NO,Away,1,2,-2,-1.0,-1,0,7%,-1.4%
+Jared Goff,Detroit Lions,14,CHI,Away,1,1,0,0.0,0,0,4%,0.0%
+Jared Goff,Detroit Lions,16,MIN,Away,1,3,0,0.0,2,0,8%,0.0%
+Jaren Hall,Minnesota Vikings,8,GB,Away,1,2,-1,-0.5,0,0,6%,-1.6%
+Jaren Hall,Minnesota Vikings,9,ATL,Away,1,2,11,5.5,8,0,6%,7.5%
+Jaren Hall,Minnesota Vikings,17,GB,Home,1,2,4,2.0,5,0,13%,6.0%
+Jarrett Stidham,Denver Broncos,17,LAC,Home,1,6,6,1.0,4,0,18%,5.9%
+Jashaun Corbin,New York Giants,10,DAL,Away,1,1,1,1.0,1,0,4%,0.9%
+Jason Cabinda,Detroit Lions,3,ATL,Home,1,1,0,0.0,0,0,3%,0.0%
+Javonte Williams,Denver Broncos,1,LV,Home,1,13,52,4.0,11,0,59%,55.3%
+Javonte Williams,Denver Broncos,2,WAS,Home,1,12,44,3.7,15,0,52%,36.1%
+Javonte Williams,Denver Broncos,3,MIA,Away,1,11,42,3.8,16,0,55%,60.9%
+Javonte Williams,Denver Broncos,4,CHI,Away,1,2,0,0.0,1,0,11%,0.0%
+Javonte Williams,Denver Broncos,6,KC,Away,1,10,52,5.2,18,0,43%,45.2%
+Javonte Williams,Denver Broncos,7,GB,Home,1,15,82,5.5,21,0,60%,56.6%
+Javonte Williams,Denver Broncos,8,KC,Home,1,27,85,3.1,15,0,68%,55.6%
+Javonte Williams,Denver Broncos,10,BUF,Away,1,21,79,3.8,11,0,55%,64.8%
+Javonte Williams,Denver Broncos,11,MIN,Home,1,11,37,3.4,15,0,73%,80.4%
+Javonte Williams,Denver Broncos,12,CLE,Home,1,18,65,3.6,15,0,46%,38.5%
+Javonte Williams,Denver Broncos,13,HOU,Away,1,13,46,3.5,16,0,43%,39.0%
+Javonte Williams,Denver Broncos,14,LAC,Away,1,17,66,3.9,20,1,55%,62.3%
+Javonte Williams,Denver Broncos,15,DET,Away,1,12,27,2.3,8,0,43%,32.5%
+Javonte Williams,Denver Broncos,16,NE,Home,1,11,24,2.2,9,1,48%,28.9%
+Javonte Williams,Denver Broncos,17,LAC,Home,1,15,41,2.7,16,0,45%,40.6%
+Jayden Reed,Green Bay Packers,1,CHI,Away,1,1,-2,-2.0,-2,0,3%,-2.2%
+Jayden Reed,Green Bay Packers,9,LAR,Home,1,1,21,21.0,21,0,3%,11.4%
+Jayden Reed,Green Bay Packers,11,LAC,Home,1,3,46,15.3,32,1,11%,45.1%
+Jayden Reed,Green Bay Packers,12,DET,Away,1,2,16,8.0,15,0,9%,14.7%
+Jayden Reed,Green Bay Packers,14,NYG,Away,1,4,38,9.5,20,1,16%,30.9%
+Jaylen Waddle,Miami Dolphins,2,NE,Away,1,1,-2,-2.0,-2,0,3%,-1.4%
+Jaylen Waddle,Miami Dolphins,9,KC,Away,1,1,12,12.0,12,0,5%,10.3%
+Jaylen Waddle,Miami Dolphins,16,DAL,Home,1,1,2,2.0,2,0,4%,2.2%
+Jaylen Warren,Pittsburgh Steelers,1,SF,Home,1,3,6,2.0,3,0,30%,14.6%
+Jaylen Warren,Pittsburgh Steelers,2,CLE,Home,1,6,20,3.3,8,0,29%,36.4%
+Jaylen Warren,Pittsburgh Steelers,3,LV,Away,1,8,29,3.6,11,0,26%,27.6%
+Jaylen Warren,Pittsburgh Steelers,4,HOU,Away,1,8,29,3.6,18,0,32%,25.4%
+Jaylen Warren,Pittsburgh Steelers,5,BAL,Home,1,9,40,4.4,16,0,30%,46.0%
+Jaylen Warren,Pittsburgh Steelers,7,LAR,Away,1,6,32,5.3,13,1,21%,37.2%
+Jaylen Warren,Pittsburgh Steelers,8,JAX,Home,1,5,19,3.8,8,0,28%,27.1%
+Jaylen Warren,Pittsburgh Steelers,9,TEN,Home,1,11,88,8.0,22,0,37%,53.0%
+Jaylen Warren,Pittsburgh Steelers,10,GB,Home,1,15,101,6.7,20,1,42%,49.3%
+Jaylen Warren,Pittsburgh Steelers,11,CLE,Away,1,9,129,14.3,74,1,35%,75.0%
+Jaylen Warren,Pittsburgh Steelers,12,CIN,Away,1,13,49,3.8,9,0,39%,32.0%
+Jaylen Warren,Pittsburgh Steelers,13,ARI,Home,1,9,59,6.6,18,0,29%,45.4%
+Jaylen Warren,Pittsburgh Steelers,14,NE,Home,1,7,11,1.6,7,0,25%,13.4%
+Jaylen Warren,Pittsburgh Steelers,15,IND,Away,1,10,40,4.0,11,0,42%,54.1%
+Jaylen Warren,Pittsburgh Steelers,16,CIN,Home,1,8,24,3.0,5,0,27%,21.2%
+Jaylen Warren,Pittsburgh Steelers,17,SEA,Away,1,13,75,5.8,23,1,28%,37.1%
+Jeffery Wilson,Miami Dolphins,8,NE,Home,1,5,23,4.6,11,0,19%,29.5%
+Jeffery Wilson,Miami Dolphins,9,KC,Away,1,2,6,3.0,6,0,10%,5.1%
+Jeffery Wilson,Miami Dolphins,12,NYJ,Away,1,11,56,5.1,14,0,30%,33.5%
+Jeffery Wilson,Miami Dolphins,13,WAS,Away,1,4,11,2.8,6,0,12%,8.9%
+Jeffery Wilson,Miami Dolphins,15,NYJ,Home,1,2,5,2.5,5,0,7%,6.5%
+Jeffery Wilson,Miami Dolphins,16,DAL,Home,1,5,21,4.2,8,0,19%,23.1%
+Jeffery Wilson,Miami Dolphins,17,BAL,Away,1,3,21,7.0,15,0,12%,13.6%
+Jerick McKinnon,Kansas City Chiefs,2,JAX,Away,1,1,-2,-2.0,-2,0,5%,-2.0%
+Jerick McKinnon,Kansas City Chiefs,3,CHI,Home,1,2,9,4.5,10,0,5%,5.9%
+Jerick McKinnon,Kansas City Chiefs,4,NYJ,Away,1,3,7,2.3,3,0,9%,3.4%
+Jerick McKinnon,Kansas City Chiefs,5,MIN,Away,1,1,7,7.0,7,0,5%,10.4%
+Jerick McKinnon,Kansas City Chiefs,7,LAC,Home,1,2,2,1.0,3,0,10%,2.9%
+Jerick McKinnon,Kansas City Chiefs,8,DEN,Away,1,2,-2,-1.0,1,0,13%,-3.2%
+Jerick McKinnon,Kansas City Chiefs,9,MIA,Home,1,1,2,2.0,2,0,4%,2.2%
+Jerick McKinnon,Kansas City Chiefs,11,PHI,Home,1,1,7,7.0,7,0,3%,4.2%
+Jerick McKinnon,Kansas City Chiefs,14,BUF,Home,1,4,19,4.8,7,1,22%,23.2%
+Jerick McKinnon,Kansas City Chiefs,15,NE,Away,1,4,11,2.8,4,0,20%,25.6%
+Jerome Ford,Cleveland Browns,1,CIN,Home,1,15,36,2.4,17,0,38%,17.5%
+Jerome Ford,Cleveland Browns,2,PIT,Away,1,16,106,6.6,69,0,46%,53.5%
+Jerome Ford,Cleveland Browns,3,TEN,Home,1,10,18,1.8,9,1,32%,23.1%
+Jerome Ford,Cleveland Browns,4,BAL,Home,1,9,26,2.9,10,0,36%,28.0%
+Jerome Ford,Cleveland Browns,6,SF,Home,1,17,84,4.9,22,0,50%,52.5%
+Jerome Ford,Cleveland Browns,7,IND,Away,1,11,74,6.7,69,1,33%,49.3%
+Jerome Ford,Cleveland Browns,8,SEA,Away,1,9,37,4.1,12,0,23%,23.9%
+Jerome Ford,Cleveland Browns,9,ARI,Home,1,20,44,2.2,9,0,50%,38.9%
+Jerome Ford,Cleveland Browns,10,BAL,Away,1,17,107,6.3,28,0,47%,60.1%
+Jerome Ford,Cleveland Browns,11,PIT,Home,1,12,31,2.6,13,1,41%,32.3%
+Jerome Ford,Cleveland Browns,12,DEN,Away,1,9,65,7.2,19,0,38%,60.7%
+Jerome Ford,Cleveland Browns,13,LAR,Away,1,9,19,2.1,10,0,39%,21.8%
+Jerome Ford,Cleveland Browns,14,JAX,Home,1,12,51,4.3,26,0,43%,62.2%
+Jerome Ford,Cleveland Browns,15,CHI,Home,1,8,20,2.5,9,0,44%,69.0%
+Jerome Ford,Cleveland Browns,16,HOU,Away,1,15,25,1.7,10,1,50%,46.3%
+Jerome Ford,Cleveland Browns,17,NYJ,Home,1,12,64,5.3,16,0,43%,50.4%
+Jimmy Garoppolo,Las Vegas Raiders,1,DEN,Away,1,9,11,1.2,8,0,31%,18.0%
+Jimmy Garoppolo,Las Vegas Raiders,2,BUF,Away,1,1,1,1.0,1,0,7%,1.8%
+Jimmy Garoppolo,Las Vegas Raiders,3,PIT,Home,1,2,7,3.5,7,0,11%,10.1%
+Jimmy Garoppolo,Las Vegas Raiders,5,GB,Home,1,4,4,1.0,3,0,14%,4.2%
+Jimmy Garoppolo,Las Vegas Raiders,6,NE,Home,1,2,4,2.0,2,0,6%,4.8%
+Jimmy Garoppolo,Las Vegas Raiders,8,DET,Away,1,2,12,6.0,9,0,11%,15.0%
+Joe Burrow,Cincinnati Bengals,1,CLE,Away,1,1,-1,-1.0,-1,0,5%,-1.3%
+Joe Burrow,Cincinnati Bengals,2,BAL,Home,1,1,5,5.0,5,0,7%,7.6%
+Joe Burrow,Cincinnati Bengals,3,LAR,Home,1,3,-2,-0.7,0,0,13%,-3.0%
+Joe Burrow,Cincinnati Bengals,4,TEN,Away,1,3,1,0.3,1,0,17%,1.4%
+Joe Burrow,Cincinnati Bengals,5,ARI,Away,1,4,7,1.8,10,0,13%,7.5%
+Joe Burrow,Cincinnati Bengals,6,SEA,Home,1,2,4,2.0,5,0,13%,8.7%
+Joe Burrow,Cincinnati Bengals,8,SF,Away,1,6,43,7.2,20,0,22%,32.1%
+Joe Burrow,Cincinnati Bengals,9,BUF,Home,1,5,4,0.8,7,0,23%,7.4%
+Joe Burrow,Cincinnati Bengals,10,HOU,Home,1,5,20,4.0,17,0,31%,30.3%
+Joe Burrow,Cincinnati Bengals,11,BAL,Away,1,1,7,7.0,7,0,4%,5.1%
+Joe Flacco,Cleveland Browns,14,JAX,Home,1,4,-1,-0.3,2,0,14%,-1.2%
+Joe Flacco,Cleveland Browns,15,CHI,Home,1,1,-1,-1.0,-1,0,6%,-3.4%
+Joe Flacco,Cleveland Browns,16,HOU,Away,1,2,1,0.5,2,0,7%,1.9%
+Joe Flacco,Cleveland Browns,17,NYJ,Home,1,2,3,1.5,3,0,7%,2.4%
+Joe Mixon,Cincinnati Bengals,1,CLE,Away,1,13,56,4.3,22,0,65%,74.7%
+Joe Mixon,Cincinnati Bengals,2,BAL,Home,1,13,59,4.5,14,0,87%,89.4%
+Joe Mixon,Cincinnati Bengals,3,LAR,Home,1,19,65,3.4,14,1,83%,97.0%
+Joe Mixon,Cincinnati Bengals,4,TEN,Away,1,14,67,4.8,13,0,78%,93.1%
+Joe Mixon,Cincinnati Bengals,5,ARI,Away,1,25,81,3.2,10,0,83%,87.1%
+Joe Mixon,Cincinnati Bengals,6,SEA,Home,1,12,38,3.2,5,0,80%,82.6%
+Joe Mixon,Cincinnati Bengals,8,SF,Away,1,16,87,5.4,20,1,59%,64.9%
+Joe Mixon,Cincinnati Bengals,9,BUF,Home,1,14,37,2.6,12,1,64%,68.5%
+Joe Mixon,Cincinnati Bengals,10,HOU,Home,1,11,46,4.2,15,1,69%,69.7%
+Joe Mixon,Cincinnati Bengals,11,BAL,Away,1,16,69,4.3,14,0,70%,50.7%
+Joe Mixon,Cincinnati Bengals,12,PIT,Home,1,8,16,2.0,4,0,73%,64.0%
+Joe Mixon,Cincinnati Bengals,13,JAX,Away,1,19,68,3.6,18,2,61%,43.6%
+Joe Mixon,Cincinnati Bengals,14,IND,Home,1,21,79,3.8,18,1,66%,71.2%
+Joe Mixon,Cincinnati Bengals,15,MIN,Home,1,10,47,4.7,10,1,45%,58.8%
+Joe Mixon,Cincinnati Bengals,16,PIT,Away,1,11,43,3.9,13,0,69%,72.9%
+Joe Mixon,Cincinnati Bengals,17,KC,Away,1,21,65,3.1,14,0,66%,62.5%
+John Metchie,Houston Texans,17,TEN,Home,1,1,4,4.0,4,0,4%,3.6%
+Johnny Hekker,Carolina Panthers,14,NO,Away,1,1,-11,-11.0,-11,0,3%,-5.4%
+Jonathan Taylor,Indianapolis Colts,5,TEN,Home,1,6,18,3.0,5,0,18%,9.3%
+Jonathan Taylor,Indianapolis Colts,6,JAX,Away,1,8,19,2.4,5,0,47%,43.2%
+Jonathan Taylor,Indianapolis Colts,7,CLE,Home,1,18,75,4.2,24,1,45%,44.6%
+Jonathan Taylor,Indianapolis Colts,8,NO,Home,1,12,95,7.9,42,0,50%,57.9%
+Jonathan Taylor,Indianapolis Colts,9,CAR,Away,1,18,47,2.6,13,0,60%,60.3%
+Jonathan Taylor,Indianapolis Colts,10,NE,Away,1,23,69,3.0,10,1,88%,98.6%
+Jonathan Taylor,Indianapolis Colts,12,TB,Home,1,15,91,6.1,17,2,56%,58.7%
+Jonathan Taylor,Indianapolis Colts,16,ATL,Away,1,18,43,2.4,13,1,72%,46.7%
+Jonathan Taylor,Indianapolis Colts,17,LV,Home,1,21,96,4.6,15,1,72%,71.6%
+Jonathan Ward,Tennessee Titans,17,HOU,Away,1,3,11,3.7,8,0,14%,20.8%
+Jonathan Williams,Washington Commanders,15,LAR,Away,1,1,-2,-2.0,-2,0,5%,-2.5%
+Jonnu Smith,Atlanta Falcons,9,MIN,Home,1,1,0,0.0,0,0,4%,0.0%
+Jordan Addison,Minnesota Vikings,8,GB,Away,1,1,2,2.0,2,0,3%,3.2%
+Jordan Love,Green Bay Packers,1,CHI,Away,1,3,12,4.0,9,0,9%,13.0%
+Jordan Love,Green Bay Packers,2,ATL,Away,1,2,23,11.5,24,0,10%,27.4%
+Jordan Love,Green Bay Packers,3,NO,Home,1,9,39,4.3,24,1,35%,41.1%
+Jordan Love,Green Bay Packers,4,DET,Home,1,2,-2,-1.0,9,1,17%,-7.4%
+Jordan Love,Green Bay Packers,5,LV,Away,1,2,37,18.5,26,0,8%,33.6%
+Jordan Love,Green Bay Packers,7,DEN,Away,1,3,21,7.0,10,0,10%,15.3%
+Jordan Love,Green Bay Packers,8,MIN,Home,1,4,34,8.5,15,0,24%,45.9%
+Jordan Love,Green Bay Packers,9,LAR,Home,1,4,7,1.8,8,0,11%,3.8%
+Jordan Love,Green Bay Packers,10,PIT,Away,1,2,11,5.5,8,0,8%,9.5%
+Jordan Love,Green Bay Packers,11,LAC,Home,1,3,0,0.0,1,0,11%,0.0%
+Jordan Love,Green Bay Packers,12,DET,Away,1,3,39,13.0,37,0,14%,35.8%
+Jordan Love,Green Bay Packers,13,KC,Home,1,2,10,5.0,8,0,8%,7.8%
+Jordan Love,Green Bay Packers,14,NYG,Away,1,2,2,1.0,2,0,8%,1.6%
+Jordan Love,Green Bay Packers,15,TB,Home,1,2,1,0.5,2,0,12%,1.7%
+Jordan Love,Green Bay Packers,16,CAR,Away,1,2,12,6.0,11,1,6%,7.4%
+Jordan Love,Green Bay Packers,17,MIN,Away,1,2,2,1.0,2,1,5%,1.1%
+Jordan Mason,San Francisco 49ers,3,NYG,Home,1,3,11,3.7,5,0,8%,7.8%
+Jordan Mason,San Francisco 49ers,4,ARI,Home,1,3,10,3.3,4,0,10%,8.1%
+Jordan Mason,San Francisco 49ers,5,DAL,Home,1,10,69,6.9,26,1,24%,40.6%
+Jordan Mason,San Francisco 49ers,6,CLE,Away,1,5,27,5.4,10,1,20%,25.0%
+Jordan Mason,San Francisco 49ers,13,PHI,Away,1,2,10,5.0,6,0,7%,6.8%
+Jordan Mason,San Francisco 49ers,14,SEA,Home,1,4,20,5.0,8,1,17%,11.6%
+Jordan Mason,San Francisco 49ers,15,ARI,Away,1,5,20,4.0,17,0,19%,13.9%
+Jordan Mason,San Francisco 49ers,17,WAS,Away,1,2,3,1.5,5,0,5%,1.6%
+Josh Allen,Buffalo Bills,1,NYJ,Away,1,6,36,6.0,14,0,27%,37.1%
+Josh Allen,Buffalo Bills,2,LV,Home,1,3,7,2.3,3,0,9%,3.8%
+Josh Allen,Buffalo Bills,3,WAS,Away,1,3,46,15.3,23,1,9%,27.4%
+Josh Allen,Buffalo Bills,4,MIA,Home,1,4,17,4.3,11,1,14%,16.3%
+Josh Allen,Buffalo Bills,5,JAX,Home,1,4,14,3.5,7,1,29%,48.3%
+Josh Allen,Buffalo Bills,6,NYG,Home,1,2,11,5.5,6,0,7%,8.6%
+Josh Allen,Buffalo Bills,7,NE,Away,1,7,17,2.4,7,1,29%,21.0%
+Josh Allen,Buffalo Bills,8,TB,Home,1,7,41,5.9,13,1,27%,35.7%
+Josh Allen,Buffalo Bills,9,CIN,Away,1,8,44,5.5,11,1,50%,64.7%
+Josh Allen,Buffalo Bills,10,DEN,Home,1,4,13,3.3,6,1,15%,6.8%
+Josh Allen,Buffalo Bills,11,NYJ,Home,1,5,15,3.0,7,0,13%,11.5%
+Josh Allen,Buffalo Bills,12,PHI,Away,1,9,81,9.0,19,2,23%,46.8%
+Josh Allen,Buffalo Bills,14,KC,Away,1,10,32,3.2,8,1,36%,27.1%
+Josh Allen,Buffalo Bills,15,DAL,Home,1,8,24,3.0,9,1,16%,9.0%
+Josh Allen,Buffalo Bills,16,LAC,Away,1,5,15,3.0,6,2,17%,14.3%
+Josh Allen,Buffalo Bills,17,NE,Home,1,11,44,4.0,19,2,30%,34.6%
+Josh Jacobs,Las Vegas Raiders,1,DEN,Away,1,19,48,2.5,7,0,66%,78.7%
+Josh Jacobs,Las Vegas Raiders,2,BUF,Away,1,9,-2,-0.2,3,0,60%,-3.6%
+Josh Jacobs,Las Vegas Raiders,3,PIT,Home,1,17,62,3.6,10,0,89%,89.9%
+Josh Jacobs,Las Vegas Raiders,4,LAC,Away,1,17,58,3.4,9,1,74%,76.3%
+Josh Jacobs,Las Vegas Raiders,5,GB,Home,1,20,69,3.5,24,1,69%,71.9%
+Josh Jacobs,Las Vegas Raiders,6,NE,Home,1,25,77,3.1,18,0,76%,91.7%
+Josh Jacobs,Las Vegas Raiders,7,CHI,Away,1,11,35,3.2,11,0,79%,89.7%
+Josh Jacobs,Las Vegas Raiders,8,DET,Away,1,15,61,4.1,9,1,83%,76.3%
+Josh Jacobs,Las Vegas Raiders,9,NYG,Home,1,26,98,3.8,15,2,76%,78.4%
+Josh Jacobs,Las Vegas Raiders,10,NYJ,Home,1,27,116,4.3,40,0,84%,78.4%
+Josh Jacobs,Las Vegas Raiders,11,MIA,Away,1,14,39,2.8,9,0,88%,108.3%
+Josh Jacobs,Las Vegas Raiders,12,KC,Home,1,20,110,5.5,63,1,87%,89.4%
+Josh Jacobs,Las Vegas Raiders,14,MIN,Home,1,13,34,2.6,6,0,76%,60.7%
+Joshua Dobbs,Arizona Cardinals,1,WAS,Away,1,3,-3,-1.0,1,0,12%,-3.1%
+Joshua Dobbs,Arizona Cardinals,2,NYG,Home,1,3,41,13.7,23,1,10%,27.2%
+Joshua Dobbs,Arizona Cardinals,3,DAL,Home,1,6,55,9.2,44,0,20%,24.8%
+Joshua Dobbs,Arizona Cardinals,4,SF,Away,1,12,48,4.0,12,0,48%,45.7%
+Joshua Dobbs,Arizona Cardinals,5,CIN,Home,1,3,1,0.3,2,0,14%,0.7%
+Joshua Dobbs,Arizona Cardinals,6,LAR,Away,1,7,47,6.7,24,0,23%,36.2%
+Joshua Dobbs,Arizona Cardinals,7,SEA,Away,1,7,43,6.1,25,1,28%,33.9%
+Joshua Dobbs,Arizona Cardinals,8,BAL,Home,1,6,26,4.3,13,1,19%,20.2%
+Joshua Dobbs,Minnesota Vikings,9,ATL,Away,1,7,66,9.4,22,1,21%,45.2%
+Joshua Dobbs,Minnesota Vikings,10,NO,Home,1,8,44,5.5,11,1,24%,35.2%
+Joshua Dobbs,Minnesota Vikings,11,DEN,Away,1,8,21,2.6,10,1,22%,12.0%
+Joshua Dobbs,Minnesota Vikings,12,CHI,Home,1,2,11,5.5,7,0,12%,15.1%
+Joshua Dobbs,Minnesota Vikings,14,LV,Away,1,5,21,4.2,12,0,17%,15.9%
+Joshua Kelley,Los Angeles Chargers,1,MIA,Home,1,16,91,5.7,14,1,40%,38.9%
+Joshua Kelley,Los Angeles Chargers,2,TEN,Away,1,13,39,3.0,15,0,62%,63.9%
+Joshua Kelley,Los Angeles Chargers,3,MIN,Away,1,11,12,1.1,4,0,73%,40.0%
+Joshua Kelley,Los Angeles Chargers,4,LV,Home,1,17,65,3.8,22,0,46%,41.9%
+Joshua Kelley,Los Angeles Chargers,6,DAL,Home,1,1,2,2.0,2,0,4%,3.8%
+Joshua Kelley,Los Angeles Chargers,7,KC,Away,1,7,75,10.7,49,1,27%,54.0%
+Joshua Kelley,Los Angeles Chargers,8,CHI,Home,1,6,21,3.5,5,0,24%,38.9%
+Joshua Kelley,Los Angeles Chargers,9,NYJ,Away,1,3,18,6.0,12,0,14%,21.4%
+Joshua Kelley,Los Angeles Chargers,10,DET,Home,1,5,16,3.2,4,0,18%,16.3%
+Joshua Kelley,Los Angeles Chargers,11,GB,Away,1,6,13,2.2,7,0,25%,8.7%
+Joshua Kelley,Los Angeles Chargers,12,BAL,Home,1,3,8,2.7,3,0,16%,9.3%
+Joshua Kelley,Los Angeles Chargers,13,NE,Away,1,6,16,2.7,7,0,25%,55.2%
+Joshua Kelley,Los Angeles Chargers,14,DEN,Home,1,3,6,2.0,3,0,16%,7.9%
+Joshua Kelley,Los Angeles Chargers,15,LV,Away,1,5,22,4.4,11,0,18%,23.9%
+Joshua Kelley,Los Angeles Chargers,16,BUF,Home,1,1,-2,-2.0,-2,0,4%,-2.0%
+Joshua Kelley,Los Angeles Chargers,17,DEN,Away,1,2,2,1.0,1,0,8%,2.3%
+Justice Hill,Baltimore Ravens,1,HOU,Home,1,8,9,1.1,4,2,25%,8.2%
+Justice Hill,Baltimore Ravens,2,CIN,Away,1,11,41,3.7,11,0,30%,23.0%
+Justice Hill,Baltimore Ravens,4,CLE,Away,1,3,33,11.0,15,0,9%,25.2%
+Justice Hill,Baltimore Ravens,5,PIT,Away,1,7,32,4.6,14,1,28%,25.6%
+Justice Hill,Baltimore Ravens,6,TEN,Away,1,8,35,4.4,10,0,21%,25.2%
+Justice Hill,Baltimore Ravens,7,DET,Home,1,4,46,11.5,27,0,15%,31.5%
+Justice Hill,Baltimore Ravens,8,ARI,Away,1,4,15,3.8,7,0,14%,11.5%
+Justice Hill,Baltimore Ravens,9,SEA,Home,1,13,40,3.1,9,0,32%,13.4%
+Justice Hill,Baltimore Ravens,10,CLE,Home,1,2,7,3.5,4,0,8%,6.6%
+Justice Hill,Baltimore Ravens,11,CIN,Home,1,1,1,1.0,1,0,3%,0.6%
+Justice Hill,Baltimore Ravens,12,LAC,Away,1,5,31,6.2,18,0,14%,15.7%
+Justice Hill,Baltimore Ravens,15,JAX,Away,1,5,23,4.6,8,0,12%,9.2%
+Justice Hill,Baltimore Ravens,16,SF,Away,1,10,26,2.6,6,0,38%,25.5%
+Justice Hill,Baltimore Ravens,17,MIA,Home,1,3,48,16.0,41,0,9%,30.0%
+Justin Fields,Chicago Bears,1,GB,Home,1,9,59,6.6,10,0,31%,48.4%
+Justin Fields,Chicago Bears,2,TB,Away,1,4,3,0.8,5,1,25%,4.5%
+Justin Fields,Chicago Bears,3,KC,Away,1,11,47,4.3,17,0,42%,40.5%
+Justin Fields,Chicago Bears,4,DEN,Home,1,4,25,6.3,20,0,13%,14.6%
+Justin Fields,Chicago Bears,5,WAS,Away,1,11,57,5.2,14,0,34%,32.0%
+Justin Fields,Chicago Bears,6,MIN,Home,1,8,46,5.8,13,0,22%,28.4%
+Justin Fields,Chicago Bears,11,DET,Away,1,18,104,5.8,29,0,39%,56.8%
+Justin Fields,Chicago Bears,12,MIN,Away,1,12,59,4.9,14,0,43%,50.0%
+Justin Fields,Chicago Bears,14,DET,Home,1,12,58,4.8,19,1,40%,40.8%
+Justin Fields,Chicago Bears,15,CLE,Away,1,7,30,4.3,15,0,26%,34.1%
+Justin Fields,Chicago Bears,16,ARI,Home,1,9,97,10.8,39,1,23%,38.8%
+Justin Fields,Chicago Bears,17,ATL,Home,1,11,45,4.1,13,1,30%,23.4%
+Justin Herbert,Los Angeles Chargers,1,MIA,Home,1,5,18,3.6,5,1,13%,7.7%
+Justin Herbert,Los Angeles Chargers,2,TEN,Away,1,1,0,0.0,0,0,5%,0.0%
+Justin Herbert,Los Angeles Chargers,3,MIN,Away,1,2,11,5.5,12,0,13%,36.7%
+Justin Herbert,Los Angeles Chargers,4,LV,Home,1,12,27,2.3,15,2,32%,17.4%
+Justin Herbert,Los Angeles Chargers,6,DAL,Home,1,6,20,3.3,9,0,26%,37.7%
+Justin Herbert,Los Angeles Chargers,7,KC,Away,1,2,5,2.5,6,0,8%,3.6%
+Justin Herbert,Los Angeles Chargers,8,CHI,Home,1,1,1,1.0,1,0,4%,1.9%
+Justin Herbert,Los Angeles Chargers,9,NYJ,Away,1,3,17,5.7,10,0,14%,20.2%
+Justin Herbert,Los Angeles Chargers,10,DET,Home,1,4,15,3.8,13,0,14%,15.3%
+Justin Herbert,Los Angeles Chargers,11,GB,Away,1,8,73,9.1,28,0,33%,48.7%
+Justin Herbert,Los Angeles Chargers,12,BAL,Home,1,4,47,11.8,35,0,21%,54.7%
+Justin Herbert,Los Angeles Chargers,13,NE,Away,1,4,-5,-1.3,1,0,17%,-17.2%
+Kadarius Toney,Kansas City Chiefs,1,DET,Home,1,1,-1,-1.0,-1,0,4%,-1.1%
+Kadarius Toney,Kansas City Chiefs,2,JAX,Away,1,1,3,3.0,3,0,5%,3.0%
+Kadarius Toney,Kansas City Chiefs,5,MIN,Away,1,1,1,1.0,1,0,5%,1.5%
+Kadarius Toney,Kansas City Chiefs,6,DEN,Home,1,2,-5,-2.5,-2,0,7%,-5.2%
+Kadarius Toney,Kansas City Chiefs,8,DEN,Away,1,1,-3,-3.0,-3,0,6%,-4.8%
+Kadarius Toney,Kansas City Chiefs,11,PHI,Home,1,2,14,7.0,14,0,7%,8.3%
+Kadarius Toney,Kansas City Chiefs,13,GB,Away,1,1,6,6.0,6,0,4%,4.1%
+Kadarius Toney,Kansas City Chiefs,14,BUF,Home,1,2,16,8.0,14,0,11%,19.5%
+Kalif Raymond,Detroit Lions,2,SEA,Home,1,1,11,11.0,11,0,4%,10.8%
+Kalif Raymond,Detroit Lions,4,GB,Away,1,1,40,40.0,40,0,2%,19.0%
+Kalif Raymond,Detroit Lions,6,TB,Away,1,1,3,3.0,3,0,5%,7.5%
+Kalif Raymond,Detroit Lions,8,LV,Home,1,1,-2,-2.0,-2,0,2%,-0.9%
+Kalif Raymond,Detroit Lions,12,GB,Home,1,1,6,6.0,6,0,3%,4.3%
+Kalif Raymond,Detroit Lions,13,NO,Away,1,1,9,9.0,9,0,3%,6.3%
+Kalif Raymond,Detroit Lions,16,MIN,Away,1,1,8,8.0,8,0,3%,5.6%
+Kareem Hunt,Cleveland Browns,3,TEN,Home,1,5,13,2.6,5,0,16%,16.7%
+Kareem Hunt,Cleveland Browns,4,BAL,Home,1,5,12,2.4,6,0,20%,12.9%
+Kareem Hunt,Cleveland Browns,6,SF,Home,1,12,47,3.9,16,1,35%,29.4%
+Kareem Hunt,Cleveland Browns,7,IND,Away,1,10,31,3.1,11,2,30%,20.7%
+Kareem Hunt,Cleveland Browns,8,SEA,Away,1,14,55,3.9,9,1,35%,35.5%
+Kareem Hunt,Cleveland Browns,9,ARI,Home,1,14,38,2.7,10,1,35%,33.6%
+Kareem Hunt,Cleveland Browns,10,BAL,Away,1,10,32,3.2,13,1,28%,18.0%
+Kareem Hunt,Cleveland Browns,11,PIT,Home,1,12,36,3.0,16,0,41%,37.5%
+Kareem Hunt,Cleveland Browns,12,DEN,Away,1,7,22,3.1,7,0,29%,20.6%
+Kareem Hunt,Cleveland Browns,13,LAR,Away,1,12,48,4.0,7,0,52%,55.2%
+Kareem Hunt,Cleveland Browns,14,JAX,Home,1,10,27,2.7,9,1,36%,32.9%
+Kareem Hunt,Cleveland Browns,15,CHI,Home,1,7,8,1.1,3,0,39%,27.6%
+Kareem Hunt,Cleveland Browns,16,HOU,Away,1,7,11,1.6,4,1,23%,20.4%
+Kareem Hunt,Cleveland Browns,17,NYJ,Home,1,10,31,3.1,8,1,36%,24.4%
+KaVontae Turpin,Dallas Cowboys,1,NYG,Away,1,3,14,4.7,7,1,10%,11.5%
+KaVontae Turpin,Dallas Cowboys,2,NYJ,Home,1,2,6,3.0,6,0,5%,4.5%
+KaVontae Turpin,Dallas Cowboys,4,NE,Home,1,1,46,46.0,46,0,3%,37.1%
+KaVontae Turpin,Dallas Cowboys,9,PHI,Away,1,1,0,0.0,0,0,5%,0.0%
+KaVontae Turpin,Dallas Cowboys,11,CAR,Away,1,1,13,13.0,13,0,4%,12.1%
+KaVontae Turpin,Dallas Cowboys,14,PHI,Home,1,1,22,22.0,22,0,3%,15.9%
+KaVontae Turpin,Dallas Cowboys,16,MIA,Away,1,1,4,4.0,4,0,4%,4.1%
+Ke'Shawn Vaughn,Tampa Bay Buccaneers,4,NO,Away,1,9,16,1.8,8,0,27%,14.0%
+Ke'Shawn Vaughn,Tampa Bay Buccaneers,6,DET,Home,1,6,9,1.5,7,0,38%,19.6%
+Ke'Shawn Vaughn,Tampa Bay Buccaneers,7,ATL,Home,1,4,7,1.8,9,0,20%,9.6%
+Ke'Shawn Vaughn,Tampa Bay Buccaneers,8,BUF,Away,1,1,1,1.0,1,0,6%,1.3%
+Ke'Shawn Vaughn,Tampa Bay Buccaneers,9,HOU,Away,1,4,9,2.3,4,0,13%,11.1%
+Keaontay Ingram,Arizona Cardinals,1,WAS,Away,1,5,-4,-0.8,6,0,20%,-4.2%
+Keaontay Ingram,Arizona Cardinals,2,NYG,Home,1,2,6,3.0,5,0,7%,4.0%
+Keaontay Ingram,Arizona Cardinals,3,DAL,Home,1,5,13,2.6,8,0,17%,5.9%
+Keaontay Ingram,Arizona Cardinals,6,LAR,Away,1,10,40,4.0,12,0,33%,30.8%
+Keaontay Ingram,Arizona Cardinals,8,BAL,Home,1,2,9,4.5,14,0,6%,7.0%
+Keaontay Ingram,Arizona Cardinals,9,CLE,Away,1,9,8,0.9,11,0,43%,19.5%
+Keaontay Ingram,Arizona Cardinals,10,ATL,Home,1,2,2,1.0,2,0,8%,1.6%
+Keaton Mitchell,Baltimore Ravens,9,SEA,Home,1,9,138,15.3,60,1,22%,46.3%
+Keaton Mitchell,Baltimore Ravens,10,CLE,Home,1,3,34,11.3,39,1,13%,32.1%
+Keaton Mitchell,Baltimore Ravens,11,CIN,Home,1,8,33,4.1,21,0,26%,21.0%
+Keaton Mitchell,Baltimore Ravens,12,LAC,Away,1,9,64,7.1,29,0,26%,32.5%
+Keaton Mitchell,Baltimore Ravens,14,LAR,Home,1,9,54,6.0,27,0,35%,38.8%
+Keaton Mitchell,Baltimore Ravens,15,JAX,Away,1,9,73,8.1,24,0,21%,29.1%
+Keenan Allen,Los Angeles Chargers,1,MIA,Home,1,2,6,3.0,4,0,5%,2.6%
+Keisean Nixon,Green Bay Packers,3,NO,Home,1,1,11,11.0,11,0,4%,11.6%
+Kendre Miller,New Orleans Saints,3,GB,Away,1,9,34,3.8,10,0,41%,44.2%
+Kendre Miller,New Orleans Saints,4,TB,Home,1,1,3,3.0,3,0,5%,4.3%
+Kendre Miller,New Orleans Saints,5,NE,Away,1,12,37,3.1,8,0,29%,27.2%
+Kendre Miller,New Orleans Saints,6,HOU,Away,1,2,-1,-0.5,3,0,8%,-1.1%
+Kendre Miller,New Orleans Saints,8,IND,Away,1,3,10,3.3,7,0,8%,6.2%
+Kendre Miller,New Orleans Saints,9,CHI,Home,1,1,0,0.0,0,0,4%,0.0%
+Kendrick Bourne,New England Patriots,6,LV,Away,1,1,4,4.0,4,0,5%,4.8%
+Kene Nwangwu,Minnesota Vikings,10,NO,Home,1,2,9,4.5,8,0,6%,7.2%
+Kene Nwangwu,Minnesota Vikings,14,LV,Away,1,2,3,1.5,4,0,7%,2.3%
+Kene Nwangwu,Minnesota Vikings,15,CIN,Away,1,1,1,1.0,1,0,3%,0.7%
+Kenneth Walker,Seattle Seahawks,1,LAR,Home,1,12,64,5.3,15,0,67%,75.3%
+Kenneth Walker,Seattle Seahawks,2,DET,Away,1,17,43,2.5,14,2,68%,52.4%
+Kenneth Walker,Seattle Seahawks,3,CAR,Home,1,18,97,5.4,36,2,55%,66.4%
+Kenneth Walker,Seattle Seahawks,4,NYG,Away,1,17,79,4.6,31,1,74%,65.3%
+Kenneth Walker,Seattle Seahawks,6,CIN,Away,1,19,62,3.3,21,1,76%,71.3%
+Kenneth Walker,Seattle Seahawks,7,ARI,Home,1,26,105,4.0,25,0,81%,91.3%
+Kenneth Walker,Seattle Seahawks,8,CLE,Home,1,8,66,8.3,45,0,47%,57.9%
+Kenneth Walker,Seattle Seahawks,9,BAL,Away,1,9,16,1.8,6,0,60%,57.1%
+Kenneth Walker,Seattle Seahawks,10,WAS,Home,1,19,63,3.3,13,0,73%,52.5%
+Kenneth Walker,Seattle Seahawks,11,LAR,Away,1,4,18,4.5,6,0,19%,26.5%
+Kenneth Walker,Seattle Seahawks,14,SF,Away,1,8,21,2.6,12,0,40%,30.0%
+Kenneth Walker,Seattle Seahawks,15,PHI,Home,1,19,86,4.5,23,1,79%,86.0%
+Kenneth Walker,Seattle Seahawks,16,TEN,Away,1,16,54,3.4,24,0,80%,93.1%
+Kenneth Walker,Seattle Seahawks,17,PIT,Home,1,10,53,5.3,13,1,67%,60.2%
+Kenny Gainwell,Philadelphia Eagles,1,NE,Away,1,14,54,3.9,16,0,56%,55.7%
+Kenny Gainwell,Philadelphia Eagles,3,TB,Away,1,14,43,3.1,8,0,35%,21.4%
+Kenny Gainwell,Philadelphia Eagles,4,WAS,Home,1,4,14,3.5,13,0,15%,13.5%
+Kenny Gainwell,Philadelphia Eagles,5,LAR,Away,1,7,17,2.4,4,0,18%,10.7%
+Kenny Gainwell,Philadelphia Eagles,6,NYJ,Away,1,2,13,6.5,12,0,9%,16.3%
+Kenny Gainwell,Philadelphia Eagles,7,MIA,Home,1,8,16,2.0,5,1,24%,16.2%
+Kenny Gainwell,Philadelphia Eagles,8,WAS,Away,1,2,-4,-2.0,0,0,9%,-6.8%
+Kenny Gainwell,Philadelphia Eagles,9,DAL,Home,1,3,22,7.3,12,1,9%,20.2%
+Kenny Gainwell,Philadelphia Eagles,11,KC,Away,1,1,1,1.0,1,0,4%,0.9%
+Kenny Gainwell,Philadelphia Eagles,12,BUF,Home,1,2,26,13.0,23,0,6%,14.1%
+Kenny Gainwell,Philadelphia Eagles,13,SF,Home,1,2,5,2.5,3,0,11%,10.9%
+Kenny Gainwell,Philadelphia Eagles,14,DAL,Away,1,4,28,7.0,11,0,17%,26.4%
+Kenny Gainwell,Philadelphia Eagles,15,SEA,Away,1,6,21,3.5,8,0,16%,11.8%
+Kenny Gainwell,Philadelphia Eagles,16,NYG,Home,1,6,41,6.8,22,0,17%,24.1%
+Kenny Gainwell,Philadelphia Eagles,17,ARI,Home,1,2,5,2.5,3,0,9%,5.5%
+Kenny Pickett,Pittsburgh Steelers,1,SF,Home,1,1,4,4.0,4,0,10%,9.8%
+Kenny Pickett,Pittsburgh Steelers,2,CLE,Home,1,4,-6,-1.5,-1,0,19%,-10.9%
+Kenny Pickett,Pittsburgh Steelers,3,LV,Away,1,3,11,3.7,10,0,10%,10.5%
+Kenny Pickett,Pittsburgh Steelers,4,HOU,Away,1,2,9,4.5,8,0,8%,7.9%
+Kenny Pickett,Pittsburgh Steelers,5,BAL,Home,1,6,-6,-1.0,2,0,20%,-6.9%
+Kenny Pickett,Pittsburgh Steelers,7,LAR,Away,1,8,0,0.0,2,1,28%,0.0%
+Kenny Pickett,Pittsburgh Steelers,8,JAX,Home,1,1,10,10.0,10,0,6%,14.3%
+Kenny Pickett,Pittsburgh Steelers,9,TEN,Home,1,1,-1,-1.0,-1,0,3%,-0.6%
+Kenny Pickett,Pittsburgh Steelers,10,GB,Home,1,4,16,4.0,11,0,11%,7.8%
+Kenny Pickett,Pittsburgh Steelers,11,CLE,Away,1,4,9,2.3,5,0,15%,5.2%
+Kenny Pickett,Pittsburgh Steelers,12,CIN,Away,1,5,5,1.0,5,0,15%,3.3%
+Kenny Pickett,Pittsburgh Steelers,13,ARI,Home,1,3,3,1.0,2,0,10%,2.3%
+Kenyan Drake,Baltimore Ravens,3,IND,Home,1,1,0,0.0,0,0,3%,0.0%
+Kenyan Drake,Green Bay Packers,15,TB,Home,1,1,0,0.0,0,0,6%,0.0%
+Kevin Harris,New England Patriots,15,KC,Home,1,4,25,6.3,18,1,25%,48.1%
+Kevin Harris,New England Patriots,16,DEN,Away,1,7,21,3.0,6,0,33%,35.6%
+Kevin Harris,New England Patriots,17,BUF,Away,1,2,15,7.5,15,0,8%,14.6%
+Khadarel Hodge,Atlanta Falcons,5,HOU,Home,1,1,0,0.0,0,0,3%,0.0%
+Khalil Herbert,Chicago Bears,1,GB,Home,1,9,27,3.0,12,0,31%,22.1%
+Khalil Herbert,Chicago Bears,2,TB,Away,1,7,35,5.0,8,0,44%,52.2%
+Khalil Herbert,Chicago Bears,3,KC,Away,1,7,31,4.4,11,0,27%,26.7%
+Khalil Herbert,Chicago Bears,4,DEN,Home,1,18,103,5.7,24,0,58%,60.2%
+Khalil Herbert,Chicago Bears,5,WAS,Away,1,10,76,7.6,34,0,31%,42.7%
+Khalil Herbert,Chicago Bears,11,DET,Away,1,16,35,2.2,9,0,35%,19.1%
+Khalil Herbert,Chicago Bears,12,MIN,Away,1,6,24,4.0,8,0,21%,20.3%
+Khalil Herbert,Chicago Bears,14,DET,Home,1,3,8,2.7,4,0,10%,5.6%
+Khalil Herbert,Chicago Bears,15,CLE,Away,1,6,8,1.3,7,0,22%,9.1%
+Khalil Herbert,Chicago Bears,16,ARI,Home,1,20,112,5.6,15,1,51%,44.8%
+Khalil Herbert,Chicago Bears,17,ATL,Home,1,18,124,6.9,38,1,49%,64.6%
+Khalil Shakir,Buffalo Bills,17,NE,Home,1,1,10,10.0,10,0,3%,7.9%
+Khari Blasingame,Chicago Bears,5,WAS,Away,1,8,26,3.3,6,0,25%,14.6%
+Kirk Cousins,Minnesota Vikings,1,TB,Home,1,3,7,2.3,4,0,18%,17.1%
+Kirk Cousins,Minnesota Vikings,3,LAC,Home,1,1,10,10.0,10,0,4%,7.7%
+Kirk Cousins,Minnesota Vikings,4,CAR,Away,1,1,0,0.0,0,0,4%,0.0%
+Kirk Cousins,Minnesota Vikings,5,KC,Home,1,3,5,1.7,2,0,17%,7.1%
+Kirk Cousins,Minnesota Vikings,6,CHI,Away,1,2,-5,-2.5,1,0,9%,-10.9%
+Kirk Cousins,Minnesota Vikings,7,SF,Home,1,2,-1,-0.5,0,0,10%,-1.4%
+Kirk Cousins,Minnesota Vikings,8,GB,Away,1,2,9,4.5,7,0,6%,14.5%
+Kyle Allen,Buffalo Bills,2,LV,Home,1,2,-2,-1.0,-1,0,6%,-1.1%
+Kyle Allen,Buffalo Bills,3,WAS,Away,1,2,-2,-1.0,-1,0,6%,-1.2%
+Kyle Allen,Buffalo Bills,4,MIA,Home,1,3,-3,-1.0,-1,0,10%,-2.9%
+Kyle Allen,Buffalo Bills,11,NYJ,Home,1,2,-2,-1.0,-1,0,5%,-1.5%
+Kyle Allen,Buffalo Bills,15,DAL,Home,1,2,-2,-1.0,-1,0,4%,-0.8%
+Kyle Allen,Buffalo Bills,17,NE,Home,1,2,-2,-1.0,0,0,5%,-1.6%
+Kyle Juszczyk,San Francisco 49ers,3,NYG,Home,1,1,3,3.0,3,0,3%,2.1%
+Kyle Juszczyk,San Francisco 49ers,4,ARI,Home,1,2,3,1.5,3,0,6%,2.4%
+Kyle Juszczyk,San Francisco 49ers,8,CIN,Home,1,2,0,0.0,1,0,9%,0.0%
+Kyle Pitts,Atlanta Falcons,3,DET,Away,1,1,-4,-4.0,-4,0,5%,-9.1%
+Kyle Trask,Tampa Bay Buccaneers,10,TEN,Home,1,1,-1,-1.0,-1,0,3%,-1.3%
+Kylen Granson,Indianapolis Colts,13,TEN,Away,1,1,2,2.0,2,0,4%,3.6%
+Kyler Murray,Arizona Cardinals,10,ATL,Home,1,6,33,5.5,13,1,23%,27.0%
+Kyler Murray,Arizona Cardinals,11,HOU,Away,1,7,51,7.3,22,1,28%,41.5%
+Kyler Murray,Arizona Cardinals,12,LAR,Home,1,1,2,2.0,2,1,7%,2.7%
+Kyler Murray,Arizona Cardinals,13,PIT,Away,1,9,20,2.2,9,0,24%,13.3%
+Kyler Murray,Arizona Cardinals,15,SF,Home,1,6,49,8.2,15,0,20%,20.9%
+Kyler Murray,Arizona Cardinals,16,CHI,Away,1,5,32,6.4,12,0,25%,34.4%
+Kyler Murray,Arizona Cardinals,17,PHI,Away,1,5,24,4.8,14,0,13%,10.9%
+Kyren Williams,Los Angeles Rams,1,SEA,Away,1,15,52,3.5,9,2,38%,56.5%
+Kyren Williams,Los Angeles Rams,2,SF,Home,1,14,52,3.7,8,1,64%,58.4%
+Kyren Williams,Los Angeles Rams,3,CIN,Away,1,10,38,3.8,9,0,77%,53.5%
+Kyren Williams,Los Angeles Rams,4,IND,Away,1,25,103,4.1,20,2,69%,62.8%
+Kyren Williams,Los Angeles Rams,5,PHI,Home,1,13,53,4.1,11,0,93%,98.1%
+Kyren Williams,Los Angeles Rams,6,ARI,Home,1,20,158,7.9,31,1,71%,88.3%
+Kyren Williams,Los Angeles Rams,12,ARI,Away,1,16,143,8.9,56,0,48%,62.7%
+Kyren Williams,Los Angeles Rams,13,CLE,Home,1,21,88,4.2,18,1,84%,73.3%
+Kyren Williams,Los Angeles Rams,14,BAL,Away,1,25,114,4.6,14,0,83%,89.1%
+Kyren Williams,Los Angeles Rams,15,WAS,Home,1,27,152,5.6,27,1,73%,77.6%
+Kyren Williams,Los Angeles Rams,16,NO,Home,1,22,104,4.7,10,1,69%,78.2%
+Kyren Williams,Los Angeles Rams,17,NYG,Away,1,20,87,4.4,28,3,87%,82.9%
+Lamar Jackson,Baltimore Ravens,1,HOU,Home,1,6,38,6.3,14,0,19%,34.5%
+Lamar Jackson,Baltimore Ravens,2,CIN,Away,1,12,54,4.5,12,0,32%,30.3%
+Lamar Jackson,Baltimore Ravens,3,IND,Home,1,14,101,7.2,16,2,38%,54.3%
+Lamar Jackson,Baltimore Ravens,4,CLE,Away,1,9,27,3.0,10,2,27%,20.6%
+Lamar Jackson,Baltimore Ravens,5,PIT,Away,1,6,45,7.5,26,0,24%,36.0%
+Lamar Jackson,Baltimore Ravens,6,TEN,Away,1,13,62,4.8,12,0,33%,44.6%
+Lamar Jackson,Baltimore Ravens,7,DET,Home,1,9,36,4.0,10,1,33%,24.7%
+Lamar Jackson,Baltimore Ravens,8,ARI,Away,1,5,17,3.4,13,0,17%,13.1%
+Lamar Jackson,Baltimore Ravens,9,SEA,Home,1,10,60,6.0,23,0,24%,20.1%
+Lamar Jackson,Baltimore Ravens,10,CLE,Home,1,8,41,5.1,9,0,33%,38.7%
+Lamar Jackson,Baltimore Ravens,11,CIN,Home,1,9,54,6.0,8,0,29%,34.4%
+Lamar Jackson,Baltimore Ravens,12,LAC,Away,1,11,39,3.5,8,0,31%,19.8%
+Lamar Jackson,Baltimore Ravens,14,LAR,Home,1,11,70,6.4,16,0,42%,50.4%
+Lamar Jackson,Baltimore Ravens,15,JAX,Away,1,12,97,8.1,21,0,29%,38.6%
+Lamar Jackson,Baltimore Ravens,16,SF,Away,1,7,45,6.4,30,0,27%,44.1%
+Lamar Jackson,Baltimore Ravens,17,MIA,Home,1,6,35,5.8,18,0,19%,21.9%
+Lamical Perine,Kansas City Chiefs,9,MIA,Home,1,1,1,1.0,1,0,4%,1.1%
+Latavius Murray,Buffalo Bills,1,NYJ,Away,1,2,8,4.0,6,0,9%,8.2%
+Latavius Murray,Buffalo Bills,2,LV,Home,1,6,22,3.7,8,1,17%,12.0%
+Latavius Murray,Buffalo Bills,3,WAS,Away,1,5,15,3.0,7,1,15%,8.9%
+Latavius Murray,Buffalo Bills,4,MIA,Home,1,4,32,8.0,29,0,14%,30.8%
+Latavius Murray,Buffalo Bills,5,JAX,Home,1,2,6,3.0,4,0,14%,20.7%
+Latavius Murray,Buffalo Bills,6,NYG,Home,1,12,45,3.8,12,0,41%,35.2%
+Latavius Murray,Buffalo Bills,7,NE,Away,1,4,8,2.0,3,0,17%,9.9%
+Latavius Murray,Buffalo Bills,8,TB,Home,1,5,7,1.4,5,0,19%,6.1%
+Latavius Murray,Buffalo Bills,9,CIN,Away,1,2,4,2.0,2,0,13%,5.9%
+Latavius Murray,Buffalo Bills,10,DEN,Home,1,9,68,7.6,21,1,35%,35.4%
+Latavius Murray,Buffalo Bills,11,NYJ,Home,1,10,35,3.5,7,0,26%,26.9%
+Latavius Murray,Buffalo Bills,12,PHI,Away,1,9,30,3.3,13,0,23%,17.3%
+Latavius Murray,Buffalo Bills,14,KC,Away,1,3,9,3.0,4,0,11%,7.6%
+Latavius Murray,Buffalo Bills,15,DAL,Home,1,5,11,2.2,8,1,10%,4.1%
+Latavius Murray,Buffalo Bills,17,NE,Home,1,1,0,0.0,0,0,3%,0.0%
+Laviska Shenault,Carolina Panthers,1,ATL,Away,1,2,5,2.5,5,0,6%,3.2%
+Laviska Shenault,Carolina Panthers,2,NO,Home,1,1,7,7.0,7,0,5%,7.0%
+Laviska Shenault,Carolina Panthers,3,SEA,Away,1,2,7,3.5,5,0,14%,15.9%
+Laviska Shenault,Carolina Panthers,4,MIN,Home,1,1,7,7.0,7,0,3%,8.4%
+Laviska Shenault,Carolina Panthers,5,DET,Away,1,5,27,5.4,11,0,22%,27.3%
+Laviska Shenault,Carolina Panthers,6,MIA,Away,1,1,2,2.0,2,0,4%,1.9%
+Leonard Fournette,Buffalo Bills,16,LAC,Away,1,5,20,4.0,9,0,17%,19.0%
+Logan Thomas,Washington Commanders,4,PHI,Away,1,1,2,2.0,2,0,4%,1.9%
+Lynn Bowden,New Orleans Saints,12,ATL,Away,1,2,40,20.0,29,0,7%,27.0%
+Lynn Bowden,New Orleans Saints,13,DET,Home,1,2,-6,-3.0,4,0,6%,-5.3%
+Mac Jones,New England Patriots,1,PHI,Home,1,2,15,7.5,8,0,9%,19.7%
+Mac Jones,New England Patriots,2,MIA,Home,1,5,25,5.0,18,0,20%,28.4%
+Mac Jones,New England Patriots,3,NYJ,Away,1,4,13,3.3,8,0,10%,8.3%
+Mac Jones,New England Patriots,4,DAL,Away,1,3,7,2.3,4,0,13%,13.2%
+Mac Jones,New England Patriots,5,NO,Home,1,1,0,0.0,0,0,6%,0.0%
+Mac Jones,New England Patriots,6,LV,Away,1,1,-1,-1.0,-1,0,5%,-1.2%
+Mac Jones,New England Patriots,7,BUF,Home,1,3,11,3.7,5,0,13%,11.5%
+Mac Jones,New England Patriots,8,MIA,Away,1,1,-2,-2.0,-2,0,5%,-2.6%
+Mac Jones,New England Patriots,9,WAS,Home,1,3,3,1.0,3,0,16%,2.8%
+Mac Jones,New England Patriots,10,IND,Home,1,3,25,8.3,15,0,8%,15.0%
+Malik Willis,Tennessee Titans,6,BAL,Home,1,3,17,5.7,11,0,16%,13.2%
+Malik Willis,Tennessee Titans,8,ATL,Home,1,2,4,2.0,4,0,6%,2.7%
+Marcus Mariota,Philadelphia Eagles,13,SF,Home,1,2,6,3.0,5,0,11%,13.0%
+Mark Andrews,Baltimore Ravens,6,TEN,Away,1,1,0,0.0,0,0,3%,0.0%
+Marquise Brown,Arizona Cardinals,1,WAS,Away,1,1,29,29.0,29,0,4%,30.2%
+Marquise Brown,Arizona Cardinals,11,HOU,Away,1,1,-6,-6.0,-6,0,4%,-4.9%
+Marquise Goodwin,Cleveland Browns,3,TEN,Home,1,1,1,1.0,1,0,3%,1.3%
+Marquise Goodwin,Cleveland Browns,6,SF,Home,1,1,20,20.0,20,0,3%,12.5%
+Marquise Goodwin,Cleveland Browns,7,IND,Away,1,1,17,17.0,17,0,3%,11.3%
+Marquise Goodwin,Cleveland Browns,8,SEA,Away,1,1,-5,-5.0,-5,0,3%,-3.2%
+Marvin Mims,Denver Broncos,2,WAS,Home,1,2,10,5.0,8,0,9%,8.2%
+Marvin Mims,Denver Broncos,3,MIA,Away,1,1,3,3.0,3,0,5%,4.3%
+Marvin Mims,Denver Broncos,7,GB,Home,1,1,-11,-11.0,-11,0,4%,-7.6%
+Marvin Mims,Denver Broncos,10,BUF,Away,1,1,-3,-3.0,-3,0,3%,-2.5%
+Marvin Mims,Denver Broncos,12,CLE,Home,1,1,11,11.0,11,0,3%,6.5%
+Marvin Mims,Denver Broncos,13,HOU,Away,1,1,8,8.0,8,0,3%,6.8%
+Marvin Mims,Denver Broncos,15,DET,Away,1,1,11,11.0,11,0,4%,13.3%
+Mason Rudolph,Pittsburgh Steelers,16,CIN,Home,1,2,4,2.0,7,0,7%,3.5%
+Mason Rudolph,Pittsburgh Steelers,17,SEA,Away,1,6,5,0.8,2,0,13%,2.5%
+Matt Barkley,Jacksonville Jaguars,17,CAR,Home,1,3,-3,-1.0,-1,0,9%,-1.9%
+Matt Breida,New York Giants,1,DAL,Home,1,2,9,4.5,6,0,7%,8.3%
+Matt Breida,New York Giants,2,ARI,Away,1,1,5,5.0,5,0,4%,3.9%
+Matt Breida,New York Giants,3,SF,Away,1,4,17,4.3,8,1,36%,58.6%
+Matt Breida,New York Giants,4,SEA,Home,1,14,30,2.1,5,0,48%,26.8%
+Matt Breida,New York Giants,5,MIA,Away,1,9,21,2.3,8,0,31%,24.7%
+Matt Breida,New York Giants,6,BUF,Away,1,4,13,3.3,6,0,12%,9.8%
+Matt Breida,New York Giants,7,WAS,Home,1,3,4,1.3,6,0,9%,3.8%
+Matt Breida,New York Giants,8,NYJ,Home,1,5,13,2.6,6,0,10%,6.4%
+Matt Breida,New York Giants,9,LV,Away,1,2,5,2.5,3,0,8%,4.1%
+Matt Breida,New York Giants,10,DAL,Away,1,1,3,3.0,3,0,4%,2.7%
+Matt Breida,New York Giants,11,WAS,Away,1,3,-1,-0.3,3,0,16%,-1.1%
+Matt Breida,New York Giants,12,NE,Home,1,2,6,3.0,6,0,11%,10.3%
+Matt Breida,New York Giants,14,GB,Home,1,2,16,8.0,9,0,6%,7.7%
+Matt Breida,New York Giants,15,NO,Away,1,3,10,3.3,5,0,19%,16.7%
+Matthew Stafford,Los Angeles Rams,1,SEA,Away,1,3,11,3.7,9,0,8%,12.0%
+Matthew Stafford,Los Angeles Rams,2,SF,Home,1,4,17,4.3,7,0,18%,19.1%
+Matthew Stafford,Los Angeles Rams,3,CIN,Away,1,1,7,7.0,7,0,8%,9.9%
+Matthew Stafford,Los Angeles Rams,4,IND,Away,1,2,14,7.0,8,0,6%,8.5%
+Matthew Stafford,Los Angeles Rams,6,ARI,Home,1,1,2,2.0,2,0,4%,1.1%
+Matthew Stafford,Los Angeles Rams,7,PIT,Home,1,1,8,8.0,8,0,3%,5.9%
+Matthew Stafford,Los Angeles Rams,8,DAL,Away,1,1,9,9.0,9,0,4%,9.8%
+Matthew Stafford,Los Angeles Rams,11,SEA,Home,1,2,1,0.5,3,0,7%,1.2%
+Matthew Stafford,Los Angeles Rams,12,ARI,Away,1,1,2,2.0,2,0,3%,0.9%
+Matthew Stafford,Los Angeles Rams,13,CLE,Home,1,1,-2,-2.0,-2,0,4%,-1.7%
+Matthew Stafford,Los Angeles Rams,14,BAL,Away,1,1,-1,-1.0,-1,0,3%,-0.8%
+Matthew Stafford,Los Angeles Rams,15,WAS,Home,1,1,2,2.0,2,0,3%,1.0%
+Matthew Stafford,Los Angeles Rams,16,NO,Home,1,1,-4,-4.0,-4,0,3%,-3.0%
+Matthew Stafford,Los Angeles Rams,17,NYG,Away,1,1,-1,-1.0,-1,0,4%,-1.0%
+Mecole Hardman,Kansas City Chiefs,8,DEN,Away,1,1,3,3.0,3,0,6%,4.8%
+Melvin Gordon,Baltimore Ravens,3,IND,Home,1,10,32,3.2,15,0,27%,17.2%
+Melvin Gordon,Baltimore Ravens,4,CLE,Away,1,3,21,7.0,22,0,9%,16.0%
+Melvin Gordon,Baltimore Ravens,17,MIA,Home,1,6,10,1.7,7,1,19%,6.3%
+Michael Burton,Denver Broncos,2,WAS,Home,1,1,3,3.0,3,0,4%,2.5%
+Michael Burton,Denver Broncos,5,NYJ,Home,1,0,0,#DIV/0!,0,0,0%,0.0%
+Michael Burton,Denver Broncos,6,KC,Away,1,2,2,1.0,3,0,9%,1.7%
+Michael Burton,Denver Broncos,7,GB,Home,1,1,-2,-2.0,-2,0,4%,-1.4%
+Michael Burton,Denver Broncos,13,HOU,Away,1,1,4,4.0,4,0,3%,3.4%
+Michael Burton,Denver Broncos,14,LAC,Away,1,1,2,2.0,2,0,3%,1.9%
+Michael Burton,Denver Broncos,16,NE,Home,1,1,0,0.0,0,0,4%,0.0%
+Michael Carter,Arizona Cardinals,12,LAR,Home,1,4,19,4.8,7,0,27%,26.0%
+Michael Carter,Arizona Cardinals,13,PIT,Away,1,4,25,6.3,19,0,11%,16.7%
+Michael Carter,Arizona Cardinals,15,SF,Home,1,3,27,9.0,19,0,10%,11.5%
+Michael Carter,Arizona Cardinals,17,PHI,Away,1,7,61,8.7,21,0,18%,27.6%
+Michael Carter,New York Jets,1,BUF,Home,1,1,6,6.0,6,0,4%,3.5%
+Michael Carter,New York Jets,2,DAL,Away,1,2,8,4.0,6,0,13%,12.5%
+Michael Carter,New York Jets,4,KC,Home,1,1,9,9.0,9,0,6%,8.3%
+Michael Carter,New York Jets,5,DEN,Away,1,1,8,8.0,8,0,3%,3.4%
+Michael Carter,New York Jets,6,PHI,Home,1,1,5,5.0,5,0,5%,5.6%
+Michael Carter,New York Jets,8,NYG,Away,1,2,2,1.0,1,0,9%,3.4%
+Mike Boone,Houston Texans,4,PIT,Home,1,1,4,4.0,4,0,3%,2.9%
+Mike Boone,Houston Texans,6,NO,Home,1,1,11,11.0,11,0,3%,9.2%
+Mike Boone,Houston Texans,8,CAR,Away,1,1,5,5.0,5,0,3%,4.5%
+Mike Boone,Houston Texans,9,TB,Home,1,1,3,3.0,3,0,6%,5.7%
+Mike Boone,Houston Texans,11,ARI,Home,1,1,0,0.0,0,0,4%,0.0%
+Mike White,Miami Dolphins,3,DEN,Home,1,1,-1,-1.0,-1,0,2%,-0.3%
+Mike White,Miami Dolphins,6,CAR,Home,1,3,-4,-1.3,-1,0,9%,-2.5%
+Mike White,Miami Dolphins,12,NYJ,Away,1,1,-2,-2.0,-2,0,3%,-1.2%
+Mike White,Miami Dolphins,15,NYJ,Home,1,2,-2,-1.0,-1,0,7%,-2.6%
+Mike White,Miami Dolphins,17,BAL,Away,1,1,0,0.0,0,0,4%,0.0%
+Mike Williams,Los Angeles Chargers,2,TEN,Away,1,1,3,3.0,3,0,5%,4.9%
+Miles Sanders,Carolina Panthers,1,ATL,Away,1,18,72,4.0,10,0,56%,46.8%
+Miles Sanders,Carolina Panthers,2,NO,Home,1,14,43,3.1,13,0,74%,43.0%
+Miles Sanders,Carolina Panthers,3,SEA,Away,1,9,24,2.7,15,1,64%,54.5%
+Miles Sanders,Carolina Panthers,4,MIN,Home,1,13,19,1.5,6,0,42%,22.9%
+Miles Sanders,Carolina Panthers,5,DET,Away,1,7,32,4.6,9,0,30%,32.3%
+Miles Sanders,Carolina Panthers,8,HOU,Home,1,2,0,0.0,4,0,8%,0.0%
+Miles Sanders,Carolina Panthers,9,IND,Home,1,6,39,6.5,11,0,21%,28.3%
+Miles Sanders,Carolina Panthers,10,CHI,Away,1,2,-5,-2.5,1,0,13%,-11.6%
+Miles Sanders,Carolina Panthers,11,DAL,Home,1,11,50,4.5,15,0,48%,45.5%
+Miles Sanders,Carolina Panthers,12,TEN,Away,1,15,28,1.9,15,0,47%,29.2%
+Miles Sanders,Carolina Panthers,13,TB,Away,1,8,23,2.9,8,0,24%,17.3%
+Miles Sanders,Carolina Panthers,14,NO,Away,1,10,74,7.4,48,0,26%,36.3%
+Miles Sanders,Carolina Panthers,15,ATL,Home,1,6,2,0.3,3,0,17%,1.6%
+Miles Sanders,Carolina Panthers,16,GB,Home,1,3,3,1.0,3,0,12%,3.1%
+Miles Sanders,Carolina Panthers,17,JAX,Away,1,2,10,5.0,7,0,13%,17.5%
+Mitchell Trubisky,Pittsburgh Steelers,8,JAX,Home,1,3,18,6.0,8,0,17%,25.7%
+Mitchell Trubisky,Pittsburgh Steelers,13,ARI,Home,1,3,5,1.7,6,0,10%,3.8%
+Mitchell Trubisky,Pittsburgh Steelers,14,NE,Home,1,8,30,3.8,15,1,29%,36.6%
+Mitchell Trubisky,Pittsburgh Steelers,15,IND,Away,1,2,1,0.5,1,1,8%,1.4%
+Najee Harris,Pittsburgh Steelers,1,SF,Home,1,6,31,5.2,24,0,60%,75.6%
+Najee Harris,Pittsburgh Steelers,2,CLE,Home,1,10,43,4.3,21,0,48%,78.2%
+Najee Harris,Pittsburgh Steelers,3,LV,Away,1,19,65,3.4,17,0,61%,61.9%
+Najee Harris,Pittsburgh Steelers,4,HOU,Away,1,14,71,5.1,23,0,56%,62.3%
+Najee Harris,Pittsburgh Steelers,5,BAL,Home,1,14,37,2.6,8,0,47%,42.5%
+Najee Harris,Pittsburgh Steelers,7,LAR,Away,1,14,53,3.8,10,1,48%,61.6%
+Najee Harris,Pittsburgh Steelers,8,JAX,Home,1,7,13,1.9,3,0,39%,18.6%
+Najee Harris,Pittsburgh Steelers,9,TEN,Home,1,16,69,4.3,25,1,53%,41.6%
+Najee Harris,Pittsburgh Steelers,10,GB,Home,1,16,82,5.1,24,1,44%,40.0%
+Najee Harris,Pittsburgh Steelers,11,CLE,Away,1,12,35,2.9,17,0,46%,20.3%
+Najee Harris,Pittsburgh Steelers,12,CIN,Away,1,15,99,6.6,22,1,45%,64.7%
+Najee Harris,Pittsburgh Steelers,13,ARI,Home,1,16,63,3.9,11,0,52%,48.5%
+Najee Harris,Pittsburgh Steelers,14,NE,Home,1,12,29,2.4,7,0,43%,35.4%
+Najee Harris,Pittsburgh Steelers,15,IND,Away,1,12,33,2.8,15,0,50%,44.6%
+Najee Harris,Pittsburgh Steelers,16,CIN,Home,1,19,78,4.1,13,1,63%,69.0%
+Najee Harris,Pittsburgh Steelers,17,SEA,Away,1,27,122,4.5,23,2,59%,60.4%
+Nathan Peterman,Chicago Bears,7,LV,Home,1,2,-4,-2.0,-2,0,5%,-2.3%
+Nathaniel Dell,Houston Texans,4,PIT,Home,1,2,13,6.5,7,0,5%,9.4%
+Nathaniel Dell,Houston Texans,5,ATL,Away,1,2,-4,-2.0,1,0,9%,-6.3%
+Nathaniel Dell,Houston Texans,8,CAR,Away,1,3,15,5.0,11,0,10%,13.6%
+Nathaniel Dell,Houston Texans,9,TB,Home,1,2,2,1.0,2,0,12%,3.8%
+Nathaniel Dell,Houston Texans,10,CIN,Away,1,1,13,13.0,13,0,3%,6.9%
+Nathaniel Dell,Houston Texans,12,JAX,Home,1,1,12,12.0,12,0,6%,13.2%
+Nick Bawden,New York Jets,3,NE,Home,1,1,1,1.0,1,1,5%,2.6%
+Nick Bawden,New York Jets,14,HOU,Home,1,1,3,3.0,3,0,4%,3.8%
+Nick Chubb,Cleveland Browns,1,CIN,Home,1,18,106,5.9,17,0,45%,51.5%
+Nick Chubb,Cleveland Browns,2,PIT,Away,1,10,64,6.4,20,0,29%,32.3%
+Nick Mullens,Minnesota Vikings,15,CIN,Away,1,6,10,1.7,5,0,20%,7.0%
+Nick Mullens,Minnesota Vikings,16,DET,Home,1,1,1,1.0,1,0,9%,5.9%
+Nick Mullens,Minnesota Vikings,17,GB,Home,1,1,6,6.0,6,0,6%,9.0%
+Nick Niemann,Los Angeles Chargers,17,DEN,Away,1,1,0,0.0,0,0,4%,0.0%
+Nico Collins,Houston Texans,17,TEN,Home,1,1,7,7.0,7,0,4%,6.3%
+Noah Brown,Houston Texans,1,BAL,Away,1,1,-1,-1.0,-1,0,4%,-1.4%
+Noah Gray,Kansas City Chiefs,6,DEN,Home,1,1,1,1.0,1,0,4%,1.0%
+Patrick Mahomes,Kansas City Chiefs,1,DET,Home,1,6,45,7.5,16,0,26%,50.0%
+Patrick Mahomes,Kansas City Chiefs,2,JAX,Away,1,7,30,4.3,14,0,32%,29.7%
+Patrick Mahomes,Kansas City Chiefs,3,CHI,Home,1,3,28,9.3,15,0,8%,18.3%
+Patrick Mahomes,Kansas City Chiefs,4,NYJ,Away,1,7,51,7.3,25,0,20%,25.0%
+Patrick Mahomes,Kansas City Chiefs,6,DEN,Home,1,6,31,5.2,15,0,22%,32.3%
+Patrick Mahomes,Kansas City Chiefs,7,LAC,Home,1,4,29,7.3,23,0,19%,42.6%
+Patrick Mahomes,Kansas City Chiefs,8,DEN,Away,1,3,20,6.7,8,0,19%,32.3%
+Patrick Mahomes,Kansas City Chiefs,9,MIA,Home,1,6,24,4.0,16,0,25%,25.8%
+Patrick Mahomes,Kansas City Chiefs,11,PHI,Home,1,6,38,6.3,14,0,20%,22.6%
+Patrick Mahomes,Kansas City Chiefs,12,LV,Away,1,5,9,1.8,7,0,22%,13.0%
+Patrick Mahomes,Kansas City Chiefs,13,GB,Away,1,4,26,6.5,10,0,16%,17.6%
+Patrick Mahomes,Kansas City Chiefs,14,BUF,Home,1,1,8,8.0,8,0,6%,9.8%
+Patrick Mahomes,Kansas City Chiefs,15,NE,Away,1,3,-5,-1.7,-1,0,15%,-11.6%
+Patrick Mahomes,Kansas City Chiefs,16,LV,Home,1,10,53,5.3,13,0,40%,62.4%
+Patrick Mahomes,Kansas City Chiefs,17,CIN,Home,1,4,2,0.5,2,0,18%,1.5%
+Patrick Taylor,Green Bay Packers,1,CHI,Away,1,5,22,4.4,10,0,16%,23.9%
+Patrick Taylor,Green Bay Packers,2,ATL,Away,1,1,1,1.0,1,0,5%,1.2%
+Patrick Taylor,Green Bay Packers,3,NO,Home,1,3,6,2.0,4,0,12%,6.3%
+Patrick Taylor,Green Bay Packers,5,LV,Away,1,2,2,1.0,5,0,8%,1.8%
+Patrick Taylor,Green Bay Packers,12,DET,Away,1,3,11,3.7,5,0,14%,10.1%
+Patrick Taylor,Green Bay Packers,13,KC,Home,1,2,29,14.5,24,0,8%,22.5%
+Patrick Taylor,Green Bay Packers,14,NYG,Away,1,4,30,7.5,14,0,16%,24.4%
+Patrick Taylor,Green Bay Packers,15,TB,Home,1,1,6,6.0,6,0,6%,10.0%
+Patrick Taylor,Green Bay Packers,16,CAR,Away,1,3,4,1.3,2,0,9%,2.5%
+Patrick Taylor,Green Bay Packers,17,MIN,Away,1,8,30,3.8,10,0,21%,16.9%
+Peyton Hendershot,Dallas Cowboys,2,NYJ,Home,1,1,0,0.0,0,0,2%,0.0%
+Phillip Walker,Cleveland Browns,6,SF,Home,1,3,1,0.3,1,0,9%,0.6%
+Phillip Walker,Cleveland Browns,7,IND,Away,1,3,3,1.0,4,0,9%,2.0%
+Phillip Walker,Cleveland Browns,8,SEA,Away,1,6,27,4.5,9,0,15%,17.4%
+Phillip Walker,Cleveland Browns,12,DEN,Away,1,1,-1,-1.0,-1,0,4%,-0.9%
+Pierre Strong,Cleveland Browns,2,PIT,Away,1,2,1,0.5,1,1,6%,0.5%
+Pierre Strong,Cleveland Browns,3,TEN,Home,1,6,27,4.5,9,0,19%,34.6%
+Pierre Strong,Cleveland Browns,4,BAL,Home,1,5,49,9.8,40,0,20%,52.7%
+Pierre Strong,Cleveland Browns,7,IND,Away,1,8,25,3.1,13,0,24%,16.7%
+Pierre Strong,Cleveland Browns,8,SEA,Away,1,10,41,4.1,12,0,25%,26.5%
+Pierre Strong,Cleveland Browns,9,ARI,Home,1,3,9,3.0,4,0,8%,8.0%
+Pierre Strong,Cleveland Browns,11,PIT,Home,1,1,1,1.0,1,0,3%,1.0%
+Pierre Strong,Cleveland Browns,13,LAR,Away,1,2,20,10.0,13,0,9%,23.0%
+Pierre Strong,Cleveland Browns,14,JAX,Home,1,1,0,0.0,0,0,4%,0.0%
+Pierre Strong,Cleveland Browns,15,CHI,Home,1,2,2,1.0,2,0,11%,6.9%
+Pierre Strong,Cleveland Browns,16,HOU,Away,1,5,22,4.4,8,0,17%,40.7%
+Pierre Strong,Cleveland Browns,17,NYJ,Home,1,4,29,7.3,15,0,14%,22.8%
+Puka Nacua,Los Angeles Rams,2,SF,Home,1,2,4,2.0,4,0,9%,4.5%
+Puka Nacua,Los Angeles Rams,11,SEA,Home,1,1,7,7.0,7,0,4%,8.5%
+Puka Nacua,Los Angeles Rams,13,CLE,Home,1,2,34,17.0,31,0,8%,28.3%
+Puka Nacua,Los Angeles Rams,14,BAL,Away,1,1,6,6.0,6,0,3%,4.7%
+Puka Nacua,Los Angeles Rams,15,WAS,Home,1,2,3,1.5,2,0,5%,1.5%
+Puka Nacua,Los Angeles Rams,16,NO,Home,1,2,16,8.0,9,0,6%,12.0%
+Puka Nacua,Los Angeles Rams,17,NYG,Away,1,2,19,9.5,15,0,9%,18.1%
+Quentin Johnston,Los Angeles Chargers,9,NYJ,Away,1,1,2,2.0,2,0,5%,2.4%
+Quentin Johnston,Los Angeles Chargers,16,BUF,Home,1,1,1,1.0,1,0,4%,1.0%
+Rachaad White,Tampa Bay Buccaneers,1,MIN,Away,1,17,39,2.3,6,0,52%,53.4%
+Rachaad White,Tampa Bay Buccaneers,2,CHI,Home,1,17,73,4.3,13,1,50%,60.8%
+Rachaad White,Tampa Bay Buccaneers,3,PHI,Home,1,14,38,2.7,12,0,82%,92.7%
+Rachaad White,Tampa Bay Buccaneers,4,NO,Away,1,15,56,3.7,11,0,45%,49.1%
+Rachaad White,Tampa Bay Buccaneers,6,DET,Home,1,7,26,3.7,8,0,44%,56.5%
+Rachaad White,Tampa Bay Buccaneers,7,ATL,Home,1,13,34,2.6,13,0,65%,46.6%
+Rachaad White,Tampa Bay Buccaneers,8,BUF,Away,1,9,39,4.3,15,0,53%,50.0%
+Rachaad White,Tampa Bay Buccaneers,9,HOU,Away,1,20,73,3.7,16,2,65%,90.1%
+Rachaad White,Tampa Bay Buccaneers,10,TEN,Home,1,20,51,2.6,11,0,69%,66.2%
+Rachaad White,Tampa Bay Buccaneers,11,SF,Away,1,9,30,3.3,7,1,50%,45.5%
+Rachaad White,Tampa Bay Buccaneers,12,IND,Away,1,15,100,6.7,38,0,79%,80.0%
+Rachaad White,Tampa Bay Buccaneers,13,CAR,Home,1,20,84,4.2,30,1,71%,65.6%
+Rachaad White,Tampa Bay Buccaneers,14,ATL,Away,1,25,102,4.1,12,0,68%,68.9%
+Rachaad White,Tampa Bay Buccaneers,15,GB,Away,1,21,89,4.2,22,0,78%,89.9%
+Rachaad White,Tampa Bay Buccaneers,16,JAX,Home,1,20,39,2.0,11,1,56%,55.7%
+Rachaad White,Tampa Bay Buccaneers,17,NO,Home,1,11,42,3.8,16,0,73%,73.7%
+Raheem Blackshear,Carolina Panthers,6,MIA,Away,1,5,18,3.6,9,0,20%,16.7%
+Raheem Blackshear,Carolina Panthers,8,HOU,Home,1,3,5,1.7,6,0,13%,11.4%
+Raheem Blackshear,Carolina Panthers,9,IND,Home,1,1,0,0.0,0,0,4%,0.0%
+Raheem Blackshear,Carolina Panthers,10,CHI,Away,1,2,7,3.5,4,0,13%,16.3%
+Raheem Blackshear,Carolina Panthers,13,TB,Away,1,1,6,6.0,6,0,3%,4.5%
+Raheem Blackshear,Carolina Panthers,14,NO,Away,1,1,4,4.0,4,0,3%,2.0%
+Raheem Blackshear,Carolina Panthers,16,GB,Home,1,0,0,#DIV/0!,0,0,0%,0.0%
+Raheem Mostert,Miami Dolphins,1,LAC,Away,1,10,37,3.7,12,1,50%,52.9%
+Raheem Mostert,Miami Dolphins,2,NE,Away,1,18,121,6.7,43,2,60%,83.4%
+Raheem Mostert,Miami Dolphins,3,DEN,Home,1,13,82,6.3,20,3,30%,23.4%
+Raheem Mostert,Miami Dolphins,4,BUF,Away,1,7,9,1.3,6,0,37%,6.3%
+Raheem Mostert,Miami Dolphins,5,NYG,Home,1,10,65,6.5,23,1,43%,29.3%
+Raheem Mostert,Miami Dolphins,6,CAR,Home,1,17,115,6.8,49,2,52%,71.0%
+Raheem Mostert,Miami Dolphins,7,PHI,Away,1,9,45,5.0,21,0,75%,100.0%
+Raheem Mostert,Miami Dolphins,8,NE,Home,1,13,46,3.5,10,1,50%,59.0%
+Raheem Mostert,Miami Dolphins,9,KC,Away,1,12,85,7.1,25,1,57%,72.6%
+Raheem Mostert,Miami Dolphins,11,LV,Home,1,22,86,3.9,10,0,79%,86.9%
+Raheem Mostert,Miami Dolphins,12,NYJ,Away,1,20,94,4.7,34,2,54%,56.3%
+Raheem Mostert,Miami Dolphins,13,WAS,Away,1,11,43,3.9,12,1,32%,35.0%
+Raheem Mostert,Miami Dolphins,14,TEN,Home,1,21,96,4.6,15,2,68%,60.8%
+Raheem Mostert,Miami Dolphins,15,NYJ,Home,1,15,42,2.8,18,2,54%,54.5%
+Raheem Mostert,Miami Dolphins,16,DAL,Home,1,11,46,4.2,15,0,42%,50.5%
+Rakim Jarrett,Tampa Bay Buccaneers,1,MIN,Away,1,1,0,0.0,0,0,3%,0.0%
+Rashaad Penny,Philadelphia Eagles,2,MIN,Home,1,3,9,3.0,6,0,6%,3.5%
+Rashaad Penny,Philadelphia Eagles,9,DAL,Home,1,2,8,4.0,6,0,6%,7.3%
+Rashee Rice,Kansas City Chiefs,1,DET,Home,1,1,-3,-3.0,-3,0,4%,-3.3%
+Rashid Shaheed,New Orleans Saints,1,TEN,Home,1,2,11,5.5,6,0,7%,15.9%
+Rashid Shaheed,New Orleans Saints,3,GB,Away,1,1,0,0.0,0,0,5%,0.0%
+Rashid Shaheed,New Orleans Saints,6,HOU,Away,1,2,18,9.0,12,0,8%,20.2%
+Rashid Shaheed,New Orleans Saints,7,JAX,Home,1,1,4,4.0,4,0,3%,3.6%
+Rashid Shaheed,New Orleans Saints,16,LAR,Away,1,1,4,4.0,4,0,6%,11.4%
+Rashod Bateman,Baltimore Ravens,8,ARI,Away,1,1,18,18.0,18,0,3%,13.8%
+Ray Ray McCloud,San Francisco 49ers,6,CLE,Away,1,2,23,11.5,15,0,8%,21.3%
+Rhamondre Stevenson,New England Patriots,1,PHI,Home,1,12,25,2.1,5,0,55%,32.9%
+Rhamondre Stevenson,New England Patriots,2,MIA,Home,1,15,50,3.3,12,1,60%,56.8%
+Rhamondre Stevenson,New England Patriots,3,NYJ,Away,1,19,59,3.1,10,0,48%,37.6%
+Rhamondre Stevenson,New England Patriots,4,DAL,Away,1,14,30,2.1,8,0,61%,56.6%
+Rhamondre Stevenson,New England Patriots,5,NO,Home,1,8,24,3.0,8,0,44%,53.3%
+Rhamondre Stevenson,New England Patriots,6,LV,Away,1,10,46,4.6,15,1,53%,55.4%
+Rhamondre Stevenson,New England Patriots,7,BUF,Home,1,9,34,3.8,14,0,38%,35.4%
+Rhamondre Stevenson,New England Patriots,8,MIA,Away,1,10,39,3.9,11,0,53%,50.6%
+Rhamondre Stevenson,New England Patriots,9,WAS,Home,1,9,87,9.7,64,1,47%,81.3%
+Rhamondre Stevenson,New England Patriots,10,IND,Home,1,20,88,4.4,10,0,56%,52.7%
+Rhamondre Stevenson,New England Patriots,12,NYG,Away,1,21,98,4.7,15,1,68%,66.7%
+Rhamondre Stevenson,New England Patriots,13,LAC,Home,1,9,39,4.3,9,0,28%,26.4%
+Rico Dowdle,Dallas Cowboys,1,NYG,Away,1,6,24,4.0,10,0,20%,19.7%
+Rico Dowdle,Dallas Cowboys,2,NYJ,Home,1,7,26,3.7,9,0,16%,19.4%
+Rico Dowdle,Dallas Cowboys,3,ARI,Away,1,4,21,5.3,10,0,12%,11.4%
+Rico Dowdle,Dallas Cowboys,4,NE,Home,1,3,9,3.0,9,0,10%,7.3%
+Rico Dowdle,Dallas Cowboys,5,SF,Away,1,5,15,3.0,8,0,26%,26.3%
+Rico Dowdle,Dallas Cowboys,6,LAC,Away,1,3,12,4.0,7,0,12%,12.5%
+Rico Dowdle,Dallas Cowboys,8,LAR,Home,1,5,18,3.6,7,0,19%,17.6%
+Rico Dowdle,Dallas Cowboys,9,PHI,Away,1,2,8,4.0,5,0,10%,11.0%
+Rico Dowdle,Dallas Cowboys,10,NYG,Home,1,12,79,6.6,21,1,36%,47.0%
+Rico Dowdle,Dallas Cowboys,11,CAR,Away,1,8,23,2.9,11,0,30%,21.5%
+Rico Dowdle,Dallas Cowboys,12,WAS,Home,1,3,11,3.7,7,0,17%,11.0%
+Rico Dowdle,Dallas Cowboys,13,SEA,Home,1,5,15,3.0,8,0,15%,11.0%
+Rico Dowdle,Dallas Cowboys,14,PHI,Home,1,12,46,3.8,9,1,38%,33.3%
+Rico Dowdle,Dallas Cowboys,15,BUF,Away,1,3,4,1.3,5,0,15%,4.5%
+Rico Dowdle,Dallas Cowboys,16,MIA,Away,1,2,4,2.0,4,0,8%,4.1%
+Riley Dixon,Denver Broncos,10,BUF,Away,1,0,0,#DIV/0!,0,0,0%,0.0%
+Robert Woods,Houston Texans,16,CLE,Home,1,1,7,7.0,7,0,6%,9.7%
+Rondale Moore,Arizona Cardinals,1,WAS,Away,1,2,12,6.0,8,0,8%,12.5%
+Rondale Moore,Arizona Cardinals,3,DAL,Home,1,3,54,18.0,45,1,10%,24.3%
+Rondale Moore,Arizona Cardinals,5,CIN,Home,1,3,50,16.7,41,0,14%,35.2%
+Rondale Moore,Arizona Cardinals,6,LAR,Away,1,3,-4,-1.3,1,0,10%,-3.1%
+Rondale Moore,Arizona Cardinals,7,SEA,Away,1,4,24,6.0,15,0,16%,18.9%
+Rondale Moore,Arizona Cardinals,8,BAL,Home,1,2,11,5.5,6,0,6%,8.5%
+Rondale Moore,Arizona Cardinals,9,CLE,Away,1,4,3,0.8,4,0,19%,7.3%
+Rondale Moore,Arizona Cardinals,11,HOU,Away,1,2,6,3.0,4,0,8%,4.9%
+Rondale Moore,Arizona Cardinals,15,SF,Home,1,1,3,3.0,3,0,3%,1.3%
+Rondale Moore,Arizona Cardinals,16,CHI,Away,1,1,6,6.0,6,0,5%,6.5%
+Rondale Moore,Arizona Cardinals,17,PHI,Away,1,2,8,4.0,6,0,5%,3.6%
+Ronnie Rivers,Los Angeles Rams,4,IND,Away,1,9,47,5.2,9,0,25%,28.7%
+Ronnie Rivers,Los Angeles Rams,5,PHI,Home,1,1,1,1.0,1,0,7%,1.9%
+Ronnie Rivers,Los Angeles Rams,6,ARI,Home,1,3,9,3.0,6,0,11%,5.0%
+Ronnie Rivers,Los Angeles Rams,16,NO,Home,1,6,20,3.3,10,0,19%,15.0%
+Roschon Johnson,Chicago Bears,1,GB,Home,1,5,20,4.0,11,1,17%,16.4%
+Roschon Johnson,Chicago Bears,2,TB,Away,1,4,32,8.0,29,0,25%,47.8%
+Roschon Johnson,Chicago Bears,3,KC,Away,1,8,38,4.8,11,0,31%,32.8%
+Roschon Johnson,Chicago Bears,4,DEN,Home,1,5,13,2.6,7,0,16%,7.6%
+Roschon Johnson,Chicago Bears,5,WAS,Away,1,3,19,6.3,10,0,9%,10.7%
+Roschon Johnson,Chicago Bears,8,LAC,Away,1,6,21,3.5,11,0,24%,28.8%
+Roschon Johnson,Chicago Bears,9,NO,Away,1,2,6,3.0,4,0,6%,3.8%
+Roschon Johnson,Chicago Bears,10,CAR,Home,1,5,18,3.6,6,0,14%,13.5%
+Roschon Johnson,Chicago Bears,11,DET,Away,1,6,30,5.0,14,0,13%,16.4%
+Roschon Johnson,Chicago Bears,12,MIN,Away,1,10,35,3.5,7,0,36%,29.7%
+Roschon Johnson,Chicago Bears,14,DET,Home,1,1,6,6.0,6,0,3%,4.2%
+Roschon Johnson,Chicago Bears,15,CLE,Away,1,5,36,7.2,22,0,19%,40.9%
+Roschon Johnson,Chicago Bears,16,ARI,Home,1,9,37,4.1,10,0,23%,14.8%
+Roschon Johnson,Chicago Bears,17,ATL,Home,1,7,21,3.0,7,1,19%,10.9%
+Royce Freeman,Los Angeles Rams,7,PIT,Home,1,12,66,5.5,15,0,39%,48.9%
+Royce Freeman,Los Angeles Rams,8,DAL,Away,1,9,44,4.9,10,1,38%,47.8%
+Royce Freeman,Los Angeles Rams,9,GB,Away,1,12,32,2.7,7,0,46%,47.1%
+Royce Freeman,Los Angeles Rams,11,SEA,Home,1,17,73,4.3,15,0,63%,89.0%
+Royce Freeman,Los Angeles Rams,12,ARI,Away,1,13,77,5.9,23,1,39%,33.8%
+Royce Freeman,Los Angeles Rams,13,CLE,Home,1,1,0,0.0,0,0,4%,0.0%
+Royce Freeman,Los Angeles Rams,14,BAL,Away,1,3,9,3.0,3,0,10%,7.0%
+Royce Freeman,Los Angeles Rams,15,WAS,Home,1,6,16,2.7,4,0,16%,8.2%
+Russell Wilson,Denver Broncos,1,LV,Home,1,1,1,1.0,1,0,5%,1.1%
+Russell Wilson,Denver Broncos,2,WAS,Home,1,6,56,9.3,15,0,26%,45.9%
+Russell Wilson,Denver Broncos,4,CHI,Away,1,4,13,3.3,10,0,21%,13.4%
+Russell Wilson,Denver Broncos,5,NYJ,Home,1,7,49,7.0,21,0,32%,35.3%
+Russell Wilson,Denver Broncos,6,KC,Away,1,4,31,7.8,12,0,17%,27.0%
+Russell Wilson,Denver Broncos,7,GB,Home,1,1,21,21.0,21,0,4%,14.5%
+Russell Wilson,Denver Broncos,8,KC,Home,1,8,30,3.8,8,0,20%,19.6%
+Russell Wilson,Denver Broncos,10,BUF,Away,1,9,30,3.3,10,0,24%,24.6%
+Russell Wilson,Denver Broncos,11,MIN,Home,1,2,1,0.5,2,0,13%,2.2%
+Russell Wilson,Denver Broncos,12,CLE,Home,1,11,34,3.1,19,1,28%,20.1%
+Russell Wilson,Denver Broncos,13,HOU,Away,1,10,44,4.4,11,1,33%,37.3%
+Russell Wilson,Denver Broncos,14,LAC,Away,1,6,5,0.8,7,0,19%,4.7%
+Russell Wilson,Denver Broncos,15,DET,Away,1,7,6,0.9,2,1,25%,7.2%
+Russell Wilson,Denver Broncos,16,NE,Home,1,4,20,5.0,14,0,17%,24.1%
+Ryan Stonehouse,Tennessee Titans,13,IND,Home,1,1,-11,-11.0,-11,0,2%,-6.2%
+Ryan Tannehill,Tennessee Titans,1,NO,Away,1,3,5,1.7,2,0,14%,4.8%
+Ryan Tannehill,Tennessee Titans,2,LAC,Home,1,1,12,12.0,12,1,3%,8.5%
+Ryan Tannehill,Tennessee Titans,4,CIN,Home,1,6,11,1.8,7,0,18%,6.4%
+Ryan Tannehill,Tennessee Titans,5,IND,Away,1,2,12,6.0,13,0,9%,13.5%
+Ryan Tannehill,Tennessee Titans,16,SEA,Home,1,2,37,18.5,23,0,6%,22.8%
+Salvon Ahmed,Miami Dolphins,1,LAC,Away,1,3,11,3.7,8,0,15%,15.7%
+Salvon Ahmed,Miami Dolphins,2,NE,Away,1,3,13,4.3,10,0,10%,9.0%
+Salvon Ahmed,Miami Dolphins,6,CAR,Home,1,6,23,3.8,9,1,18%,14.2%
+Salvon Ahmed,Miami Dolphins,7,PHI,Away,1,2,3,1.5,2,0,17%,6.7%
+Salvon Ahmed,Miami Dolphins,8,NE,Home,1,2,1,0.5,2,0,8%,1.3%
+Salvon Ahmed,Miami Dolphins,9,KC,Away,1,3,4,1.3,9,0,14%,3.4%
+Salvon Ahmed,Miami Dolphins,11,LV,Home,1,3,6,2.0,3,0,11%,6.1%
+Sam Darnold,San Francisco 49ers,1,PIT,Away,1,2,-2,-1.0,-1,0,6%,-1.1%
+Sam Darnold,San Francisco 49ers,3,NYG,Home,1,1,-1,-1.0,-1,0,3%,-0.7%
+Sam Darnold,San Francisco 49ers,4,ARI,Home,1,1,-1,-1.0,-1,0,3%,-0.8%
+Sam Darnold,San Francisco 49ers,5,DAL,Home,1,1,-1,-1.0,-1,0,2%,-0.6%
+Sam Darnold,San Francisco 49ers,10,JAX,Away,1,3,-3,-1.0,-1,0,10%,-2.1%
+Sam Darnold,San Francisco 49ers,13,PHI,Away,1,1,-1,-1.0,-1,0,4%,-0.7%
+Sam Darnold,San Francisco 49ers,15,ARI,Away,1,2,-2,-1.0,-1,0,8%,-1.4%
+Sam Darnold,San Francisco 49ers,16,BAL,Home,1,1,9,9.0,9,0,6%,7.4%
+Sam Darnold,San Francisco 49ers,17,WAS,Away,1,2,-2,-1.0,-1,0,5%,-1.1%
+Sam Howell,Washington Commanders,1,ARI,Home,1,2,11,5.5,6,1,7%,12.0%
+Sam Howell,Washington Commanders,2,DEN,Away,1,2,13,6.5,11,0,9%,10.7%
+Sam Howell,Washington Commanders,3,BUF,Home,1,1,18,18.0,18,0,8%,17.1%
+Sam Howell,Washington Commanders,4,PHI,Away,1,6,40,6.7,20,0,21%,37.4%
+Sam Howell,Washington Commanders,5,CHI,Home,1,4,19,4.8,10,0,40%,65.5%
+Sam Howell,Washington Commanders,6,ATL,Away,1,4,3,0.8,4,0,18%,4.2%
+Sam Howell,Washington Commanders,7,NYG,Away,1,2,15,7.5,11,0,11%,19.7%
+Sam Howell,Washington Commanders,8,PHI,Home,1,3,11,3.7,5,0,19%,13.1%
+Sam Howell,Washington Commanders,9,NE,Away,1,5,27,5.4,24,0,17%,21.8%
+Sam Howell,Washington Commanders,10,SEA,Away,1,2,17,8.5,15,0,14%,25.0%
+Sam Howell,Washington Commanders,11,NYG,Home,1,3,35,11.7,20,1,11%,20.1%
+Sam Howell,Washington Commanders,12,DAL,Away,1,2,13,6.5,12,1,7%,12.0%
+Sam Howell,Washington Commanders,13,MIA,Home,1,4,21,5.3,13,2,14%,15.2%
+Sam Howell,Washington Commanders,15,LAR,Away,1,3,22,7.3,13,0,14%,27.8%
+Sam Howell,Washington Commanders,17,SF,Home,1,1,-1,-1.0,-1,0,7%,-1.6%
+Sam LaPorta,Detroit Lions,14,CHI,Away,1,1,4,4.0,4,0,4%,2.9%
+Samaje Perine,Denver Broncos,1,LV,Home,1,8,41,5.1,12,0,36%,43.6%
+Samaje Perine,Denver Broncos,2,WAS,Home,1,1,4,4.0,4,0,4%,3.3%
+Samaje Perine,Denver Broncos,3,MIA,Away,1,3,9,3.0,3,0,15%,13.0%
+Samaje Perine,Denver Broncos,4,CHI,Away,1,6,12,2.0,5,0,32%,12.4%
+Samaje Perine,Denver Broncos,5,NYJ,Home,1,6,22,3.7,8,0,27%,15.8%
+Samaje Perine,Denver Broncos,7,GB,Home,1,2,10,5.0,5,0,8%,6.9%
+Samaje Perine,Denver Broncos,8,KC,Home,1,1,5,5.0,5,0,3%,3.3%
+Samaje Perine,Denver Broncos,10,BUF,Away,1,1,8,8.0,8,0,3%,6.6%
+Samaje Perine,Denver Broncos,11,MIN,Home,1,1,7,7.0,7,0,7%,15.2%
+Samaje Perine,Denver Broncos,12,CLE,Home,1,7,55,7.9,24,1,18%,32.5%
+Samaje Perine,Denver Broncos,13,HOU,Away,1,1,1,1.0,1,0,3%,0.8%
+Samaje Perine,Denver Broncos,14,LAC,Away,1,2,8,4.0,5,0,6%,7.5%
+Samaje Perine,Denver Broncos,15,DET,Away,1,6,37,6.2,12,0,21%,44.6%
+Samaje Perine,Denver Broncos,16,NE,Home,1,1,2,2.0,2,0,4%,2.4%
+Samaje Perine,Denver Broncos,17,LAC,Home,1,4,10,2.5,5,0,12%,9.9%
+Saquon Barkley,New York Giants,1,DAL,Home,1,12,51,4.3,18,0,43%,47.2%
+Saquon Barkley,New York Giants,2,ARI,Away,1,17,63,3.7,16,1,63%,49.6%
+Saquon Barkley,New York Giants,6,BUF,Away,1,24,93,3.9,34,0,71%,70.5%
+Saquon Barkley,New York Giants,7,WAS,Home,1,21,77,3.7,12,0,66%,72.6%
+Saquon Barkley,New York Giants,8,NYJ,Home,1,36,128,3.6,34,0,69%,63.1%
+Saquon Barkley,New York Giants,9,LV,Away,1,16,90,5.6,26,0,64%,73.2%
+Saquon Barkley,New York Giants,10,DAL,Away,1,13,66,5.1,21,0,57%,59.5%
+Saquon Barkley,New York Giants,11,WAS,Away,1,14,83,5.9,36,0,74%,91.2%
+Saquon Barkley,New York Giants,12,NE,Home,1,12,46,3.8,19,0,63%,79.3%
+Saquon Barkley,New York Giants,14,GB,Home,1,20,86,4.3,34,2,59%,41.1%
+Saquon Barkley,New York Giants,15,NO,Away,1,9,14,1.6,4,0,56%,23.3%
+Saquon Barkley,New York Giants,16,PHI,Away,1,23,80,3.5,12,1,88%,75.5%
+Saquon Barkley,New York Giants,17,LAR,Home,1,12,39,3.3,13,0,60%,37.1%
+Sean Clifford,Green Bay Packers,1,CHI,Away,1,1,0,0.0,0,0,3%,0.0%
+Sean Clifford,Green Bay Packers,17,MIN,Away,1,2,-2,-1.0,-1,0,5%,-1.1%
+Sean Tucker,Tampa Bay Buccaneers,1,MIN,Away,1,5,15,3.0,5,0,15%,20.5%
+Sean Tucker,Tampa Bay Buccaneers,2,CHI,Home,1,8,7,0.9,7,0,24%,5.8%
+Sean Tucker,Tampa Bay Buccaneers,3,PHI,Home,1,2,1,0.5,2,0,12%,2.4%
+Skyy Moore,Kansas City Chiefs,1,DET,Home,1,1,4,4.0,4,0,4%,4.4%
+Skyy Moore,Kansas City Chiefs,4,NYJ,Away,1,2,19,9.5,11,0,6%,9.3%
+Stefon Diggs,Buffalo Bills,17,NE,Home,1,1,5,5.0,5,0,3%,3.9%
+Steven Sims,Houston Texans,15,TEN,Away,1,1,1,1.0,1,0,3%,0.7%
+Taylor Heinicke,Atlanta Falcons,8,TEN,Away,1,2,14,7.0,11,0,8%,10.0%
+Taylor Heinicke,Atlanta Falcons,9,MIN,Home,1,3,20,6.7,13,0,11%,18.2%
+Taylor Heinicke,Atlanta Falcons,10,ARI,Away,1,4,34,8.5,16,0,10%,18.5%
+Taylor Heinicke,Atlanta Falcons,16,IND,Home,1,2,10,5.0,10,0,7%,5.6%
+Taylor Heinicke,Atlanta Falcons,17,CHI,Away,1,4,46,11.5,24,1,17%,34.3%
+Taysom Hill,New Orleans Saints,1,TEN,Home,1,3,4,1.3,4,0,11%,5.8%
+Taysom Hill,New Orleans Saints,2,CAR,Away,1,9,75,8.3,19,0,27%,56.0%
+Taysom Hill,New Orleans Saints,3,GB,Away,1,4,12,3.0,6,0,18%,15.6%
+Taysom Hill,New Orleans Saints,4,TB,Home,1,4,10,2.5,4,0,21%,14.3%
+Taysom Hill,New Orleans Saints,5,NE,Away,1,3,19,6.3,12,0,7%,14.0%
+Taysom Hill,New Orleans Saints,6,HOU,Away,1,1,2,2.0,2,0,4%,2.2%
+Taysom Hill,New Orleans Saints,7,JAX,Home,1,5,18,3.6,6,1,16%,16.1%
+Taysom Hill,New Orleans Saints,8,IND,Away,1,9,63,7.0,20,2,25%,39.1%
+Taysom Hill,New Orleans Saints,9,CHI,Home,1,11,52,4.7,14,0,41%,59.8%
+Taysom Hill,New Orleans Saints,10,MIN,Away,1,1,6,6.0,6,0,7%,9.2%
+Taysom Hill,New Orleans Saints,12,ATL,Away,1,7,26,3.7,10,0,25%,17.6%
+Taysom Hill,New Orleans Saints,13,DET,Home,1,13,59,4.5,21,1,36%,52.2%
+Taysom Hill,New Orleans Saints,15,NYG,Home,1,1,1,1.0,1,0,4%,1.1%
+Taysom Hill,New Orleans Saints,16,LAR,Away,1,2,2,1.0,3,0,13%,5.7%
+Taysom Hill,New Orleans Saints,17,TB,Away,1,2,1,0.5,2,0,6%,0.9%
+Teddy Bridgewater,Detroit Lions,5,CAR,Home,1,2,-2,-1.0,-1,0,7%,-1.3%
+Tim Boyle,New York Jets,11,BUF,Away,1,1,1,1.0,1,0,6%,1.6%
+Tim Boyle,New York Jets,12,MIA,Home,1,2,2,1.0,2,0,20%,6.9%
+Tim Boyle,New York Jets,13,ATL,Home,1,1,2,2.0,2,0,4%,3.2%
+Tommy DeVito,New York Giants,8,NYJ,Home,1,4,12,3.0,6,1,8%,5.9%
+Tommy DeVito,New York Giants,9,LV,Away,1,4,17,4.3,5,0,16%,13.8%
+Tommy DeVito,New York Giants,10,DAL,Away,1,7,41,5.9,19,0,30%,36.9%
+Tommy DeVito,New York Giants,11,WAS,Away,1,1,7,7.0,7,0,5%,7.7%
+Tommy DeVito,New York Giants,12,NE,Home,1,5,6,1.2,5,0,26%,10.3%
+Tommy DeVito,New York Giants,14,GB,Home,1,10,71,7.1,26,0,29%,34.0%
+Tommy DeVito,New York Giants,15,NO,Away,1,4,36,9.0,14,0,25%,60.0%
+Tommy DeVito,New York Giants,16,PHI,Away,1,1,5,5.0,5,0,4%,4.7%
+Tony Jones,Arizona Cardinals,9,CLE,Away,1,3,2,0.7,4,0,14%,4.9%
+Tony Jones,Arizona Cardinals,10,ATL,Home,1,1,13,13.0,13,0,4%,10.7%
+Tony Jones,Arizona Cardinals,11,HOU,Away,1,1,10,10.0,10,0,4%,8.1%
+Tony Jones,New Orleans Saints,1,TEN,Home,1,1,5,5.0,5,0,4%,7.2%
+Tony Jones,New Orleans Saints,2,CAR,Away,1,12,34,2.8,6,2,36%,25.4%
+Tony Jones,New Orleans Saints,3,GB,Away,1,8,31,3.9,19,0,36%,40.3%
+Tony Pollard,Dallas Cowboys,1,NYG,Away,1,14,70,5.0,25,2,47%,57.4%
+Tony Pollard,Dallas Cowboys,2,NYJ,Home,1,25,72,2.9,23,0,57%,53.7%
+Tony Pollard,Dallas Cowboys,3,ARI,Away,1,23,122,5.3,31,0,70%,65.9%
+Tony Pollard,Dallas Cowboys,4,NE,Home,1,11,47,4.3,16,0,37%,37.9%
+Tony Pollard,Dallas Cowboys,5,SF,Away,1,8,29,3.6,10,0,42%,50.9%
+Tony Pollard,Dallas Cowboys,6,LAC,Away,1,15,30,2.0,7,0,58%,31.3%
+Tony Pollard,Dallas Cowboys,8,LAR,Home,1,12,53,4.4,13,0,46%,52.0%
+Tony Pollard,Dallas Cowboys,9,PHI,Away,1,12,51,4.3,15,0,57%,69.9%
+Tony Pollard,Dallas Cowboys,10,NYG,Home,1,15,55,3.7,15,0,45%,32.7%
+Tony Pollard,Dallas Cowboys,11,CAR,Away,1,12,61,5.1,22,1,44%,57.0%
+Tony Pollard,Dallas Cowboys,12,WAS,Home,1,13,79,6.1,27,1,72%,79.0%
+Tony Pollard,Dallas Cowboys,13,SEA,Home,1,20,68,3.4,16,1,59%,50.0%
+Tony Pollard,Dallas Cowboys,14,PHI,Home,1,16,59,3.7,11,0,50%,42.8%
+Tony Pollard,Dallas Cowboys,15,BUF,Away,1,11,52,4.7,11,0,55%,58.4%
+Tony Pollard,Dallas Cowboys,16,MIA,Away,1,12,38,3.2,7,0,48%,39.2%
+Tony Pollard,Dallas Cowboys,17,DET,Home,1,16,49,3.1,18,0,76%,80.3%
+Travis Etienne,Jacksonville Jaguars,1,IND,Away,1,18,77,4.3,26,1,51%,73.3%
+Travis Etienne,Jacksonville Jaguars,2,KC,Home,1,12,40,3.3,9,0,67%,54.1%
+Travis Etienne,Jacksonville Jaguars,3,HOU,Home,1,19,88,4.6,16,0,70%,75.9%
+Travis Etienne,Jacksonville Jaguars,4,ATL,Home,1,20,55,2.8,7,0,63%,52.4%
+Travis Etienne,Jacksonville Jaguars,5,BUF,Away,1,26,136,5.2,35,2,65%,69.4%
+Travis Etienne,Jacksonville Jaguars,6,IND,Home,1,18,55,3.1,22,2,62%,64.7%
+Travis Etienne,Jacksonville Jaguars,7,NO,Away,1,14,53,3.8,17,2,54%,46.9%
+Travis Etienne,Jacksonville Jaguars,8,PIT,Away,1,24,79,3.3,13,0,80%,74.5%
+Travis Etienne,Jacksonville Jaguars,10,SF,Home,1,9,35,3.9,16,0,53%,59.3%
+Travis Etienne,Jacksonville Jaguars,11,TEN,Home,1,14,52,3.7,11,0,39%,40.6%
+Travis Etienne,Jacksonville Jaguars,12,HOU,Away,1,20,56,2.8,20,0,67%,69.1%
+Travis Etienne,Jacksonville Jaguars,13,CIN,Home,1,11,45,4.1,13,1,44%,63.4%
+Travis Etienne,Jacksonville Jaguars,14,CLE,Away,1,14,35,2.5,16,1,70%,60.3%
+Travis Etienne,Jacksonville Jaguars,15,BAL,Home,1,10,31,3.1,7,0,59%,41.3%
+Travis Etienne,Jacksonville Jaguars,16,TB,Away,1,6,12,2.0,4,0,46%,32.4%
+Travis Etienne,Jacksonville Jaguars,17,CAR,Home,1,16,102,6.4,62,2,46%,65.8%
+Trayveon Williams,Cincinnati Bengals,1,CLE,Away,1,2,7,3.5,5,0,10%,9.3%
+Trayveon Williams,Cincinnati Bengals,3,LAR,Home,1,1,4,4.0,4,0,4%,6.0%
+Trayveon Williams,Cincinnati Bengals,4,TEN,Away,1,1,4,4.0,4,0,6%,5.6%
+Trayveon Williams,Cincinnati Bengals,5,ARI,Away,1,1,5,5.0,5,0,3%,5.4%
+Trayveon Williams,Cincinnati Bengals,8,SF,Away,1,2,6,3.0,7,0,7%,4.5%
+Trayveon Williams,Cincinnati Bengals,9,BUF,Home,1,3,13,4.3,7,0,14%,24.1%
+Trayveon Williams,Cincinnati Bengals,11,BAL,Away,1,2,20,10.0,15,0,9%,14.7%
+Trayveon Williams,Cincinnati Bengals,15,MIN,Home,1,1,10,10.0,10,0,5%,12.5%
+Trayveon Williams,Cincinnati Bengals,17,KC,Away,1,1,2,2.0,2,0,3%,1.9%
+Tre Tucker,Las Vegas Raiders,2,BUF,Away,1,1,34,34.0,34,0,7%,61.8%
+Tre Tucker,Las Vegas Raiders,5,GB,Home,1,1,16,16.0,16,0,3%,16.7%
+Tre Tucker,Las Vegas Raiders,6,NE,Home,1,1,4,4.0,4,0,3%,4.8%
+Tre Tucker,Las Vegas Raiders,7,CHI,Away,1,1,2,2.0,2,0,7%,5.1%
+Tre Tucker,Las Vegas Raiders,9,NYG,Home,1,1,4,4.0,4,0,3%,3.2%
+Tre Tucker,Las Vegas Raiders,10,NYJ,Home,1,1,9,9.0,9,0,3%,6.1%
+Tre Tucker,Las Vegas Raiders,11,MIA,Away,1,1,-6,-6.0,-6,0,6%,-16.7%
+Tre Tucker,Las Vegas Raiders,15,LAC,Home,1,1,-2,-2.0,-2,0,4%,-1.6%
+Tre Tucker,Las Vegas Raiders,16,KC,Away,1,1,5,5.0,5,0,3%,3.2%
+Trent Taylor,Chicago Bears,8,LAC,Away,1,1,-2,-2.0,-2,0,4%,-2.7%
+Tress Way,Washington Commanders,15,LAR,Away,1,1,0,0.0,0,0,5%,0.0%
+Trevor Lawrence,Jacksonville Jaguars,1,IND,Away,1,7,21,3.0,11,0,20%,20.0%
+Trevor Lawrence,Jacksonville Jaguars,2,KC,Home,1,5,26,5.2,18,0,28%,35.1%
+Trevor Lawrence,Jacksonville Jaguars,3,HOU,Home,1,3,12,4.0,8,0,11%,10.3%
+Trevor Lawrence,Jacksonville Jaguars,4,ATL,Home,1,8,42,5.3,22,0,25%,40.0%
+Trevor Lawrence,Jacksonville Jaguars,5,BUF,Away,1,7,31,4.4,11,0,18%,15.8%
+Trevor Lawrence,Jacksonville Jaguars,6,IND,Home,1,3,15,5.0,8,0,10%,17.6%
+Trevor Lawrence,Jacksonville Jaguars,7,NO,Away,1,8,59,7.4,26,0,31%,52.2%
+Trevor Lawrence,Jacksonville Jaguars,8,PIT,Away,1,1,10,10.0,10,0,3%,9.4%
+Trevor Lawrence,Jacksonville Jaguars,10,SF,Home,1,2,7,3.5,4,0,12%,11.9%
+Trevor Lawrence,Jacksonville Jaguars,11,TEN,Home,1,5,17,3.4,9,2,14%,13.3%
+Trevor Lawrence,Jacksonville Jaguars,12,HOU,Away,1,2,0,0.0,1,1,7%,0.0%
+Trevor Lawrence,Jacksonville Jaguars,13,CIN,Home,1,5,8,1.6,2,1,20%,11.3%
+Trevor Lawrence,Jacksonville Jaguars,14,CLE,Away,1,3,11,3.7,7,0,15%,19.0%
+Trevor Lawrence,Jacksonville Jaguars,15,BAL,Home,1,4,41,10.3,13,0,24%,54.7%
+Trevor Lawrence,Jacksonville Jaguars,16,TB,Away,1,4,29,7.3,15,0,31%,78.4%
+Trevor Siemian,New York Jets,13,ATL,Home,1,1,8,8.0,8,0,4%,12.9%
+Trevor Siemian,New York Jets,16,WAS,Home,1,4,18,4.5,13,0,11%,11.0%
+Trevor Siemian,New York Jets,17,CLE,Away,1,4,13,3.3,5,0,19%,12.1%
+Trey Palmer,Tampa Bay Buccaneers,11,SF,Away,1,1,6,6.0,6,0,6%,9.1%
+Trey Palmer,Tampa Bay Buccaneers,13,CAR,Home,1,1,13,13.0,13,0,4%,10.2%
+Trey Palmer,Tampa Bay Buccaneers,14,ATL,Away,1,1,3,3.0,3,0,3%,2.0%
+Trey Sermon,Indianapolis Colts,3,BAL,Away,1,5,17,3.4,5,0,14%,12.2%
+Trey Sermon,Indianapolis Colts,4,LAR,Home,1,3,7,2.3,4,0,10%,5.3%
+Trey Sermon,Indianapolis Colts,14,CIN,Away,1,3,13,4.3,8,0,17%,28.3%
+Trey Sermon,Indianapolis Colts,15,PIT,Home,1,17,88,5.2,19,0,50%,51.8%
+Trey Sermon,Indianapolis Colts,16,ATL,Away,1,2,3,1.5,4,0,8%,3.3%
+Trey Sermon,Indianapolis Colts,17,LV,Home,1,5,32,6.4,27,0,17%,23.9%
+Treylon Burks,Tennessee Titans,1,NO,Away,1,1,9,9.0,9,0,5%,8.7%
+Treylon Burks,Tennessee Titans,9,PIT,Away,1,1,5,5.0,5,0,4%,4.8%
+Treylon Burks,Tennessee Titans,14,MIA,Away,1,1,5,5.0,5,0,3%,6.0%
+Treylon Burks,Tennessee Titans,15,HOU,Home,1,1,2,2.0,2,0,3%,3.0%
+Treylon Burks,Tennessee Titans,16,SEA,Home,1,1,-3,-3.0,-3,0,3%,-1.9%
+Tua Tagovailoa,Miami Dolphins,1,LAC,Away,1,5,5,1.0,7,0,25%,7.1%
+Tua Tagovailoa,Miami Dolphins,2,NE,Away,1,4,3,0.8,4,0,13%,2.1%
+Tua Tagovailoa,Miami Dolphins,4,BUF,Away,1,2,7,3.5,4,0,11%,4.9%
+Tua Tagovailoa,Miami Dolphins,5,NYG,Home,1,2,6,3.0,7,0,9%,2.7%
+Tua Tagovailoa,Miami Dolphins,6,CAR,Home,1,1,0,0.0,0,0,3%,0.0%
+Tua Tagovailoa,Miami Dolphins,7,PHI,Away,1,1,-3,-3.0,-3,0,8%,-6.7%
+Tua Tagovailoa,Miami Dolphins,8,NE,Home,1,6,8,1.3,8,0,23%,10.3%
+Tua Tagovailoa,Miami Dolphins,9,KC,Away,1,2,7,3.5,7,0,10%,6.0%
+Tua Tagovailoa,Miami Dolphins,11,LV,Home,1,2,6,3.0,7,0,7%,6.1%
+Tua Tagovailoa,Miami Dolphins,12,NYJ,Away,1,2,1,0.5,1,0,5%,0.6%
+Tua Tagovailoa,Miami Dolphins,14,TEN,Home,1,3,15,5.0,8,0,10%,9.5%
+Tua Tagovailoa,Miami Dolphins,16,DAL,Home,1,2,-2,-1.0,-1,0,8%,-2.2%
+Tua Tagovailoa,Miami Dolphins,17,BAL,Away,1,2,14,7.0,9,0,8%,9.1%
+Ty Chandler,Minnesota Vikings,1,TB,Home,1,3,0,0.0,2,0,18%,0.0%
+Ty Chandler,Minnesota Vikings,2,PHI,Away,1,1,0,0.0,0,0,11%,0.0%
+Ty Chandler,Minnesota Vikings,3,LAC,Home,1,3,27,9.0,12,0,13%,20.8%
+Ty Chandler,Minnesota Vikings,5,KC,Home,1,1,15,15.0,15,0,6%,21.4%
+Ty Chandler,Minnesota Vikings,10,NO,Home,1,15,45,3.0,13,1,45%,36.0%
+Ty Chandler,Minnesota Vikings,11,DEN,Away,1,10,73,7.3,31,0,28%,41.7%
+Ty Chandler,Minnesota Vikings,12,CHI,Home,1,4,8,2.0,6,0,24%,11.0%
+Ty Chandler,Minnesota Vikings,14,LV,Away,1,12,35,2.9,7,0,40%,26.5%
+Ty Chandler,Minnesota Vikings,15,CIN,Away,1,23,132,5.7,30,1,77%,92.3%
+Ty Chandler,Minnesota Vikings,16,DET,Home,1,8,17,2.1,6,1,73%,100.0%
+Ty Chandler,Minnesota Vikings,17,GB,Home,1,10,40,4.0,9,0,63%,59.7%
+Ty Johnson,Buffalo Bills,10,DEN,Home,1,1,2,2.0,2,0,4%,1.0%
+Ty Johnson,Buffalo Bills,11,NYJ,Home,1,3,11,3.7,13,0,8%,8.5%
+Ty Johnson,Buffalo Bills,12,PHI,Away,1,6,19,3.2,9,0,15%,11.0%
+Ty Johnson,Buffalo Bills,14,KC,Away,1,5,19,3.8,7,0,18%,16.1%
+Ty Johnson,Buffalo Bills,15,DAL,Home,1,9,54,6.0,11,0,18%,20.3%
+Ty Johnson,Buffalo Bills,17,NE,Home,1,5,22,4.4,7,0,14%,17.3%
+Ty Montgomery,New England Patriots,1,PHI,Home,1,1,7,7.0,7,0,5%,9.2%
+Ty Montgomery,New England Patriots,5,NO,Home,1,1,0,0.0,0,0,6%,0.0%
+Ty Montgomery,New England Patriots,13,LAC,Home,1,1,2,2.0,2,0,3%,1.4%
+Tyjae Spears,Tennessee Titans,1,NO,Away,1,3,27,9.0,17,0,14%,26.0%
+Tyjae Spears,Tennessee Titans,2,LAC,Home,1,8,49,6.1,14,0,24%,34.8%
+Tyjae Spears,Tennessee Titans,3,CLE,Away,1,4,6,1.5,5,0,27%,23.1%
+Tyjae Spears,Tennessee Titans,4,CIN,Home,1,5,40,8.0,22,0,15%,23.1%
+Tyjae Spears,Tennessee Titans,5,IND,Away,1,7,34,4.9,19,1,32%,38.2%
+Tyjae Spears,Tennessee Titans,6,BAL,Home,1,4,15,3.8,12,0,21%,11.6%
+Tyjae Spears,Tennessee Titans,8,ATL,Home,1,3,27,9.0,23,0,8%,18.1%
+Tyjae Spears,Tennessee Titans,9,PIT,Away,1,5,18,3.6,8,0,20%,17.1%
+Tyjae Spears,Tennessee Titans,10,TB,Away,1,5,18,3.6,15,0,31%,42.9%
+Tyjae Spears,Tennessee Titans,11,JAX,Away,1,4,14,3.5,5,0,21%,15.2%
+Tyjae Spears,Tennessee Titans,12,CAR,Home,1,2,6,3.0,8,0,8%,7.5%
+Tyjae Spears,Tennessee Titans,13,IND,Home,1,16,75,4.7,19,0,38%,42.4%
+Tyjae Spears,Tennessee Titans,14,MIA,Away,1,7,29,4.1,8,0,24%,34.9%
+Tyjae Spears,Tennessee Titans,15,HOU,Home,1,9,30,3.3,9,0,30%,45.5%
+Tyjae Spears,Tennessee Titans,16,SEA,Home,1,9,40,4.4,11,0,29%,24.7%
+Tyjae Spears,Tennessee Titans,17,HOU,Away,1,6,0,0.0,5,0,29%,0.0%
+Tyler Allgeier,Atlanta Falcons,1,CAR,Home,1,15,75,5.0,22,2,58%,57.7%
+Tyler Allgeier,Atlanta Falcons,2,GB,Home,1,16,48,3.0,10,0,36%,22.7%
+Tyler Allgeier,Atlanta Falcons,3,DET,Away,1,7,12,1.7,5,0,35%,27.3%
+Tyler Allgeier,Atlanta Falcons,4,JAX,Away,1,7,16,2.3,9,0,32%,12.6%
+Tyler Allgeier,Atlanta Falcons,5,HOU,Home,1,17,40,2.4,12,0,47%,41.7%
+Tyler Allgeier,Atlanta Falcons,6,WAS,Home,1,13,51,3.9,11,0,45%,48.1%
+Tyler Allgeier,Atlanta Falcons,7,TB,Away,1,21,59,2.8,12,0,55%,37.8%
+Tyler Allgeier,Atlanta Falcons,8,TEN,Away,1,8,31,3.9,9,0,31%,22.1%
+Tyler Allgeier,Atlanta Falcons,9,MIN,Home,1,12,39,3.3,13,1,43%,35.5%
+Tyler Allgeier,Atlanta Falcons,10,ARI,Away,1,9,31,3.4,8,0,22%,16.8%
+Tyler Allgeier,Atlanta Falcons,12,NO,Home,1,10,64,6.4,14,0,24%,28.1%
+Tyler Allgeier,Atlanta Falcons,13,NYJ,Away,1,8,26,3.3,6,0,24%,28.9%
+Tyler Allgeier,Atlanta Falcons,14,TB,Home,1,9,40,4.4,9,0,35%,41.7%
+Tyler Allgeier,Atlanta Falcons,15,CAR,Away,1,14,45,3.2,8,0,45%,86.5%
+Tyler Allgeier,Atlanta Falcons,16,IND,Home,1,9,69,7.7,31,1,30%,39.0%
+Tyler Allgeier,Atlanta Falcons,17,CHI,Away,1,5,13,2.6,5,0,21%,9.7%
+Tyler Boyd,Cincinnati Bengals,8,SF,Away,1,1,6,6.0,6,0,4%,4.5%
+Tyler Boyd,Cincinnati Bengals,13,JAX,Away,1,1,5,5.0,5,0,3%,3.2%
+Tyler Conklin,New York Jets,16,WAS,Home,1,1,0,0.0,0,0,3%,0.0%
+Tyler Goodson,Indianapolis Colts,15,PIT,Home,1,11,69,6.3,31,0,32%,40.6%
+Tyler Goodson,Indianapolis Colts,16,ATL,Away,1,1,15,15.0,15,0,4%,16.3%
+Tyler Goodson,Indianapolis Colts,17,LV,Home,1,1,3,3.0,3,0,3%,2.2%
+Tyler Huntley,Baltimore Ravens,4,CLE,Away,1,2,8,4.0,6,0,6%,6.1%
+Tyler Huntley,Baltimore Ravens,9,SEA,Home,1,4,8,2.0,8,0,10%,2.7%
+Tyler Huntley,Baltimore Ravens,17,MIA,Home,1,1,-1,-1.0,-1,0,3%,-0.6%
+Tyler Scott,Chicago Bears,4,DEN,Home,1,2,19,9.5,11,0,6%,11.1%
+Tyler Scott,Chicago Bears,7,LV,Home,1,2,14,7.0,8,0,5%,8.1%
+Tyler Scott,Chicago Bears,9,NO,Away,1,1,-5,-5.0,-5,0,3%,-3.2%
+Tyler Scott,Chicago Bears,10,CAR,Home,1,1,16,16.0,16,0,3%,12.0%
+Tyler Scott,Chicago Bears,15,CLE,Away,1,1,-3,-3.0,-3,0,4%,-3.4%
+Tyquan Thornton,New England Patriots,12,NYG,Away,1,1,3,3.0,3,0,3%,2.0%
+Tyquan Thornton,New England Patriots,13,LAC,Home,1,1,39,39.0,39,0,3%,26.4%
+Tyquan Thornton,New England Patriots,16,DEN,Away,1,1,9,9.0,9,0,5%,15.3%
+Tyreek Hill,Miami Dolphins,4,BUF,Away,1,1,14,14.0,14,0,5%,9.9%
+Tyreek Hill,Miami Dolphins,9,KC,Away,1,1,3,3.0,3,0,5%,2.6%
+Tyreek Hill,Miami Dolphins,12,NYJ,Away,1,1,2,2.0,2,0,3%,1.2%
+Tyreek Hill,Miami Dolphins,13,WAS,Away,1,2,-4,-2.0,6,0,6%,-3.3%
+Tyreek Hill,Miami Dolphins,17,BAL,Away,1,1,0,0.0,0,0,4%,0.0%
+Tyrion Davis-Price,San Francisco 49ers,5,DAL,Home,1,6,21,3.5,15,0,15%,12.4%
+Tyrod Taylor,New York Giants,3,SF,Away,1,1,2,2.0,2,0,9%,6.9%
+Tyrod Taylor,New York Giants,5,MIA,Away,1,3,14,4.7,9,0,10%,16.5%
+Tyrod Taylor,New York Giants,6,BUF,Away,1,5,24,4.8,7,0,15%,18.2%
+Tyrod Taylor,New York Giants,7,WAS,Home,1,8,25,3.1,20,0,25%,23.6%
+Tyrod Taylor,New York Giants,8,NYJ,Home,1,5,33,6.6,17,0,10%,16.3%
+Tyrod Taylor,New York Giants,16,PHI,Away,1,2,21,10.5,15,0,8%,19.8%
+Tyrod Taylor,New York Giants,17,LAR,Home,1,6,40,6.7,31,0,30%,38.1%
+Tyson Bagent,Chicago Bears,6,MIN,Home,1,2,4,2.0,3,1,6%,2.5%
+Tyson Bagent,Chicago Bears,7,LV,Home,1,3,24,8.0,12,0,8%,13.9%
+Tyson Bagent,Chicago Bears,8,LAC,Away,1,4,-1,-0.3,1,1,16%,-1.4%
+Tyson Bagent,Chicago Bears,9,NO,Away,1,8,70,8.8,20,0,25%,44.9%
+Tyson Bagent,Chicago Bears,10,CAR,Home,1,6,12,2.0,7,0,16%,9.0%
+Van Jefferson,Los Angeles Rams,3,CIN,Away,1,1,4,4.0,4,0,8%,5.6%
+Velus Jones,Chicago Bears,2,TB,Away,1,1,-3,-3.0,-3,0,6%,-4.5%
+Velus Jones,Chicago Bears,4,DEN,Home,1,1,10,10.0,10,0,3%,5.8%
+Velus Jones,Chicago Bears,6,MIN,Home,1,2,15,7.5,17,0,6%,9.3%
+Velus Jones,Chicago Bears,15,CLE,Away,1,2,23,11.5,15,0,7%,26.1%
+Velus Jones,Chicago Bears,16,ARI,Home,1,1,4,4.0,4,0,3%,1.6%
+Velus Jones,Chicago Bears,17,ATL,Home,1,1,2,2.0,2,0,3%,1.0%
+Wan'Dale Robinson,New York Giants,4,SEA,Home,1,1,7,7.0,7,0,3%,6.3%
+Wan'Dale Robinson,New York Giants,5,MIA,Away,1,1,1,1.0,1,0,3%,1.2%
+Wan'Dale Robinson,New York Giants,8,NYJ,Home,1,2,17,8.5,10,0,4%,8.4%
+Wan'Dale Robinson,New York Giants,10,DAL,Away,1,1,0,0.0,0,0,4%,0.0%
+Wan'Dale Robinson,New York Giants,11,WAS,Away,1,1,2,2.0,2,0,5%,2.2%
+Wan'Dale Robinson,New York Giants,14,GB,Home,1,2,36,18.0,32,0,6%,17.2%
+Wan'Dale Robinson,New York Giants,17,LAR,Home,1,1,24,24.0,24,1,5%,22.9%
+Will Levis,Tennessee Titans,8,ATL,Home,1,7,11,1.6,5,0,19%,7.4%
+Will Levis,Tennessee Titans,9,PIT,Away,1,1,2,2.0,2,0,4%,1.9%
+Will Levis,Tennessee Titans,11,JAX,Away,1,4,2,0.5,4,0,21%,2.2%
+Will Levis,Tennessee Titans,12,CAR,Home,1,3,-3,-1.0,-1,0,13%,-3.8%
+Will Levis,Tennessee Titans,13,IND,Home,1,2,5,2.5,6,0,5%,2.8%
+Will Levis,Tennessee Titans,14,MIA,Away,1,4,15,3.8,11,0,14%,18.1%
+Will Levis,Tennessee Titans,15,HOU,Home,1,4,25,6.3,11,1,13%,37.9%
+Xavier Gipson,New York Jets,4,KC,Home,1,2,13,6.5,14,0,13%,12.0%
+Xavier Gipson,New York Jets,6,PHI,Home,1,1,18,18.0,18,0,5%,20.2%
+Xavier Gipson,New York Jets,8,NYG,Away,1,1,3,3.0,3,0,5%,5.2%
+Xavier Gipson,New York Jets,13,ATL,Home,1,1,1,1.0,1,0,4%,1.6%
+Xavier Gipson,New York Jets,14,HOU,Home,1,1,9,9.0,9,1,4%,11.4%
+Xavier Gipson,New York Jets,16,WAS,Home,1,1,16,16.0,16,0,3%,9.8%
+Xavier Gipson,New York Jets,17,CLE,Away,1,1,8,8.0,8,0,5%,7.5%
+Xavier Hutchinson,Houston Texans,6,NO,Home,1,2,15,7.5,12,0,6%,12.5%
+Xavier Hutchinson,Houston Texans,9,TB,Home,1,1,12,12.0,12,0,6%,22.6%
+Xavier Hutchinson,Houston Texans,10,CIN,Away,1,1,17,17.0,17,0,3%,9.0%
+Xavier Hutchinson,Houston Texans,15,TEN,Away,1,1,5,5.0,5,0,3%,3.4%
+Zach Charbonnet,Seattle Seahawks,1,LAR,Home,1,3,11,3.7,9,0,17%,12.9%
+Zach Charbonnet,Seattle Seahawks,2,DET,Away,1,4,16,4.0,9,0,16%,19.5%
+Zach Charbonnet,Seattle Seahawks,3,CAR,Home,1,9,46,5.1,12,0,27%,31.5%
+Zach Charbonnet,Seattle Seahawks,4,NYG,Away,1,5,31,6.2,15,0,22%,25.6%
+Zach Charbonnet,Seattle Seahawks,6,CIN,Away,1,2,5,2.5,3,0,8%,5.7%
+Zach Charbonnet,Seattle Seahawks,8,CLE,Home,1,5,53,10.6,21,0,29%,46.5%
+Zach Charbonnet,Seattle Seahawks,9,BAL,Away,1,4,8,2.0,4,0,27%,28.6%
+Zach Charbonnet,Seattle Seahawks,10,WAS,Home,1,6,44,7.3,12,0,23%,36.7%
+Zach Charbonnet,Seattle Seahawks,11,LAR,Away,1,15,47,3.1,11,0,71%,69.1%
+Zach Charbonnet,Seattle Seahawks,12,SF,Home,1,14,47,3.4,10,0,67%,53.4%
+Zach Charbonnet,Seattle Seahawks,13,DAL,Away,1,19,60,3.2,14,1,86%,83.3%
+Zach Charbonnet,Seattle Seahawks,14,SF,Away,1,9,44,4.9,23,0,45%,62.9%
+Zach Charbonnet,Seattle Seahawks,15,PHI,Home,1,4,16,4.0,6,0,17%,16.0%
+Zach Charbonnet,Seattle Seahawks,16,TEN,Away,1,2,0,0.0,3,0,10%,0.0%
+Zach Charbonnet,Seattle Seahawks,17,PIT,Home,1,2,2,1.0,4,0,13%,2.3%
+Zach Evans,Los Angeles Rams,6,ARI,Home,1,4,10,2.5,3,0,14%,5.6%
+Zach Evans,Los Angeles Rams,11,SEA,Home,1,1,0,0.0,0,0,4%,0.0%
+Zach Evans,Los Angeles Rams,12,ARI,Away,1,3,6,2.0,5,0,9%,2.6%
+Zach Wilson,New York Jets,1,BUF,Home,1,4,6,1.5,6,0,14%,3.5%
+Zach Wilson,New York Jets,2,DAL,Away,1,5,36,7.2,16,0,31%,56.3%
+Zach Wilson,New York Jets,3,NE,Home,1,1,1,1.0,1,0,5%,2.6%
+Zach Wilson,New York Jets,4,KC,Home,1,2,14,7.0,14,0,13%,13.0%
+Zach Wilson,New York Jets,5,DEN,Away,1,3,26,8.7,9,0,9%,11.1%
+Zach Wilson,New York Jets,6,PHI,Home,1,4,15,3.8,9,0,19%,16.9%
+Zach Wilson,New York Jets,8,NYG,Away,1,4,25,6.3,17,0,18%,43.1%
+Zach Wilson,New York Jets,9,LAC,Home,1,2,7,3.5,7,0,10%,10.9%
+Zach Wilson,New York Jets,10,LV,Away,1,4,54,13.5,20,0,19%,50.0%
+Zach Wilson,New York Jets,11,BUF,Away,1,4,15,3.8,7,0,22%,23.8%
+Zach Wilson,New York Jets,14,HOU,Home,1,3,12,4.0,10,0,12%,15.2%
+Zack Moss,Indianapolis Colts,2,HOU,Away,1,18,88,4.9,11,1,78%,69.8%
+Zack Moss,Indianapolis Colts,3,BAL,Away,1,30,122,4.1,24,0,86%,87.8%
+Zack Moss,Indianapolis Colts,4,LAR,Home,1,18,70,3.9,20,0,58%,52.6%
+Zack Moss,Indianapolis Colts,5,TEN,Home,1,23,165,7.2,56,2,68%,85.5%
+Zack Moss,Indianapolis Colts,6,JAX,Away,1,7,21,3.0,9,1,41%,47.7%
+Zack Moss,Indianapolis Colts,7,CLE,Home,1,18,57,3.2,21,0,45%,33.9%
+Zack Moss,Indianapolis Colts,8,NO,Home,1,11,66,6.0,41,1,46%,40.2%
+Zack Moss,Indianapolis Colts,9,CAR,Away,1,7,26,3.7,8,0,23%,33.3%
+Zack Moss,Indianapolis Colts,10,NE,Away,1,1,2,2.0,2,0,4%,2.9%
+Zack Moss,Indianapolis Colts,12,TB,Home,1,8,55,6.9,16,0,30%,35.5%
+Zack Moss,Indianapolis Colts,13,TEN,Away,1,19,51,2.7,5,0,83%,92.7%
+Zack Moss,Indianapolis Colts,14,CIN,Away,1,13,28,2.2,12,0,72%,60.9%
+Zack Moss,Indianapolis Colts,15,PIT,Home,1,4,13,3.3,5,0,12%,7.6%
+Zamir White,Las Vegas Raiders,1,DEN,Away,1,1,2,2.0,2,0,3%,3.3%
+Zamir White,Las Vegas Raiders,2,BUF,Away,1,4,22,5.5,8,0,27%,40.0%
+Zamir White,Las Vegas Raiders,4,LAC,Away,1,3,15,5.0,11,0,13%,19.7%
+Zamir White,Las Vegas Raiders,6,NE,Home,1,2,2,1.0,1,0,6%,2.4%
+Zamir White,Las Vegas Raiders,7,CHI,Away,1,2,2,1.0,2,0,14%,5.1%
+Zamir White,Las Vegas Raiders,9,NYG,Home,1,4,-2,-0.5,5,0,12%,-1.6%
+Zamir White,Las Vegas Raiders,10,NYJ,Home,1,1,5,5.0,5,0,3%,3.4%
+Zamir White,Las Vegas Raiders,12,KC,Home,1,1,0,0.0,0,0,4%,0.0%
+Zamir White,Las Vegas Raiders,14,MIN,Home,1,2,8,4.0,6,0,12%,14.3%
+Zamir White,Las Vegas Raiders,15,LAC,Home,1,17,69,4.1,15,1,65%,55.6%
+Zamir White,Las Vegas Raiders,16,KC,Away,1,22,145,6.6,43,0,76%,92.4%
+Zamir White,Las Vegas Raiders,17,IND,Away,1,20,71,3.6,9,0,80%,84.5%
+Zay Flowers,Baltimore Ravens,1,HOU,Home,1,2,9,4.5,6,0,6%,8.2%
+Zay Flowers,Baltimore Ravens,2,CIN,Away,1,1,6,6.0,6,0,3%,3.4%
+Zay Flowers,Baltimore Ravens,3,IND,Home,1,1,2,2.0,2,0,3%,1.1%
+Zay Flowers,Baltimore Ravens,4,CLE,Away,1,1,-6,-6.0,-6,0,3%,-4.6%
+Zay Flowers,Baltimore Ravens,6,TEN,Away,1,1,1,1.0,1,0,3%,0.7%
+Zay Flowers,Baltimore Ravens,11,CIN,Home,1,1,7,7.0,7,0,3%,4.5%
+Zay Flowers,Baltimore Ravens,12,LAC,Away,1,1,37,37.0,37,1,3%,18.8%
+Zonovan Knight,Detroit Lions,3,ATL,Home,1,3,13,4.3,8,0,10%,11.3%

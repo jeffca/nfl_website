@@ -1,0 +1,115 @@
+Team Final,Player,COUNTUNIQUE of Game ID,SUM of Cmp,AVERAGE of Cmp,SUM of Att,AVERAGE of Att,AVERAGE of Completion %,SUM of Yds,AVERAGE of Yds,AVERAGE of TD,SUM of TD,SUM of Int,AVERAGE of Int,SUM of Sack,SUM of Loss
+Arizona Cardinals,Joshua Dobbs,8,167,20.9,266,33.3,64%,1569,196.1,1.0,8,5,0.6,17,126
+Arizona Cardinals,Kyler Murray,7,154,22.0,238,34.0,65%,1537,219.6,1.3,9,5,0.7,17,117
+Arizona Cardinals,Clayton Tune,2,12,6.0,21,10.5,78%,62,31.0,0.0,0,2,1.0,7,41
+Atlanta Falcons,Desmond Ridder,14,227,16.2,358,25.6,65%,2545,181.8,0.7,10,11,0.8,31,197
+Atlanta Falcons,Taylor Heinicke,5,74,14.8,136,27.2,54%,890,178.0,1.0,5,4,0.8,8,47
+Atlanta Falcons,Jonnu Smith,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,0,0.0,0,0
+Atlanta Falcons,Drake London,1,1,1.0,1,1.0,100%,22,22.0,0.0,0,0,0.0,0,0
+Baltimore Ravens,Lamar Jackson,16,307,19.2,457,28.6,68%,3678,229.9,1.5,24,7,0.4,37,218
+Baltimore Ravens,Tyler Huntley,3,6,2.0,9,3.0,57%,57,19.0,0.7,2,0,0.0,0,0
+Buffalo Bills,Josh Allen,16,355,22.2,541,33.8,65%,3947,246.7,1.7,27,16,1.0,21,138
+Carolina Panthers,Bryce Young,15,304,20.3,508,33.9,60%,2783,185.5,0.7,11,10,0.7,59,451
+Carolina Panthers,Johnny Hekker,1,1,1.0,1,1.0,100%,7,7.0,0.0,0,0,0.0,0,0
+Carolina Panthers,Andy Dalton,1,34,34.0,58,58.0,59%,361,361.0,2.0,2,0,0.0,3,27
+Chicago Bears,Justin Fields,12,216,18.0,354,29.5,61%,2414,201.2,1.3,16,9,0.8,39,254
+Chicago Bears,Tyson Bagent,5,94,18.8,143,28.6,66%,859,171.8,0.6,3,6,1.2,5,35
+Chicago Bears,Nathan Peterman,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,5
+Cincinnati Bengals,Joe Burrow,10,244,24.4,365,36.5,67%,2309,230.9,1.5,15,6,0.6,24,180
+Cincinnati Bengals,Jake Browning,8,153,19.1,219,27.4,61%,1780,222.5,1.1,9,6,0.8,22,147
+Cincinnati Bengals,Tyler Boyd,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,1,1.0,0,0
+Cincinnati Bengals,Tanner Hudson,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,4
+Cincinnati Bengals,Ja'Marr Chase,1,1,1.0,1,1.0,100%,-7,-7.0,0.0,0,0,0.0,0,0
+Cincinnati Bengals,A.J. McCarron,1,1,1.0,1,1.0,100%,-1,-1.0,0.0,0,0,0.0,0,0
+Cleveland Browns,Dorian Thompson-Robinson,6,60,10.0,112,18.7,68%,440,73.3,0.2,1,4,0.7,6,60
+Cleveland Browns,Deshaun Watson,6,105,17.5,171,28.5,56%,1115,185.8,1.2,7,4,0.7,17,85
+Cleveland Browns,Phillip Walker,5,54,10.8,111,22.2,39%,674,134.8,0.2,1,5,1.0,11,90
+Cleveland Browns,Joe Flacco,5,123,24.6,204,40.8,61%,1616,323.2,2.6,13,8,1.6,8,57
+Dallas Cowboys,Dak Prescott,16,379,23.7,554,34.6,68%,4237,264.8,2.0,32,8,0.5,39,255
+Dallas Cowboys,Cooper Rush,6,15,2.5,20,3.3,69%,114,19.0,0.0,0,1,0.2,1,8
+Dallas Cowboys,Bryan Anger,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,0,0
+Denver Broncos,Russell Wilson,15,297,19.8,447,29.8,66%,3070,204.7,1.7,26,8,0.5,45,258
+Denver Broncos,Jarrett Stidham,1,20,20.0,32,32.0,63%,224,224.0,1.0,1,0,0.0,2,12
+Detroit Lions,Jared Goff,16,384,24.0,573,35.8,67%,4255,265.9,1.8,28,12,0.8,29,188
+Detroit Lions,Jalen Reeves-Maybin,1,1,1.0,1,1.0,100%,31,31.0,0.0,0,0,0.0,0,0
+Detroit Lions,Amon-Ra St. Brown,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,8
+Green Bay Packers,Jordan Love,16,345,21.6,547,34.2,63%,3843,240.2,1.9,30,11,0.7,29,234
+Green Bay Packers,Sean Clifford,1,1,1.0,1,1.0,100%,37,37.0,0.0,0,0,0.0,0,0
+Green Bay Packers,Romeo Doubs,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,0,0
+Green Bay Packers,Dontayvion Wicks,1,1,1.0,1,1.0,100%,14,14.0,0.0,0,0,0.0,0,0
+Houston Texans,C.J. Stroud,14,299,21.4,473,33.8,62%,3844,274.6,1.5,21,5,0.4,36,313
+Houston Texans,Davis Mills,5,18,3.6,39,7.8,53%,173,34.6,0.4,2,0,0.0,2,13
+Houston Texans,Case Keenum,2,34,17.0,53,26.5,65%,291,145.5,0.5,1,3,1.5,6,60
+Houston Texans,Nathaniel Dell,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,1
+Houston Texans,Devin Singletary,1,1,1.0,1,1.0,100%,6,6.0,1.0,1,0,0.0,0,0
+Indianapolis Colts,Gardner Minshew,15,292,19.5,466,31.1,60%,3164,210.9,1.0,15,9,0.6,33,179
+Indianapolis Colts,Anthony Richardson,4,50,12.5,84,21.0,61%,577,144.3,0.8,3,1,0.3,7,29
+Jacksonville Jaguars,Trevor Lawrence,15,341,22.7,521,34.7,66%,3736,249.1,1.3,19,12,0.8,35,224
+Jacksonville Jaguars,C.J. Beathard,5,40,8.0,53,10.6,77%,349,69.8,0.2,1,0,0.0,6,27
+Jacksonville Jaguars,Christian Kirk,2,1,0.5,2,1.0,50%,-1,-0.5,0.0,0,0,0.0,0,0
+Jacksonville Jaguars,Logan Cooke,1,1,1.0,1,1.0,100%,13,13.0,0.0,0,0,0.0,0,0
+Kansas City Chiefs,Patrick Mahomes,16,401,25.1,597,37.3,67%,4184,261.5,1.7,27,14,0.9,27,186
+Kansas City Chiefs,Tommy Townsend,1,1,1.0,1,1.0,100%,11,11.0,0.0,0,0,0.0,0,0
+Kansas City Chiefs,Kadarius Toney,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,0,0.0,0,0
+Kansas City Chiefs,Jerick McKinnon,1,1,1.0,1,1.0,100%,4,4.0,1.0,1,0,0.0,0,0
+Kansas City Chiefs,Blaine Gabbert,1,3,3.0,5,5.0,60%,31,31.0,0.0,0,2,2.0,0,0
+Las Vegas Raiders,Aidan O'Connell,10,193,19.3,312,31.2,62%,1974,197.4,1.0,10,7,0.7,22,159
+Las Vegas Raiders,Jimmy Garoppolo,6,110,18.3,168,28.0,65%,1205,200.8,1.2,7,9,1.5,13,101
+Las Vegas Raiders,Jakobi Meyers,2,2,1.0,3,1.5,50%,12,6.0,0.5,1,0,0.0,0,0
+Las Vegas Raiders,Brian Hoyer,2,23,11.5,42,21.0,57%,231,115.5,0.0,0,2,1.0,1,8
+Las Vegas Raiders,Josh Jacobs,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,4
+Los Angeles Chargers,Justin Herbert,13,297,22.8,456,35.1,64%,3133,241.0,1.5,20,7,0.5,29,233
+Los Angeles Chargers,Easton Stick,4,83,20.8,127,31.8,65%,871,217.8,0.8,3,1,0.3,11,99
+Los Angeles Chargers,Keenan Allen,2,1,0.5,2,1.0,50%,49,24.5,0.5,1,0,0.0,0,0
+Los Angeles Rams,Matthew Stafford,15,326,21.7,521,34.7,63%,3965,264.3,1.6,24,11,0.7,30,205
+Los Angeles Rams,Brett Rypien,2,18,9.0,38,19.0,48%,172,86.0,0.0,0,1,0.5,2,18
+Los Angeles Rams,Chatarius Atwell,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,0,0
+Miami Dolphins,Tua Tagovailoa,16,371,23.2,533,33.3,71%,4451,278.2,1.8,28,12,0.8,29,171
+Miami Dolphins,Mike White,4,5,1.3,6,1.5,75%,74,18.5,0.3,1,1,0.3,0,0
+Miami Dolphins,Cedrick Wilson,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,7
+Minnesota Vikings,Kirk Cousins,8,216,27.0,311,38.9,69%,2331,291.4,2.3,18,5,0.6,17,110
+Minnesota Vikings,Joshua Dobbs,5,95,19.0,151,30.2,62%,895,179.0,1.0,5,5,1.0,13,91
+Minnesota Vikings,Nick Mullens,4,70,17.5,104,26.0,67%,910,227.5,1.3,5,6,1.5,8,68
+Minnesota Vikings,Jaren Hall,3,13,4.3,20,6.7,69%,168,56.0,0.0,0,1,0.3,4,28
+Minnesota Vikings,Justin Jefferson,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,0,0.0,0,0
+Minnesota Vikings,Cam Akers,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,7
+New England Patriots,Mac Jones,11,224,20.4,345,31.4,65%,2120,192.7,0.9,10,12,1.1,22,127
+New England Patriots,Bailey Zappe,9,115,12.8,182,20.2,57%,1184,131.6,0.7,6,7,0.8,18,134
+New England Patriots,Malik Cunningham,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,5
+New Orleans Saints,Derek Carr,16,353,22.1,520,32.5,69%,3614,225.9,1.3,21,8,0.5,29,201
+New Orleans Saints,Taysom Hill,8,6,0.8,11,1.4,63%,83,10.4,0.1,1,0,0.0,1,3
+New Orleans Saints,Jameis Winston,4,25,6.3,47,11.8,39%,264,66.0,0.5,2,3,0.8,2,13
+New York Giants,Tyrod Taylor,9,93,10.3,148,16.4,58%,1044,116.0,0.4,4,2,0.2,16,89
+New York Giants,Tommy DeVito,8,112,14.0,176,22.0,61%,1087,135.9,1.0,8,3,0.4,36,196
+New York Giants,Daniel Jones,6,108,18.0,160,26.7,64%,909,151.5,0.3,2,6,1.0,30,167
+New York Giants,Parris Campbell,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,8
+New York Giants,Daniel Bellinger,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,0,0
+New York Jets,Zach Wilson,12,221,18.4,368,30.7,58%,2271,189.3,0.7,8,7,0.6,46,340
+New York Jets,Trevor Siemian,4,78,19.5,133,33.3,55%,654,163.5,0.5,2,4,1.0,7,39
+New York Jets,Tim Boyle,3,48,16.0,77,25.7,59%,360,120.0,0.3,1,4,1.3,9,64
+New York Jets,Thomas Morstead,1,1,1.0,1,1.0,100%,18,18.0,0.0,0,0,0.0,0,0
+New York Jets,Garrett Wilson,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,0,0.0,0,0
+New York Jets,Aaron Rodgers,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,0,0.0,1,10
+Philadelphia Eagles,Jalen Hurts,16,345,21.6,522,32.6,67%,3803,237.7,1.4,23,14,0.9,34,196
+Philadelphia Eagles,Marcus Mariota,1,2,2.0,3,3.0,67%,16,16.0,0.0,0,0,0.0,0,0
+Philadelphia Eagles,Kenny Gainwell,1,1,1.0,1,1.0,100%,17,17.0,0.0,0,0,0.0,0,0
+Philadelphia Eagles,Braden Mann,1,1,1.0,1,1.0,100%,28,28.0,0.0,0,0,0.0,0,0
+Pittsburgh Steelers,Kenny Pickett,12,201,16.8,324,27.0,62%,2070,172.5,0.5,6,4,0.3,23,173
+Pittsburgh Steelers,Mitchell Trubisky,5,67,13.4,107,21.4,63%,632,126.4,0.8,4,5,1.0,7,42
+Pittsburgh Steelers,Mason Rudolph,3,37,12.3,54,18.0,68%,567,189.0,0.7,2,0,0.0,3,25
+Pittsburgh Steelers,Connor Heyward,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,0,0.0,0,0
+San Francisco 49ers,Brock Purdy,16,308,19.3,444,27.8,70%,4280,267.5,1.9,31,11,0.7,28,153
+San Francisco 49ers,Sam Darnold,5,12,2.4,20,4.0,55%,108,21.6,0.2,1,1,0.2,3,26
+San Francisco 49ers,Deebo Samuel,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,0,0.0,0,0
+Seattle Seahawks,Geno Smith,14,307,21.9,471,33.6,65%,3432,245.1,1.3,18,9,0.6,31,231
+Seattle Seahawks,Drew Lock,4,48,12.0,76,19.0,51%,543,135.8,0.8,3,3,0.8,6,26
+Seattle Seahawks,DeeJay Dallas,1,0,0.0,0,0.0,0%,0,0.0,0.0,0,0,0.0,1,0
+Tampa Bay Buccaneers,Baker Mayfield,16,344,21.5,534,33.4,64%,3907,244.2,1.8,28,10,0.6,37,210
+Tampa Bay Buccaneers,Kyle Trask,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,0,0.0,0,0
+Tampa Bay Buccaneers,Chris Godwin,1,0,0.0,1,1.0,0%,0,0.0,0.0,0,0,0.0,0,0
+Tennessee Titans,Will Levis,9,149,16.6,255,28.3,58%,1808,200.9,0.9,8,4,0.4,28,185
+Tennessee Titans,Ryan Tannehill,8,132,16.5,204,25.5,65%,1448,181.0,0.3,2,6,0.8,30,214
+Tennessee Titans,Derrick Henry,3,2,0.7,3,1.0,67%,14,4.7,0.7,2,0,0.0,0,0
+Tennessee Titans,Malik Willis,1,4,4.0,5,5.0,80%,74,74.0,0.0,0,0,0.0,4,30
+Washington Commanders,Sam Howell,16,369,23.1,585,36.6,61%,3792,237.0,1.3,20,19,1.2,61,422
+Washington Commanders,Jacoby Brissett,2,18,9.0,23,11.5,79%,224,112.0,1.5,3,0,0.0,0,0

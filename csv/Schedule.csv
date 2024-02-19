@@ -1,0 +1,33 @@
+Team,Opponent,Week,Location,Date,Day of Week,Time EST,Opponent ID,Team Final,Opponent Final,Team Abbrev,Opponent Abbrev,Home or Away,Team Wins,Team Losses,Opponent Wins,Opponent Losses,Team + Week,Opening Line
+Pittsburgh,Baltimore,18,Baltimore,"January 6,2024",Saturday,4:30 PM,3,Pittsburgh Steelers,Baltimore Ravens,PIT,BAL,Away,9,7,13,3,Pittsburgh Steelers18,PIT -4.0
+Baltimore,Pittsburgh,18,Baltimore,"January 6,2024",Saturday,4:30 PM,27,Baltimore Ravens,Pittsburgh Steelers,BAL,PIT,Home,13,3,9,7,Baltimore Ravens18,PIT -4.0
+Houston,Indianapolis,18,Indianapolis,"January 6, 2024",Saturday,8:15 PM,14,Houston Texans,Indianapolis Colts,HOU,IND,Away,9,7,9,7,Houston Texans18,HOU -1.0
+Indianapolis,Houston,18,Indianapolis,"January 6, 2024",Saturday,8:15 PM,13,Indianapolis Colts,Houston Texans,IND,HOU,Home,9,7,9,7,Indianapolis Colts18,HOU -1.0
+Atlanta,New Orleans,18,New Orleans,"January 7, 2024",Sunday,1:00 PM,23,Atlanta Falcons,New Orleans Saints,ATL,NO,Away,7,9,8,9,Atlanta Falcons18,NO -3.0
+New Orleans,Atlanta,18,New Orleans,"January 7, 2024",Sunday,1:00 PM,1,New Orleans Saints,Atlanta Falcons,NO,ATL,Home,8,9,7,9,New Orleans Saints18,NO -3.0
+Jacksonville,Tennessee,18,Tennessee,"January 7, 2024",Sunday,1:00 PM,31,Jacksonville Jaguars,Tennessee Titans,JAX,TEN,Away,9,7,5,11,Jacksonville Jaguars18,JAX -5.0
+Tennessee,Jacksonville,18,Tennessee,"January 7, 2024",Sunday,1:00 PM,15,Tennessee Titans,Jacksonville Jaguars,TEN,JAX,Home,5,11,9,7,Tennessee Titans18,JAX -5.0
+Cleveland,Cincinnati,18,Cincinnati,"January 7, 2024",Sunday,1:00 PM,7,Cleveland Browns,Cincinnati Bengals,CLE,CIN,Away,11,5,8,8,Cleveland Browns18,CIN -7.0
+Cincinnati,Cleveland,18,Cincinnati,"January 7, 2024",Sunday,1:00 PM,8,Cincinnati Bengals,Cleveland Browns,CIN,CLE,Home,8,8,11,5,Cincinnati Bengals18,CIN -7.0
+Minnesota,Detroit,18,Detroit,"January 7, 2024",Sunday,1:00 PM,11,Minnesota Vikings,Detroit Lions,MIN,DET,Away,7,9,11,5,Minnesota Vikings18,DET -3.5
+Detroit,Minnesota,18,Detroit,"January 7, 2024",Sunday,1:00 PM,21,Detroit Lions,Minnesota Vikings,DET,MIN,Home,11,5,7,9,Detroit Lions18,DET -3.5
+NY Jets,New England,18,New England,"January 7, 2024",Sunday,1:00 PM,22,New York Jets,New England Patriots,NYJ,NE,Away,6,10,4,12,New York Jets18,NE -2.0
+New England,NY Jets,18,New England,"January 7, 2024",Sunday,1:00 PM,25,New England Patriots,New York Jets,NE,NYJ,Home,4,12,6,10,New England Patriots18,NE -2.0
+Tampa Bay,Carolina,18,Carolina,"January 7, 2024",Sunday,1:00 PM,5,Tampa Bay Buccaneers,Carolina Panthers,TB,CAR,Away,8,8,2,14,Tampa Bay Buccaneers18,TB -4.5
+Carolina,Tampa Bay,18,Carolina,"January 7, 2024",Sunday,1:00 PM,30,Carolina Panthers,Tampa Bay Buccaneers,CAR,TB,Home,2,14,8,8,Carolina Panthers18,TB -4.5
+Denver,Las Vegas,18,Las Vegas,"January 7, 2024",Sunday,4:25 PM,17,Denver Broncos,Las Vegas Raiders,DEN,LV,Away,8,8,7,9,Denver Broncos18,LV -3.0
+Las Vegas,Denver,18,Las Vegas,"January 7, 2024",Sunday,4:25 PM,10,Las Vegas Raiders,Denver Broncos,LV,DEN,Home,7,9,8,8,Las Vegas Raiders18,LV -3.0
+Kansas City,LA Chargers,18,LA Chargers,"January 7, 2024",Sunday,4:25 PM,18,Kansas City Chiefs,Los Angeles Chargers,KC,LAC,Away,10,6,5,11,Kansas City Chiefs18,LAC -3.5
+LA Chargers,Kansas City,18,LA Chargers,"January 7, 2024",Sunday,4:25 PM,16,Los Angeles Chargers,Kansas City Chiefs,LAC,KC,Home,5,11,10,6,Los Angeles Chargers18,LAC -3.5
+LA Rams,San Francisco,18,San Francisco,"January 7, 2024",Sunday,4:25 PM,29,Los Angeles Rams,San Francisco 49ers,LAR,SF,Away,10,7,12,4,Los Angeles Rams18,SF -4.0
+San Francisco,LA Rams,18,San Francisco,"January 7, 2024",Sunday,4:25 PM,19,San Francisco 49ers,Los Angeles Rams,SF,LAR,Home,12,4,10,7,San Francisco 49ers18,SF -4.0
+Seattle,Arizona,18,Arizona,"January 7, 2024",Sunday,4:25 PM,2,Seattle Seahawks,Arizona Cardinals,SEA,ARI,Away,8,8,4,12,Seattle Seahawks18,SEA -2.5
+Arizona,Seattle,18,Arizona,"January 7, 2024",Sunday,4:25 PM,28,Arizona Cardinals,Seattle Seahawks,ARI,SEA,Home,4,12,8,8,Arizona Cardinals18,SEA -2.5
+Chicago,Green Bay,18,Green Bay,"January 7, 2024",Sunday,4:25 PM,12,Chicago Bears,Green Bay Packers,CHI,GB,Away,7,9,8,8,Chicago Bears18,GB -3.0
+Green Bay,Chicago,18,Green Bay,"January 7, 2024",Sunday,4:25 PM,6,Green Bay Packers,Chicago Bears,GB,CHI,Home,8,8,7,9,Green Bay Packers18,GB -3.0
+Philadelphia,NY Giants,18,NY Giants,"January 7, 2024",Sunday,4:25 PM,24,Philadelphia Eagles,New York Giants,PHI,NYG,Away,11,5,5,11,Philadelphia Eagles18,PHI -5.0
+NY Giants,Philadelphia,18,NY Giants,"January 7, 2024",Sunday,4:25 PM,26,New York Giants,Philadelphia Eagles,NYG,PHI,Home,5,11,11,5,New York Giants18,PHI -5.0
+Dallas,Washington,18,Washington,"January 7, 2024",Sunday,4:25 PM,32,Dallas Cowboys,Washington Commanders,DAL,WAS,Away,11,5,4,12,Dallas Cowboys18,DAL -13.0
+Washington,Dallas,18,Washington,"January 7, 2024",Sunday,4:25 PM,9,Washington Commanders,Dallas Cowboys,WAS,DAL,Home,4,12,11,5,Washington Commanders18,DAL -13.0
+Buffalo,Miami,18,Miami,"January 7, 2024",Sunday,8:20 PM,20,Buffalo Bills,Miami Dolphins,BUF,MIA,Away,10,6,11,5,Buffalo Bills18,BUF -3.0
+Miami,Buffalo,18,Miami,"January 7, 2024",Sunday,8:20 PM,4,Miami Dolphins,Buffalo Bills,MIA,BUF,Home,11,5,10,6,Miami Dolphins18,BUF -3.0

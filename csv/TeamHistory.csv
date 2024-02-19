@@ -1,0 +1,514 @@
+Team Final,Week,Opponent Abbreviation,Opponent Final,Home/Away Game,Points Scored,Points Allowed,SUM of Total Net Yards,SUM of Total Yards Allowed,Net Rushing,Rush Allowed,Net Passing,Passing Allowed,SUM of Rushing TD's,SUM of Rushing TD's Allowed,SUM of Passing TD's,SUM of Passing TD's Allowed,SUM of Interceptions Thrown,SUM of Interceptions Caught,SUM of Turnovers,SUM of Turnovers Forced,SUM of Sacks Forced,SUM of Sacks Allowed
+Arizona Cardinals,17,PHI,Philadelphia Eagles,Away,35,31,449,275,221,91,228,184,1,0,3,3,1,1,1,1,0,1
+Arizona Cardinals,16,CHI,Chicago Bears,Away,16,27,306,420,93,250,213,170,0,2,2,1,0,1,0,1,1,2
+Arizona Cardinals,15,SF,San Francisco 49ers,Home,29,45,436,406,234,144,202,262,2,1,1,4,2,0,2,0,0,3
+Arizona Cardinals,13,PIT,Pittsburgh Steelers,Away,24,10,282,317,150,130,132,187,2,0,1,1,0,0,0,1,0,2
+Arizona Cardinals,12,LAR,Los Angeles Rams,Home,14,37,292,457,73,228,219,229,1,1,1,4,0,1,0,1,0,4
+Arizona Cardinals,11,HOU,Houston Texans,Away,16,21,319,419,123,111,196,308,1,1,1,2,1,3,2,3,4,3
+Arizona Cardinals,10,ATL,Atlanta Falcons,Home,25,23,352,254,122,184,230,70,2,2,0,1,1,0,1,0,3,2
+Arizona Cardinals,9,CLE,Cleveland Browns,Away,0,27,58,326,41,113,17,213,0,1,0,2,2,0,3,0,1,7
+Arizona Cardinals,8,BAL,Baltimore Ravens,Home,24,31,310,268,129,130,181,138,1,3,2,1,2,0,2,0,4,2
+Arizona Cardinals,7,SEA,Seattle Seahawks,Away,10,20,249,318,127,115,122,203,1,0,0,2,0,1,0,3,2,4
+Arizona Cardinals,6,LAR,Los Angeles Rams,Away,9,26,345,382,130,179,215,203,0,1,0,1,1,0,2,1,3,2
+Arizona Cardinals,5,CIN,Cincinnati Bengals,Home,20,34,294,380,142,93,152,287,1,0,2,3,2,1,3,1,3,3
+Arizona Cardinals,4,SF,San Francisco 49ers,Away,16,35,362,395,105,124,257,271,0,4,2,1,0,0,0,0,1,1
+Arizona Cardinals,3,DAL,Dallas Cowboys,Home,28,16,400,416,222,185,178,231,2,0,1,1,0,1,0,1,2,2
+Arizona Cardinals,2,NYG,New York Giants,Home,28,31,379,439,151,127,228,312,2,2,1,2,0,1,0,1,3,0
+Arizona Cardinals,1,WAS,Washington Commanders,Away,16,20,210,248,96,92,114,156,0,1,0,1,0,1,2,3,6,3
+Atlanta Falcons,17,CHI,Chicago Bears,Away,17,37,307,432,134,192,173,240,1,3,1,1,4,0,4,0,3,2
+Atlanta Falcons,16,IND,Indianapolis Colts,Home,29,10,406,262,177,92,229,170,1,1,1,0,0,1,0,1,6,1
+Atlanta Falcons,15,CAR,Carolina Panthers,Away,7,9,204,283,52,129,152,154,0,0,1,0,1,0,2,0,3,0
+Atlanta Falcons,14,TB,Tampa Bay Buccaneers,Home,25,29,434,290,96,148,338,142,2,1,1,2,1,0,1,0,1,3
+Atlanta Falcons,13,NYJ,New York Jets,Away,13,8,194,259,90,62,104,197,0,0,1,0,0,1,0,3,4,3
+Atlanta Falcons,12,NO,New Orleans Saints,Home,24,15,396,444,228,148,168,296,1,0,1,0,2,1,2,2,1,0
+Atlanta Falcons,10,ARI,Arizona Cardinals,Away,23,25,254,352,184,122,70,230,2,2,1,0,0,1,0,1,2,3
+Atlanta Falcons,9,MIN,Minnesota Vikings,Home,28,31,370,363,110,146,260,217,1,1,1,2,1,0,2,2,4,1
+Atlanta Falcons,8,TEN,Tennessee Titans,Away,23,28,342,375,140,149,202,226,1,0,1,4,0,0,1,1,2,6
+Atlanta Falcons,7,TB,Tampa Bay Buccaneers,Away,16,13,401,329,156,73,245,256,1,0,0,1,0,1,3,2,3,1
+Atlanta Falcons,6,WAS,Washington Commanders,Home,16,24,402,193,106,72,296,121,0,0,2,3,3,0,3,0,5,3
+Atlanta Falcons,5,HOU,Houston Texans,Home,21,19,447,313,96,64,351,249,1,0,1,1,0,0,2,0,0,0
+Atlanta Falcons,4,JAX,Jacksonville Jaguars,Away,7,23,287,300,127,105,160,195,0,0,1,1,2,0,3,0,2,4
+Atlanta Falcons,3,DET,Detroit Lions,Away,6,20,183,358,44,115,139,243,0,1,0,1,0,1,1,1,0,7
+Atlanta Falcons,2,GB,Green Bay Packers,Home,25,24,446,224,211,84,235,140,1,0,1,3,1,0,1,0,1,1
+Atlanta Falcons,1,CAR,Carolina Panthers,Home,24,10,221,281,130,154,91,127,2,0,1,1,0,2,0,3,2,4
+Baltimore Ravens,17,MIA,Miami Dolphins,Home,56,19,491,375,160,154,331,221,2,0,6,2,0,2,1,3,3,1
+Baltimore Ravens,16,SF,San Francisco 49ers,Away,33,19,343,429,102,121,241,308,1,1,2,1,0,5,0,5,4,2
+Baltimore Ravens,15,JAX,Jacksonville Jaguars,Away,23,7,396,333,251,75,145,258,1,0,1,1,1,0,1,2,1,3
+Baltimore Ravens,14,LAR,Los Angeles Rams,Home,37,31,449,410,139,128,310,282,0,0,3,3,1,0,1,0,2,2
+Baltimore Ravens,12,LAC,Los Angeles Chargers,Away,20,10,361,279,197,86,164,193,1,0,1,1,0,1,0,4,3,2
+Baltimore Ravens,11,CIN,Cincinnati Bengals,Home,34,20,405,272,157,136,248,136,2,0,2,2,0,0,0,0,5,3
+Baltimore Ravens,10,CLE,Cleveland Browns,Home,31,33,306,373,106,178,200,195,2,1,1,1,2,1,2,2,4,3
+Baltimore Ravens,9,SEA,Seattle Seahawks,Home,37,3,515,151,298,28,217,123,3,0,1,0,0,1,2,2,4,1
+Baltimore Ravens,8,ARI,Arizona Cardinals,Away,31,24,268,310,130,129,138,181,3,1,1,2,0,2,0,2,2,4
+Baltimore Ravens,7,DET,Detroit Lions,Home,38,6,503,337,146,84,357,253,2,1,3,0,0,1,1,1,5,0
+Baltimore Ravens,6,TEN,Tennessee Titans,Away,24,16,360,233,139,129,221,104,0,1,1,0,1,1,1,2,6,1
+Baltimore Ravens,5,PIT,Pittsburgh Steelers,Away,10,17,335,289,125,87,210,202,1,0,0,1,1,0,3,1,3,4
+Baltimore Ravens,4,CLE,Cleveland Browns,Away,28,3,296,166,131,93,165,73,2,0,2,0,0,3,1,3,4,3
+Baltimore Ravens,3,IND,Indianapolis Colts,Home,19,22,364,327,186,139,178,188,2,0,0,1,0,0,2,0,5,4
+Baltimore Ravens,2,CIN,Cincinnati Bengals,Away,27,24,415,282,178,66,237,216,1,0,2,2,0,1,0,1,1,0
+Baltimore Ravens,1,HOU,Houston Texans,Home,25,9,265,268,110,72,155,196,3,0,0,0,1,0,2,1,5,4
+Buffalo Bills,17,NE,New England Patriots,Home,27,21,281,294,127,103,154,191,2,2,0,0,1,3,1,4,3,1
+Buffalo Bills,16,LAC,Los Angeles Chargers,Away,24,22,335,273,105,98,230,175,2,1,1,0,1,0,3,0,5,1
+Buffalo Bills,15,DAL,Dallas Cowboys,Home,31,10,351,195,266,89,85,106,3,1,1,0,0,1,0,1,3,1
+Buffalo Bills,14,KC,Kansas City Chiefs,Away,20,17,327,346,118,82,209,264,1,1,1,1,1,1,1,2,1,3
+Buffalo Bills,12,PHI,Philadelphia Eagles,Away,34,37,505,378,173,185,332,193,2,2,2,3,1,1,1,2,2,1
+Buffalo Bills,11,NYJ,New York Jets,Home,32,6,393,155,130,63,263,92,0,0,3,1,1,2,1,4,6,1
+Buffalo Bills,10,DEN,Denver Broncos,Home,22,24,369,300,192,122,177,178,2,0,1,2,2,0,4,1,4,0
+Buffalo Bills,9,CIN,Cincinnati Bengals,Away,18,24,317,397,68,54,249,343,1,1,1,2,1,0,2,0,1,1
+Buffalo Bills,8,TB,Tampa Bay Buccaneers,Home,24,18,427,302,115,78,312,224,1,0,2,2,1,0,1,0,3,2
+Buffalo Bills,7,NE,New England Patriots,Away,25,29,339,364,81,96,258,268,1,1,2,2,1,0,2,1,1,1
+Buffalo Bills,6,NYG,New York Giants,Home,14,9,297,317,128,132,169,185,0,0,2,0,1,0,2,0,3,0
+Buffalo Bills,5,JAX,Jacksonville Jaguars,Home,20,25,388,474,29,196,359,278,1,2,2,1,1,0,2,2,5,0
+Buffalo Bills,4,MIA,Miami Dolphins,Home,48,20,414,393,104,142,310,251,2,2,4,1,0,1,0,2,4,2
+Buffalo Bills,3,WAS,Washington Commanders,Away,37,3,386,230,168,105,218,125,2,0,1,0,1,4,1,5,9,0
+Buffalo Bills,2,LV,Las Vegas Raiders,Home,38,10,450,240,183,55,267,185,2,0,3,1,0,2,0,3,0,2
+Buffalo Bills,1,NYJ,New York Jets,Away,16,22,314,289,97,172,217,117,0,0,1,1,3,1,4,1,3,5
+Carolina Panthers,17,JAX,Jacksonville Jaguars,Away,0,26,124,317,57,155,67,162,0,2,0,0,1,0,1,0,3,6
+Carolina Panthers,16,GB,Green Bay Packers,Home,30,33,394,369,96,162,298,207,2,2,2,2,0,0,0,0,1,2
+Carolina Panthers,15,ATL,Atlanta Falcons,Home,9,7,283,204,129,52,154,152,0,0,0,1,0,1,0,2,0,3
+Carolina Panthers,14,NO,New Orleans Saints,Away,6,28,303,207,204,97,99,110,0,1,0,2,0,1,2,1,1,4
+Carolina Panthers,13,TB,Tampa Bay Buccaneers,Away,18,21,282,322,133,128,149,194,2,2,0,1,1,1,1,1,1,4
+Carolina Panthers,12,TEN,Tennessee Titans,Away,10,17,258,264,96,80,162,184,1,2,0,0,0,0,1,0,1,4
+Carolina Panthers,11,DAL,Dallas Cowboys,Home,10,33,187,311,110,107,77,204,0,1,1,2,1,0,2,0,0,7
+Carolina Panthers,10,CHI,Chicago Bears,Away,13,16,213,295,43,133,170,162,0,1,0,0,0,0,0,0,0,3
+Carolina Panthers,9,IND,Indianapolis Colts,Home,13,27,275,198,138,78,137,120,0,0,1,1,3,0,3,1,1,4
+Carolina Panthers,8,HOU,Houston Texans,Home,15,13,224,229,44,110,180,119,0,2,1,0,0,0,0,1,2,6
+Carolina Panthers,6,MIA,Miami Dolphins,Away,21,42,296,424,108,162,188,262,1,3,1,3,0,1,0,1,0,4
+Carolina Panthers,5,DET,Detroit Lions,Away,24,42,342,377,99,159,243,218,0,3,3,3,2,0,3,0,2,1
+Carolina Panthers,4,MIN,Minnesota Vikings,Home,13,21,232,265,83,135,149,130,0,0,0,2,0,2,1,2,2,5
+Carolina Panthers,3,SEA,Seattle Seahawks,Away,27,37,378,425,44,146,334,279,1,2,2,1,0,1,0,1,2,3
+Carolina Panthers,2,NO,New Orleans Saints,Home,17,20,239,341,100,134,139,207,0,2,1,0,0,1,1,1,4,4
+Carolina Panthers,1,ATL,Atlanta Falcons,Away,10,24,281,221,154,130,127,91,0,2,1,1,2,0,3,0,4,2
+Chicago Bears,17,ATL,Atlanta Falcons,Home,37,17,432,307,192,134,240,173,3,1,1,1,0,4,0,4,2,3
+Chicago Bears,16,ARI,Arizona Cardinals,Home,27,16,420,306,250,93,170,213,2,0,1,2,1,0,1,0,2,1
+Chicago Bears,15,CLE,Cleveland Browns,Away,17,20,236,377,88,29,148,348,0,0,1,2,2,3,3,3,4,3
+Chicago Bears,14,DET,Detroit Lions,Home,28,13,336,267,142,140,194,127,2,1,1,1,0,2,0,3,4,3
+Chicago Bears,12,MIN,Minnesota Vikings,Away,12,10,317,242,118,73,199,169,0,0,0,1,0,4,2,4,2,3
+Chicago Bears,11,DET,Detroit Lions,Away,26,31,334,338,183,115,151,223,1,2,1,2,0,3,1,4,2,2
+Chicago Bears,10,CAR,Carolina Panthers,Home,16,13,295,213,133,43,162,170,1,0,0,0,0,0,0,0,3,0
+Chicago Bears,9,NO,New Orleans Saints,Away,17,24,368,301,156,87,212,214,0,0,2,3,3,0,5,0,0,2
+Chicago Bears,8,LAC,Los Angeles Chargers,Away,13,30,295,352,73,54,222,298,2,0,0,3,2,0,2,1,0,1
+Chicago Bears,7,LV,Las Vegas Raiders,Home,30,12,323,235,173,39,150,196,2,0,1,1,0,3,0,3,1,2
+Chicago Bears,6,MIN,Minnesota Vikings,Home,13,19,275,220,162,46,113,174,1,0,0,1,2,0,3,1,2,5
+Chicago Bears,5,WAS,Washington Commanders,Away,40,20,451,388,178,29,273,359,0,0,4,2,0,1,0,2,5,3
+Chicago Bears,4,DEN,Denver Broncos,Home,28,31,471,311,171,97,300,214,0,0,4,3,1,0,2,0,1,4
+Chicago Bears,3,KC,Kansas City Chiefs,Away,10,41,203,456,116,153,87,303,0,2,1,3,1,2,2,2,0,3
+Chicago Bears,2,TB,Tampa Bay Buccaneers,Away,17,27,236,437,67,120,169,317,1,1,1,1,2,0,2,0,0,6
+Chicago Bears,1,GB,Green Bay Packers,Home,20,38,311,329,122,92,189,237,1,1,1,3,1,0,2,0,1,4
+Cincinnati Bengals,17,KC,Kansas City Chiefs,Away,17,25,263,373,104,132,159,241,1,0,1,1,0,0,0,1,2,6
+Cincinnati Bengals,16,PIT,Pittsburgh Steelers,Away,11,34,368,397,59,113,309,284,0,2,1,2,3,0,3,0,1,3
+Cincinnati Bengals,15,MIN,Minnesota Vikings,Home,27,24,378,424,80,143,298,281,1,1,2,2,1,2,1,2,3,5
+Cincinnati Bengals,14,IND,Indianapolis Colts,Home,34,14,385,272,111,46,274,226,2,0,2,1,1,1,1,2,3,0
+Cincinnati Bengals,13,JAX,Jacksonville Jaguars,Away,34,31,491,376,156,71,335,305,3,2,1,2,1,0,1,0,4,2
+Cincinnati Bengals,12,PIT,Pittsburgh Steelers,Home,10,16,222,421,25,153,197,268,0,1,1,0,1,0,1,1,2,4
+Cincinnati Bengals,11,BAL,Baltimore Ravens,Away,20,34,272,405,136,157,136,248,0,2,2,2,0,0,0,0,3,5
+Cincinnati Bengals,10,HOU,Houston Texans,Home,27,30,380,544,66,188,314,356,1,2,2,1,2,1,2,3,1,4
+Cincinnati Bengals,9,BUF,Buffalo Bills,Home,24,18,397,317,54,68,343,249,1,1,2,1,0,1,0,2,1,1
+Cincinnati Bengals,8,SF,San Francisco 49ers,Away,31,17,400,460,134,113,266,347,1,1,3,1,0,2,1,3,2,3
+Cincinnati Bengals,6,SEA,Seattle Seahawks,Home,17,13,214,381,46,87,168,294,0,1,2,0,1,2,1,2,4,3
+Cincinnati Bengals,5,ARI,Arizona Cardinals,Away,34,20,380,294,93,142,287,152,0,1,3,2,1,2,1,3,3,3
+Cincinnati Bengals,4,TEN,Tennessee Titans,Away,3,27,211,400,72,173,139,227,0,1,0,2,0,1,1,1,3,3
+Cincinnati Bengals,3,LAR,Los Angeles Rams,Home,19,16,309,292,67,71,242,221,1,0,0,1,1,2,1,2,6,2
+Cincinnati Bengals,2,BAL,Baltimore Ravens,Home,24,27,282,415,66,178,216,237,0,1,2,2,1,0,1,0,0,1
+Cincinnati Bengals,1,CLE,Cleveland Browns,Away,3,24,142,350,75,206,67,144,0,1,0,1,0,1,0,2,3,2
+Cleveland Browns,17,NYJ,New York Jets,Home,37,20,428,360,127,107,301,253,1,0,3,1,1,1,3,2,2,1
+Cleveland Browns,16,HOU,Houston Texans,Away,36,22,418,250,54,72,364,178,2,0,3,2,2,2,2,2,3,1
+Cleveland Browns,15,CHI,Chicago Bears,Home,20,17,377,236,29,88,348,148,0,0,2,1,3,2,3,3,3,4
+Cleveland Browns,14,JAX,Jacksonville Jaguars,Home,31,27,389,293,82,58,307,235,1,1,3,3,1,3,3,4,4,1
+Cleveland Browns,13,LAR,Los Angeles Rams,Away,19,36,327,399,87,120,240,279,0,1,2,3,1,0,1,0,0,2
+Cleveland Browns,12,DEN,Denver Broncos,Away,12,29,269,294,107,169,162,125,0,2,1,1,0,0,3,1,1,4
+Cleveland Browns,11,PIT,Pittsburgh Steelers,Home,13,10,259,249,96,172,163,77,1,1,0,0,1,0,1,0,3,1
+Cleveland Browns,10,BAL,Baltimore Ravens,Away,33,31,373,306,178,106,195,200,1,2,1,1,1,2,2,2,3,4
+Cleveland Browns,9,ARI,Arizona Cardinals,Home,27,0,326,58,113,41,213,17,1,0,2,0,0,2,0,3,7,1
+Cleveland Browns,8,SEA,Seattle Seahawks,Away,20,24,385,362,155,114,230,248,1,1,1,2,2,2,3,2,1,3
+Cleveland Browns,7,IND,Indianapolis Colts,Away,39,38,316,456,150,168,166,288,3,3,0,2,2,1,2,4,4,2
+Cleveland Browns,6,SF,San Francisco 49ers,Home,19,17,334,215,160,108,174,107,1,1,0,1,2,1,2,1,3,2
+Cleveland Browns,4,BAL,Baltimore Ravens,Home,3,28,166,296,93,131,73,165,0,2,0,2,3,0,3,1,3,4
+Cleveland Browns,3,TEN,Tennessee Titans,Home,27,3,341,94,78,26,263,68,1,0,2,0,0,0,1,0,5,3
+Cleveland Browns,2,PIT,Pittsburgh Steelers,Away,22,26,408,255,198,55,210,200,1,0,1,1,1,1,4,2,2,6
+Cleveland Browns,1,CIN,Cincinnati Bengals,Home,24,3,350,142,206,75,144,67,1,0,1,0,1,0,2,0,2,3
+Dallas Cowboys,17,DET,Detroit Lions,Home,20,19,384,420,61,125,323,295,0,1,2,1,1,2,2,2,1,3
+Dallas Cowboys,16,MIA,Miami Dolphins,Away,20,22,339,375,97,91,242,284,0,0,2,1,0,0,1,0,1,4
+Dallas Cowboys,15,BUF,Buffalo Bills,Away,10,31,195,351,89,266,106,85,1,3,0,1,1,0,1,0,1,3
+Dallas Cowboys,14,PHI,Philadelphia Eagles,Home,33,13,394,324,138,106,256,218,1,0,2,0,0,0,1,3,1,3
+Dallas Cowboys,13,SEA,Seattle Seahawks,Home,41,35,411,406,136,72,275,334,1,2,3,3,0,1,0,1,1,4
+Dallas Cowboys,12,WAS,Washington Commanders,Home,45,10,431,376,100,108,331,268,1,1,4,0,0,1,0,1,4,0
+Dallas Cowboys,11,CAR,Carolina Panthers,Away,33,10,311,187,107,110,204,77,1,0,2,1,0,1,0,2,7,0
+Dallas Cowboys,10,NYG,New York Giants,Home,49,17,640,172,168,111,472,61,3,0,4,2,2,1,2,1,5,0
+Dallas Cowboys,9,PHI,Philadelphia Eagles,Away,23,28,406,292,73,109,333,183,0,2,3,2,0,0,1,0,3,5
+Dallas Cowboys,8,LAR,Los Angeles Rams,Home,43,20,387,280,102,92,285,188,0,1,4,1,1,1,1,1,2,3
+Dallas Cowboys,6,LAC,Los Angeles Chargers,Away,20,17,342,272,96,53,246,219,1,0,1,2,0,1,1,1,1,5
+Dallas Cowboys,5,SF,San Francisco 49ers,Away,10,42,197,421,57,170,140,251,0,2,1,4,3,0,4,1,1,4
+Dallas Cowboys,4,NE,New England Patriots,Home,38,3,377,253,124,53,253,200,1,0,1,0,0,2,0,3,2,3
+Dallas Cowboys,3,ARI,Arizona Cardinals,Away,16,28,416,400,185,222,231,178,0,2,1,1,1,0,1,0,2,2
+Dallas Cowboys,2,NYJ,New York Jets,Home,30,10,382,215,134,64,248,151,0,0,2,1,0,3,0,4,3,1
+Dallas Cowboys,1,NYG,New York Giants,Away,40,0,265,171,122,108,143,63,3,0,0,0,0,2,0,3,7,0
+Denver Broncos,17,LAC,Los Angeles Chargers,Home,16,9,313,301,101,86,212,215,0,0,1,0,0,0,0,1,1,2
+Denver Broncos,16,NE,New England Patriots,Home,23,26,276,289,83,59,193,230,1,0,2,2,0,0,2,1,2,5
+Denver Broncos,15,DET,Detroit Lions,Away,17,42,287,448,83,185,204,263,1,1,1,5,0,0,1,0,2,2
+Denver Broncos,14,LAC,Los Angeles Chargers,Away,24,7,322,283,106,76,216,207,1,1,2,0,1,1,1,2,6,2
+Denver Broncos,13,HOU,Houston Texans,Away,17,22,282,353,118,89,164,264,1,1,1,1,3,0,3,0,5,3
+Denver Broncos,12,CLE,Cleveland Browns,Home,29,12,294,269,169,107,125,162,2,0,1,1,0,0,1,3,4,1
+Denver Broncos,11,MIN,Minnesota Vikings,Home,21,20,295,385,46,175,249,210,0,1,1,1,0,1,0,3,2,2
+Denver Broncos,10,BUF,Buffalo Bills,Away,24,22,300,369,122,192,178,177,0,2,2,1,0,2,1,4,0,4
+Denver Broncos,8,KC,Kansas City Chiefs,Home,24,9,240,275,153,62,87,213,0,0,3,0,0,2,1,5,3,6
+Denver Broncos,7,GB,Green Bay Packers,Home,19,17,339,331,145,137,194,194,0,0,1,2,0,1,0,1,0,1
+Denver Broncos,6,KC,Kansas City Chiefs,Away,8,19,197,389,115,96,82,293,0,0,1,1,2,1,3,1,2,4
+Denver Broncos,5,NYJ,New York Jets,Home,21,31,308,407,139,234,169,173,0,1,2,0,0,1,3,2,4,4
+Denver Broncos,4,CHI,Chicago Bears,Away,31,28,311,471,97,171,214,300,0,0,3,4,0,1,0,2,4,1
+Denver Broncos,3,MIA,Miami Dolphins,Away,20,70,363,726,69,350,294,376,0,5,1,5,1,0,3,0,0,1
+Denver Broncos,2,WAS,Washington Commanders,Home,33,35,399,388,122,122,277,266,1,2,3,2,1,0,2,0,4,7
+Denver Broncos,1,LV,Las Vegas Raiders,Home,16,17,260,261,94,61,166,200,0,0,2,2,0,1,0,1,0,2
+Detroit Lions,17,DAL,Dallas Cowboys,Away,19,20,420,384,125,61,295,323,1,0,1,2,2,1,2,2,3,1
+Detroit Lions,16,MIN,Minnesota Vikings,Away,30,24,389,390,143,17,246,373,3,1,1,2,0,4,1,4,4,1
+Detroit Lions,15,DEN,Denver Broncos,Home,42,17,448,287,185,83,263,204,1,1,5,1,0,0,0,1,2,2
+Detroit Lions,14,CHI,Chicago Bears,Away,13,28,267,336,140,142,127,194,1,2,1,1,2,0,3,0,3,4
+Detroit Lions,13,NO,New Orleans Saints,Away,33,28,347,362,142,113,205,249,2,3,2,1,0,1,0,2,2,1
+Detroit Lions,12,GB,Green Bay Packers,Home,22,29,464,377,140,109,324,268,1,0,2,3,0,0,3,0,0,3
+Detroit Lions,11,CHI,Chicago Bears,Home,31,26,338,334,115,183,223,151,2,1,2,1,3,0,4,1,2,2
+Detroit Lions,10,LAC,Los Angeles Chargers,Away,41,38,533,421,200,98,333,323,3,1,2,4,0,1,0,1,0,0
+Detroit Lions,8,LV,Las Vegas Raiders,Home,26,14,486,157,222,80,264,77,1,1,1,0,1,1,3,1,6,1
+Detroit Lions,7,BAL,Baltimore Ravens,Away,6,38,337,503,84,146,253,357,1,2,0,3,1,0,1,1,0,5
+Detroit Lions,6,TB,Tampa Bay Buccaneers,Away,20,6,380,251,40,46,340,205,0,0,2,0,0,1,0,1,1,3
+Detroit Lions,5,CAR,Carolina Panthers,Home,42,24,377,342,159,99,218,243,3,0,3,3,0,2,0,3,1,2
+Detroit Lions,4,GB,Green Bay Packers,Away,34,20,401,230,211,27,190,203,3,1,1,1,1,2,1,2,5,2
+Detroit Lions,3,ATL,Atlanta Falcons,Home,20,6,358,183,115,44,243,139,1,0,1,0,1,0,1,1,7,0
+Detroit Lions,2,SEA,Seattle Seahawks,Home,31,37,418,393,102,82,316,311,1,2,3,2,1,0,3,0,1,2
+Detroit Lions,1,KC,Kansas City Chiefs,Away,21,20,368,316,118,90,250,226,1,0,1,2,0,1,1,1,0,1
+Green Bay Packers,17,MIN,Minnesota Vikings,Away,33,10,470,211,177,67,293,144,1,0,3,1,0,1,1,2,4,0
+Green Bay Packers,16,CAR,Carolina Panthers,Away,33,30,369,394,162,96,207,298,2,2,2,2,0,0,0,0,2,1
+Green Bay Packers,15,TB,Tampa Bay Buccaneers,Home,20,34,321,452,60,99,261,353,0,0,2,4,0,0,1,1,5,2
+Green Bay Packers,14,NYG,New York Giants,Away,22,24,326,367,123,209,203,158,1,2,1,1,1,0,3,2,0,2
+Green Bay Packers,13,KC,Kansas City Chiefs,Home,27,19,382,337,129,148,253,189,0,1,3,1,0,1,0,1,3,2
+Green Bay Packers,12,DET,Detroit Lions,Away,29,22,377,464,109,140,268,324,0,1,3,2,0,0,0,3,3,0
+Green Bay Packers,11,LAC,Los Angeles Chargers,Home,23,20,397,394,102,150,295,244,1,0,2,2,0,0,0,1,2,3
+Green Bay Packers,10,PIT,Pittsburgh Steelers,Away,19,23,399,324,116,205,283,119,0,2,2,0,2,0,2,0,1,1
+Green Bay Packers,9,LAR,Los Angeles Rams,Home,20,3,391,187,184,68,207,119,1,0,1,0,0,1,2,2,1,4
+Green Bay Packers,8,MIN,Minnesota Vikings,Home,10,24,270,346,74,62,196,284,0,1,1,2,1,0,1,1,3,4
+Green Bay Packers,7,DEN,Denver Broncos,Away,17,19,331,339,137,145,194,194,0,0,2,1,1,0,1,0,1,0
+Green Bay Packers,5,LV,Las Vegas Raiders,Away,13,17,285,279,110,96,175,183,1,1,0,1,3,1,3,1,4,2
+Green Bay Packers,4,DET,Detroit Lions,Home,20,34,230,401,27,211,203,190,1,3,1,1,2,1,2,1,2,5
+Green Bay Packers,3,NO,New Orleans Saints,Home,18,17,340,252,95,77,245,175,1,0,1,1,1,0,1,0,4,1
+Green Bay Packers,2,ATL,Atlanta Falcons,Away,24,25,224,446,84,211,140,235,0,1,3,1,0,1,0,1,1,1
+Green Bay Packers,1,CHI,Chicago Bears,Away,38,20,329,311,92,122,237,189,1,1,3,1,0,1,0,2,4,1
+Houston Texans,17,TEN,Tennessee Titans,Home,26,3,312,187,111,53,201,134,0,0,1,0,0,0,0,1,6,1
+Houston Texans,16,CLE,Cleveland Browns,Home,22,36,250,418,72,54,178,364,0,2,2,3,2,2,2,2,1,3
+Houston Texans,15,TEN,Tennessee Titans,Away,19,16,340,204,148,66,192,138,0,1,1,0,1,1,1,1,7,4
+Houston Texans,14,NYJ,New York Jets,Away,6,30,135,347,81,79,54,268,1,1,0,2,0,0,0,1,4,5
+Houston Texans,13,DEN,Denver Broncos,Home,22,17,353,282,89,118,264,164,1,1,1,1,0,3,0,3,3,5
+Houston Texans,12,JAX,Jacksonville Jaguars,Home,21,24,352,445,91,81,261,364,1,1,2,1,0,1,0,1,0,4
+Houston Texans,11,ARI,Arizona Cardinals,Home,21,16,419,319,111,123,308,196,1,1,2,1,3,1,3,2,3,4
+Houston Texans,10,CIN,Cincinnati Bengals,Away,30,27,544,380,188,66,356,314,2,1,1,2,1,2,3,2,4,1
+Houston Texans,9,TB,Tampa Bay Buccaneers,Home,39,37,496,332,53,81,443,251,0,2,5,2,0,0,1,1,2,3
+Houston Texans,8,CAR,Carolina Panthers,Away,13,15,229,224,110,44,119,180,2,0,0,1,0,0,1,0,6,2
+Houston Texans,6,NO,New Orleans Saints,Home,20,13,297,430,120,89,177,341,0,0,2,1,1,1,1,2,2,2
+Houston Texans,5,ATL,Atlanta Falcons,Away,19,21,313,447,64,96,249,351,0,1,1,1,0,0,0,2,0,0
+Houston Texans,4,PIT,Pittsburgh Steelers,Home,30,6,451,225,139,114,312,111,0,0,3,0,0,1,0,1,3,0
+Houston Texans,3,JAX,Jacksonville Jaguars,Away,37,17,366,404,86,116,280,288,1,1,2,1,0,1,0,2,0,0
+Houston Texans,2,IND,Indianapolis Colts,Home,20,31,389,353,52,126,337,227,0,3,2,1,0,0,1,0,0,6
+Houston Texans,1,BAL,Baltimore Ravens,Away,9,25,268,265,72,110,196,155,0,3,0,0,0,1,1,2,4,5
+Indianapolis Colts,17,LV,Las Vegas Raiders,Home,23,20,349,370,134,84,215,286,1,0,1,2,0,0,0,0,2,1
+Indianapolis Colts,16,ATL,Atlanta Falcons,Away,10,29,262,406,92,177,170,229,1,1,0,1,1,0,1,0,1,6
+Indianapolis Colts,15,PIT,Pittsburgh Steelers,Home,30,13,372,216,170,74,202,142,0,1,3,1,0,2,0,3,4,3
+Indianapolis Colts,14,CIN,Cincinnati Bengals,Away,14,34,272,385,46,111,226,274,0,2,1,2,1,1,2,1,0,3
+Indianapolis Colts,13,TEN,Tennessee Titans,Away,31,28,355,381,55,177,300,204,0,2,2,1,0,0,2,2,6,3
+Indianapolis Colts,12,TB,Tampa Bay Buccaneers,Home,27,20,394,298,155,125,239,173,3,0,0,2,1,1,1,2,6,2
+Indianapolis Colts,10,NE,New England Patriots,Away,10,6,264,340,70,167,194,173,1,0,0,0,1,2,1,2,5,0
+Indianapolis Colts,9,CAR,Carolina Panthers,Away,27,13,198,275,78,138,120,137,0,0,1,1,0,3,1,3,4,1
+Indianapolis Colts,8,NO,New Orleans Saints,Home,27,38,371,511,164,161,207,350,1,3,2,2,1,0,1,1,1,2
+Indianapolis Colts,7,CLE,Cleveland Browns,Home,38,39,456,316,168,150,288,166,3,3,2,0,1,2,4,2,2,4
+Indianapolis Colts,6,JAX,Jacksonville Jaguars,Away,20,37,354,233,44,85,310,148,1,2,1,2,3,1,4,1,3,3
+Indianapolis Colts,5,TEN,Tennessee Titans,Home,23,16,429,348,193,89,236,259,2,1,0,0,0,1,0,1,1,1
+Indianapolis Colts,4,LAR,Los Angeles Rams,Home,23,29,329,467,133,164,196,303,1,2,2,1,0,1,1,1,2,2
+Indianapolis Colts,3,BAL,Baltimore Ravens,Away,22,19,327,364,139,186,188,178,0,2,1,0,0,0,0,2,4,5
+Indianapolis Colts,2,HOU,Houston Texans,Away,31,20,353,389,126,52,227,337,3,0,1,2,0,0,0,1,6,0
+Indianapolis Colts,1,JAX,Jacksonville Jaguars,Home,21,31,280,342,65,105,215,237,1,2,1,2,1,1,3,2,2,4
+Jacksonville Jaguars,17,CAR,Carolina Panthers,Home,26,0,317,124,155,57,162,67,2,0,0,0,0,1,0,1,6,3
+Jacksonville Jaguars,16,TB,Tampa Bay Buccaneers,Away,12,30,305,335,37,70,268,265,0,1,2,2,2,0,4,0,2,4
+Jacksonville Jaguars,15,BAL,Baltimore Ravens,Home,7,23,333,396,75,251,258,145,0,1,1,1,0,1,2,1,3,1
+Jacksonville Jaguars,14,CLE,Cleveland Browns,Away,27,31,293,389,58,82,235,307,1,1,3,3,3,1,4,3,1,4
+Jacksonville Jaguars,13,CIN,Cincinnati Bengals,Home,31,34,376,491,71,156,305,335,2,3,2,1,0,1,0,1,2,4
+Jacksonville Jaguars,12,HOU,Houston Texans,Away,24,21,445,352,81,91,364,261,1,1,1,2,1,0,1,0,4,0
+Jacksonville Jaguars,11,TEN,Tennessee Titans,Home,34,14,389,235,128,92,261,143,2,0,2,2,0,0,0,2,2,1
+Jacksonville Jaguars,10,SF,San Francisco 49ers,Home,3,34,221,437,59,144,162,293,0,1,0,3,2,0,4,0,2,5
+Jacksonville Jaguars,8,PIT,Pittsburgh Steelers,Away,20,10,377,261,106,70,271,191,0,0,1,1,1,2,3,2,3,3
+Jacksonville Jaguars,7,NO,New Orleans Saints,Away,31,24,330,407,113,112,217,295,2,1,1,1,0,1,2,1,1,0
+Jacksonville Jaguars,6,IND,Indianapolis Colts,Home,37,20,233,354,85,44,148,310,2,1,2,1,1,3,1,4,3,3
+Jacksonville Jaguars,5,BUF,Buffalo Bills,Away,25,20,474,388,196,29,278,359,2,1,1,2,0,1,2,2,0,5
+Jacksonville Jaguars,4,ATL,Atlanta Falcons,Home,23,7,300,287,105,127,195,160,0,0,1,1,0,2,0,3,4,2
+Jacksonville Jaguars,3,HOU,Houston Texans,Home,17,37,404,366,116,86,288,280,1,1,1,2,1,0,2,0,0,0
+Jacksonville Jaguars,2,KC,Kansas City Chiefs,Home,9,17,271,399,74,101,197,298,0,0,0,2,0,1,1,3,1,4
+Jacksonville Jaguars,1,IND,Indianapolis Colts,Away,31,21,342,280,105,65,237,215,2,1,2,1,1,1,2,3,4,2
+Kansas City Chiefs,17,CIN,Cincinnati Bengals,Home,25,17,373,263,132,104,241,159,0,1,1,1,0,0,1,0,6,2
+Kansas City Chiefs,16,LV,Las Vegas Raiders,Home,14,20,308,205,85,157,223,48,1,0,1,0,1,0,2,0,2,4
+Kansas City Chiefs,15,NE,New England Patriots,Away,27,17,326,206,43,52,283,154,0,1,3,1,2,1,2,1,4,3
+Kansas City Chiefs,14,BUF,Buffalo Bills,Home,17,20,346,327,82,118,264,209,1,1,1,1,1,1,2,1,3,1
+Kansas City Chiefs,13,GB,Green Bay Packers,Away,19,27,337,382,148,129,189,253,1,0,1,3,1,0,1,0,2,3
+Kansas City Chiefs,12,LV,Las Vegas Raiders,Away,31,17,360,358,69,123,291,235,2,1,2,1,0,0,0,0,1,1
+Kansas City Chiefs,11,PHI,Philadelphia Eagles,Home,17,21,336,238,168,114,168,124,0,3,2,0,1,1,2,1,5,1
+Kansas City Chiefs,9,MIA,Miami Dolphins,Home,21,14,267,292,93,117,174,175,0,1,2,1,0,0,1,1,3,2
+Kansas City Chiefs,8,DEN,Denver Broncos,Away,9,24,275,240,62,153,213,87,0,0,0,3,2,0,5,1,6,3
+Kansas City Chiefs,7,LAC,Los Angeles Chargers,Home,31,17,483,358,68,139,415,219,0,1,4,1,1,2,2,2,5,1
+Kansas City Chiefs,6,DEN,Denver Broncos,Home,19,8,389,197,96,115,293,82,0,0,1,1,1,2,1,3,4,2
+Kansas City Chiefs,5,MIN,Minnesota Vikings,Away,27,20,333,329,67,70,266,259,1,0,2,2,0,0,0,1,3,2
+Kansas City Chiefs,4,NYJ,New York Jets,Away,23,20,401,336,204,108,197,228,1,0,1,2,2,0,2,1,2,1
+Kansas City Chiefs,3,CHI,Chicago Bears,Home,41,10,456,203,153,116,303,87,2,0,3,1,2,1,2,2,3,0
+Kansas City Chiefs,2,JAX,Jacksonville Jaguars,Away,17,9,399,271,101,74,298,197,0,0,2,0,1,0,3,1,4,1
+Kansas City Chiefs,1,DET,Detroit Lions,Home,20,21,316,368,90,118,226,250,0,1,2,1,1,0,1,1,1,0
+Las Vegas Raiders,17,IND,Indianapolis Colts,Away,20,23,370,349,84,134,286,215,0,1,2,1,0,0,0,0,1,2
+Las Vegas Raiders,16,KC,Kansas City Chiefs,Away,20,14,205,308,157,85,48,223,0,1,0,1,0,1,0,2,4,2
+Las Vegas Raiders,15,LAC,Los Angeles Chargers,Home,63,21,378,326,124,92,254,234,2,0,5,3,0,1,0,5,3,1
+Las Vegas Raiders,14,MIN,Minnesota Vikings,Home,0,3,202,231,56,132,146,99,0,0,0,0,1,0,3,0,5,4
+Las Vegas Raiders,12,KC,Kansas City Chiefs,Home,17,31,358,360,123,69,235,291,1,2,1,2,0,0,0,0,1,1
+Las Vegas Raiders,11,MIA,Miami Dolphins,Away,13,20,296,422,36,99,260,323,0,0,1,2,3,1,3,3,1,2
+Las Vegas Raiders,10,NYJ,New York Jets,Home,16,12,274,365,148,108,126,257,0,0,1,0,1,1,2,1,2,3
+Las Vegas Raiders,9,NYG,New York Giants,Home,30,6,334,277,125,123,209,154,3,0,0,1,0,2,0,2,8,0
+Las Vegas Raiders,8,DET,Detroit Lions,Away,14,26,157,486,80,222,77,264,1,1,0,1,1,1,1,3,1,6
+Las Vegas Raiders,7,CHI,Chicago Bears,Away,12,30,235,323,39,173,196,150,0,2,1,1,3,0,3,0,2,1
+Las Vegas Raiders,6,NE,New England Patriots,Home,21,17,348,259,84,83,264,176,0,2,1,0,1,1,1,1,4,0
+Las Vegas Raiders,5,GB,Green Bay Packers,Home,17,13,279,285,96,110,183,175,1,1,1,0,1,3,1,3,2,4
+Las Vegas Raiders,4,LAC,Los Angeles Chargers,Away,17,24,264,305,76,155,188,150,2,2,0,1,1,1,3,1,2,7
+Las Vegas Raiders,3,PIT,Pittsburgh Steelers,Home,18,23,362,333,69,105,293,228,0,0,2,2,3,0,3,0,1,4
+Las Vegas Raiders,2,BUF,Buffalo Bills,Away,10,38,240,450,55,183,185,267,0,2,1,3,2,0,3,0,2,0
+Las Vegas Raiders,1,DEN,Denver Broncos,Away,17,16,261,260,61,94,200,166,0,0,2,2,1,0,1,0,2,0
+Los Angeles Chargers,17,DEN,Denver Broncos,Away,9,16,301,313,86,101,215,212,0,0,0,1,0,0,1,0,2,1
+Los Angeles Chargers,16,BUF,Buffalo Bills,Home,22,24,273,335,98,105,175,230,1,2,0,1,0,1,0,3,1,5
+Los Angeles Chargers,15,LV,Las Vegas Raiders,Away,21,63,326,378,92,124,234,254,0,2,3,5,1,0,5,0,1,3
+Los Angeles Chargers,14,DEN,Denver Broncos,Home,7,24,283,322,76,106,207,216,1,1,0,2,1,1,2,1,2,6
+Los Angeles Chargers,13,NE,New England Patriots,Away,6,0,241,257,29,148,212,109,0,0,0,0,0,0,0,1,5,0
+Los Angeles Chargers,12,BAL,Baltimore Ravens,Home,10,20,279,361,86,197,193,164,0,1,1,1,1,0,4,0,2,3
+Los Angeles Chargers,11,GB,Green Bay Packers,Away,20,23,394,397,150,102,244,295,0,1,2,2,0,0,1,0,3,2
+Los Angeles Chargers,10,DET,Detroit Lions,Home,38,41,421,533,98,200,323,333,1,3,4,2,1,0,1,0,0,0
+Los Angeles Chargers,9,NYJ,New York Jets,Away,27,6,191,270,84,64,107,206,2,0,0,0,0,0,0,3,8,5
+Los Angeles Chargers,8,CHI,Chicago Bears,Home,30,13,352,295,54,73,298,222,0,2,3,0,0,2,1,2,1,0
+Los Angeles Chargers,7,KC,Kansas City Chiefs,Away,17,31,358,483,139,68,219,415,1,0,1,4,2,1,2,2,1,5
+Los Angeles Chargers,6,DAL,Dallas Cowboys,Home,17,20,272,342,53,96,219,246,0,1,2,1,1,0,1,1,5,1
+Los Angeles Chargers,4,LV,Las Vegas Raiders,Home,24,17,305,264,155,76,150,188,2,2,1,0,1,1,1,3,7,2
+Los Angeles Chargers,3,MIN,Minnesota Vikings,Away,28,24,475,475,30,130,445,345,0,0,4,3,0,1,1,2,4,1
+Los Angeles Chargers,2,TEN,Tennessee Titans,Away,24,27,342,341,61,141,281,200,0,2,2,1,0,0,0,0,5,3
+Los Angeles Chargers,1,MIA,Miami Dolphins,Home,34,36,433,536,234,70,199,466,3,1,1,3,0,1,0,2,0,3
+Los Angeles Rams,17,NYG,New York Giants,Away,26,25,391,389,105,105,286,284,3,1,1,1,2,1,3,1,6,4
+Los Angeles Rams,16,NO,New Orleans Saints,Home,30,22,458,339,133,35,325,304,1,0,2,3,0,1,0,1,2,1
+Los Angeles Rams,15,WAS,Washington Commanders,Home,28,20,445,297,196,79,249,218,1,0,2,3,0,1,2,1,1,3
+Los Angeles Rams,14,BAL,Baltimore Ravens,Away,31,37,410,449,128,139,282,310,0,0,3,3,0,1,0,1,2,2
+Los Angeles Rams,13,CLE,Cleveland Browns,Home,36,19,399,327,120,87,279,240,1,0,3,2,0,1,0,1,2,0
+Los Angeles Rams,12,ARI,Arizona Cardinals,Away,37,14,457,292,228,73,229,219,1,1,4,1,1,0,1,0,4,0
+Los Angeles Rams,11,SEA,Seattle Seahawks,Home,17,16,267,291,82,68,185,223,1,0,1,1,1,1,1,1,2,1
+Los Angeles Rams,9,GB,Green Bay Packers,Away,3,20,187,391,68,184,119,207,0,1,0,1,1,0,2,2,4,1
+Los Angeles Rams,8,DAL,Dallas Cowboys,Away,20,43,280,387,92,102,188,285,1,0,1,4,1,1,1,1,3,2
+Los Angeles Rams,7,PIT,Pittsburgh Steelers,Home,17,24,354,300,135,86,219,214,1,3,1,0,1,0,1,0,2,2
+Los Angeles Rams,6,ARI,Arizona Cardinals,Home,26,9,382,345,179,130,203,215,1,0,1,0,0,1,1,2,2,3
+Los Angeles Rams,5,PHI,Philadelphia Eagles,Home,14,23,249,454,54,159,195,295,0,1,2,1,0,1,0,1,1,4
+Los Angeles Rams,4,IND,Indianapolis Colts,Away,29,23,467,329,164,133,303,196,2,1,1,2,1,0,1,1,2,2
+Los Angeles Rams,3,CIN,Cincinnati Bengals,Away,16,19,292,309,71,67,221,242,0,1,1,0,2,1,2,1,2,6
+Los Angeles Rams,2,SF,San Francisco 49ers,Home,23,30,386,365,89,159,297,206,1,3,1,0,2,0,2,0,1,1
+Los Angeles Rams,1,SEA,Seattle Seahawks,Away,30,13,426,180,92,85,334,95,3,0,0,1,0,0,0,0,2,0
+Miami Dolphins,17,BAL,Baltimore Ravens,Away,19,56,375,491,154,160,221,331,0,2,2,6,2,0,3,1,1,3
+Miami Dolphins,16,DAL,Dallas Cowboys,Home,22,20,375,339,91,97,284,242,0,0,1,2,0,0,0,1,4,1
+Miami Dolphins,15,NYJ,New York Jets,Home,30,0,290,103,77,23,213,80,2,0,1,0,0,2,0,4,6,3
+Miami Dolphins,14,TEN,Tennessee Titans,Home,27,28,366,403,158,83,208,320,2,2,0,1,0,1,1,3,1,5
+Miami Dolphins,13,WAS,Washington Commanders,Away,45,15,406,245,123,138,283,107,3,2,2,0,0,1,0,1,3,0
+Miami Dolphins,12,NYJ,New York Jets,Away,34,13,395,159,167,29,228,130,2,0,1,1,2,2,3,2,7,2
+Miami Dolphins,11,LV,Las Vegas Raiders,Home,20,13,422,296,99,36,323,260,0,0,2,1,1,3,3,3,2,1
+Miami Dolphins,9,KC,Kansas City Chiefs,Away,14,21,292,267,117,93,175,174,1,0,1,2,0,0,1,1,2,3
+Miami Dolphins,8,NE,New England Patriots,Home,31,17,390,218,78,77,312,141,1,0,3,2,1,1,2,1,3,2
+Miami Dolphins,7,PHI,Philadelphia Eagles,Away,17,31,244,355,45,99,199,256,0,2,1,2,1,1,1,2,3,4
+Miami Dolphins,6,CAR,Carolina Panthers,Home,42,21,424,296,162,108,262,188,3,1,3,1,1,0,1,0,4,0
+Miami Dolphins,5,NYG,New York Giants,Home,31,16,524,268,222,85,302,183,2,0,2,0,2,0,3,0,7,1
+Miami Dolphins,4,BUF,Buffalo Bills,Away,20,48,393,414,142,104,251,310,2,2,1,4,1,0,2,0,2,4
+Miami Dolphins,3,DEN,Denver Broncos,Home,70,20,726,363,350,69,376,294,5,0,5,1,0,1,0,3,1,0
+Miami Dolphins,2,NE,New England Patriots,Away,24,17,389,288,145,88,244,200,2,1,1,1,1,1,1,2,4,1
+Miami Dolphins,1,LAC,Los Angeles Chargers,Away,36,34,536,433,70,234,466,199,1,3,3,1,1,0,2,0,3,0
+Minnesota Vikings,17,GB,Green Bay Packers,Home,10,33,211,470,67,177,144,293,0,1,1,3,1,0,2,1,0,4
+Minnesota Vikings,16,DET,Detroit Lions,Home,24,30,390,389,17,143,373,246,1,3,2,1,4,0,4,1,1,4
+Minnesota Vikings,15,CIN,Cincinnati Bengals,Away,24,27,424,378,143,80,281,298,1,1,2,2,2,1,2,1,5,3
+Minnesota Vikings,14,LV,Las Vegas Raiders,Away,3,0,231,202,132,56,99,146,0,0,0,0,0,1,0,3,4,5
+Minnesota Vikings,12,CHI,Chicago Bears,Home,10,12,242,317,73,118,169,199,0,0,1,0,4,0,4,2,3,2
+Minnesota Vikings,11,DEN,Denver Broncos,Away,20,21,385,295,175,46,210,249,1,0,1,1,1,0,3,0,2,2
+Minnesota Vikings,10,NO,New Orleans Saints,Home,27,19,388,280,125,65,263,215,2,0,1,2,0,2,0,2,3,1
+Minnesota Vikings,9,ATL,Atlanta Falcons,Away,31,28,363,370,146,110,217,260,1,1,2,1,0,1,2,2,1,4
+Minnesota Vikings,8,GB,Green Bay Packers,Away,24,10,346,270,62,74,284,196,1,0,2,1,0,1,1,1,4,3
+Minnesota Vikings,7,SF,San Francisco 49ers,Home,22,17,452,325,74,65,378,260,0,1,2,1,1,2,1,3,1,0
+Minnesota Vikings,6,CHI,Chicago Bears,Away,19,13,220,275,46,162,174,113,0,1,1,0,0,2,1,3,5,2
+Minnesota Vikings,5,KC,Kansas City Chiefs,Home,20,27,329,333,70,67,259,266,0,1,2,2,0,0,1,0,2,3
+Minnesota Vikings,4,CAR,Carolina Panthers,Away,21,13,265,232,135,83,130,149,0,0,2,0,2,0,2,1,5,2
+Minnesota Vikings,3,LAC,Los Angeles Chargers,Home,24,28,475,475,130,30,345,445,0,0,3,4,1,0,2,1,1,4
+Minnesota Vikings,2,PHI,Philadelphia Eagles,Away,28,34,374,430,28,259,346,171,0,3,4,1,0,1,4,1,4,2
+Minnesota Vikings,1,TB,Tampa Bay Buccaneers,Home,17,20,369,242,41,73,328,169,0,0,2,2,1,0,3,0,1,2
+New England Patriots,17,BUF,Buffalo Bills,Away,21,27,294,281,103,127,191,154,2,2,0,0,3,1,4,1,1,3
+New England Patriots,16,DEN,Denver Broncos,Away,26,23,289,276,59,83,230,193,0,1,2,2,0,0,1,2,5,2
+New England Patriots,15,KC,Kansas City Chiefs,Home,17,27,206,326,52,43,154,283,1,0,1,3,1,2,1,2,3,4
+New England Patriots,14,PIT,Pittsburgh Steelers,Away,21,18,303,264,81,82,222,182,0,1,3,1,1,1,1,1,2,2
+New England Patriots,13,LAC,Los Angeles Chargers,Home,0,6,257,241,148,29,109,212,0,0,0,0,0,0,1,0,0,5
+New England Patriots,12,NYG,New York Giants,Away,7,10,283,220,147,58,136,162,1,0,0,1,3,0,3,1,6,2
+New England Patriots,10,IND,Indianapolis Colts,Home,6,10,340,264,167,70,173,194,0,1,0,0,2,1,2,1,0,5
+New England Patriots,9,WAS,Washington Commanders,Home,17,20,327,432,107,124,220,308,1,1,1,1,1,1,1,2,3,0
+New England Patriots,8,MIA,Miami Dolphins,Away,17,31,218,390,77,78,141,312,0,1,2,3,1,1,1,2,2,3
+New England Patriots,7,BUF,Buffalo Bills,Home,29,25,364,339,96,81,268,258,1,1,2,2,0,1,1,2,1,1
+New England Patriots,6,LV,Las Vegas Raiders,Away,17,21,259,348,83,84,176,264,2,0,0,1,1,1,1,1,0,4
+New England Patriots,5,NO,New Orleans Saints,Home,0,34,156,304,45,136,111,168,0,1,0,2,2,0,3,0,2,2
+New England Patriots,4,DAL,Dallas Cowboys,Away,3,38,253,377,53,124,200,253,0,1,0,1,2,0,3,0,3,2
+New England Patriots,3,NYJ,New York Jets,Away,15,10,358,171,157,38,201,133,0,1,1,0,0,0,0,0,3,0
+New England Patriots,2,MIA,Miami Dolphins,Home,17,24,288,389,88,145,200,244,1,2,1,1,1,1,2,1,1,4
+New England Patriots,1,PHI,Philadelphia Eagles,Home,20,25,382,251,76,97,306,154,0,0,3,1,1,0,2,1,3,2
+New Orleans Saints,17,TB,Tampa Bay Buccaneers,Away,23,13,310,349,108,57,202,292,0,0,2,2,0,2,0,4,2,1
+New Orleans Saints,16,LAR,Los Angeles Rams,Away,22,30,339,458,35,133,304,325,0,1,3,2,1,0,1,0,1,2
+New Orleans Saints,15,NYG,New York Giants,Home,24,6,296,193,87,60,209,133,0,0,3,0,0,0,0,0,7,1
+New Orleans Saints,14,CAR,Carolina Panthers,Home,28,6,207,303,97,204,110,99,1,0,2,0,1,0,1,2,4,1
+New Orleans Saints,13,DET,Detroit Lions,Home,28,33,362,347,113,142,249,205,3,2,1,2,1,0,2,0,1,2
+New Orleans Saints,12,ATL,Atlanta Falcons,Away,15,24,444,396,148,228,296,168,0,1,0,1,1,2,2,2,0,1
+New Orleans Saints,10,MIN,Minnesota Vikings,Away,19,27,280,388,65,125,215,263,0,2,2,1,2,0,2,0,1,3
+New Orleans Saints,9,CHI,Chicago Bears,Home,24,17,301,368,87,156,214,212,0,0,3,2,0,3,0,5,2,0
+New Orleans Saints,8,IND,Indianapolis Colts,Away,38,27,511,371,161,164,350,207,3,1,2,2,0,1,1,1,2,1
+New Orleans Saints,7,JAX,Jacksonville Jaguars,Home,24,31,407,330,112,113,295,217,1,2,1,1,1,0,1,2,0,1
+New Orleans Saints,6,HOU,Houston Texans,Away,13,20,430,297,89,120,341,177,0,0,1,2,1,1,2,1,2,2
+New Orleans Saints,5,NE,New England Patriots,Away,34,0,304,156,136,45,168,111,1,0,2,0,0,2,0,3,2,2
+New Orleans Saints,4,TB,Tampa Bay Buccaneers,Home,9,26,197,353,70,114,127,239,0,0,0,3,1,1,3,1,1,3
+New Orleans Saints,3,GB,Green Bay Packers,Away,17,18,252,340,77,95,175,245,0,1,1,1,0,1,0,1,1,4
+New Orleans Saints,2,CAR,Carolina Panthers,Away,20,17,341,239,134,100,207,139,2,0,0,1,1,0,1,1,4,4
+New Orleans Saints,1,TEN,Tennessee Titans,Home,16,15,351,285,69,104,282,181,0,0,1,0,1,3,2,3,3,4
+New York Giants,17,LAR,Los Angeles Rams,Home,25,26,389,391,105,105,284,286,1,3,1,1,1,2,1,3,4,6
+New York Giants,16,PHI,Philadelphia Eagles,Away,25,33,292,465,106,170,186,295,1,2,1,1,1,1,1,2,1,1
+New York Giants,15,NO,New Orleans Saints,Away,6,24,193,296,60,87,133,209,0,0,0,3,0,0,0,0,1,7
+New York Giants,14,GB,Green Bay Packers,Home,24,22,367,326,209,123,158,203,2,1,1,1,0,1,2,3,2,0
+New York Giants,12,NE,New England Patriots,Home,10,7,220,283,58,147,162,136,0,1,1,0,0,3,1,3,2,6
+New York Giants,11,WAS,Washington Commanders,Away,31,19,292,403,91,174,201,229,0,1,3,1,0,3,0,6,4,9
+New York Giants,10,DAL,Dallas Cowboys,Away,17,49,172,640,111,168,61,472,0,3,2,4,1,2,1,2,0,5
+New York Giants,9,LV,Las Vegas Raiders,Away,6,30,277,334,123,125,154,209,0,3,1,0,2,0,2,0,0,8
+New York Giants,8,NYJ,New York Jets,Home,10,13,194,251,203,58,-9,193,1,0,0,1,0,0,0,2,4,4
+New York Giants,7,WAS,Washington Commanders,Home,14,7,356,273,106,76,250,197,0,1,2,0,0,1,2,1,6,4
+New York Giants,6,BUF,Buffalo Bills,Away,9,14,317,297,132,128,185,169,0,0,0,2,0,1,0,2,0,3
+New York Giants,5,MIA,Miami Dolphins,Away,16,31,268,524,85,222,183,302,0,2,0,2,0,2,0,3,1,7
+New York Giants,4,SEA,Seattle Seahawks,Home,3,24,248,281,112,121,136,160,0,1,0,1,2,0,3,0,2,11
+New York Giants,3,SF,San Francisco 49ers,Away,12,30,150,441,29,141,121,300,1,1,0,2,1,0,1,0,2,2
+New York Giants,2,ARI,Arizona Cardinals,Away,31,28,439,379,127,151,312,228,2,2,2,1,1,0,1,0,0,3
+New York Giants,1,DAL,Dallas Cowboys,Home,0,40,171,265,108,122,63,143,0,3,0,0,2,0,3,0,0,7
+New York Jets,17,CLE,Cleveland Browns,Away,20,37,360,428,107,127,253,301,0,1,1,3,1,1,2,3,1,2
+New York Jets,16,WAS,Washington Commanders,Home,30,28,381,245,164,102,217,143,2,3,1,1,1,2,2,3,1,0
+New York Jets,15,MIA,Miami Dolphins,Away,0,30,103,290,23,77,80,213,0,2,0,1,2,0,4,0,3,6
+New York Jets,14,HOU,Houston Texans,Home,30,6,347,135,79,81,268,54,1,1,2,0,0,0,1,0,5,4
+New York Jets,13,ATL,Atlanta Falcons,Home,8,13,259,194,62,90,197,104,0,0,0,1,1,0,3,0,3,4
+New York Jets,12,MIA,Miami Dolphins,Home,13,34,159,395,29,167,130,228,0,2,1,1,2,2,2,3,2,7
+New York Jets,11,BUF,Buffalo Bills,Away,6,32,155,393,63,130,92,263,0,0,1,3,2,1,4,1,1,6
+New York Jets,10,LV,Las Vegas Raiders,Away,12,16,365,274,108,148,257,126,0,0,0,1,1,1,1,2,3,2
+New York Jets,9,LAC,Los Angeles Chargers,Home,6,27,270,191,64,84,206,107,0,2,0,0,0,0,3,0,5,8
+New York Jets,8,NYG,New York Giants,Away,13,10,251,194,58,203,193,-9,0,1,1,0,0,0,2,0,4,4
+New York Jets,6,PHI,Philadelphia Eagles,Home,20,14,244,348,89,80,155,268,1,1,0,1,0,3,0,4,2,5
+New York Jets,5,DEN,Denver Broncos,Away,31,21,407,308,234,139,173,169,1,0,0,2,1,0,2,3,4,4
+New York Jets,4,KC,Kansas City Chiefs,Home,20,23,336,401,108,204,228,197,0,1,2,1,0,2,1,2,1,2
+New York Jets,3,NE,New England Patriots,Home,10,15,171,358,38,157,133,201,1,0,0,1,0,0,0,0,0,3
+New York Jets,2,DAL,Dallas Cowboys,Away,10,30,215,382,64,134,151,248,0,0,1,2,3,0,4,0,1,3
+New York Jets,1,BUF,Buffalo Bills,Home,22,16,289,314,172,97,117,217,0,0,1,1,1,3,1,4,5,3
+Philadelphia Eagles,17,ARI,Arizona Cardinals,Home,31,35,275,449,91,221,184,228,0,1,3,3,1,1,1,1,1,0
+Philadelphia Eagles,16,NYG,New York Giants,Home,33,25,465,292,170,106,295,186,2,1,1,1,1,1,2,1,1,1
+Philadelphia Eagles,15,SEA,Seattle Seahawks,Away,17,20,321,297,178,100,143,197,2,1,0,1,2,0,2,0,2,0
+Philadelphia Eagles,14,DAL,Dallas Cowboys,Away,13,33,324,394,106,138,218,256,0,1,0,2,0,0,3,1,3,1
+Philadelphia Eagles,13,SF,San Francisco 49ers,Home,19,42,333,456,46,146,287,310,1,2,1,4,0,0,0,0,2,3
+Philadelphia Eagles,12,BUF,Buffalo Bills,Home,37,34,378,505,185,173,193,332,2,2,3,2,1,1,2,1,1,2
+Philadelphia Eagles,11,KC,Kansas City Chiefs,Away,21,17,238,336,114,168,124,168,3,0,0,2,1,1,1,2,1,5
+Philadelphia Eagles,9,DAL,Dallas Cowboys,Home,28,23,292,406,109,73,183,333,2,0,2,3,0,0,0,1,5,3
+Philadelphia Eagles,8,WAS,Washington Commanders,Away,38,31,374,472,59,84,315,388,1,0,4,4,0,1,2,1,1,2
+Philadelphia Eagles,7,MIA,Miami Dolphins,Home,31,17,355,244,99,45,256,199,2,0,2,1,1,1,2,1,4,3
+Philadelphia Eagles,6,NYJ,New York Jets,Away,14,20,348,244,80,89,268,155,1,1,1,0,3,0,4,0,5,2
+Philadelphia Eagles,5,LAR,Los Angeles Rams,Away,23,14,454,249,159,54,295,195,1,0,1,2,1,0,1,0,4,1
+Philadelphia Eagles,4,WAS,Washington Commanders,Home,34,31,415,365,104,107,311,258,1,2,2,1,0,0,0,0,5,3
+Philadelphia Eagles,3,TB,Tampa Bay Buccaneers,Away,25,11,472,174,201,41,271,133,1,0,1,1,2,1,2,2,2,1
+Philadelphia Eagles,2,MIN,Minnesota Vikings,Home,34,28,430,374,259,28,171,346,3,0,1,4,1,0,1,4,2,4
+Philadelphia Eagles,1,NE,New England Patriots,Away,25,20,251,382,97,76,154,306,0,0,1,3,0,1,1,2,2,3
+Pittsburgh Steelers,17,SEA,Seattle Seahawks,Away,30,23,468,369,202,88,266,281,3,1,0,1,0,0,0,1,1,1
+Pittsburgh Steelers,16,CIN,Cincinnati Bengals,Home,34,11,397,368,113,59,284,309,2,0,2,1,0,3,0,3,3,1
+Pittsburgh Steelers,15,IND,Indianapolis Colts,Away,13,30,216,372,74,170,142,202,1,0,1,3,2,0,3,0,3,4
+Pittsburgh Steelers,14,NE,New England Patriots,Home,18,21,264,303,82,81,182,222,1,0,1,3,1,1,1,1,2,2
+Pittsburgh Steelers,13,ARI,Arizona Cardinals,Home,10,24,317,282,130,150,187,132,0,2,1,1,0,0,1,0,2,0
+Pittsburgh Steelers,12,CIN,Cincinnati Bengals,Away,16,10,421,222,153,25,268,197,1,0,0,1,0,1,1,1,4,2
+Pittsburgh Steelers,11,CLE,Cleveland Browns,Away,10,13,249,259,172,96,77,163,1,1,0,0,0,1,0,1,1,3
+Pittsburgh Steelers,10,GB,Green Bay Packers,Home,23,19,324,399,205,116,119,283,2,0,0,2,0,2,0,2,1,1
+Pittsburgh Steelers,9,TEN,Tennessee Titans,Home,20,16,326,340,166,105,160,235,1,1,1,0,0,1,0,1,4,0
+Pittsburgh Steelers,8,JAX,Jacksonville Jaguars,Home,10,20,261,377,70,106,191,271,0,0,1,1,2,1,2,3,3,3
+Pittsburgh Steelers,7,LAR,Los Angeles Rams,Away,24,17,300,354,86,135,214,219,3,1,0,1,0,1,0,1,2,2
+Pittsburgh Steelers,5,BAL,Baltimore Ravens,Home,17,10,289,335,87,125,202,210,0,1,1,0,0,1,1,3,4,3
+Pittsburgh Steelers,4,HOU,Houston Texans,Away,6,30,225,451,114,139,111,312,0,0,0,3,1,0,1,0,0,3
+Pittsburgh Steelers,3,LV,Las Vegas Raiders,Away,23,18,333,362,105,69,228,293,0,0,2,2,0,3,0,3,4,1
+Pittsburgh Steelers,2,CLE,Cleveland Browns,Home,26,22,255,408,55,198,200,210,0,1,1,1,1,1,2,4,6,2
+Pittsburgh Steelers,1,SF,San Francisco 49ers,Home,7,30,239,391,41,188,198,203,0,1,1,2,2,0,2,1,3,5
+San Francisco 49ers,17,WAS,Washington Commanders,Away,27,10,408,225,184,62,224,163,1,0,2,1,0,2,0,2,1,1
+San Francisco 49ers,16,BAL,Baltimore Ravens,Home,19,33,429,343,121,102,308,241,1,1,1,2,5,0,5,0,2,4
+San Francisco 49ers,15,ARI,Arizona Cardinals,Away,45,29,406,436,144,234,262,202,1,2,4,1,0,2,0,2,3,0
+San Francisco 49ers,14,SEA,Seattle Seahawks,Home,28,16,527,324,173,70,354,254,2,0,2,2,1,2,2,2,4,3
+San Francisco 49ers,13,PHI,Philadelphia Eagles,Away,42,19,456,333,146,46,310,287,2,1,4,1,0,0,0,0,3,2
+San Francisco 49ers,12,SEA,Seattle Seahawks,Away,31,13,377,220,169,88,208,132,3,0,1,0,1,1,1,2,6,1
+San Francisco 49ers,11,TB,Tampa Bay Buccaneers,Home,27,14,420,287,115,66,305,221,0,1,3,1,0,1,0,2,4,4
+San Francisco 49ers,10,JAX,Jacksonville Jaguars,Away,34,3,437,221,144,59,293,162,1,0,3,0,0,2,0,4,5,2
+San Francisco 49ers,8,CIN,Cincinnati Bengals,Home,17,31,460,400,113,134,347,266,1,1,1,3,2,0,3,1,3,2
+San Francisco 49ers,7,MIN,Minnesota Vikings,Away,17,22,325,452,65,74,260,378,1,0,1,2,2,1,3,1,0,1
+San Francisco 49ers,6,CLE,Cleveland Browns,Away,17,19,215,334,108,160,107,174,1,1,1,0,1,2,1,2,2,3
+San Francisco 49ers,5,DAL,Dallas Cowboys,Home,42,10,421,197,170,57,251,140,2,0,4,1,0,3,1,4,4,1
+San Francisco 49ers,4,ARI,Arizona Cardinals,Home,35,16,395,362,124,105,271,257,4,0,1,2,0,0,0,0,1,1
+San Francisco 49ers,3,NYG,New York Giants,Home,30,12,441,150,141,29,300,121,1,1,2,0,0,1,0,1,2,2
+San Francisco 49ers,2,LAR,Los Angeles Rams,Away,30,23,365,386,159,89,206,297,3,1,0,1,0,2,0,2,1,1
+San Francisco 49ers,1,PIT,Pittsburgh Steelers,Away,30,7,391,239,188,41,203,198,1,0,2,1,0,2,1,2,5,3
+Seattle Seahawks,17,PIT,Pittsburgh Steelers,Home,23,30,369,468,88,202,281,266,1,3,1,0,0,0,1,0,1,1
+Seattle Seahawks,16,TEN,Tennessee Titans,Away,20,17,273,287,58,162,215,125,0,1,2,1,0,0,0,0,6,3
+Seattle Seahawks,15,PHI,Philadelphia Eagles,Home,20,17,297,321,100,178,197,143,1,2,1,0,0,2,0,2,0,2
+Seattle Seahawks,14,SF,San Francisco 49ers,Away,16,28,324,527,70,173,254,354,0,2,2,2,2,1,2,2,3,4
+Seattle Seahawks,13,DAL,Dallas Cowboys,Away,35,41,406,411,72,136,334,275,2,1,3,3,1,0,1,0,4,1
+Seattle Seahawks,12,SF,San Francisco 49ers,Home,13,31,220,377,88,169,132,208,0,3,0,1,1,1,2,1,1,6
+Seattle Seahawks,11,LAR,Los Angeles Rams,Away,16,17,291,267,68,82,223,185,0,1,1,1,1,1,1,1,1,2
+Seattle Seahawks,10,WAS,Washington Commanders,Home,29,26,489,356,120,68,369,288,0,0,2,3,0,0,0,1,3,1
+Seattle Seahawks,9,BAL,Baltimore Ravens,Away,3,37,151,515,28,298,123,217,0,3,0,1,1,0,2,2,1,4
+Seattle Seahawks,8,CLE,Cleveland Browns,Home,24,20,362,385,114,155,248,230,1,1,2,1,2,2,2,3,3,1
+Seattle Seahawks,7,ARI,Arizona Cardinals,Home,20,10,318,249,115,127,203,122,0,1,2,0,1,0,3,0,4,2
+Seattle Seahawks,6,CIN,Cincinnati Bengals,Away,13,17,381,214,87,46,294,168,1,0,0,2,2,1,2,1,3,4
+Seattle Seahawks,4,NYG,New York Giants,Away,24,3,281,248,121,112,160,136,1,0,1,0,0,2,0,3,11,2
+Seattle Seahawks,3,CAR,Carolina Panthers,Home,37,27,425,378,146,44,279,334,2,1,1,2,1,0,1,0,3,2
+Seattle Seahawks,2,DET,Detroit Lions,Away,37,31,393,418,82,102,311,316,2,1,2,3,0,1,0,3,2,1
+Seattle Seahawks,1,LAR,Los Angeles Rams,Home,13,30,180,426,85,92,95,334,0,3,1,0,0,0,0,0,0,2
+Tampa Bay Buccaneers,17,NO,New Orleans Saints,Home,13,23,349,310,57,108,292,202,0,0,2,2,2,0,4,0,1,2
+Tampa Bay Buccaneers,16,JAX,Jacksonville Jaguars,Home,30,12,335,305,70,37,265,268,1,0,2,2,0,2,0,4,4,2
+Tampa Bay Buccaneers,15,GB,Green Bay Packers,Away,34,20,452,321,99,60,353,261,0,0,4,2,0,0,1,1,2,5
+Tampa Bay Buccaneers,14,ATL,Atlanta Falcons,Away,29,25,290,434,148,96,142,338,1,2,2,1,0,1,0,1,3,1
+Tampa Bay Buccaneers,13,CAR,Carolina Panthers,Home,21,18,322,282,128,133,194,149,2,2,1,0,1,1,1,1,4,1
+Tampa Bay Buccaneers,12,IND,Indianapolis Colts,Away,20,27,298,394,125,155,173,239,0,3,2,0,1,1,2,1,2,6
+Tampa Bay Buccaneers,11,SF,San Francisco 49ers,Away,14,27,287,420,66,115,221,305,1,0,1,3,1,0,2,0,4,4
+Tampa Bay Buccaneers,10,TEN,Tennessee Titans,Home,20,6,340,209,77,42,263,167,0,0,2,0,1,1,1,1,4,3
+Tampa Bay Buccaneers,9,HOU,Houston Texans,Away,37,39,332,496,81,53,251,443,2,0,2,5,0,0,1,1,3,2
+Tampa Bay Buccaneers,8,BUF,Buffalo Bills,Away,18,24,302,427,78,115,224,312,0,1,2,2,0,1,0,1,2,3
+Tampa Bay Buccaneers,7,ATL,Atlanta Falcons,Home,13,16,329,401,73,156,256,245,0,1,1,0,1,0,2,3,1,3
+Tampa Bay Buccaneers,6,DET,Detroit Lions,Home,6,20,251,380,46,40,205,340,0,0,0,2,1,0,1,0,3,1
+Tampa Bay Buccaneers,4,NO,New Orleans Saints,Away,26,9,353,197,114,70,239,127,0,0,3,0,1,1,1,3,3,1
+Tampa Bay Buccaneers,3,PHI,Philadelphia Eagles,Home,11,25,174,472,41,201,133,271,0,1,1,1,1,2,2,2,1,2
+Tampa Bay Buccaneers,2,CHI,Chicago Bears,Home,27,17,437,236,120,67,317,169,1,1,1,1,0,2,0,2,6,0
+Tampa Bay Buccaneers,1,MIN,Minnesota Vikings,Away,20,17,242,369,73,41,169,328,0,0,2,2,0,1,0,3,2,1
+Tennessee Titans,17,HOU,Houston Texans,Away,3,26,187,312,53,111,134,201,0,0,0,1,0,0,1,0,1,6
+Tennessee Titans,16,SEA,Seattle Seahawks,Home,17,20,287,273,162,58,125,215,1,0,1,2,0,0,0,0,3,6
+Tennessee Titans,15,HOU,Houston Texans,Home,16,19,204,340,66,148,138,192,1,0,0,1,1,1,1,1,4,7
+Tennessee Titans,14,MIA,Miami Dolphins,Away,28,27,403,366,83,158,320,208,2,2,1,0,1,0,3,1,5,1
+Tennessee Titans,13,IND,Indianapolis Colts,Home,28,31,381,355,177,55,204,300,2,0,1,2,0,0,2,2,3,6
+Tennessee Titans,12,CAR,Carolina Panthers,Home,17,10,264,258,80,96,184,162,2,1,0,0,0,0,0,1,4,1
+Tennessee Titans,11,JAX,Jacksonville Jaguars,Away,14,34,235,389,92,128,143,261,0,2,2,2,0,0,2,0,1,2
+Tennessee Titans,10,TB,Tampa Bay Buccaneers,Away,6,20,209,340,42,77,167,263,0,0,0,2,1,1,1,1,3,4
+Tennessee Titans,9,PIT,Pittsburgh Steelers,Away,16,20,340,326,105,166,235,160,1,1,0,1,1,0,1,0,0,4
+Tennessee Titans,8,ATL,Atlanta Falcons,Home,28,23,375,342,149,140,226,202,0,1,4,1,0,0,1,1,6,2
+Tennessee Titans,6,BAL,Baltimore Ravens,Home,16,24,233,360,129,139,104,221,1,0,0,1,1,1,2,1,1,6
+Tennessee Titans,5,IND,Indianapolis Colts,Away,16,23,348,429,89,193,259,236,1,2,0,0,1,0,1,0,1,1
+Tennessee Titans,4,CIN,Cincinnati Bengals,Home,27,3,400,211,173,72,227,139,1,0,2,0,1,0,1,1,3,3
+Tennessee Titans,3,CLE,Cleveland Browns,Away,3,27,94,341,26,78,68,263,0,1,0,2,0,0,0,1,3,5
+Tennessee Titans,2,LAC,Los Angeles Chargers,Home,27,24,341,342,141,61,200,281,2,0,1,2,0,0,0,0,3,5
+Tennessee Titans,1,NO,New Orleans Saints,Away,15,16,285,351,104,69,181,282,0,0,0,1,3,1,3,2,4,3
+Washington Commanders,17,SF,San Francisco 49ers,Home,10,27,225,408,62,184,163,224,0,1,1,2,2,0,2,0,1,1
+Washington Commanders,16,NYJ,New York Jets,Away,28,30,245,381,102,164,143,217,3,2,1,1,2,1,3,2,0,1
+Washington Commanders,15,LAR,Los Angeles Rams,Away,20,28,297,445,79,196,218,249,0,1,3,2,1,0,1,2,3,1
+Washington Commanders,13,MIA,Miami Dolphins,Home,15,45,245,406,138,123,107,283,2,3,0,2,1,0,1,0,0,3
+Washington Commanders,12,DAL,Dallas Cowboys,Away,10,45,376,431,108,100,268,331,1,1,0,4,1,0,1,0,0,4
+Washington Commanders,11,NYG,New York Giants,Home,19,31,403,292,174,91,229,201,1,0,1,3,3,0,6,0,9,4
+Washington Commanders,10,SEA,Seattle Seahawks,Away,26,29,356,489,68,120,288,369,0,0,3,2,0,0,1,0,1,3
+Washington Commanders,9,NE,New England Patriots,Away,20,17,432,327,124,107,308,220,1,1,1,1,1,1,2,1,0,3
+Washington Commanders,8,PHI,Philadelphia Eagles,Home,31,38,472,374,84,59,388,315,0,1,4,4,1,0,1,2,2,1
+Washington Commanders,7,NYG,New York Giants,Away,7,14,273,356,76,106,197,250,1,0,0,2,1,0,1,2,4,6
+Washington Commanders,6,ATL,Atlanta Falcons,Away,24,16,193,402,72,106,121,296,0,0,3,2,0,3,0,3,3,5
+Washington Commanders,5,CHI,Chicago Bears,Home,20,40,388,451,29,178,359,273,0,0,2,4,1,0,2,0,3,5
+Washington Commanders,4,PHI,Philadelphia Eagles,Away,31,34,365,415,107,104,258,311,2,1,1,2,0,0,0,0,3,5
+Washington Commanders,3,BUF,Buffalo Bills,Home,3,37,230,386,105,168,125,218,0,2,0,1,4,1,5,1,0,9
+Washington Commanders,2,DEN,Denver Broncos,Away,35,33,388,399,122,122,266,277,2,1,2,3,0,1,0,2,7,4
+Washington Commanders,1,ARI,Arizona Cardinals,Home,20,16,248,210,92,96,156,114,1,0,1,0,1,0,3,2,3,6
+Grand Total,,,,,11242,11242,170198,170198,57434,57434,112764,112764,449,449,710,710,405,405,693,693,1330,1330
